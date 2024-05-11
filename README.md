@@ -6,7 +6,13 @@ description: >-
 
 # 👋 ¡Bienvenido a la Wiki!
 
-Bienvenido a la Wiki de Mundo PixelNet (1.16.5). Esta wiki exclusiva del servidor recopilará información, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido. Si el contenido es de utilidad, puedes marcarlo en el pie de cada página.
+Bienvenido a la Wiki de Mundo PixelNet. Esta wiki exclusiva del servidor recopilará información del servidor como funciones, Pokémon únicos, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido. 
+
+{% hint style="warning" %}
+Todos los contenidos y tutoriales que encuentres aquí están orientados a launchers originales (premium). No solemos dar soporte a launchers no oficiales.
+{% endhint %}
+
+¿Quieres colaborar en la Wiki de Mundo PixelNet? Ve a la sección de Colaboración.
 
 ## 💻 IP: `play.mundopixelnet.com`
 
