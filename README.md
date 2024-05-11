@@ -12,7 +12,8 @@ Bienvenido a la Wiki de Mundo PixelNet. Esta wiki exclusiva del servidor recopil
 Todos los contenidos y tutoriales que encuentres aquí están orientados a launchers originales (premium). No solemos dar soporte a launchers no oficiales.
 {% endhint %}
 
-¿Quieres colaborar en la Wiki de Mundo PixelNet? Ve a la sección de Colaboración.
+## 💨 Enlaces de utilidad
+{% content-ref url="descargas/README.md" %} [README.md](descargas/README.md) {% endcontent-ref %}
 
 ## 💻 IP: `play.mundopixelnet.com`
 
