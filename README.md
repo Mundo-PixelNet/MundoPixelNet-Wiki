@@ -6,7 +6,9 @@ description: >-
 
 # 👋 ¡Bienvenido a la Wiki!
 
+<div style="text-align:center;">
 <img src="images/logos/MPN-fullLogo.png">
+</div>
 
 **¡Bienvenido a la Wiki de Mundo PixelNet!** Esta wiki exclusiva del servidor recopilará información como funciones, Pokémon únicos, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido. 
 
