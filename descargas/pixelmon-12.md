@@ -20,5 +20,5 @@ Aquí te vamos a dar una lista de mods que son recomendados para tener una buena
 
 Descarga el pack de texturas de Mundo PixelNet (1.12.2). Necesario para ver los Pokémon únicos del servidor, entre otros.
 
-- <img src="../images/logos/google_drive.png" height="20em" align="center"> [Google Drive](https://drive.google.com/file/d/167xz1bRSOSUu8Q3jfOnkLy0tTdm8DPQu/view?usp=sharing)
-- <img src="../images/logos/mediafire.png" height="13em" align="center"> [Mediafire](https://www.mediafire.com/file/pxa4oyck37q1qya/Mundo_PixelNet_1.12.2_%5Bv4.0%5D.zip/file)
+- [Google Drive](https://drive.google.com/file/d/167xz1bRSOSUu8Q3jfOnkLy0tTdm8DPQu/view?usp=sharing)
+- [Mediafire](https://www.mediafire.com/file/pxa4oyck37q1qya/Mundo_PixelNet_1.12.2_%5Bv4.0%5D.zip/file)
