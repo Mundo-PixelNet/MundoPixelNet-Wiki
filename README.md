@@ -13,7 +13,7 @@ Todos los contenidos y tutoriales que encuentres aquí están orientados a launc
 {% endhint %}
 
 ## 💨 Enlaces de utilidad
-{% content-ref url="descargas/README.md" %} [README.md](descargas/README.md) {% endcontent-ref %}
+{% content-ref url="instalacion/README.md" %} [README.md](instalacion/README.md) {% endcontent-ref %}
 
 ## 💻 IP: `play.mundopixelnet.com`
 
