@@ -7,8 +7,8 @@
 * [✍️ Contribuir](contribuir.md)
 
 ## POKÉMON
+
 * [🪄 Temporada 1](pokemon/temporada-1/README.md)
   * [🧬 Mismapeon](pokemon/temporada-1/hibrido-mismapeon.md)
 
 ## POR USUARIOS
-*¡Tu contenido espera!*
