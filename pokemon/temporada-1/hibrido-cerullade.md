@@ -84,7 +84,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Motivación | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
 | Vasta fuerza | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 | Triple Axel | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
-
+{% endtab %}
 {% endtabs %}
 
 ### MTs y DTs
