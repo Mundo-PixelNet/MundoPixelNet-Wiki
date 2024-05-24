@@ -156,7 +156,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Golpe cuerpo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | Psíquico | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 | Foco energía | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Sustituto | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Sustituto | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | Psicocarga | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 | Aguante | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | Sonámbulo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |

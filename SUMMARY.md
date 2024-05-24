@@ -10,5 +10,6 @@
 
 * [🪄 Temporada 1](pokemon/temporada-1/README.md)
   * [🧬 Mismapeon](pokemon/temporada-1/hibrido-mismapeon.md)
+  * [🧬 Cerullade](pokemon/temporada-1/hibrido-cerullade.md)
 
 ## POR USUARIOS
