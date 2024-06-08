@@ -11,7 +11,7 @@ description: >-
 Aquí te vamos a dar una lista de mods que son recomendados para tener una buena experiencia en Mundo PixelNet.
 
 - **OBLIGATORIO:** [Pixelmon Reforged 9.1.11](https://adfoc.us/serve/?id=249378102703598)
-- **OBLIGATORIO:** [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3913914)
+- **OBLIGATORIO:** [Biomes O' Plenty 1.16.5-13.1.0.488](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3913914)
 - [Optifine 1.16.5](https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G8.jar) *(Al descargarlo, haz doble clic y Extract. Lo que se genere lo metes en la carpeta de mods)*
 - [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei/files/4371666)
 
