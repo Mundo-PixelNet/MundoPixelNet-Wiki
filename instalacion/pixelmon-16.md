@@ -16,9 +16,9 @@ Aquí te vamos a dar una lista de mods que son recomendados para tener una buena
 - [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei/files/4371666)
 
 # 📂 Pack de Texturas 1.16.5
-> <img src="../images/logos/MPN-logoPackEscarlata-v1dot4.png" height="35em" align="center"> Versión actual: **v1.4**
+> <img src="../images/logos/MPN-logoPackEscarlata-v2dot0.png" height="35em" align="center"> Versión actual: **v2.0**
 
-Descarga el pack de texturas de Mundo PixelNet (1.16.5). **Es casi obligatorio** usar este pack de texturas. Si no, perderás mucha información del chat, Pokémon, etc.
+Descarga el pack de texturas de Mundo PixelNet (1.16.5). **Es casi obligatorio** usar este pack de texturas. Si no, perderás mucha información del chat, Pokémon, etc. Incluso menús pueden no funcionar si no tienes el pack en uso.
 
-- [Google Drive](https://drive.google.com/file/d/1QOwNEA2ktz_RzsguWTtZllH-s-u219yy/view?usp=drive_link)
-- [Mediafire](https://www.mediafire.com/file/oh7q3t8uatq5qkm/Mundo_Pixelnet_1.16.5_%5Bv1.4%5D.zip/file)
+- [Google Drive](https://drive.google.com/file/d/1Nu3ukTmDkkAbDxu2YCsSTzGUp2-Mw8_i/view?usp=sharing)
+- [Mediafire](https://www.mediafire.com/file/ftl1ceto19wn1o7/Mundo+PixelNet+1.16.5+[v2.0].zip/file)
