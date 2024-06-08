@@ -20,5 +20,5 @@ Aquí te vamos a dar una lista de mods que son recomendados para tener una buena
 
 Descarga el pack de texturas de Mundo PixelNet (1.16.5). **Es casi obligatorio** usar este pack de texturas. Si no, perderás mucha información del chat, Pokémon, etc. Incluso menús pueden no funcionar si no tienes el pack en uso.
 
-- [Google Drive](https://drive.google.com/file/d/1Nu3ukTmDkkAbDxu2YCsSTzGUp2-Mw8_i/view?usp=sharing)
-- [Mediafire](https://www.mediafire.com/file/ftl1ceto19wn1o7/Mundo+PixelNet+1.16.5+[v2.0].zip/file)
+- [Google Drive](https://drive.google.com/file/d/1tTR_T3Wdw08Lvx25ZSBgKOJlvXI2XtOr/view?usp=sharing)
+- [Mediafire](https://www.mediafire.com/file/1ibbbx34gtbwr5o/Mundo+PixelNet+1.16.5+[v2.0].zip/file)
