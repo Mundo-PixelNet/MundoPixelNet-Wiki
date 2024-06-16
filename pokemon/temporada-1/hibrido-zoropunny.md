@@ -9,8 +9,8 @@
 |                      **Sprite** | ![Sprite de Zoropunny](../../images/pokemon/temporada-1/Zoropunny-sprite.png)                                                          |
 | [Híbrido](#) | Lopunny y Zoroark                                                                                                                     |
 |                           Tipos | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
-|                     Habilidades | [Potencia](https://www.wikidex.net/wiki/Potencia)<br>[Intimidación](https://www.wikidex.net/wiki/Intimidación) |
-|                     Hab. oculta | [Piel Feérica](https://www.wikidex.net/wiki/Piel_fe%C3%A9rica)                                                                       |
+|                     Habilidades | [Flexibilidad](https://www.wikidex.net/wiki/Flexibilidad)|
+|                     Hab. oculta | [Ilusión](https://www.wikidex.net/wiki/Ilusión)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 Reconocido por ser un excelente cazador, este especimen engana a sus presas y gana su confianza, cuando se dan cuenta, ya es tarde.
