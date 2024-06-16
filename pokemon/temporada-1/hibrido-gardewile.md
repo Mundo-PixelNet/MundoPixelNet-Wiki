@@ -4,13 +4,13 @@
 
 **Gardewile** es un [Pokémon híbrido](hibrido-mismapeon.md) de tipo [psíquico](https://www.wikidex.net/wiki/Tipo_psiquico)/[hada](https://www.wikidex.net/wiki/Tipo_Hada) introducido en la [Temporada Mística (1)](./). Es la fusión de Gardevoir y Mawile.
 
-|                     **Artwork** | ![Artwork de Gardewile](../../images/pokemon/temporada-1/Cerullade.png)                                                                                    |
+|                     **Artwork** | ![Artwork de Gardewile](../../images/pokemon/temporada-1/Gardewile.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Gardewile](../../images/pokemon/temporada-1/Cerullade-sprite.png)                                                          |
+|                      **Sprite** | ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)                                                          |
 | [Híbrido](#) | Ceruledge y Gallade                                                                                                                     |
 |                           Tipos | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) ![Tipo hada](../../images/pokemon/tipos/tipo_hada.png)        |
-|                     Habilidades | [Cortante](https://www.wikidex.net/wiki/Cortante)<br>[Absorbe fuego](https://www.wikidex.net/wiki/Absorbe_fuego) |
-|                     Hab. oculta | [Justiciero](https://www.wikidex.net/wiki/Justiciero)                                                                       |
+|                     Habilidades | [Potencia](https://www.wikidex.net/wiki/Potencia)<br>[Intimidación](https://www.wikidex.net/wiki/Intimidación) |
+|                     Hab. oculta | [Piel Feérica](https://www.wikidex.net/wiki/Piel_fe%C3%A9rica)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 Segun artefactos antiguos, los nobles de la ciudad de Etheria solian vivir con este especimen debido a su elegante personalidad.
