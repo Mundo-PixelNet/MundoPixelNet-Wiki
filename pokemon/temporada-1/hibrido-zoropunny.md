@@ -21,7 +21,7 @@ Reconocido por ser un excelente cazador, este especimen engana a sus presas y ga
 | :----: | :-----------------------------------------------------------------------------------------: |
 | Normal |        ![Sprite de Zoropunny](../../images/pokemon/temporada-1/Zoropunny-sprite.png)        |
 |  Shiny |  ![Sprite de Zoropunny Shiny](../../images/pokemon/temporada-1/Zoropunny-sprite-shiny.png)  |
-| Muerte | ![Sprite de Zoropunny Muerte](../../images/pokemon/temporada-1/Zoropunny-sprite-valentines.png) |
+| Muerte | ![Sprite de Zoropunny Muerte](../../images/pokemon/temporada-1/Zoropunny-sprite-death.png) |
 
 ![Formas de Zoropunny](../../images/pokemon/temporada-1/Zoropunny-formas.png)
 
