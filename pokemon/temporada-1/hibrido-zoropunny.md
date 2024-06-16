@@ -84,8 +84,6 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Envidia ardiente | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
 | Desahogo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 | Golpe rastrero | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-
-| Metaláser | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
 {% endtab %}
 {% endtabs %}
 
