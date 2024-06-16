@@ -19,10 +19,10 @@ Segun artefactos antiguos, los nobles de la ciudad de Etheria solian vivir con e
 
 |  Forma |                                            Sprite                                           |
 | :----: | :------------------------Gardewile-----------------------------------------------------------------: |
-| Normal |        ![Sprite de Cerullade](../../images/pokemon/temporada-1/Gardewile-sprite.png)        |
+| Normal |        ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)        |
 |  Shiny |  ![Sprite de Gardewile Shiny](../../images/pokemon/temporada-1/Gardewile-sprite-shiny.png)  |
-| Dimensional | ![Sprite de Gardewile Dimensional](../../images/pokemon/temporada-1/Gardewile-sprite-dimensional.png) |
-| Nexus | ![Sprite de Gardewile Nexus](../../images/pokemon/temporada-1/Gardewile-sprite-nexus.png) |
+| San Valentín | ![Sprite de Gardewile San Valentín](../../images/pokemon/temporada-1/Gardewile-sprite-valentines.png) |
+| E-girl | ![Sprite de Gardewile E-girl](../../images/pokemon/temporada-1/Gardewile-sprite-egirl.png) |
 
 ![Formas de Gardewile](../../images/pokemon/temporada-1/Gardewile-formas.png)
 
