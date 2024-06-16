@@ -94,40 +94,126 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="MTs de Paldea" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-| Derribo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Protección | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Rayo confuso | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| Rueda fuego | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Imagen | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Infortunio | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| Nitrocarga | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Poder reserva | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| Tinieblas | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| Lanzamiento | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| Aguante | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Día soleado | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Falso tortazo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Demolición | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| Garra umbría | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| Corpulencia | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| Puya nociva | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| Puño Dinámico | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Megapatada | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Puño Fuego | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Puño Hielo | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Puño Trueno | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Hiperrayo | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Giga Impacto | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Hoja Mágica | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| Onda Trueno | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Pantalla de Luz | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Reflejo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Velo Sagrado | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
 | Descanso | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Mofa | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| Danza espada | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Cabeza de hierro | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Ladrón | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Ronquido | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Protección | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Viento Hielo | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| Encanto | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Atracción | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Danza Lluvia | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Día Soleado | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Fuego Fatuo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Imagen | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Rapidez | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| Refuerzo | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Lanzamiento | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Cede Poder | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Cede Guardía | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Espacio Raro | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Zona Extraña | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Zona Mágica | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Canon | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Beso Drenaje | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Campo de Niebla | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Campo Psíquico | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Fuego Místico | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Golpe Cuerpo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Rayo | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Psíquico | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
 | Sustituto | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Defensa férrea | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
-| Tijera X | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| Fuego fatuo | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Bola sombra | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| Onda ígnea | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Lanzallamas | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Refuerzo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Llamarada | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Golpe fantasma | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| Sofoco | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| A bocajarro | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| Teraexplosión | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| Inversión | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Psicoataque | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Aguante | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Sonámbulo | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| Otra Vez | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Bola Sombra | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Premonición | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Mofa | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Truco | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Intercambio | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Vozarrón | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Paz Mental | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Onda Certera | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| Bola Energía | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Cabezazo Zen | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Hierba Lazo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Poder Reserva | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Cambia Alia | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Brillo Mágico | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Triturar | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| Cabeza de Hierro | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Juego Sucio | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Defensa de Hierro | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Esfera Aural | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Colmillo Psíquico | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Cañón Destello | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Cautivar | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Rayo Carga | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Confidencia | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Contraataque | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Doble Equipo | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Doble Filo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Puño Dinámico | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Embargo | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Ataque Finta | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Puño Certero | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Frustración | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Golpe Cabeza | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Poder Oculto | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| Calcinar | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Desarme | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Aguzar | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Última Baza | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Levitón | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Explosión Metálica | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Mímica | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Bofetón Lodo | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Don Natural | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| Divide Dolor | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Colmillo Veneno | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Más Psique | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Castigo | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Retribución | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Golpe Roca | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Poder Secreto | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| Canto | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Robo | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Fuerza | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Superdiente | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Contoneo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Tormento | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Tóxico | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Agarre | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Rayo Hielo | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Rompebocas | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Lanzallamas | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Bomba Lodo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Tormenta Arena | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Llamarada | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Tumba Rocas | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Falsotortazo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Vendetta | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Roca Afilada | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Danza Espada | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| Avalancha | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Pulso Umbrío | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Puño Incremento | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Destello | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Onda Voltio | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Viento Feérico | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Fuerza Lunar | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Come Sueños | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
 {% endtab %}
 {% endtabs %}
