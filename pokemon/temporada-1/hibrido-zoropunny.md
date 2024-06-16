@@ -80,9 +80,11 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Movimientos por tutor" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-| Vasta fuerza | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| Bruma explosiva | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
 | Triple Axel | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
+| Envidia ardiente | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Desahogo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Golpe rastrero | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+
 | Metaláser | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
 {% endtab %}
 {% endtabs %}
