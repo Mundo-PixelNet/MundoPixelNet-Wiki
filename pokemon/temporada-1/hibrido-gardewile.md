@@ -18,7 +18,7 @@ Segun artefactos antiguos, los nobles de la ciudad de Etheria solian vivir con e
 ## Formas
 
 |  Forma |                                            Sprite                                           |
-| :----: | :------------------------Gardewile-----------------------------------------------------------------: |
+| :----: | :-----------------------------------------------------------------------------------------: |
 | Normal |        ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)        |
 |  Shiny |  ![Sprite de Gardewile Shiny](../../images/pokemon/temporada-1/Gardewile-sprite-shiny.png)  |
 | San Valentín | ![Sprite de Gardewile San Valentín](../../images/pokemon/temporada-1/Gardewile-sprite-valentines.png) |
