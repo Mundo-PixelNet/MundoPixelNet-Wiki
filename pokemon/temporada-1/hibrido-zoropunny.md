@@ -8,7 +8,7 @@
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Zoropunny](../../images/pokemon/temporada-1/Zoropunny-sprite.png)                                                          |
 | [Híbrido](#) | Lopunny y Zoroark                                                                                                                     |
-|                           Tipos | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) ![Tipo hada](../../images/pokemon/tipos/tipo_hada.png)        |
+|                           Tipos | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
 |                     Habilidades | [Potencia](https://www.wikidex.net/wiki/Potencia)<br>[Intimidación](https://www.wikidex.net/wiki/Intimidación) |
 |                     Hab. oculta | [Piel Feérica](https://www.wikidex.net/wiki/Piel_fe%C3%A9rica)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
