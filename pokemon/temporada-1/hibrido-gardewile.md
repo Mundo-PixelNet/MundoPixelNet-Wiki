@@ -52,30 +52,30 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Movimientos por nivel" %}
 | Nivel | Movimiento | Tipo |
 | :-----: | :----------: | :----: |
+| 1 | Gruñido | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | 1 | Impresionar | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 1 | Ascuas | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| 1 | Malicioso | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Tajo umbrío | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 1 | Anticipo | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 1 | Garra umbría | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 1 | Sombra vil | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 1 | Cuchilla solar | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
-| 1 | Tajo acuático | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
-| 1 | Espada santa | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 1 | Hoja aguda | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
-| 4 | Corte furia | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| 8 | Niebla clara | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
-| 12 | Giro fuego | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| 16 | Fuego fatuo | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| 20 | Tinieblas | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 24 | Nitrocarga | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| 32 | Humareda | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| 37 | Danza espada | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 42 | Falso tortazo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 48 | Espada lamento | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| 56 | Psicocorte | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 62 | Envite ígneo | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| 66 | A bocajarro | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 1 | Campo de niebla | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | Deseo cura | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 1 | Encanto | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | Pulso cura | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 1 | Doble equipo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | Voz cautivadora | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | Confusión | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 4 | Viento feérico | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 8 | Relevo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 12 | Fuerza lunar | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 16 | Brillo mágico | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 20 | Defensa férrea | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| 24 | Triturar | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| 28 | Psíquico | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 32 | Cabeza de hierro | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| 36 | Beso dulce | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 40 | Premonición | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 44 | Carantoña | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 48 | Luz lunar | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 52 | Paz mental | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 56 | Psicocolmillo | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 60 | Golpe bajo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 {% endtab %}
 
 {% tab title="Movimientos por tutor" %}
