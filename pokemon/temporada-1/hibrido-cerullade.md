@@ -2,12 +2,12 @@
 
 ## Información
 
-**Cerullade** es un [Pokémon híbrido](hibrido-mismapeon.md) de tipo [fantasma](https://www.wikidex.net/wiki/Tipo_fantasma)/[fuego](https://www.wikidex.net/wiki/Tipo_fuego) introducido en la [Temporada Mística (1)](./). Es la fusión de Ceruledge y Gallade.
+**Cerullade** es un [Pokémon híbrido](../funciones/hibridos.md) de tipo [fantasma](https://www.wikidex.net/wiki/Tipo_fantasma)/[fuego](https://www.wikidex.net/wiki/Tipo_fuego) introducido en la [Temporada Mística (1)](./). Es la fusión de Ceruledge y Gallade.
 
 |                     **Artwork** | ![Artwork de Cerullade](../../images/pokemon/temporada-1/Cerullade.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Cerullade](../../images/pokemon/temporada-1/Cerullade-sprite.png)                                                          |
-| [Híbrido](#) | Ceruledge y Gallade                                                                                                                     |
+| [Híbrido](../funciones/hibridos.md) | Ceruledge y Gallade                                                                                                                     |
 |                           Tipos | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png)        |
 |                     Habilidades | [Cortante](https://www.wikidex.net/wiki/Cortante)<br>[Absorbe fuego](https://www.wikidex.net/wiki/Absorbe_fuego) |
 |                     Hab. oculta | [Justiciero](https://www.wikidex.net/wiki/Justiciero)                                                                       |

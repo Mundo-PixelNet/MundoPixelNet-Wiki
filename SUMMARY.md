@@ -6,6 +6,10 @@
   * [🍊 Pixelmon 1.16.5](instalacion/pixelmon-16.md)
 * [✍️ Contribuir](contribuir.md)
 
+## FUNCIONES
+
+* [🧬 Híbridos](funciones/hibridos.md)
+
 ## POKÉMON
 
 * [🪄 Temporada 1](pokemon/temporada-1/README.md)
