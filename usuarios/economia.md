@@ -4,11 +4,14 @@ description: >-
   Descripción: Listado de precios de los servidores
 ---
 
-# 🔧 LISTADO DE PRECIOS
+# 🛒 LISTADO DE PRECIOS
 ¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás un listado de precios mínimos a los cuales vender tus Pokémon/objetos<br>en el
 servidor.
+Dicha lista de precios es oficial aunque puede estar sujeta a cambios según como vaya la economía en el servidor.
 
-- Puedes consultar más información de Markdown [aquí](https://commonmark.org/help/)
+Está separado en diferfentes categorías: Balls, Minerales, Crianza, Máquinas, Megapiedras, Objetos de evolución, Objetos competitivos<br>
+Encantamientos, Bayas, Gemas, Partes de Porygon, Fósiles, Cristales Z, Discos de Silvally, ROMs de Genesect, Pokémon Legendarios (según naturaleza),<br>
+Ultraentes, Pokémon Especiales, Crianza y Modificadores.
 
 ¡También puedes añadir imágenes! Súbelas a `images > usuarios > <tu nombre de usuario>`
 
