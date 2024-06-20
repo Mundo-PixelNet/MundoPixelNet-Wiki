@@ -269,9 +269,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Todas   |valen   |10K   |
 
 # Gemas
 
