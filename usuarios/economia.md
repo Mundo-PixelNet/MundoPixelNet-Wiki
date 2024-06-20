@@ -5,7 +5,8 @@ description: >-
 ---
 
 # 🔧 LISTADO DE PRECIOS
-¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás
+¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás un listado de precios mínimos a los cuales vender tus Pokémon/objetos<br>en el
+servidor.
 
 - Puedes consultar más información de Markdown [aquí](https://commonmark.org/help/)
 
