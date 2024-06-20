@@ -348,9 +348,9 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Pokémon Legendarios
 
-|Icono   |Nombre  |Precio   |Descripción|
+|Icono   |Nombre  |Precio   |Naturaleza favorable|
 | - | - | - | - |
-|   |   |   |   |
+|![Mod Shiny](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
 |   |   |   |   |
 |   |   |   |   |
 
