@@ -13,4 +13,5 @@ Está separado en diferfentes categorías: Balls, Minerales, Crianza, Máquinas,
 
 Balls x Stack
 ---
+==============================================================================================
 ![Poke Ball](../images/usuarios/rivalsilver97/iconos/POKEBALL.png) 5k Ratio de captura x1.
