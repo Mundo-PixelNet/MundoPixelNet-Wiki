@@ -135,52 +135,52 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Abomasnowita   |   |Megapiedra para Megaevolucionar a Abomasnow   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Absolita   |   |Megapiedra para Megaevolucionar a Absol   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Aerodactylita   |   |Megapiedra para Megaevolucionar a Aerodactyl   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Aggronita   |   |Megapiedra para Megaevolucionar a Aggro  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Alakazamita   |   |Megapiedra para Megaevolucionar a Alakazam  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Altarianita   |   |Megapiedra para Megaevolucionar a Altaria  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Ampharosita   |   |Megapiedra para Megaevolucionar a Ampharos  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Audinita   |   |Megapiedra para Megaevolucionar a Audino  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Banettita   |   |Megapiedra para Megaevolucionar a Banette  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Beedrillita   |   |Megapiedra para Megaevolucionar a Beedrill  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Blastoisita   |   |Megapiedra para Megaevolucionar a Blastoise  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Blazikenita   |   |Megapiedra para Megaevolucionar a Blaziken  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Charizardita X   |   |Megapiedra para Megaevolucionar a Charizard  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Charizardita Y   |   |Megapiedra para Megaevolucionar a  Charizard |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Diancita   |   |Megapiedra para Megaevolucionar a Diancie  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Galladita   |   |Megapiedra para Megaevolucionar a Gallade  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Garchompita   |   |Megapiedra para Megaevolucionar a Garchomp  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Gardevoirita   |   |Megapiedra para Megaevolucionar a Gardevoir  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Gengarita   |   |Megapiedra para Megaevolucionar a Gengar   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Glalita   |   |Megapiedra para Megaevolucionar a Glalie   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Sharpedonita   |   |Megapiedra para Megaevolucionar a Sharpedo   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Steelixita   |   |Megapiedra para Megaevolucionar a Steelix   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Tyranitarita   |   |Megapiedra para Megaevolucionar a Tyranita   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Cameruptita    |   |Megapiedra para Megaevolucionar a Camerupt   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Gyaradosita   |   |Megapiedra para Megaevolucionar a Gyarados   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Heracrossita   |   |Megapiedra para Megaevolucionar a Heracross   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Houndoomita   |   |Megapiedra para Megaevolucionar a Houndoom   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Kangaskhanita   |  |Megapiedra para Megaevolucionar a Kangaskhan   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Latiasita   |   |Megapiedra para Megaevolucionar a Latias  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Latiosita   |   |Megapiedra para Megaevolucionar a Latios  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Lopunnita   |   |Megapiedra para Megaevolucionar a Lopunny  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Lucarita   |   |Megapiedra para Megaevolucionar a Lucario  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Manectricita   |   |Megapiedra para Megaevolucionar a Manectric  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Mawilita   |   |Megapiedra para Megaevolucionar a Mawile  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Medichamita   |   |Megapiedra para Megaevolucionar a Medicham  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Metagrossita   |   |Megapiedra para Megaevolucionar a Metagross   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Mewtwoita X   |   |Megapiedra para Megaevolucionar a Mewtwo   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Mewtwoita Y   |   |Megapiedra para Megaevolucionar a Mewtwo   |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Pidgeotita   |   |Megapiedra para Megaevolucionar a Pidgeot  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Pinsirita   |   | Megapiedra para Megaevolucionar a Pinsir |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Sableynita   |   |Megapiedra para Megaevolucionar a Sableye  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Salamencita   |   |Megapiedra para Megaevolucionar a Salamence  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Sceptilita   |   |Megapiedra para Megaevolucionar a Sceptile  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Scizorita   |   |Megapiedra para Megaevolucionar a Scizor  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Slowbronita   |   |Megapiedra para Megaevolucionar a Slowbro  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Swampertita   |   |Megapiedra para Megaevolucionar a Swampert  |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Venusaurita   |   |Megapiedra para Megaevolucionar a Venusaur  |
+|![Absolita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABSOLITE.png)   |Absolita   |   |Megapiedra para Megaevolucionar a Absol   |
+|![Aerodactylita](../images/usuarios/rivalsilver97/iconos/megapiedras/AERODACTYLITE.png)   |Aerodactylita   |   |Megapiedra para Megaevolucionar a Aerodactyl   |
+|![Aggronita ](../images/usuarios/rivalsilver97/iconos/megapiedras/AGGRONITE.png)   |Aggronita   |   |Megapiedra para Megaevolucionar a Aggro  |
+|![Alakazamita](../images/usuarios/rivalsilver97/iconos/megapiedras/ALAKAZITE.png)   |Alakazamita   |   |Megapiedra para Megaevolucionar a Alakazam  |
+|![Altarianita ](../images/usuarios/rivalsilver97/iconos/megapiedras/ALTARIANITE.png)   |Altarianita   |   |Megapiedra para Megaevolucionar a Altaria  |
+|![Ampharosita](../images/usuarios/rivalsilver97/iconos/megapiedras/AMPHAROSITE.png)   |Ampharosita   |   |Megapiedra para Megaevolucionar a Ampharos  |
+|![Audinita](../images/usuarios/rivalsilver97/iconos/megapiedras/AUDINITE.png)   |Audinita   |   |Megapiedra para Megaevolucionar a Audino  |
+|![Banettita](../images/usuarios/rivalsilver97/iconos/megapiedras/BANETTITE.png)   |Banettita   |   |Megapiedra para Megaevolucionar a Banette  |
+|![Beedrillita](../images/usuarios/rivalsilver97/iconos/megapiedras/BEEDRILLITE.png)   |Beedrillita   |   |Megapiedra para Megaevolucionar a Beedrill  |
+|![Blastoisita](../images/usuarios/rivalsilver97/iconos/megapiedras/BLASTOISINITE.png)   |Blastoisita   |   |Megapiedra para Megaevolucionar a Blastoise  |
+|![Blazikenita ](../images/usuarios/rivalsilver97/iconos/megapiedras/BLAZIKENITE.png)   |Blazikenita   |   |Megapiedra para Megaevolucionar a Blaziken  |
+|![Cameruptita ](../images/usuarios/rivalsilver97/iconos/megapiedras/CAMERUPTITE.png)   |Cameruptita   |   |Megapiedra para Megaevolucionar a Camerupt  |
+|![Charizardita X](../images/usuarios/rivalsilver97/iconos/megapiedras/CHARIZARDITEX.png)   |Charizardita X   |   |Megapiedra para Megaevolucionar a Charizard  |
+|![Charizardita Y](../images/usuarios/rivalsilver97/iconos/megapiedras/CHARIZARDITEY.png)   |Charizardita Y   |   |Megapiedra para Megaevolucionar a  Charizard |
+|![Diancita](../images/usuarios/rivalsilver97/iconos/megapiedras/DIANCITE.png)   |Diancita   |   |Megapiedra para Megaevolucionar a Diancie  |
+|![Galladita](../images/usuarios/rivalsilver97/iconos/megapiedras/GALLADITE.png)   |Galladita   |   |Megapiedra para Megaevolucionar a Gallade  |
+|![Garchompita ](../images/usuarios/rivalsilver97/iconos/megapiedras/GARCHOMPITE.png)   |Garchompita   |   |Megapiedra para Megaevolucionar a Garchomp  |
+|![Gardevoirita](../images/usuarios/rivalsilver97/iconos/megapiedras/GARDEVOIRITE.png)   |Gardevoirita   |   |Megapiedra para Megaevolucionar a Gardevoir  |
+|![Gengarita](../images/usuarios/rivalsilver97/iconos/megapiedras/GENGARITE.png)   |Gengarita   |   |Megapiedra para Megaevolucionar a Gengar   |
+|![Glalita](../images/usuarios/rivalsilver97/iconos/megapiedras/GLALITITE.png)   |Glalita   |   |Megapiedra para Megaevolucionar a Glalie   |
+|![Sharpedonita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SHARPEDONITE.png)   |Sharpedonita   |   |Megapiedra para Megaevolucionar a Sharpedo   |
+|![Steelixita ](../images/usuarios/rivalsilver97/iconos/megapiedras/STEELIXITE.png)   |Steelixita   |   |Megapiedra para Megaevolucionar a Steelix   |
+|![Tyranitarita ](../images/usuarios/rivalsilver97/iconos/megapiedras/TYRANITARITE.png)   |Tyranitarita   |   |Megapiedra para Megaevolucionar a Tyranita   |
+|![Gyaradosita](../images/usuarios/rivalsilver97/iconos/megapiedras/GYARADOSITE.png)   |Gyaradosita   |   |Megapiedra para Megaevolucionar a Gyarados   |
+|![Heracrossita](../images/usuarios/rivalsilver97/iconos/megapiedras/HERACRONITE.png)   |Heracrossita   |   |Megapiedra para Megaevolucionar a Heracross   |
+|![Houndoomita](../images/usuarios/rivalsilver97/iconos/megapiedras/HOUNDOOMINITE.png)   |Houndoomita   |   |Megapiedra para Megaevolucionar a Houndoom   |
+|![Kangaskhanita ](../images/usuarios/rivalsilver97/iconos/megapiedras/KANGASKHANITE.png)   |Kangaskhanita   |  |Megapiedra para Megaevolucionar a Kangaskhan   |
+|![Latiasita](../images/usuarios/rivalsilver97/iconos/megapiedras/LATIASITE.png)   |Latiasita   |   |Megapiedra para Megaevolucionar a Latias  |
+|![Latiosita](../images/usuarios/rivalsilver97/iconos/megapiedras/LATIOSITE.png)   |Latiosita   |   |Megapiedra para Megaevolucionar a Latios  |
+|![Lopunnita](../images/usuarios/rivalsilver97/iconos/megapiedras/LOPUNNITE.png)   |Lopunnita   |   |Megapiedra para Megaevolucionar a Lopunny  |
+|![Lucarita ](../images/usuarios/rivalsilver97/iconos/megapiedras/LUCARIONITE.png)   |Lucarita   |   |Megapiedra para Megaevolucionar a Lucario  |
+|![Manectricita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MANECTITE.png)   |Manectricita   |   |Megapiedra para Megaevolucionar a Manectric  |
+|![Mawilita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MAWILITE.png)   |Mawilita   |   |Megapiedra para Megaevolucionar a Mawile  |
+|![Medichamita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MEDICHAMITE.png)   |Medichamita   |   |Megapiedra para Megaevolucionar a Medicham  |
+|![Metagrossita](../images/usuarios/rivalsilver97/iconos/megapiedras/METAGROSSITE.png)   |Metagrossita   |   |Megapiedra para Megaevolucionar a Metagross   |
+|![Mewtwoita X](../images/usuarios/rivalsilver97/iconos/megapiedras/MEWTWONITEX.png)   |Mewtwoita X   |   |Megapiedra para Megaevolucionar a Mewtwo   |
+|![Mewtwoita Y](../images/usuarios/rivalsilver97/iconos/megapiedras/MEWTWONITEY.png)   |Mewtwoita Y   |   |Megapiedra para Megaevolucionar a Mewtwo   |
+|![Pidgeotita](../images/usuarios/rivalsilver97/iconos/megapiedras/PIDGEOTITE.png)   |Pidgeotita   |   |Megapiedra para Megaevolucionar a Pidgeot  |
+|![Pinsirita ](../images/usuarios/rivalsilver97/iconos/megapiedras/PINSIRITE.png)   |Pinsirita   |   | Megapiedra para Megaevolucionar a Pinsir |
+|![Sableynita](../images/usuarios/rivalsilver97/iconos/megapiedras/SABLENITE.png)   |Sableynita   |   |Megapiedra para Megaevolucionar a Sableye  |
+|![Salamencita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SALAMENCITE.png)   |Salamencita   |   |Megapiedra para Megaevolucionar a Salamence  |
+|![Sceptilita](../images/usuarios/rivalsilver97/iconos/megapiedras/SCEPTILITE.png)   |Sceptilita   |   |Megapiedra para Megaevolucionar a Sceptile  |
+|![Scizorita](../images/usuarios/rivalsilver97/iconos/megapiedras/SCIZORITE.png)   |Scizorita   |   |Megapiedra para Megaevolucionar a Scizor  |
+|![Slowbronita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SLOWBRONITE.png)   |Slowbronita   |   |Megapiedra para Megaevolucionar a Slowbro  |
+|![Swampertita](../images/usuarios/rivalsilver97/iconos/megapiedras/SWAMPERTITE.png)   |Swampertita   |   |Megapiedra para Megaevolucionar a Swampert  |
+|![Venusaurita](../images/usuarios/rivalsilver97/iconos/megapiedras/VENUSAURITE.png)   |Venusaurita   |   |Megapiedra para Megaevolucionar a Venusaur  |
 
 
 
