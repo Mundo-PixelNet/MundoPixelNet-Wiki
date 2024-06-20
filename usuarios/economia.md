@@ -80,8 +80,8 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Inciensos](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/WAVEINCENSE.png)   |Inciensos |   | |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad||Permite cambiar la habilidad a un Pokémon que tiene dos.    |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |Piedra eterna| |Impide la evolución del Pokémon que la lleve equipada. Y sirve para traspasar la Naturaleza en la crianza.   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino| |Al estar equipado en un Pokémon, el lazo destino hace que si el portador se enamora de un Pokémon, dicho Pokémon se enamore también del portador. Y sirve para traspasar 5 IVs al azar en la crianza.    |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |    |PS |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino| |Hace que si el portador se enamora de un Pokémon, dicho Pokémon se enamore también del portador. Y sirve para traspasar 5 IVs al azar en la crianza.    |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |    |El Pokémon que la lleve equipada recibe 4 puntos de esfuerzo (EVs) extra en PS al participar en la derrota de un Pokémon en un combate. Y sirve para traspasar el IV de los PS en la crianza. |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERLENS.png)   |Lente Recia|   |Ataque Especial |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBRACER.png)   |Brazal Recio|   |Ataque |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBELT.png)   |Cinto Recio |   |Defensa |
@@ -111,7 +111,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/TOXICPLATE.png)   |Tabla Tóxica   |25K    | |
 |![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/ZAPPLATE.png)   |Tabla Trueno   |25K    | |
 |![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/BLANKPLATE.png)   |Tabla Neutra   |25K    | |
-|![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/LEGENDPLATE.png)   |Tabla Legendaria   |25K    | |
+|![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/LEGENDPLATE.png)   |Tabla Legendaria   |30K    | |
 
 
 
@@ -183,10 +183,6 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Venusaurita](../images/usuarios/rivalsilver97/iconos/megapiedras/VENUSAURITE.png)   |Venusaurita   |   |Megapiedra para Megaevolucionar a Venusaur  |
 
 
-
-
-
-
 # Objetos de Evolución
 
 |Icono   |Nombre  |Precio   |Descripción|
@@ -203,21 +199,71 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |   |   |   |
 |   |   |   |   |
 
-# Otros
+# Otros (por unidad)
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |
+| - | - | - |
+|   |Carameloraro   |2K   |
+|   |Refresco Raro   |5K   |
+|   |Caramelo EXP XL   |6K   |
+|   |Caramelo EXP L   |3K   |
+|   |Caramelo EXP M    |3K    |
+|   |Caramelo EXP S   |3K    |
+|   |Caramelo EXP XS    |3K    |
+|   |Foto Pokémon   |1K   |
+|   |RT/DT/MT   |   |
+|   |Estrella del Nether   |150K   |
+|   |Faro   | 25K  |
+|   |Disco de Música   |2K   |
+|   |Lente Plateada de Ras   |50K   |
+|   |Lente Dorada de Ras   |500K   |
+|   |Riendas Unión   |100K   |
+|   |Manuscrito de las Sombras   |100K   |
+|   |Manuscrito de las Aguas   |100K   |
+|   |Espada Oxidada   |50K   |
+|   |Escudo Oxidado   |50K    |
+|   |Reloj de Arena argénteo de Isis   |5K   |
+|   |Reloj de Arena aúrico de Isis   |15K   |
+|   |Ala Arcoiris   |100K   |
+|   |Supercaña   |35K   |
+|   |Chapa Plateada   |20K   |
+|   |Chapa Dorada   |100K   |
+|   |Fragmento Azul   |10K   |
+|   |Fragmento Rojo   |10K   |
+|   |Orbe Azul   |90K   |
+|   |Orbe Rojo   |90K    |
+|   |Rubí de la Emoción   |75K   |
+|   |Rubí del Conocimiento   |75K   |
+|   |Rubí de la Voluntad   |75K   |
+|   |Cadena Roja   |225K   |
+|   |Campana Clara   | 90K  |
+|   |Campana Oleaje  | 90K  |
+|   |Botella de Prisión   |50K   |
+|   |Gracídea  |20K   |
+|   |Meteorito   |20K   |
+|   |Punta ADN   |50K   |
+|   |Repartir Exp   |70K   |
+|   |Compartir Exp   |40K   |
+|   |Necrosol   |Necrosol   |
+|   |Necroluna   |Necroluna   |
+|   |Orbe vacío   |50K   |
+|   |Orbe lleno   |100K   |
+|   |Bonguris (por stack)   |5K    |
+|   |Elitras   |10K   |
 
-# Encantamienos
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+
+
+
+
+# Encantamientos
+
+|Icono   |Nombre  |Precio   |
+| - | - | - |
+|   |Reparación   |50K   |
+|   |Irrompibilidad IV   |50K   |
+|   |El resto de encantamientos   | 30K   |
 
 # Bayas
 
@@ -231,17 +277,33 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Gema Bicho   |   |   |
+|   |Gema Siniestro   |   |   |
+|   |Gema Dragón   |   |   |
+|   |Gema Eléctrico   |   |   |
+|   |Gema Hada   |   |   |
+|   |Gema Lucha   |   |   |
+|   |Gema Fuego   |   |   |
+|   |Gema Volador   |   |   |
+|   |Gema Fantasma   |   |   |
+|   |Gema Planta   |   |   |
+|   |Gema Tierra   |   |   |
+|   |Gema Normal   |   |   |
+|   |Gema Veneno   |   |   |
+|   |Gema Psíquico   |   |   |
+|   |Gema Roca   |   |   |
+|   |Gema Agua   |   |   |
+
 
 # Partes de Porygon
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Porygon (completo)   |   |   |
+|   |Cuerpo de Porygon   |   |   |
+|   |Pierna de Porygon   |   |   |
+|   |Cola de Porygon   |   |   |
+|   |Cabeza de Porygon   |   |   |
 
 # Fósiles
 
@@ -266,14 +328,27 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
 
 # ROMs de Genesect
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Todos    |valen   |10k   |
 
 # Pokémon Legendarios
 
@@ -307,24 +382,29 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |   |   |   |
 |   |   |   |   |
 
-# Crianza
+# Precios de Crianza
+Los Pokémon **siempre se venden castrados**, El precio mínimo va sumando según si tiene estas características:
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Nombre|Precio  |
+| - | - |
+|1x31 IVs  | +15K  |
+|2x31 IVs  | +30K  |
+|3x31 IVs  | +45K  |
+|4x31 IVs  | +60K  |
+|5x31 IVs  | +75K  |
+|6x31 IVs  | +100K |
+|Naturaleza a elección   |+15K   |
+|Con Fallo de IV| +10K |
+|Con Habilidad Oculta| +30K |
+
 
 # Servidor
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Mod Shiny  |20K   |Modificador que sirve para cambiar a la forma variocolor de tu Pokémon.   |
+|   |Mod Naturaleza   |30K   |Modificador que sirve para cambiar la Naturaleza de tu Pokémon.    |
+|   |Mod Tamaño  | 20K  |Modificador que sirve para cambiar el Tamaño de tu Pokémon.    |
+|   |Mod Género  |50K   |Modificador que sirve para cambiar el Género de tu Pokémon.    |
+|   |Mod Ball   |10K   |Modificador que sirve para cambiar la Ball de tu Pokémon.    |
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
