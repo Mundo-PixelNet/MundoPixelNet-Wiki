@@ -14,10 +14,9 @@ Dicha lista de precios es **oficial** aunque puede estar sujeta a cambios según
 Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**, **Tablas**, **Máquinas**, **Megapiedras**, **Objetos evolutivos**, **Objetos competitivos**, **Otros**, **Encantamientos**, **Bayas**, **Gemas**, **Partes de Porygon**, **Fósiles**, **Cristales Z**, **Discos de Silvally**, **ROMs de Genesect**, **Pokémon Legendarios (según naturaleza)**, **Ultraentes**, **Pokémon Especiales**, **Crianza** y **Modificadores**.
 
 <details>
-<summary>
 Balls x Stack
 ---
-- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/POKEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+<summary>- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/POKEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
 - ![Great Ball](../images/usuarios/rivalsilver97/iconos/balls/GREATBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
 - ![Ultra Ball](../images/usuarios/rivalsilver97/iconos/balls/ULTRABALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
 - ![Dive Ball](../images/usuarios/rivalsilver97/iconos/balls/DIVEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
@@ -39,8 +38,7 @@ Balls x Stack
 - ![Safari Ball](../images/usuarios/rivalsilver97/iconos/balls/SAFARIBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
 - ![Sport Ball](../images/usuarios/rivalsilver97/iconos/balls/SPORTBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
 - ![Timer Ball](../images/usuarios/rivalsilver97/iconos/balls/TIMERBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
-- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/DREAMBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
-</sumary>
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/DREAMBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.</summary>
 </details>
 
 Balls x Unidad
