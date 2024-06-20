@@ -5,13 +5,15 @@ description: >-
 ---
 
 # 🛒 LISTADO DE PRECIOS
-¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás un listado de precios mínimos a los cuales vender tus Pokémon/objetos<br>en el
-servidor.
-Dicha lista de precios es **oficial** aunque puede estar sujeta a cambios según como vaya la economía en el servidor.
+¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás un listado de precios mínimos a los cuales vender tus Pokémon/objetos en el servidor.
+
+Dicha lista de precios es meramente orientativa y sirve para tener una idea de a qué precios mínimos vender, pudiendo así vender a más, pero no a menos de lo permitido, la lista es **oficial** aunque puede estar sujeta a cambios según como vaya la economía en el servidor.
 
 **El incumplimiento de esta lista de precios mínimos puede llevar sanción.**
 
 Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**, **Tablas**, **Máquinas**, **Megapiedras**, **Objetos evolutivos**, **Objetos competitivos**, **Otros**, **Encantamientos**, **Bayas**, **Gemas**, **Partes de Porygon**, **Fósiles**, **Cristales Z**, **Discos de Silvally**, **ROMs de Genesect**, **Pokémon Legendarios (según naturaleza)**, **Ultraentes**, **Pokémon Especiales**, **Crianza** y **Modificadores**.
+
+Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla en nuestro servidor de Discord!
 
 # Balls x Stack
 
@@ -115,23 +117,79 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Máquinas
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   | PC  |5K   |   |
+|   | Infusor   |5K   |   |
+|   |Máquina de curación   |5K   |   |
+|   |Limpiador de fósiles   |5K   |   |
+|   |Máquina de fósiles   |15K   |   |
+|   |Máquina de Intercambio   |5K   |   |
+|   |Placa de movimiento   |2K   |   |
+|   |Elevador   |1K   |   |
+|   |Máquina de Clonación   |50K   |   |
+|   |Guardería   |27K   |   |
 
 # Megapiedras
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Abomasnowita   |   |Megapiedra para Megaevolucionar a Abomasnow   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Absolita   |   |Megapiedra para Megaevolucionar a Absol   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Aerodactylita   |   |Megapiedra para Megaevolucionar a Aerodactyl   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Aggronita   |   |Megapiedra para Megaevolucionar a Aggro  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Alakazamita   |   |Megapiedra para Megaevolucionar a Alakazam  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Altarianita   |   |Megapiedra para Megaevolucionar a Altaria  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Ampharosita   |   |Megapiedra para Megaevolucionar a Ampharos  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Audinita   |   |Megapiedra para Megaevolucionar a Audino  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Banettita   |   |Megapiedra para Megaevolucionar a Banette  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Beedrillita   |   |Megapiedra para Megaevolucionar a Beedrill  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Blastoisita   |   |Megapiedra para Megaevolucionar a Blastoise  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Blazikenita   |   |Megapiedra para Megaevolucionar a Blaziken  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Charizardita X   |   |Megapiedra para Megaevolucionar a Charizard  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Charizardita Y   |   |Megapiedra para Megaevolucionar a  Charizard |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Diancita   |   |Megapiedra para Megaevolucionar a Diancie  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Galladita   |   |Megapiedra para Megaevolucionar a Gallade  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Garchompita   |   |Megapiedra para Megaevolucionar a Garchomp  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Gardevoirita   |   |Megapiedra para Megaevolucionar a Gardevoir  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Gengarita   |   |Megapiedra para Megaevolucionar a Gengar   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Glalita   |   |Megapiedra para Megaevolucionar a Glalie   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Sharpedonita   |   |Megapiedra para Megaevolucionar a Sharpedo   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Steelixita   |   |Megapiedra para Megaevolucionar a Steelix   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Tyranitarita   |   |Megapiedra para Megaevolucionar a Tyranita   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Cameruptita    |   |Megapiedra para Megaevolucionar a Camerupt   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Gyaradosita   |   |Megapiedra para Megaevolucionar a Gyarados   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Heracrossita   |   |Megapiedra para Megaevolucionar a Heracross   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Houndoomita   |   |Megapiedra para Megaevolucionar a Houndoom   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Kangaskhanita   |  |Megapiedra para Megaevolucionar a Kangaskhan   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Latiasita   |   |Megapiedra para Megaevolucionar a Latias  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Latiosita   |   |Megapiedra para Megaevolucionar a Latios  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Lopunnita   |   |Megapiedra para Megaevolucionar a Lopunny  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Lucarita   |   |Megapiedra para Megaevolucionar a Lucario  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Manectricita   |   |Megapiedra para Megaevolucionar a Manectric  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Mawilita   |   |Megapiedra para Megaevolucionar a Mawile  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Medichamita   |   |Megapiedra para Megaevolucionar a Medicham  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Metagrossita   |   |Megapiedra para Megaevolucionar a Metagross   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Mewtwoita X   |   |Megapiedra para Megaevolucionar a Mewtwo   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Mewtwoita Y   |   |Megapiedra para Megaevolucionar a Mewtwo   |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Pidgeotita   |   |Megapiedra para Megaevolucionar a Pidgeot  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Pinsirita   |   | Megapiedra para Megaevolucionar a Pinsir |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Sableynita   |   |Megapiedra para Megaevolucionar a Sableye  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Salamencita   |   |Megapiedra para Megaevolucionar a Salamence  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Sceptilita   |   |Megapiedra para Megaevolucionar a Sceptile  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Scizorita   |   |Megapiedra para Megaevolucionar a Scizor  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Slowbronita   |   |Megapiedra para Megaevolucionar a Slowbro  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Swampertita   |   |Megapiedra para Megaevolucionar a Swampert  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Venusaurita   |   |Megapiedra para Megaevolucionar a Venusaur  |
+
+
+
+
+
 
 # Objetos de Evolución
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -139,7 +197,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Objetos Competitivos
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -147,7 +205,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Otros
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -155,7 +213,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Encantamienos
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -163,7 +221,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Bayas
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -171,7 +229,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Gemas
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -179,7 +237,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Partes de Porygon
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -187,7 +245,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Fósiles
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -195,7 +253,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Cristales Z
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -203,7 +261,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Discos de Silvally
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -211,7 +269,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # ROMs de Genesect
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -219,7 +277,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Pokémon Legendarios
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -227,7 +285,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Pokémon Paradojas
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -235,7 +293,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Pokémon Ultraentes
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -243,7 +301,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Pokémon Especiales
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -251,7 +309,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Crianza
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
@@ -259,13 +317,13 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Servidor
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |   |   |   |   |
 |   |   |   |   |
