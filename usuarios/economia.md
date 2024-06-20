@@ -11,6 +11,6 @@ Dicha lista de precios es oficial aunque puede estar sujeta a cambios según com
 
 Está separado en diferfentes categorías: Balls, Minerales, Crianza, Máquinas, Megapiedras, Objetos de evolución, Objetos competitivos, Encantamientos, Bayas, Gemas, Partes de Porygon, Fósiles, Cristales Z, Discos de Silvally, ROMs de Genesect, Pokémon Legendarios (según naturaleza), Ultraentes, Pokémon Especiales, Crianza y Modificadores.
 
-¡También puedes añadir imágenes! Súbelas a `images > usuarios > <tu nombre de usuario>`
+Balls x Stack
 
-![Arco de Arceus de color amarillo](../images/usuarios/pokesantitw/diosArc.png)
+![Poke Ball](../images/usuarios/rivalsilver97/iconos/POKEBALL.png)
