@@ -77,10 +77,10 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre |Precio |Descripción |
 | - | - | - | - |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad |   | |
+|![Inciensos](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/WAVEINCENSE.png)   |Inciensos |   | |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad||Permite cambiar la habilidad a un Pokémon que tiene dos.    |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |Piedraeterna| |Naturaleza.   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino| |5 IVs al azar.    |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |Piedra eterna| |Impide la evolución del Pokémon que la lleve equipada. Y sirve para traspasar la Naturaleza en la crianza.   |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino| |Al estar equipado en un Pokémon, el lazo destino hace que si el portador se enamora de un Pokémon, dicho Pokémon se enamore también del portador. Y sirve para traspasar 5 IVs al azar en la crianza.    |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |    |PS |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERLENS.png)   |Lente Recia|   |Ataque Especial |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBRACER.png)   |Brazal Recio|   |Ataque |
