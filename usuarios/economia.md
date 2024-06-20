@@ -38,3 +38,14 @@ Balls x Stack
 - ![Sport Ball](../images/usuarios/rivalsilver97/iconos/balls/SPORTBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
 - ![Timer Ball](../images/usuarios/rivalsilver97/iconos/balls/TIMERBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
 - ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/DREAMBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+
+Balls x Unidad
+---
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/CHERISHBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/MASTERBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/PARKBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/BEASTMBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/GSBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/ORIGINBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/DREAMBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dream Ball](../images/usuarios/rivalsilver97/iconos/balls/STRANGEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
