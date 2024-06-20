@@ -15,4 +15,4 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 Balls x Stack
 ---
-![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/POKEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+* ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/POKEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
