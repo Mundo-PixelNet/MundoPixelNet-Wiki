@@ -9,9 +9,7 @@ description: >-
 servidor.
 Dicha lista de precios es oficial aunque puede estar sujeta a cambios según como vaya la economía en el servidor.
 
-Está separado en diferfentes categorías: Balls, Minerales, Crianza, Máquinas, Megapiedras, Objetos de evolución, Objetos competitivos<br>
-Encantamientos, Bayas, Gemas, Partes de Porygon, Fósiles, Cristales Z, Discos de Silvally, ROMs de Genesect, Pokémon Legendarios (según naturaleza),<br>
-Ultraentes, Pokémon Especiales, Crianza y Modificadores.
+Está separado en diferfentes categorías: Balls, Minerales, Crianza, Máquinas, Megapiedras, Objetos de evolución, Objetos competitivos, Encantamientos, Bayas, Gemas, Partes de Porygon, Fósiles, Cristales Z, Discos de Silvally, ROMs de Genesect, Pokémon Legendarios (según naturaleza), Ultraentes, Pokémon Especiales, Crianza y Modificadores.
 
 ¡También puedes añadir imágenes! Súbelas a `images > usuarios > <tu nombre de usuario>`
 
