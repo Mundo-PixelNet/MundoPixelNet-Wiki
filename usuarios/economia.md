@@ -16,3 +16,25 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 Balls x Stack
 ---
 - ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/POKEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Great Ball](../images/usuarios/rivalsilver97/iconos/balls/GREATBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Ultra Ball](../images/usuarios/rivalsilver97/iconos/balls/ULTRABALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Dive Ball](../images/usuarios/rivalsilver97/iconos/balls/DIVEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/DUSKBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/FASTBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/FRIENDBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/HEALBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/HEAVYBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/LEVELBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/LOVEBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/LUREBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/LUXURYBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/MOONBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/NESTBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/NETBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/PREMIERBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/QUICKBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/REPEATBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/SAFARIBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/SPORTBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/TIMERBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
+- ![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/DREAMBALL.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ratio de captura x1.
