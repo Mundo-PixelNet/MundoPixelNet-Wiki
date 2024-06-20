@@ -303,13 +303,26 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |Cola de Porygon   |   |   |
 |   |Cabeza de Porygon   |   |   |
 
-# Fósiles
+# Fósiles (por unidad)
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Fósil Hélix   |20K   |Omanyte   |
+|   |Fósil Domo  |20K   |Kabuto   |
+|   |Ámbar Viejo   |20K   |Aerodactyl   |
+|   |Fósil Raíz   |20K   |Lileep   |
+|   |Fósil Garra  |20K   |Anorith   |
+|   |Fósil Cráneo  |20K   |Cranidos   |
+|   |Fósil Coraza  |20K   |Shieldon   |
+|   |Fósil Tapa  |20K   |Tirtouga   |
+|   |Fósil Pluma  |20K   |Archen   |
+|   |Fósil Mandíbula  |20K   |Tyrunt   |
+|   |Fósil Aleta  |20K   |Amaura   |
+|   |Ornitofósil   |40K   |Arctozolt (+Plesiofósil)/Dracozolt (+Dracofósil)   |
+|   |Iciofósil  |40K   |Dracovish (+Dracofósil)/Actovish (+Plesiofósil)    |
+|   |Dracofósil |40K    |Dracozolt (+Ornitofósil)/Dracovish (+Iciofósil)   |
+|   |Plesiofósil   |40K    |Arctozolt (+Ornitofósil)/Arctovish (+Iciofósil)   |
+
 
 # Cristales Z
 
@@ -323,23 +336,8 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Todos   | valen  | 15k  |
+
 
 
 # ROMs de Genesect
