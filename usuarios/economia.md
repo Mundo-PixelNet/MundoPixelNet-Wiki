@@ -398,9 +398,9 @@ Los Pokémon **siempre se venden castrados**, El precio mínimo va sumando segú
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Mod Shiny  |20K   |Modificador que sirve para cambiar a la forma variocolor de tu Pokémon.   |
-|   |Mod Naturaleza   |30K   |Modificador que sirve para cambiar la Naturaleza de tu Pokémon.    |
-|   |Mod Tamaño  | 20K  |Modificador que sirve para cambiar el Tamaño de tu Pokémon.    |
-|   |Mod Género  |50K   |Modificador que sirve para cambiar el Género de tu Pokémon.    |
-|   |Mod Ball   |10K   |Modificador que sirve para cambiar la Ball de tu Pokémon.    |
+|![Mod Shiny](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORSHINY.png)   |Mod Shiny  |20K   |Modificador que sirve para cambiar a la forma variocolor de tu Pokémon.   |
+|![Mod Naturaleza](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORNATURALEZA.png)   |Mod Naturaleza   |30K   |Modificador que sirve para cambiar la Naturaleza de tu Pokémon.    |
+|![Mod Tamaño](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORTAMAÑO.png)   |Mod Tamaño  | 20K  |Modificador que sirve para cambiar el Tamaño de tu Pokémon.    |
+|![Mod Género](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORGENERO.png)   |Mod Género  |50K   |Modificador que sirve para cambiar el Género de tu Pokémon.    |
+|![Mod Ball](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORBALL.png)   |Mod Ball   |10K   |Modificador que sirve para cambiar la Ball de tu Pokémon.    |
 
