@@ -13,5 +13,6 @@ Está separado en diferfentes categorías: Balls, Minerales, Crianza, Máquinas,
 
 Balls x Stack
 ---
-Objeto 
+Objeto
+---
 ![Poke Ball](../images/usuarios/rivalsilver97/iconos/POKEBALL.png)
