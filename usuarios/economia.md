@@ -15,7 +15,7 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Balls x Stack
 
-|  Imagen |Nombre  |  Precio  |Descripción |
+|  Imagen |Nombre  |  Precio  | Descripción |
 | - | - | - | - |
 |![Poke Ball](../images/usuarios/rivalsilver97/iconos/balls/POKEBALL.png)   |Poké Ball  | 5K   |Ratio de captura x1. |
 |![Great Ball](../images/usuarios/rivalsilver97/iconos/balls/GREATBALL.png) | Super Ball | |Ratio de captura x2.   |
@@ -43,16 +43,16 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Balls x Unidad
 
-|Imagen   | Precio  | Descripción  |
-| - | - | - |
-|![Cherish Ball](../images/usuarios/rivalsilver97/iconos/balls/CHERISHBALL.png)  | 5k  |Poké Ball de evento.   |
-|![Master Ball](../images/usuarios/rivalsilver97/iconos/balls/MASTERBALL.png)   | 80k  |Nunca falla.  |
-|![Park Ball](../images/usuarios/rivalsilver97/iconos/balls/PARKBALL.png)   | 80k  |Nunca falla.   |
-|![Beast Ball](../images/usuarios/rivalsilver97/iconos/balls/BEASTBALL.png)   |100k   |Ratio x5 en Ultraentes.   |
-|![GS Ball](../images/usuarios/rivalsilver97/iconos/balls/GSBALL.png)   |50k   |Se usa para invocar a Celebi.   |
-|![Origin Ball](../images/usuarios/rivalsilver97/iconos/balls/ORIGINBALL.png)   |50k   |Poké Ball de evento.   |
-|![Strange Ball](../images/usuarios/rivalsilver97/iconos/balls/STRANGEBALL.png)   |10k   |Poké Ball especial. Ratio de captura x1.   |
-|![Christmas Ball](../images/usuarios/rivalsilver97/iconos/balls/CHRISTMASBALL.png)   |25k   |Poké Ball especial. Ratio de captura x1.  |
+|Imagen   | Nombre  | Precio  |Descripción |
+| - | - | - | - |
+|![Cherish Ball](../images/usuarios/rivalsilver97/iconos/balls/CHERISHBALL.png)  | Gloria Ball |5K|Poké Ball de evento.    |
+|![Master Ball](../images/usuarios/rivalsilver97/iconos/balls/MASTERBALL.png)   | Master Ball |80K |Nunca falla.   |
+|![Park Ball](../images/usuarios/rivalsilver97/iconos/balls/PARKBALL.png)   | Parque Ball |80K |Nunca falla.   |
+|![Beast Ball](../images/usuarios/rivalsilver97/iconos/balls/BEASTBALL.png)   |Ente Ball |100k |Ratio x5 en Ultraentes.    |
+|![GS Ball](../images/usuarios/rivalsilver97/iconos/balls/GSBALL.png)   |GS Ball   |50K  |Se usa para invocar a Celebi.   |
+|![Origin Ball](../images/usuarios/rivalsilver97/iconos/balls/ORIGINBALL.png)   |Origen Ball  |50K |Poké Ball de evento.   |
+|![Strange Ball](../images/usuarios/rivalsilver97/iconos/balls/STRANGEBALL.png)   |Extraña Ball  |10K |Poké Ball especial. Ratio de captura x1.    |
+|![Christmas Ball](../images/usuarios/rivalsilver97/iconos/balls/CHRISTMASBALL.png)   |Navidad Ball  |25K |Poké Ball especial. Ratio de captura x1.   |
 
 # Mineral x Stack
 
@@ -74,18 +74,18 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Objetos de Crianza
 
-|Icono   |Precio   |Descripción   |
-| - | - | - |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |15K   |   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |20K   |Permite cambiar la habilidad a un Pokémon que tiene dos.   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |10K   |Permite cambiar la habilidad de un Pokémon a su Habilidad Oculta.   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |30K   |   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERWEIGHT.png)   |40K   |   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERLENS.png)   |40K   |   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBRACER.png)   |40K   |   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBELT.png)   |40K   |   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBAND.png)   |40K   |   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERANKLET.png)   |40K   |   |
+|Icono   |Nombre |Precio |Descripción |
+| - | - | - | - |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |15K   |   | |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad||Permite cambiar la habilidad a un Pokémon que tiene dos.    |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |Piedraeterna| |Naturaleza.   |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino| |5 IVs al azar.    |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |    |PS |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERLENS.png)   |Lente Recia|   |Ataque Especial |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBRACER.png)   |Brazal Recio|   |Ataque |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBELT.png)   |Cinto Recio |   |Defensa |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBAND.png)   |Banda Recia|   |Defensa Especial |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERANKLET.png)   |Franja Recia|   |Velocidad |
 
 
 
@@ -116,154 +116,155 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 # Máquinas
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Megapiedras
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Objetos de Evolución
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Objetos Competitivos
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Otros
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Encantamienos
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Bayas
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Gemas
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Partes de Porygon
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Fósiles
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Cristales Z
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Discos de Silvally
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # ROMs de Genesect
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Pokémon Legendarios
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Pokémon Paradojas
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Pokémon Ultraentes
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Pokémon Especiales
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Crianza
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 # Servidor
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   |   |
+| - | - | - | - |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 |   |   |   |   |
 | - | - | - | - |
