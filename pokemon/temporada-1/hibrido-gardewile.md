@@ -28,7 +28,7 @@ Según artefactos antiguos, los nobles de la ciudad de Etheria solían vivir con
 
 ## Obtención
 
-*No disponible por el momento*
+Este es un Pokémon híbrido, que se obtiene de forma especial como se explica en: [🧬 Híbridos](../../funciones/hibridos.md)
 
 ## Características base
 
