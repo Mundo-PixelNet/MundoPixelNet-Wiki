@@ -89,7 +89,7 @@ Estos son los híbridos disponibles actualmente:
 |  Pokémon |                                            Sprite                                           |
 | :----: | :-----------------------------------------------------------------------------------------: |
 | [Cerullade](../pokemon/temporada-1/hibrido-cerullade.md) |        ![Sprite de Cerullade](../images/pokemon/temporada-1/Cerullade-sprite.png)        |
-| [Gardewile](../../pokemon/temporada-1/hibrido-gardewile.md) |  ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)  |
-| [Lycario](../../pokemon/temporada-1/hibrido-lycario.md) | ![Sprite de Lycario](../../images/pokemon/temporada-1/Lycario-sprite.png) |
-| [Mismapeon](../../pokemon/temporada-1/hibrido-mismapeon.md) | ![Sprite de Mismapeon](../../images/pokemon/temporada-1/Mismapeon-sprite.png) |
-| [Zoropunny](../../pokemon/temporada-1/hibrido-zoropunny.md) | ![Sprite de Zoropunny](../../images/pokemon/temporada-1/Zoropunny-sprite.png) |
+| [Gardewile](../pokemon/temporada-1/hibrido-gardewile.md) |  ![Sprite de Gardewile](../images/pokemon/temporada-1/Gardewile-sprite.png)  |
+| [Lycario](../pokemon/temporada-1/hibrido-lycario.md) | ![Sprite de Lycario](../images/pokemon/temporada-1/Lycario-sprite.png) |
+| [Mismapeon](../pokemon/temporada-1/hibrido-mismapeon.md) | ![Sprite de Mismapeon](../images/pokemon/temporada-1/Mismapeon-sprite.png) |
+| [Zoropunny](../pokemon/temporada-1/hibrido-zoropunny.md) | ![Sprite de Zoropunny](../images/pokemon/temporada-1/Zoropunny-sprite.png) |
