@@ -85,6 +85,43 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Bruma explosiva | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
 | Triple Axel | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
 | Metaláser | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Cautivar | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Rayo Carga | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| Confidencia | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Contraataque | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Doble Equipo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Doble Filo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Puño Dinámico | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Embargo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Ataque Finta | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Puño Foco | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Frustración | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Golpe Cabeza | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Poder Oculto | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Calcinar | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| Desarme | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Aguzar | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Última Baza | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Levitón | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| Explosión Metálica | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| Mímica | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Bofetón Lodo | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
+| Don Natural | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Divide Dolor | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| Colmillo Veneno | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| Más Psique | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Castigo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Retribución | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Golpe Roca | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| Poder Secreto | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Canto | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Robo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Fuerza | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Superdiente | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Contoneo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| Tormento | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| Tóxico | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| Agarre | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 {% endtab %}
 {% endtabs %}
 
