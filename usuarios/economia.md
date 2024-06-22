@@ -386,13 +386,13 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |Sprite   |Nombre  |Precio   |Naturaleza favorable|
 | - | - | - | - |
 |![Articuno](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
-|![Articuno Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO_1.png)   |Articuno Galar   |400K   |   |
-|![Zapdos](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS.png)   |Zapdos   |150K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS_1.png)   |Zapdos Galar   |400K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MOLTRES.png)   |Moltres   |150K    |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MOLTRES_1.png)   |Moltres Galar   |400K   |   |
-|![Mew](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEW.png)   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEWTWO.png)   |Mewtwo   |700K   |   |
+|![Articuno Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO_1.png)   |Articuno Galar   |400K   |- Miedosa<br>- Serena<br>- Modesta   |
+|![Zapdos](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS.png)   |Zapdos   |150K   |- Miedosa<br>- Serena<br>- Osada<br>- Modesta   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS_1.png)   |Zapdos Galar   |400K   |- Firme<br>- Alegre   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MOLTRES.png)   |Moltres   |150K    |- Miedosa<br>- Osada<br>- Modesta   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MOLTRES_1.png)   |Moltres Galar   |400K   |- Miedosa<br>- Osada<br>- Modesta    |
+|![Mew](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEW.png)   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |- Miedosa<br>- Alegre<br>- Firme<br>- Cauta<br>- Modesta<br>- Osada   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEWTWO.png)   |Mewtwo   |700K   |- Miedosa<br>- Alegre<br>- Firme<br>- Modesta<br>- Activa<br>- Ingenua<br>- Huraña   |
 |![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RAIKOU.png)   |Raikou   |250K   |   |
 |![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ENTEI.png)   |Entei   |150K   |   |
 |![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SUICUNE.png)   |Suicune   |250K   |   |
