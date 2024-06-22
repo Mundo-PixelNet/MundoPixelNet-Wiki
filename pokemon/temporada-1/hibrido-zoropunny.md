@@ -84,6 +84,32 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Envidia ardiente | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
 | Desahogo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 | Golpe rastrero | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| Cautivar         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Rayo Carga       | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
+| Confidencia      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Antojo           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Puño Mareo       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Esfuerzo         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Profecía         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Corte Furia      | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png)        |
+| Patada Salto    | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| Enfoque Láser    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Bofetón Lodo     | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png)      |
+| Puño Incremento  | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| Retribución      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Poder Secreto    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Onda Voltio      | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
+| Contoneo         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Tóxico           | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png)      |
+| Golpe Aéreo      | ![tipo volador](../../images/pokemon/tipos/tipo_volador.png)    |
+| Embargo          | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Ataque Finta     | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Más Psique       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Castigo          | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Persecución      | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Rugido           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Robo             | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Rencor           | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png)  |
 {% endtab %}
 {% endtabs %}
 
