@@ -54,30 +54,30 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Movimientos por nivel" %}
 | Nivel | Movimiento | Tipo |
 | :-----: | :----------: | :----: |
-| 1 | Relevo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Mordisco | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 1 | Encanto | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 1 | Confusión | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 1 | Copión | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Antojo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Doble filo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Gruñido | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Refuerzo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Placaje | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Látigo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Derribo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Infortunio | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 5 | Ataque arena | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
-| 10 | Sombra vil | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 25 | Psíquico | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 32 | Bola sombra | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 35 | Cambiafuerza | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 40 | Deseo | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 45 | Hipnosis | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 50 | Golpe fantasma | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 55 | Hoja mágica | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
-| 60 | Premonición | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 65 | Brillo mágico | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | [Relevo](https://www.wikidex.net/wiki/Relevo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Mordisco](https://www.wikidex.net/wiki/Mordisco) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| 1 | [Encanto](https://www.wikidex.net/wiki/Encanto) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | [Confusión](https://www.wikidex.net/wiki/Confusión) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 1 | [Copión](https://www.wikidex.net/wiki/Copión) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Antojo](https://www.wikidex.net/wiki/Antojo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Doble filo](https://www.wikidex.net/wiki/Doble_filo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Gruñido](https://www.wikidex.net/wiki/Gruñido) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Refuerzo](https://www.wikidex.net/wiki/Refuerzo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Placaje](https://www.wikidex.net/wiki/Placaje) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Látigo](https://www.wikidex.net/wiki/Látigo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Derribo](https://www.wikidex.net/wiki/Derribo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Infortunio](https://www.wikidex.net/wiki/Infortunio) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| 5 | [Ataque arena](https://www.wikidex.net/wiki/Ataque_arena) | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
+| 10 | [Sombra vil](https://www.wikidex.net/wiki/Sombra_vil) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| 25 | [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 32 | [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| 35 | [Cambiafuerza](https://www.wikidex.net/wiki/Cambiafuerza) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 40 | [Deseo](https://www.wikidex.net/wiki/Deseo) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 45 | [Hipnosis](https://www.wikidex.net/wiki/Hipnosis) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 50 | [Golpe fantasma](https://www.wikidex.net/wiki/Golpe_fantasma) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| 55 | [Hoja mágica](https://www.wikidex.net/wiki/Hoja_mágica) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
+| 60 | [Premonición](https://www.wikidex.net/wiki/Premonición) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 65 | [Brillo mágico](https://www.wikidex.net/wiki/Brillo_mágico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
 {% endtab %}
 
 {% tab title="Movimientos por tutor" %}
