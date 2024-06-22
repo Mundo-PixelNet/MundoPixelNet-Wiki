@@ -2,7 +2,7 @@
 
 ## Información
 
-**Gardewile** es un [Pokémon híbrido](hibrido-zoropunny.md) de tipo [siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Mística (1)](./). Es la fusión de Gardevoir y Mawile.
+**Gardewile** es un [Pokémon híbrido](../../funciones/hibridos.md) de tipo [siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Mística (1)](./). Es la fusión de Gardevoir y Mawile.
 
 |                     **Artwork** | ![Artwork de Zoropunny](../../images/pokemon/temporada-1/Zoropunny.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
