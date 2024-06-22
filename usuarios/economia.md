@@ -484,7 +484,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Pokémon Paradojas
 
-|Icono   |Nombre  |Precio   |Descripción|
+|Sprite   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONLEAVES.png)    |Ferrohojas   |1.1M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONMOTH.png)    |Ferropolilla   |1.1M   |   |
@@ -493,7 +493,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Pokémon Ultraentes
 
-|Icono   |Nombre  |Precio   |Descripción|
+|Sprite  |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NIHILEGO.png)    |Nihilego   |200K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/BUZZWOLE.png)    |Buzzwole   |200K   |   |
@@ -510,7 +510,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Pokémon Especiales
 
-|Icono   |Nombre  |Precio   |Descripción|
+|Sprite  |Nombre  |Precio   |Descripción|
 | - | - | - | - |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonespeciales/GRENINJA_2.png)   |Greninja Ash   |1.2M   |   |
 
