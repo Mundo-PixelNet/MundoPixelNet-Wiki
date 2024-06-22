@@ -28,7 +28,7 @@ La personalidad de este espécimen guarda una sorprendente similitud con la de l
 
 ## Obtención
 
-*No disponible por el momento*
+Este es un Pokémon híbrido, que se obtiene de forma especial como se explica aquí: [🧬 Híbridos](../../funciones/hibridos.md)
 
 ## Características base
 
