@@ -388,131 +388,131 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Articuno](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
 |![Articuno Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO_1.png)   |Articuno Galar   |400K   |   |
 |![Zapdos](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS.png)   |Zapdos   |150K   |   |
-|[Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS_1.png)   |Zapdos Galar   |400K   |   |
-|   |Moltres   |150K    |   |
-|   |Moltres Galar   |400K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS_1.png)   |Zapdos Galar   |400K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MOLTRES.png)   |Moltres   |150K    |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MOLTRES_1.png)   |Moltres Galar   |400K   |   |
 |![Mew](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEW.png)   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |   |
-|   |Mewtwo   |700K   |   |
-|   |Raikou   |250K   |   |
-|   |Entei   |150K   |   |
-|   |Suicune   |250K   |   |
-|   |Lugia   |300K   |   |
-|   |Ho-Oh   |300K   |   |
-|   |Celebi   |500K   |   |
-|   |Regirock   |450K   |   |
-|   |Regice   |450K   |   |
-|   |Registel   |450K   |   |
-|   |Latias   |650K   |   |
-|   |Latios   |650K   |   |
-|   |Kyogre   |800K   |   |
-|   |Groudon   |800K   |   |
-|   |Rayquaza   |900K   |   |
-|   |Jirachi   |1M   |   |
-|   |Deoxys   |900K   |   |
-|   |Regigigas   |800K   |   |
-|   |Heatran   |750K   |   |
-|   |Cresselia   |1M   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEWTWO.png)   |Mewtwo   |700K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RAIKOU.png)   |Raikou   |250K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ENTEI.png)   |Entei   |150K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SUICUNE.png)   |Suicune   |250K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LUGIA.png)   |Lugia   |300K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HOOH.png)   |Ho-Oh   |300K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CELEBI.png)   |Celebi   |500K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIROCK.png)   |Regirock   |450K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGICE.png)   |Regice   |450K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGISTEEL.png)   |Registel   |450K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LATIAS.png)   |Latias   |650K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LATIOS.png)   |Latios   |650K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYOGRE.png)   |Kyogre   |800K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GROUDON.png)   |Groudon   |800K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RAYQUAZA.png)   |Rayquaza   |900K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/JIRACHI.png)   |Jirachi   |1M   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DEOXYS.png)   |Deoxys   |900K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIGIGAS.png)   |Regigigas   |800K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HEATRAN.png)   |Heatran   |750K   |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CRESSELIA.png)   |Cresselia   |1M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  |   |
-|   |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |   |
-|   |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |   |
-|   |Dialga   |500K   |   |
-|   |Palkia   |500K   |   |
-|   |Giratina   |500K   |   |
-|   |Phione   |50K   |   |
-|   |Manaphy   |150K   |   |
-|   |Shaymin   |550K   |   |
-|   |Darkrai   |1.2M   |   |
-|   |Arceus   |650K   |   |
-|   |Virizion   |250K   |   |
-|   |Cobalion   |300K   |   |
-|   |Terrakion   |300K   |   |
-|   |Tornadus   |600K   |   |
-|   |Landorus   |900K   |   |
-|   |Thundurus   |550K   |   |
-|   |Zekrom   |800K   |   |
-|   |Reshiram   |800K    |   |
-|   |Kyurem   |900K   |   |
-|   |Kyurem Negro y Blanco |1.7M   |   |
-|   |Victini   |350K   |   |
-|   |Keldeo   |200K   |   |
-|   |Meloetta   |300K   |   |
-|   |Genesect   |350K   |   |
-|   |Xerneas   |650K   |   |
-|   |Yveltal   |1M   |   |
-|   |Zygarde (10%)  |150K   |   |
-|   |Zygarde (50%)  |550K   |   |
-|   |Zygarde (100%)   |1M   |   |
-|   |Diancie   |750K   |   |
-|   |Hoopa   |400K   |   |
-|   |Hoopa + Vasija   |500K   |   |
-|   |Volcanion   |1M   |   |
-|   |Cosmog   |850K   |   |
-|   |Cosmoem   |800K   |   |
-|   |Solgaleo   |700K   |   |
-|   |Lunala   |700K   |   |
-|   |Necrozma   |450K   |   |
-|   |Necrozma Melena Crepuscular   |1.1M   |   |
-|   |Necrozma Alas del Alba   |1.1M   |   |
-|   |Código Cero   |400K   |   |
-|   |Silvally   |500K   |   |
-|   |Tapu Koko   |650K   |   |
-|   |Tapu Lele   |400K   |   |
-|   |Tapu Bulu   |250K   |   |
-|   |Tapu Fini   |500K   |   |
-|   |Magearna   |750K   |   |
-|   |Marshadow   |700K   |   |
-|   |Zeraora   |700K   |   |
-|   |Meltan   |200K   |   |
-|   |Melometan   |350K   |   |
-|   |Zacian (Sin espada)  |250K   |   |
-|   |Zacian (Con espada)  |300K   |   |
-|   |Zamazenta (Sin escudo)   |250K   |   |
-|   |Zamazenta (Con escudo)   |300K   |   |
-|   |Eternatus   |450K   |   |
-|   |Kubfu   |900K   |   |
-|   |Urshifu Brusco   |800K   |   |
-|   |Urshifu Fluido |800K   |   |
-|   |Zarude   |400K   |   |
-|   |Glastrier   |400K   |   |
-|   |Spectrier   |400K   |   |
-|   |Calyrex   |600K   |   |
-|   |Regieleki   |1.5M   |   |
-|   |Regidrago   |1.5M   |   |
-|   |Enamorus   |650K   |   |
-|   |Chien-Pao   |800K   |   |
-|   |Chi-Yu   |800K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/AZELF.png)    |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MESPRIT.png)    |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DIALGA.png)   |Dialga   |500K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PALKIA.png)   |Palkia   |500K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |500K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PHIONE.png)   |Phione   |50K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MANAPHY.png)   |Manaphy   |150K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SHAYMIN.png)   |Shaymin   |550K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DARKRAI.png)   |Darkrai   |1.2M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARCEUS.png)   |Arceus   |650K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/VIRIZION.png)   |Virizion   |250K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/COBALION.png)   |Cobalion   |300K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TERRAKION.png)   |Terrakion   |300K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TORNADUS.png)   |Tornadus   |600K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LANDORUS.png)   |Landorus   |900K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/THUNDURUS.png)   |Thundurus   |550K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZEKROM.png)   |Zekrom   |800K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RESHIRAM.png)   |Reshiram   |800K    |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYUREM.png)   |Kyurem   |900K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYUREM_1.png)<br>![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYUREM_2.png)   |Kyurem Negro y Blanco |1.7M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/VICTINI.png)   |Victini   |350K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KELDEO.png)   |Keldeo   |200K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MELOETTA.png)   |Meloetta   |300K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GENESECT.png)   |Genesect   |350K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GENESECT.png)   |Xerneas   |650K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GENESECT.png)   |Yveltal   |1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZYGARDE_1.png)   |Zygarde (10%)  |150K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZYGARDE.png)   |Zygarde (50%)  |550K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZYGARDE_2.png)   |Zygarde (100%)   |1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DIANCIE.png)   |Diancie   |750K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HOOPA.png)   |Hoopa   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HOOPA_1.png)   |Hoopa + Vasija   |500K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/VOLCANION.png)   |Volcanion   |1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/COSMOG.png)   |Cosmog   |850K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/COSMOEM.png)   |Cosmoem   |800K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SOLGALEO.png)   |Solgaleo   |700K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LUNALA.png)   |Lunala   |700K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NECROZMA.png)   |Necrozma   |450K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NECROZMA_1.png)   |Necrozma Melena Crepuscular   |1.1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NECROZMA_2.png)   |Necrozma Alas del Alba   |1.1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TYPENULL.png)   |Código Cero   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SILVALLY.png)   |Silvally   |500K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TAPUKOKO.png)   |Tapu Koko   |650K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TAPULELE.png)   |Tapu Lele   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TAPUBULU.png)   |Tapu Bulu   |250K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TAPUFINI.png)   |Tapu Fini   |500K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MAGEARNA.png)   |Magearna   |750K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MARSHADOW.png)   |Marshadow   |700K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZERAORA.png)   |Zeraora   |700K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MELTAN.png)   |Meltan   |200K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MELMETAL.png)   |Melmetal   |350K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZACIAN.png)   |Zacian (Sin espada)  |250K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZACIAN_1.png)   |Zacian (Con espada)  |300K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAMAZENTA.png)   |Zamazenta (Sin escudo)   |250K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAMAZENTA_1.png)   |Zamazenta (Con escudo)   |300K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ETERNATUS.png)   |Eternatus   |450K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KUBFU.png)   |Kubfu   |900K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/URSHIFU.png)   |Urshifu Brusco   |800K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/URSHIFU_1.png)   |Urshifu Fluido |800K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZARUDE.png)   |Zarude   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GLASTRIER.png)   |Glastrier   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SPECTRIER.png)   |Spectrier   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CALYREX.png)   |Calyrex   |600K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIELEKI.png)   |Regieleki   |1.5M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIDRAGO.png)   |Regidrago   |1.5M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ENAMORUS.png)   |Enamorus   |650K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CHIENPAO.png)   |Chien-Pao   |800K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CHIYU.png)   |Chi-Yu   |800K   |   |
 
 # Pokémon Paradojas
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Ferrohojas   |1.1M   |   |
-|   |Ferropolilla   |1.1M   |   |
-|   |Ferropúas   |1.1M   |   |
-|   |Ondulagua   |1.1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONLEAVES.png)    |Ferrohojas   |1.1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONMOTH.png)    |Ferropolilla   |1.1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONTHORNS.png)    |Ferropúas   |1.1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/WALKINGWAKE.png)    |Ondulagua   |1.1M   |   |
 
 # Pokémon Ultraentes
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Nihilego   |200K   |   |
-|   |Buzzwole   |200K   |   |
-|   |Pheromosa   |300K   |   |
-|   |Xurkitree   |400K   |   |
-|   |Celesteela   |400K   |   |
-|   |Kartana   |600K   |   |
-|   |Guzzlord   |150K   |   |
-|   |Poipole   |400K   |   |
-|   |Naganadel   |300K   |   |
-|   |Stakataka   |250K   |   |
-|   |Blacephalon   |500K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NIHILEGO.png)    |Nihilego   |200K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/BUZZWOLE.png)    |Buzzwole   |200K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PHEROMOSA.png)    |Pheromosa   |300K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/XURKITREE.png)    |Xurkitree   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CELESTEELA.png)    |Celesteela   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KARTANA.png)    |Kartana   |600K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GUZZLORD.png)    |Guzzlord   |150K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/POIPOLE.png)    |Poipole   |400K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NAGANADEL.png)    |Naganadel   |300K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/STAKATAKA.png)    |Stakataka   |250K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/BLACEPHALON.png)    |Blacephalon   |500K   |   |
 
 
 # Pokémon Especiales
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Greninja Ash   |   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonespeciales/GRENINJA_2.png)   |Greninja Ash   |1.2M   |   |
 
 
 # Precios de Crianza
