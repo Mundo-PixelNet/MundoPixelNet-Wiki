@@ -30,7 +30,7 @@ Mismapeon tiene varias formas disponibles que pueden ser cambios gracias a Modif
 
 ## Obtención
 
-_No disponible por el momento_
+Este es un Pokémon híbrido, que se obtiene de forma especial como se explica en: [🧬 Híbridos](../../funciones/hibridos.md)
 
 ## Características base
 
