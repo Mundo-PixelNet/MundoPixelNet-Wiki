@@ -13,7 +13,10 @@
 ## POKÉMON
 
 * [🪄 Temporada 1](pokemon/temporada-1/README.md)
-  * [🧬 Mismapeon](pokemon/temporada-1/hibrido-mismapeon.md)
   * [🧬 Cerullade](pokemon/temporada-1/hibrido-cerullade.md)
+  * [🧬 Gardewile](pokemon/temporada-1/hibrido-gardewile.md)
+  * [🧬 Lycario](pokemon/temporada-1/hibrido-lycario.md)
+  * [🧬 Mismapeon](pokemon/temporada-1/hibrido-mismapeon.md)
+  * [🧬 Zoropunny](pokemon/temporada-1/hibrido-zoropunny.md)
 
 ## POR USUARIOS
