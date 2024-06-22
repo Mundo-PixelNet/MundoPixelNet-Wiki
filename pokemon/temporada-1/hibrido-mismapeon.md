@@ -2,7 +2,7 @@
 
 ## Información
 
-**Mismapeon** es un [Pokémon híbrido](../funciones/hibridos.md) de tipo [psíquico](https://www.wikidex.net/wiki/Tipo\_ps%C3%ADquico)/[fantasma](https://www.wikidex.net/wiki/Tipo\_fantasma) introducido en la [Temporada Mística (1)](./). Es la fusión de Mismagius y Espeon.
+**Mismapeon** es un [Pokémon híbrido](../../funciones/hibridos.md) de tipo [psíquico](https://www.wikidex.net/wiki/Tipo\_ps%C3%ADquico)/[fantasma](https://www.wikidex.net/wiki/Tipo\_fantasma) introducido en la [Temporada Mística (1)](./). Es la fusión de Mismagius y Espeon.
 
 |                     **Artwork** | ![](../../images/pokemon/temporada-1/Mismapeon.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
