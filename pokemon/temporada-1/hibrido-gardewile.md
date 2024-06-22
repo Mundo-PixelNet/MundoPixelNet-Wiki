@@ -105,7 +105,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | [Levitón](https://www.wikidex.net/wiki/Levitón) | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
 | [Explosión Metálica](https://www.wikidex.net/wiki/Explosión_Metálica) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
 | [Mímica](https://www.wikidex.net/wiki/Mímica) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| [Bofetón Lodo](https://www.wikidex.net/wiki/Bofetón Lodo) | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
+| [Bofetón Lodo](https://www.wikidex.net/wiki/Bofetón_Lodo) | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
 | [Don Natural](https://www.wikidex.net/wiki/Don_Natural) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | [Divide Dolor](https://www.wikidex.net/wiki/Divide_Dolor) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
 | [Colmillo Veneno](https://www.wikidex.net/wiki/Colmillo_Veneno) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
