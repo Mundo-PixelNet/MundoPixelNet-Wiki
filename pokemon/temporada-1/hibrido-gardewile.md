@@ -131,75 +131,110 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="MTs de Galar" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-
+| [Puño Dinámico](https://www.wikidex.net/wiki/Pu%C3%B1o_Din%C3%A1mico) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| [Megapatada](https://www.wikidex.net/wiki/Megapatada) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Puño Fuego](https://www.wikidex.net/wiki/Pu%C3%B1o_Fuego) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Puño Hielo](https://www.wikidex.net/wiki/Pu%C3%B1o_Hielo) | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
+| [Puño Trueno](https://www.wikidex.net/wiki/Pu%C3%B1o_Trueno) | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Giga Impacto](https://www.wikidex.net/wiki/Giga_Impacto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Hoja Mágica](https://www.wikidex.net/wiki/Hoja_M%C3%A1gica) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
+| [Onda Trueno](https://www.wikidex.net/wiki/Onda_Trueno) | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| [Pantalla de Luz](https://www.wikidex.net/wiki/Pantalla_de_Luz) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Reflejo](https://www.wikidex.net/wiki/Reflejo) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Velo Sagrado](https://www.wikidex.net/wiki/Velo_Sagrado) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Ladrón](https://www.wikidex.net/wiki/Ladr%C3%B3n) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Ronquido](https://www.wikidex.net/wiki/Ronquido) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Viento Hielo](https://www.wikidex.net/wiki/Viento_Hielo) | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
+| [Encanto](https://www.wikidex.net/wiki/Encanto) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza Lluvia](https://www.wikidex.net/wiki/Danza_Lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Día Soleado](https://www.wikidex.net/wiki/Día_Soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Fuego Fatuo](https://www.wikidex.net/wiki/Fuego_Fatuo) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Imagen](https://www.wikidex.net/wiki/Imagen) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Rapidez](https://www.wikidex.net/wiki/Rapidez) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Mano Amiga](https://www.wikidex.net/wiki/Mano_Amiga) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Lanzamiento](https://www.wikidex.net/wiki/Lanzamiento) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Intercambio de Poder](https://www.wikidex.net/wiki/Intercambio_de_Poder) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Intercambio de Defensa](https://www.wikidex.net/wiki/Intercambio_de_Defensa) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Sala de Trucos](https://www.wikidex.net/wiki/Sala_de_Trucos) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Zona Extraña](https://www.wikidex.net/wiki/Zona_Extraña) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Zona Mágica](https://www.wikidex.net/wiki/Zona_Mágica) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Canon](https://www.wikidex.net/wiki/Canon) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Beso Drenaje](https://www.wikidex.net/wiki/Beso_Drenaje) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Campo de Niebla](https://www.wikidex.net/wiki/Campo_de_Niebla) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Campo Psíquico](https://www.wikidex.net/wiki/Campo_Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Fuego Místico](https://www.wikidex.net/wiki/Fuego_Místico) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
 {% endtab %}
 
 {% tab title="DTs de Galar" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-| Golpe Cuerpo       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Rayo               | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
-| Psíquico           | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Sustituto          | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Psicochoque        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Aguante            | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Sonámbulo          | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Otra Vez           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Bola Sombra        | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png)  |
-| Premonición        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Mofa               | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
-| Truco              | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Intercambio        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Vozarrón           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Paz Mental         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Onda Certera       | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
-| Bola Energía       | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png)      |
-| Cabezazo Zen       | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Hierba Lazo        | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png)      |
-| Poder Reserva      | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Cambio Alia        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Brillo Mágico      | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png)          |
-| Triturar           | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
-| Cabeza de Hierro   | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)        |
-| Juego Rudo         | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png)          |
-| Defensa Férrea     | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)        |
-| Esfera Aural       | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
-| Colmillo Psíquico  | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
-| Cañón Destello     | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)        |
+| [Golpe Cuerpo](https://www.wikidex.net/wiki/Golpe_Cuerpo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Rayo](https://www.wikidex.net/wiki/Rayo) | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Sustituto](https://www.wikidex.net/wiki/Sustituto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Psicochoque](https://www.wikidex.net/wiki/Psicochoque) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Aguante](https://www.wikidex.net/wiki/Aguante) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sonámbulo](https://www.wikidex.net/wiki/Sonámbulo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Otra Vez](https://www.wikidex.net/wiki/Otra_Vez) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Bola Sombra](https://www.wikidex.net/wiki/Bola_Sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Premonición](https://www.wikidex.net/wiki/Premonición) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Mofa](https://www.wikidex.net/wiki/Mofa) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Truco](https://www.wikidex.net/wiki/Truco) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Intercambio](https://www.wikidex.net/wiki/Intercambio) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Vozarrón](https://www.wikidex.net/wiki/Vozarrón) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Paz Mental](https://www.wikidex.net/wiki/Paz_Mental) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Onda Certera](https://www.wikidex.net/wiki/Onda_Certera) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| [Bola Energía](https://www.wikidex.net/wiki/Bola_Energía) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
+| [Cabezazo Zen](https://www.wikidex.net/wiki/Cabezazo_Zen) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Hierba Lazo](https://www.wikidex.net/wiki/Hierba_Lazo) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
+| [Poder Reserva](https://www.wikidex.net/wiki/Poder_Reserva) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Cambio Alia](https://www.wikidex.net/wiki/Cambio_Alia) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Brillo Mágico](https://www.wikidex.net/wiki/Brillo_Mágico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Triturar](https://www.wikidex.net/wiki/Triturar) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Cabeza de Hierro](https://www.wikidex.net/wiki/Cabeza_de_Hierro) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| [Juego Rudo](https://www.wikidex.net/wiki/Juego_Rudo) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Defensa Férrea](https://www.wikidex.net/wiki/Defensa_Férrea) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| [Esfera Aural](https://www.wikidex.net/wiki/Esfera_Aural) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| [Colmillo Psíquico](https://www.wikidex.net/wiki/Colmillo_Psíquico) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Cañón Destello](https://www.wikidex.net/wiki/Cañón_Destello) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
 {% endtab %}
 
 {% tab title="MTs de Alola" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-| Rayo                | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)  |
-| Psíquico            | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Sustituto           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)        |
-| Psicocarga          | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Aguante             | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)        |
-| Sonámbulo           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)        |
-| Otra vez            | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)        |
-| Bola sombra         | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png)    |
-| Premonición         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Mofa                | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)  |
-| Truco               | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Intercambio         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Vozarrón            | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)        |
-| Paz mental          | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Onda certera        | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)          |
-| Energibola          | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png)        |
-| Cabezazo zen        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Hierba lazo         | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png)        |
-| Poder oculto        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)        |
-| Cambio de Banda     | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Brillo mágico       | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png)            |
-| Triturar            | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)  |
-| Cabeza de hierro    | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)          |
-| Carantoña           | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png)            |
-| Disparo espejo      | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)          |
-| Defensa férrea      | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)          |
-| Sombra vil          | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)  |
-| Viento feérico      | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png)            |
-| Fuerza lunar        | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png)            |
+| [Rayo](https://www.wikidex.net/wiki/Rayo) | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Sustituto](https://www.wikidex.net/wiki/Sustituto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Psicocarga](https://www.wikidex.net/wiki/Psicocarga) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Aguante](https://www.wikidex.net/wiki/Aguante) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sonámbulo](https://www.wikidex.net/wiki/Sonámbulo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Otra vez](https://www.wikidex.net/wiki/Otra_vez) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Premonición](https://www.wikidex.net/wiki/Premonición) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Mofa](https://www.wikidex.net/wiki/Mofa) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Truco](https://www.wikidex.net/wiki/Truco) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Intercambio](https://www.wikidex.net/wiki/Intercambio) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Vozarrón](https://www.wikidex.net/wiki/Vozarrón) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Onda certera](https://www.wikidex.net/wiki/Onda_certera) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| [Energibola](https://www.wikidex.net/wiki/Energibola) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
+| [Cabezazo zen](https://www.wikidex.net/wiki/Cabezazo_zen) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Hierba lazo](https://www.wikidex.net/wiki/Hierba_lazo) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Cambio de Banda](https://www.wikidex.net/wiki/Cambio_de_Banda) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Brillo mágico](https://www.wikidex.net/wiki/Brillo_mágico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Triturar](https://www.wikidex.net/wiki/Triturar) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Cabeza de hierro](https://www.wikidex.net/wiki/Cabeza_de_hierro) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| [Carantoña](https://www.wikidex.net/wiki/Carantoña) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Disparo espejo](https://www.wikidex.net/wiki/Disparo_espejo) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| [Defensa férrea](https://www.wikidex.net/wiki/Defensa_férrea) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| [Sombra vil](https://www.wikidex.net/wiki/Sombra_vil) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Viento feérico](https://www.wikidex.net/wiki/Viento_feérico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Fuerza lunar](https://www.wikidex.net/wiki/Fuerza_lunar) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
 {% endtab %}
 
 {% tab title="MTs de Kalos" %}
@@ -223,32 +258,32 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="MTs de Hoenn" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-| Paz mental          | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Tóxico              | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png)    |
-| Poder oculto        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Día soleado         | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png)    |
-| Mofa                | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
-| Hiperrayo           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Pantalla de luz     | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Protección          | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Danza lluvia        | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png)    |
-| Velo sagrado        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Frustración         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Rayo                | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png)    |
-| Retribución         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Psíquico            | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Bola sombra         | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png)    |
-| Doble equipo        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Reflejo             | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Onda voltio         | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png)    |
-| Tormento            | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
-| Imagen              | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Daño secreto        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Descanso            | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Atracción           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
-| Ladrón              | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
-| Intercambio         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Robo                | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Día soleado](https://www.wikidex.net/wiki/Día_soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Mofa](https://www.wikidex.net/wiki/Mofa) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Pantalla de luz](https://www.wikidex.net/wiki/Pantalla_de_luz) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza lluvia](https://www.wikidex.net/wiki/Danza_lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Velo sagrado](https://www.wikidex.net/wiki/Velo_sagrado) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Frustración](https://www.wikidex.net/wiki/Frustración) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Rayo](https://www.wikidex.net/wiki/Rayo) | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| [Retribución](https://www.wikidex.net/wiki/Retribución) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Reflejo](https://www.wikidex.net/wiki/Reflejo) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Onda voltio](https://www.wikidex.net/wiki/Onda_voltio) | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png) |
+| [Tormento](https://www.wikidex.net/wiki/Tormento) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Imagen](https://www.wikidex.net/wiki/Imagen) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Daño secreto](https://www.wikidex.net/wiki/Daño_secreto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Ladrón](https://www.wikidex.net/wiki/Ladrón) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Intercambio](https://www.wikidex.net/wiki/Intercambio) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Robo](https://www.wikidex.net/wiki/Robo) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 {% endtab %}
 
 {% endtabs %}
