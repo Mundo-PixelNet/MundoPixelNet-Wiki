@@ -383,7 +383,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Pokémon Legendarios y Singulares
 
-|Icono   |Nombre  |Precio   |Naturaleza favorable|
+|Sprite   |Nombre  |Precio   |Naturaleza favorable|
 | - | - | - | - |
 |![Articuno](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
 |   |Articuno Galar   |   |   |
@@ -391,7 +391,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |Zapdos Galar   |   |   |
 |   |Moltres   |   |   |
 |   |Moltres Galar   |   |   |
-|   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |   |
+|![Mew](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEW.png)   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |   |
 |   |Mewtwo   |   |   |
 |   |Raikou   |   |   |
 |   |Entei   |   |   |
@@ -412,9 +412,9 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |Regigigas   |   |   |
 |   |Heatran   |   |   |
 |   |Cresselia   |   |   |
-|   |Uxie c/g<br>Uxie s/g   |400K<br>380K   |   |
-|   |Azelf   |   |   |
-|   |Mesprit   |   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  |   |
+|   |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |   |
+|   |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |   |
 |   |Dialga   |   |   |
 |   |Palkia   |   |   |
 |   |Giratina   |   |   |
@@ -423,6 +423,34 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |Shaymin   |   |   |
 |   |Darkrai   |   |   |
 |   |Arceus   |   |   |
+|   |Virizion   |   |   |
+|   |Cobalion   |   |   |
+|   |Terrakion   |   |   |
+|   |Tornadus   |   |   |
+|   |Landorus   |   |   |
+|   |Thundurus   |   |   |
+|   |Zekrom   |   |   |
+|   |Reshiram   |   |   |
+|   |Kyurem   |   |   |
+|   |Kyurem Negro y Blanco |   |   |
+|   |Victini   |   |   |
+|   |Keldeo   |   |   |
+|   |Meloetta   |   |   |
+|   |Genesect   |   |   |
+|   |Xerneas   |   |   |
+|   |Yveltal   |   |   |
+|   |Zygarde (10%)  |   |   |
+|   |Zygarde (50%)  |   |   |
+|   |Zygarde (100%)   |   |   |
+|   |Diancie   |   |   |
+|   |Hoopa   |   |   |
+|   |Hoopa + Vasija   |   |   |
+|   |Volcanion   |   |   |
+|   |Cosmog   |   |   |
+|   |Cosmoem   |   |   |
+|   |Solgaleo   |   |   |
+|   |Lunala   |   |   |
+|   |Necrozma   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
@@ -434,6 +462,12 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
+
+
 
 
 # Pokémon Paradojas
