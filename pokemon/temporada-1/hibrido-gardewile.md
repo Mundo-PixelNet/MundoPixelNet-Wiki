@@ -109,7 +109,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | [Don Natural](https://www.wikidex.net/wiki/Don_Natural) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | [Divide Dolor](https://www.wikidex.net/wiki/Divide_Dolor) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
 | [Colmillo Veneno](https://www.wikidex.net/wiki/Colmillo_Veneno) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
-| [Más Psique](https://www.wikidex.net/wiki/Más_Psique)( | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Más Psique](https://www.wikidex.net/wiki/Más_Psique) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | [Castigo](https://www.wikidex.net/wiki/Castigo) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 | [Retribución](https://www.wikidex.net/wiki/Retribución) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | [Golpe Roca](https://www.wikidex.net/wiki/Golpe_Roca) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
