@@ -437,8 +437,8 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KELDEO.png)   |Keldeo   |200K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MELOETTA.png)   |Meloetta   |300K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GENESECT.png)   |Genesect   |350K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GENESECT.png)   |Xerneas   |650K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GENESECT.png)   |Yveltal   |1M   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/XERNEAS.png)   |Xerneas   |650K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/YVELTAL.png)   |Yveltal   |1M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZYGARDE_1.png)   |Zygarde (10%)  |150K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZYGARDE.png)   |Zygarde (50%)  |550K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZYGARDE_2.png)   |Zygarde (100%)   |1M   |   |
