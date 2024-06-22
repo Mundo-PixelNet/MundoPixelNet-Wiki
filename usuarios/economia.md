@@ -386,127 +386,134 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |Sprite   |Nombre  |Precio   |Naturaleza favorable|
 | - | - | - | - |
 |![Articuno](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
-|   |Articuno Galar   |   |   |
-|   |Zapdos   |   |   |
-|   |Zapdos Galar   |   |   |
-|   |Moltres   |   |   |
-|   |Moltres Galar   |   |   |
+|   |Articuno Galar   |400K   |   |
+|   |Zapdos   |150K   |   |
+|   |Zapdos Galar   |400K   |   |
+|   |Moltres   |150K    |   |
+|   |Moltres Galar   |400K   |   |
 |![Mew](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MEW.png)   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |   |
-|   |Mewtwo   |   |   |
-|   |Raikou   |   |   |
-|   |Entei   |   |   |
-|   |Suicune   |   |   |
-|   |Lugia   |   |   |
-|   |Ho-Oh   |   |   |
-|   |Celebi   |   |   |
-|   |Regirock   |   |   |
-|   |Regice   |   |   |
-|   |Registel   |   |   |
-|   |Latias   |   |   |
-|   |Latios   |   |   |
-|   |Kyogre   |   |   |
-|   |Groudon   |   |   |
-|   |Rayquaza   |   |   |
-|   |Jirachi   |   |   |
-|   |Deoxys   |   |   |
-|   |Regigigas   |   |   |
-|   |Heatran   |   |   |
-|   |Cresselia   |   |   |
+|   |Mewtwo   |700K   |   |
+|   |Raikou   |250K   |   |
+|   |Entei   |150K   |   |
+|   |Suicune   |250K   |   |
+|   |Lugia   |300K   |   |
+|   |Ho-Oh   |300K   |   |
+|   |Celebi   |500K   |   |
+|   |Regirock   |450K   |   |
+|   |Regice   |450K   |   |
+|   |Registel   |450K   |   |
+|   |Latias   |650K   |   |
+|   |Latios   |650K   |   |
+|   |Kyogre   |800K   |   |
+|   |Groudon   |800K   |   |
+|   |Rayquaza   |900K   |   |
+|   |Jirachi   |1M   |   |
+|   |Deoxys   |900K   |   |
+|   |Regigigas   |800K   |   |
+|   |Heatran   |750K   |   |
+|   |Cresselia   |1M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  |   |
 |   |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |   |
 |   |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |   |
-|   |Dialga   |   |   |
-|   |Palkia   |   |   |
-|   |Giratina   |   |   |
-|   |Phione   |   |   |
-|   |Manaphy   |   |   |
-|   |Shaymin   |   |   |
-|   |Darkrai   |   |   |
-|   |Arceus   |   |   |
-|   |Virizion   |   |   |
-|   |Cobalion   |   |   |
-|   |Terrakion   |   |   |
-|   |Tornadus   |   |   |
-|   |Landorus   |   |   |
-|   |Thundurus   |   |   |
-|   |Zekrom   |   |   |
-|   |Reshiram   |   |   |
-|   |Kyurem   |   |   |
-|   |Kyurem Negro y Blanco |   |   |
-|   |Victini   |   |   |
-|   |Keldeo   |   |   |
-|   |Meloetta   |   |   |
-|   |Genesect   |   |   |
-|   |Xerneas   |   |   |
-|   |Yveltal   |   |   |
-|   |Zygarde (10%)  |   |   |
-|   |Zygarde (50%)  |   |   |
-|   |Zygarde (100%)   |   |   |
-|   |Diancie   |   |   |
-|   |Hoopa   |   |   |
-|   |Hoopa + Vasija   |   |   |
-|   |Volcanion   |   |   |
-|   |Cosmog   |   |   |
-|   |Cosmoem   |   |   |
-|   |Solgaleo   |   |   |
-|   |Lunala   |   |   |
-|   |Necrozma   |   |   |
-|   |Necrozma Melena Crepuscular   |   |   |
-|   |Necrozma Alas del Alba   |   |   |
-|   |Código Cero   |   |   |
-|   |Silvally   |   |   |
-|   |Tapu Koko   |   |   |
-|   |Tapu Lele   |   |   |
-|   |Tapu Bulu   |   |   |
-|   |Tapu Fini   |   |   |
-|   |Magearna   |   |   |
-|   |Marshadow   |   |   |
-|   |Zeraora   |   |   |
-|   |Meltan   |   |   |
-|   |Melometan   |   |   |
-|   |Zacian   |   |   |
-|   |Zamazenta   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-
-
-
-
-
+|   |Dialga   |500K   |   |
+|   |Palkia   |500K   |   |
+|   |Giratina   |500K   |   |
+|   |Phione   |50K   |   |
+|   |Manaphy   |150K   |   |
+|   |Shaymin   |550K   |   |
+|   |Darkrai   |1.2M   |   |
+|   |Arceus   |650K   |   |
+|   |Virizion   |250K   |   |
+|   |Cobalion   |300K   |   |
+|   |Terrakion   |300K   |   |
+|   |Tornadus   |600K   |   |
+|   |Landorus   |900K   |   |
+|   |Thundurus   |550K   |   |
+|   |Zekrom   |800K   |   |
+|   |Reshiram   |800K    |   |
+|   |Kyurem   |900K   |   |
+|   |Kyurem Negro y Blanco |1.7M   |   |
+|   |Victini   |350K   |   |
+|   |Keldeo   |200K   |   |
+|   |Meloetta   |300K   |   |
+|   |Genesect   |350K   |   |
+|   |Xerneas   |650K   |   |
+|   |Yveltal   |1M   |   |
+|   |Zygarde (10%)  |150K   |   |
+|   |Zygarde (50%)  |550K   |   |
+|   |Zygarde (100%)   |1M   |   |
+|   |Diancie   |750K   |   |
+|   |Hoopa   |400K   |   |
+|   |Hoopa + Vasija   |500K   |   |
+|   |Volcanion   |1M   |   |
+|   |Cosmog   |850K   |   |
+|   |Cosmoem   |800K   |   |
+|   |Solgaleo   |700K   |   |
+|   |Lunala   |700K   |   |
+|   |Necrozma   |450K   |   |
+|   |Necrozma Melena Crepuscular   |1.1M   |   |
+|   |Necrozma Alas del Alba   |1.1M   |   |
+|   |Código Cero   |400K   |   |
+|   |Silvally   |500K   |   |
+|   |Tapu Koko   |650K   |   |
+|   |Tapu Lele   |400K   |   |
+|   |Tapu Bulu   |250K   |   |
+|   |Tapu Fini   |500K   |   |
+|   |Magearna   |750K   |   |
+|   |Marshadow   |700K   |   |
+|   |Zeraora   |700K   |   |
+|   |Meltan   |200K   |   |
+|   |Melometan   |350K   |   |
+|   |Zacian (Sin espada)  |250K   |   |
+|   |Zacian (Con espada)  |300K   |   |
+|   |Zamazenta (Sin escudo)   |250K   |   |
+|   |Zamazenta (Con escudo)   |300K   |   |
+|   |Eternatus   |450K   |   |
+|   |Kubfu   |900K   |   |
+|   |Urshifu Brusco   |800K   |   |
+|   |Urshifu Fluido |800K   |   |
+|   |Zarude   |400K   |   |
+|   |Glastrier   |400K   |   |
+|   |Spectrier   |400K   |   |
+|   |Calyrex   |600K   |   |
+|   |Regieleki   |1.5M   |   |
+|   |Regidrago   |1.5M   |   |
+|   |Enamorus   |650K   |   |
+|   |Chien-Pao   |800K   |   |
+|   |Chi-Yu   |800K   |   |
 
 # Pokémon Paradojas
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Ferrohojas   |1.1M   |   |
+|   |Ferropolilla   |1.1M   |   |
+|   |Ferropúas   |1.1M   |   |
+|   |Ondulagua   |1.1M   |   |
 
 # Pokémon Ultraentes
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Nihilego   |200K   |   |
+|   |Buzzwole   |200K   |   |
+|   |Pheromosa   |300K   |   |
+|   |Xurkitree   |400K   |   |
+|   |Celesteela   |400K   |   |
+|   |Kartana   |600K   |   |
+|   |Guzzlord   |150K   |   |
+|   |Poipole   |400K   |   |
+|   |Naganadel   |300K   |   |
+|   |Stakataka   |250K   |   |
+|   |Blacephalon   |500K   |   |
+
 
 # Pokémon Especiales
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Greninja Ash   |   |   |
+
 
 # Precios de Crianza
 Los Pokémon **siempre se venden castrados**, El precio mínimo va sumando según si tiene estas características:
