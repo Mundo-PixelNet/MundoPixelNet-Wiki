@@ -305,7 +305,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Fósiles (por unidad)
 
-|Icono   |Nombre  |Precio   |Descripción|
+|Icono   |Nombre  |Precio   |Resultado Fósil|
 | - | - | - | - |
 |   |Fósil Hélix   |20K   |Omanyte   |
 |   |Fósil Domo  |20K   |Kabuto   |
@@ -326,11 +326,46 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Cristales Z
 
-|Icono   |Nombre  |Precio   |Descripción|
+|Icono   |Nombre  |Precio   |Tipo|
 | - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|   |Metalostal Z  |   |   |
+|   |Hidrostal Z   |   |   |
+|   |Insectostal Z   |   |   |
+|   |Dracostal Z   |   |   |
+|   |Electrostal Z   |   |   |
+|   |Espectrostal Z   |   |   |
+|   |Pirostal Z   |   |   |
+|   |Feeristal Z   |   |   |
+|   |Criostal Z   |   |   |
+|   |Lizastal Z   |   |   |
+|   |Normalstal Z   |   |   |
+|   |Fitostal Z   |   |   |
+|   |Psicostal Z   |   |   |
+|   |Litostal Z   |   |   |
+|   |Nicostal Z   |   |   |
+|   |Geostal Z   |   |   |
+|   |Toxistal Z   |   |   |
+|   |Aerostal Z   |   |   |
+|   |Pikastal Z   |   |   |
+|   |Alo-Raistal Z   |   |   |
+|   |Eeveestal Z   |   |   |
+|   |Snorlastal Z   |   |   |
+|   |Dueyestal Z   |   |   |
+|   |Incinostal Z   |   |   |
+|   |Primastal Z   |   |   |
+|   |Tapistal Z   |   |   |
+|   |Mewstal Z   |   |   |
+|   |Ash-Pikastal Z   |   |   |
+|   |Marshastal Z   |   |   |
+|   |Kommostal Z   |   |   |
+|   |Lycanrostal Z   |   |   |
+|   |Mimikyustal Z   |   |   |
+|   |Solgaleostal Z   |   |   |
+|   |Lunalastal Z   |   |   |
+|   |Ultranecrostal Z   |   |   |
+
+
+
 
 # Discos de Silvally
 
@@ -346,13 +381,60 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 | - | - | - | - |
 |   |Todos    |valen   |10k   |
 
-# Pokémon Legendarios
+# Pokémon Legendarios y Singulares
 
 |Icono   |Nombre  |Precio   |Naturaleza favorable|
 | - | - | - | - |
-|![Mod Shiny](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
+|![Articuno](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
+|   |Articuno Galar   |   |   |
+|   |Zapdos   |   |   |
+|   |Zapdos Galar   |   |   |
+|   |Moltres   |   |   |
+|   |Moltres Galar   |   |   |
+|   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |   |
+|   |Mewtwo   |   |   |
+|   |Raikou   |   |   |
+|   |Entei   |   |   |
+|   |Suicune   |   |   |
+|   |Lugia   |   |   |
+|   |Ho-Oh   |   |   |
+|   |Celebi   |   |   |
+|   |Regirock   |   |   |
+|   |Regice   |   |   |
+|   |Registel   |   |   |
+|   |Latias   |   |   |
+|   |Latios   |   |   |
+|   |Kyogre   |   |   |
+|   |Groudon   |   |   |
+|   |Rayquaza   |   |   |
+|   |Jirachi   |   |   |
+|   |Deoxys   |   |   |
+|   |Regigigas   |   |   |
+|   |Heatran   |   |   |
+|   |Cresselia   |   |   |
+|   |Uxie c/g<br>Uxie s/g   |400K<br>380K   |   |
+|   |Azelf   |   |   |
+|   |Mesprit   |   |   |
+|   |Dialga   |   |   |
+|   |Palkia   |   |   |
+|   |Giratina   |   |   |
+|   |Phione   |   |   |
+|   |Manaphy   |   |   |
+|   |Shaymin   |   |   |
+|   |Darkrai   |   |   |
+|   |Arceus   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
 
 # Pokémon Paradojas
 
