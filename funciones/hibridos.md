@@ -82,7 +82,7 @@ Capaz quieres crear un Híbrido con IVs perfectos y pones a tu Lucario 100%. Per
 
 Por último, **los IVs del Híbrido creado serán del Pokémon usado con mayor porcentaje de IVs**.
 
-## Hibridos
+## 📖 Lista de Híbridos
 
 Estos son los híbridos disponibles actualmente:
 
