@@ -177,4 +177,152 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | [Psicocolmillo](https://www.wikidex.net/wiki/Psicocolmillo) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 {% endtab %}
 
+{% tab title="MTs de Alola" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Día soleado](https://www.wikidex.net/wiki/Día_soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza lluvia](https://www.wikidex.net/wiki/Danza_lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Canon](https://www.wikidex.net/wiki/Canon) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Gigaimpacto](https://www.wikidex.net/wiki/Gigaimpacto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Autosugestión](https://www.wikidex.net/wiki/Autosugestión) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Comesueños](https://www.wikidex.net/wiki/Comesueños) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Contoneo](https://www.wikidex.net/wiki/Contoneo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sonámbulo](https://www.wikidex.net/wiki/Sonámbulo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sustituto](https://www.wikidex.net/wiki/Sustituto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Espacio raro](https://www.wikidex.net/wiki/Espacio_raro) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Brillo mágico](https://www.wikidex.net/wiki/Brillo_mágico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Psicocarga](https://www.wikidex.net/wiki/Psicocarga) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+{% endtab %}
+
+{% tab title="MTs de Kalos" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Día soleado](https://www.wikidex.net/wiki/Día_soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza lluvia](https://www.wikidex.net/wiki/Danza_lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Canon](https://www.wikidex.net/wiki/Canon) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Gigaimpacto](https://www.wikidex.net/wiki/Gigaimpacto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Autosugestión](https://www.wikidex.net/wiki/Autosugestión) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Comesueños](https://www.wikidex.net/wiki/Comesueños) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Contoneo](https://www.wikidex.net/wiki/Contoneo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sonámbulo](https://www.wikidex.net/wiki/Sonámbulo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sustituto](https://www.wikidex.net/wiki/Sustituto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Espacio raro](https://www.wikidex.net/wiki/Espacio_raro) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Brillo mágico](https://www.wikidex.net/wiki/Brillo_mágico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| [Psicocarga](https://www.wikidex.net/wiki/Psicocarga) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+{% endtab %}
+
+{% tab title="MTs de Tesselia" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Día soleado](https://www.wikidex.net/wiki/Día_soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza lluvia](https://www.wikidex.net/wiki/Danza_lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Canon](https://www.wikidex.net/wiki/Canon) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Gigaimpacto](https://www.wikidex.net/wiki/Gigaimpacto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Autosugestión](https://www.wikidex.net/wiki/Autosugestión) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Comesueños](https://www.wikidex.net/wiki/Comesueños) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Contoneo](https://www.wikidex.net/wiki/Contoneo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sustituto](https://www.wikidex.net/wiki/Sustituto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Espacio raro](https://www.wikidex.net/wiki/Espacio_raro) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Psicocarga](https://www.wikidex.net/wiki/Psicocarga) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+{% endtab %}
+
+{% tab title="MTs de Sinnoh" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Día soleado](https://www.wikidex.net/wiki/Día_soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza lluvia](https://www.wikidex.net/wiki/Danza_lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Canon](https://www.wikidex.net/wiki/Canon) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Gigaimpacto](https://www.wikidex.net/wiki/Gigaimpacto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Autosugestión](https://www.wikidex.net/wiki/Autosugestión) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Comesueños](https://www.wikidex.net/wiki/Comesueños) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Contoneo](https://www.wikidex.net/wiki/Contoneo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sonámbulo](https://www.wikidex.net/wiki/Sonámbulo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sustituto](https://www.wikidex.net/wiki/Sustituto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Espacio raro](https://www.wikidex.net/wiki/Espacio_raro) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+{% endtab %}
+
+{% tab title="MTs de Hoenn" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Día soleado](https://www.wikidex.net/wiki/Día_soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza lluvia](https://www.wikidex.net/wiki/Danza_lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Canon](https://www.wikidex.net/wiki/Canon) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Autosugestión](https://www.wikidex.net/wiki/Autosugestión) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Contoneo](https://www.wikidex.net/wiki/Contoneo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sonámbulo](https://www.wikidex.net/wiki/Sonámbulo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Sustituto](https://www.wikidex.net/wiki/Sustituto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+{% endtab %}
+
+{% tab title="MTs de Johto" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
+| [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico) | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) |
+| [Poder oculto](https://www.wikidex.net/wiki/Poder_oculto) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Día soleado](https://www.wikidex.net/wiki/Día_soleado) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Hiperrayo](https://www.wikidex.net/wiki/Hiperrayo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Protección](https://www.wikidex.net/wiki/Protección) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Danza lluvia](https://www.wikidex.net/wiki/Danza_lluvia) | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png) |
+| [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Bola sombra](https://www.wikidex.net/wiki/Bola_sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Comesueños](https://www.wikidex.net/wiki/Comesueños) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Sonámbulo](https://www.wikidex.net/wiki/Sonámbulo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Descanso](https://www.wikidex.net/wiki/Descanso) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Atracción](https://www.wikidex.net/wiki/Atracción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Canon](https://www.wikidex.net/wiki/Canon) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Autosugestión](https://www.wikidex.net/wiki/Autosugestión) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Contoneo](https://www.wikidex.net/wiki/Contoneo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+{% endtab %}
+
 {% endtabs %}
