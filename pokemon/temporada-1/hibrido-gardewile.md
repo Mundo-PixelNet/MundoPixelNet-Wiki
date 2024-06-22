@@ -2,7 +2,7 @@
 
 ## Información
 
-**Gardewile** es un [Pokémon híbrido](hibrido-mismapeon.md) de tipo [psíquico](https://www.wikidex.net/wiki/Tipo_psiquico)/[hada](https://www.wikidex.net/wiki/Tipo_Hada) introducido en la [Temporada Mística (1)](./). Es la fusión de Gardevoir y Mawile.
+**Gardewile** es un [Pokémon híbrido](../../funciones/hibridos.md) de tipo [psíquico](https://www.wikidex.net/wiki/Tipo_psiquico)/[hada](https://www.wikidex.net/wiki/Tipo_Hada) introducido en la [Temporada Mística (1)](./). Es la fusión de Gardevoir y Mawile.
 
 |                     **Artwork** | ![Artwork de Gardewile](../../images/pokemon/temporada-1/Gardewile.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
