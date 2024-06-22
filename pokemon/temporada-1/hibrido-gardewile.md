@@ -313,7 +313,6 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="MTs de Tesselia" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-
 {% endtab %}
 
 {% tab title="MTs de Sinnoh" %}
