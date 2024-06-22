@@ -232,23 +232,23 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Pantalla de luz     | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
 | Protección          | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
 | Danza lluvia        | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png)    |
-| Velo sagrado        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Frustración         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Rayo                | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Retribución         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
+| Velo sagrado        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
+| Frustración         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
+| Rayo                | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png)    |
+| Retribución         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
 | Psíquico            | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Bola sombra         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Doble equipo        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
+| Bola sombra         | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png)    |
+| Doble equipo        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
 | Reflejo             | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Onda voltio         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Tormento            | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Imagen              | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Daño secreto        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
+| Onda voltio         | ![tipo electrico](../../images/pokemon/tipos/tipo_electrico.png)    |
+| Tormento            | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
+| Imagen              | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
+| Daño secreto        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
 | Descanso            | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Atracción           | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Ladrón              | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
+| Atracción           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
+| Ladrón              | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
 | Intercambio         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Robo                | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
+| Robo                | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
 {% endtab %}
 
 {% endtabs %}
