@@ -2,7 +2,7 @@
 
 ## Información
 
-**Cerullade** es un [Pokémon híbrido](../funciones/hibridos.md) de tipo [fantasma](https://www.wikidex.net/wiki/Tipo_fantasma)/[fuego](https://www.wikidex.net/wiki/Tipo_fuego) introducido en la [Temporada Mística (1)](./). Es la fusión de Ceruledge y Gallade.
+**Cerullade** es un [Pokémon híbrido](../../funciones/hibridos.md) de tipo [fantasma](https://www.wikidex.net/wiki/Tipo_fantasma)/[fuego](https://www.wikidex.net/wiki/Tipo_fuego) introducido en la [Temporada Mística (1)](./). Es la fusión de Ceruledge y Gallade.
 
 |                     **Artwork** | ![Artwork de Cerullade](../../images/pokemon/temporada-1/Cerullade.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
