@@ -224,14 +224,14 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Movimiento | Tipo |
 | :----------: | :----: |
 | Paz mental          | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Tóxico              | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Poder oculto        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Día soleado         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Mofa                | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Hiperrayo           | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
+| Tóxico              | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png)    |
+| Poder oculto        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
+| Día soleado         | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png)    |
+| Mofa                | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)    |
+| Hiperrayo           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
 | Pantalla de luz     | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Protección          | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
-| Danza lluvia        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
+| Protección          | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)    |
+| Danza lluvia        | ![tipo agua](../../images/pokemon/tipos/tipo_agua.png)    |
 | Velo sagrado        | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
 | Frustración         | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
 | Rayo                | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)    |
