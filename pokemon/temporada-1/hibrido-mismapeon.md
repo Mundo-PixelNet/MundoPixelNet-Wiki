@@ -2,12 +2,12 @@
 
 ## Información
 
-**Mismapeon** es un [Pokémon híbrido](hibrido-mismapeon.md) de tipo [psíquico](https://www.wikidex.net/wiki/Tipo\_ps%C3%ADquico)/[fantasma](https://www.wikidex.net/wiki/Tipo\_fantasma) introducido en la [Temporada Mística (1)](./). Es la fusión de Mismagius y Espeon.
+**Mismapeon** es un [Pokémon híbrido](../funciones/hibridos.md) de tipo [psíquico](https://www.wikidex.net/wiki/Tipo\_ps%C3%ADquico)/[fantasma](https://www.wikidex.net/wiki/Tipo\_fantasma) introducido en la [Temporada Mística (1)](./). Es la fusión de Mismagius y Espeon.
 
 |                     **Artwork** | ![](../../images/pokemon/temporada-1/Mismapeon.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Mismapeon](../../images/pokemon/temporada-1/Mismapeon-sprite.png)                                                          |
-| [Híbrido](hibrido-mismapeon.md) | Mismagius y Espeon                                                                                                                     |
+| [Híbrido](../funciones/hibridos.md) | Mismagius y Espeon                                                                                                                     |
 |                           Tipos | ![Tipo psiquico](../../images/pokemon/tipos/tipo\_psiquico.png) ![Tipo fantasma](../../images/pokemon/tipos/tipo\_fantasma.png)        |
 |                     Habilidades | <p><a href="https://www.wikidex.net/wiki/Sincron%C3%ADa">Sincronía</a><br><a href="https://www.wikidex.net/wiki/Filtro">Filtro</a></p> |
 |                     Hab. oculta | [Espejo mágico](https://www.wikidex.net/wiki/Espejo\_m%C3%A1gic)                                                                       |
