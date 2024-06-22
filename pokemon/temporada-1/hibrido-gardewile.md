@@ -13,7 +13,7 @@
 |                     Hab. oculta | [Piel Feérica](https://www.wikidex.net/wiki/Piel_fe%C3%A9rica)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
-Segun artefactos antiguos, los nobles de la ciudad de Etheria solian vivir con este especimen debido a su elegante personalidad.
+Según artefactos antiguos, los nobles de la ciudad de Etheria solían vivir con este espécimen debido a su elegante personalidad.
 
 ## Formas
 
