@@ -80,10 +80,60 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Movimientos por tutor" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-| Triple Axel | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
-| Envidia ardiente | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Desahogo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| Golpe rastrero | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| Antojo           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Golpe Bis        | ![tipo dragón](../../images/pokemon/tipos/tipo_dragon.png)     |
+| Fuerza Tierra    | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png)      |
+| Esfuerzo         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Puño Fuego       | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png)        |
+| Puño Certero     | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| Juego Sucio      | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Hiperrayo        | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Defensa Férrea   | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)        |
+| Cabeza de Hierro | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)        |
+| Cola Férrea      | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)        |
+| Enfoque Láser    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Última Baza      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Enfado           | ![tipo dragón](../../images/pokemon/tipos/tipo_dragon.png)      |
+| Ronquido         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Trampa Rocas     | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png)          |
+| Pataleo          | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png)      |
+| Golpe Mordaza    | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Puño Trueno      | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
+| Alboroto         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Cabezazo Zen     | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
+| Entrenamiento    | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| Rayo Acero       | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png)        |
+| Pulso Campo      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Cautivar         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Antojo           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Garra Brutal     | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Voz Cautivadora  | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Frustración      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Poder Oculto     | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Rastro           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Retribución      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Treparrocas      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Pulimento        | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png)          |
+| Contoneo         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Tóxico           | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png)      |
+| Cautivar         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Doble Equipo     | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Golpe Bis        | ![tipo dragón](../../images/pokemon/tipos/tipo_dragon.png)      |
+| Puño Certero     | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| Sígueme          | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Profecía         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Juego de Rol     | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png)  |
+| Corte Furia      | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png)        |
+| Golpe Cabeza     | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Afilagarras      | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| Levitón          | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
+| Yo Primero       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Bofetón Lodo     | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png)      |
+| Don Natural      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Rugido           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Poder Secreto    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| Gancho Alto      | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| Fuerza           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
 {% endtab %}
 {% endtabs %}
 
