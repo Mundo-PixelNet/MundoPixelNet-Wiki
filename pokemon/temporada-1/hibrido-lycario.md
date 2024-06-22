@@ -27,7 +27,7 @@ Los jóvenes que deambulan por la noche a menudo confunden a este espécimen con
 
 ## Obtención
 
-*No disponible por el momento*
+Este es un Pokémon híbrido, que se obtiene de forma especial como se explica en: [🧬 Híbridos](../../funciones/hibridos.md)
 
 ## Características base
 
