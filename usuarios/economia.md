@@ -451,6 +451,21 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |Solgaleo   |   |   |
 |   |Lunala   |   |   |
 |   |Necrozma   |   |   |
+|   |Necrozma Melena Crepuscular   |   |   |
+|   |Necrozma Alas del Alba   |   |   |
+|   |Código Cero   |   |   |
+|   |Silvally   |   |   |
+|   |Tapu Koko   |   |   |
+|   |Tapu Lele   |   |   |
+|   |Tapu Bulu   |   |   |
+|   |Tapu Fini   |   |   |
+|   |Magearna   |   |   |
+|   |Marshadow   |   |   |
+|   |Zeraora   |   |   |
+|   |Meltan   |   |   |
+|   |Melometan   |   |   |
+|   |Zacian   |   |   |
+|   |Zamazenta   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
@@ -463,8 +478,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
 
 
 
