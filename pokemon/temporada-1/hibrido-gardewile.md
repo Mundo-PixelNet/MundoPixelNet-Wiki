@@ -52,30 +52,30 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Movimientos por nivel" %}
 | Nivel | Movimiento | Tipo |
 | :-----: | :----------: | :----: |
-| 1 | Gruñido | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Impresionar | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 1 | Campo de niebla | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 1 | Deseo cura | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 1 | Encanto | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 1 | Pulso cura | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 1 | Doble equipo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Voz cautivadora | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 1 | Confusión | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 4 | Viento feérico | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 8 | Relevo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 12 | Fuerza lunar | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 16 | Brillo mágico | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 20 | Defensa férrea | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
-| 24 | Triturar | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 28 | Psíquico | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 32 | Cabeza de hierro | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
-| 36 | Beso dulce | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 40 | Premonición | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 44 | Carantoña | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 48 | Luz lunar | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
-| 52 | Paz mental | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 56 | Psicocolmillo | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 60 | Golpe bajo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| 1 | [Gruñido](https://www.wikidex.net/wiki/Gruñido) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Impresionar](https://www.wikidex.net/wiki/Impresionar) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| 1 | [Campo de niebla](https://www.wikidex.net/wiki/Campo_de_niebla) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | [Deseo cura](https://www.wikidex.net/wiki/Deseo_cura) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 1 | [Encanto](https://www.wikidex.net/wiki/Encanto) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | [Pulso cura](https://www.wikidex.net/wiki/Pulso_cura) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 1 | [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Voz cautivadora](https://www.wikidex.net/wiki/Voz_cautivadora) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 1 | [Confusión](https://www.wikidex.net/wiki/Confusión) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 4 | [Viento feérico](https://www.wikidex.net/wiki/Viento_feérico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 8 | [Relevo](https://www.wikidex.net/wiki/Relevo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 12 | [Fuerza lunar](https://www.wikidex.net/wiki/Fuerza_lunar) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 16 | [Brillo mágico](https://www.wikidex.net/wiki/Brillo_mágico) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 20 | [Defensa férrea](https://www.wikidex.net/wiki/Defensa_férrea) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| 24 | [Triturar](https://www.wikidex.net/wiki/Triturar) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| 28 | [Psíquico](https://www.wikidex.net/wiki/Psíquico) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 32 | [Cabeza de hierro](https://www.wikidex.net/wiki/Cabeza_de_hierro) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| 36 | [Beso dulce](https://www.wikidex.net/wiki/Beso_dulce) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 40 | [Premonición](https://www.wikidex.net/wiki/Premonición) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 44 | [Carantoña](https://www.wikidex.net/wiki/Carantoña) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 48 | [Luz lunar](https://www.wikidex.net/wiki/Luz_lunar) | ![tipo hada](../../images/pokemon/tipos/tipo_hada.png) |
+| 52 | [Paz mental](https://www.wikidex.net/wiki/Paz_mental) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 56 | [Psicocolmillo](https://www.wikidex.net/wiki/Psicocolmillo) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 60 | [Golpe bajo](https://www.wikidex.net/wiki/) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 {% endtab %}
 
 {% tab title="Movimientos por tutor" %}
