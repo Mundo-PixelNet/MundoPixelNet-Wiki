@@ -16,6 +16,6 @@ Esta Temporada introduce los [**Pokémon Híbridos**](../../funciones/hibridos.m
 
   | Gratis | Premium |
   | :----: | :----: |
-  | [Milotic Primordial](pase-milotic-primordial.md) ![Sprite de Milotic Primordial](../../images/pokemon/temporada-1/Primordial1-sprite.png)| |
+  | [Milotic Primordial](pase-milotic-primordial.md) ![Sprite de Milotic Primordial](../../images/pokemon/temporada-1/Primordial1-sprite.png) | [Milotic Primordial](pase-milotic-primordial.md) ![Sprite de Milotic Primordial](../../images/pokemon/temporada-1/Primordial1-sprite.png) |
   | | |
   | | |
