@@ -8,6 +8,8 @@
 |                  **Sprite** | ![Sprite de Vulpix Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar1-sprite.png) ![Sprite de Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar2-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
+
+### Comentario del desarrollador
 La creación de este skin hace referencia a la criatura mitológica Kitsune además de misticismos relacionados con la luna.
 
 ![Formas de Vulpix y Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar-formas.png)
