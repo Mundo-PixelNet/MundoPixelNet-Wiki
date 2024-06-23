@@ -18,7 +18,7 @@
 Los jóvenes que deambulan por la noche a menudo confunden a este espécimen con la leyenda del hombre lobo, cautivados por su aura misteriosa y su presencia enigmática.
 
 ### Comentario del desarrollador
-La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa.
+La creación de este Pokémon se basó en leyendas de hombres lobo, y por eso le dimos este aspecto misterioso y grotesco al Pokémon.
 
 ## Formas
 
