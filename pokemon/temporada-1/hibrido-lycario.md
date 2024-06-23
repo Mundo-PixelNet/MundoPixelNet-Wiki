@@ -14,7 +14,7 @@
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 
-### Descripcion
+### Descripción
 Los jóvenes que deambulan por la noche a menudo confunden a este espécimen con la leyenda del hombre lobo, cautivados por su aura misteriosa y su presencia enigmática.
 
 ### Comentario del desarrollador
