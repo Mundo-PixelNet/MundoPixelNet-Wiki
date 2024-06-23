@@ -11,7 +11,7 @@ A través de este sistema que hemos creado puedes elegir el estilo de tus pokém
 - Eventos especiales.
 
 <div style="text-align: center">
-<img src="../images/pokemon/temporada-1/Estacional-formas">
+<img src="../../images/pokemon/temporada-1/Estacional-formas">
 </div>
 
 Además, tener en cuenta que si tu pokémon tiene formas exclusivas pero tu no las desbloqueaste tendran un icono de candado e no te dejará elegirlas.
