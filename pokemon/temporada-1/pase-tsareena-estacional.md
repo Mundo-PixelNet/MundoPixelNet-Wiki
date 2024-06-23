@@ -9,6 +9,8 @@
 |                      **Sprite** | ![Sprite de Tsareena Estacional](../../images/pokemon/temporada-1/Estacional1-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
+
+### Comentario del desarrollador
 La creación de esta skin se basa en hadas estacionales, haciendo referencia tanto al tema místico como a los nuevos biomas.
 
 {% hint style="info" %} Esta skin puede cambiar de estilo usando el comando [/estilos](../../funciones/estilos.md).{% endhint %}
