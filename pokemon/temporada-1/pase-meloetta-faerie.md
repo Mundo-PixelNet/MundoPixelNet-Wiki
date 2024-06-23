@@ -19,4 +19,4 @@ La creación de esta skin está basada en las hadas y también en el nuevo bioma
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 100 del pase de paga.
+Esta skin se puede obtener en el nivel 100 del pase premium.
