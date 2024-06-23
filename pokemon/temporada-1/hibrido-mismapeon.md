@@ -98,6 +98,11 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | [Telequinesis](https://www.wikidex.net/wiki/Telequinesis) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 | [Truco](https://www.wikidex.net/wiki/Truco) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 | [Vasta fuerza](https://www.wikidex.net/wiki/Vasta_fuerza) | ![tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+{% endtab %}
+
+{% tab title="Movimientos por tutor de transferencia" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
 | [Venganza](https://www.wikidex.net/wiki/Venganza) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | [Seducción](https://www.wikidex.net/wiki/Seducción) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | [Confidencia](https://www.wikidex.net/wiki/Confidencia) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
