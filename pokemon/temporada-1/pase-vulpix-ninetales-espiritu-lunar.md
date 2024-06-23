@@ -14,4 +14,4 @@ La creación de este skin hace referencia a la criatura mitológica Kitsune adem
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 50 del [pase premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3).
+Esta skin se puede obtener en el nivel 50 del [pase premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3) de la temporada 1.
