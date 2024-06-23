@@ -12,11 +12,11 @@ Esta Temporada introduce los [**Pokémon Híbridos**](../../funciones/hibridos.m
 
 | Hibridos |
 | :------: |
-| [🧬 Cerullade](hibrido-cerullade.md) |
-| [🧬 Gardewile](hibrido-gardewile.md) |
-| [🧬 Lycario](hibrido-lycario.md) |
-| [🧬 Mismapeon](hibrido-mismapeon.md) |
-| [🧬 Zoropunny](hibrido-zoropunny.md) |
+| [🧬 Cerullade](hibrido-cerullade.md) ![Sprite de Cerullade](../../images/pokemon/temporada-1/cerullade-sprite.png)|
+| [🧬 Gardewile](hibrido-gardewile.md) ![Sprite de Gardewile](../../images/pokemon/temporada-1/gardewile-sprite.png)|
+| [🧬 Lycario](hibrido-lycario.md) ![Sprite de Lycario](../../images/pokemon/temporada-1/lycario-sprite.png)|
+| [🧬 Mismapeon](hibrido-mismapeon.md) ![Sprite de Mismapeon](../../images/pokemon/temporada-1/mismapeon-sprite.png)|
+| [🧬 Zoropunny](hibrido-zoropunny.md) ![Sprite de Zoropunny](../../images/pokemon/temporada-1/zoropunny-sprite.png)|
 
 ### Skins del Pase
 
