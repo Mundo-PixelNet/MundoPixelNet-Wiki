@@ -13,7 +13,12 @@
 |                     Hab. oculta | [Piel Feérica](https://www.wikidex.net/wiki/Piel_fe%C3%A9rica)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
+
+### Descripcion
 Según artefactos antiguos, los nobles de la ciudad de Etheria solían vivir con este espécimen debido a su elegante personalidad.
+
+### Comentario del desarrollador
+La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa.
 
 ## Formas
 
