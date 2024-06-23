@@ -13,9 +13,15 @@
 |                     Hab. oculta | [Justiciero](https://www.wikidex.net/wiki/Justiciero)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
+
+### Descripcion
 La personalidad de este espécimen guarda una sorprendente similitud con la de la leyenda de un héroe legendario que salvo a toda Etheria de una criatura dimensional.
 
-## Formas
+## Comentario del desarrollador
+
+La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa.
+
+### Formas
 
 |  Forma |                                            Sprite                                           |
 | :----: | :-----------------------------------------------------------------------------------------: |
