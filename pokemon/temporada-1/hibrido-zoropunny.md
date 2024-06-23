@@ -80,36 +80,41 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Movimientos por tutor" %}
 | Movimiento | Tipo |
 | :----------: | :----: |
-| Triple Axel | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
-| Envidia ardiente | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| Desahogo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| Golpe rastrero | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| Cautivar         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Rayo Carga       | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
-| Confidencia      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Antojo           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Puño Mareo       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Esfuerzo         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Profecía         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Corte Furia      | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png)        |
-| Patada Salto    | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
-| Enfoque Láser    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Bofetón Lodo     | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png)      |
-| Puño Incremento  | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
-| Retribución      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Poder Secreto    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Onda Voltio      | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
-| Contoneo         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Tóxico           | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png)      |
-| Golpe Aéreo      | ![tipo volador](../../images/pokemon/tipos/tipo_volador.png)    |
-| Embargo          | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
-| Ataque Finta     | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
-| Más Psique       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Castigo          | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
-| Persecución      | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
-| Rugido           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
-| Robo             | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
-| Rencor           | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png)  |
+| [Triple Axel](https://www.wikidex.net/wiki/Triple_Axel) | ![tipo hielo](../../images/pokemon/tipos/tipo_hielo.png) |
+| [Envidia ardiente](https://www.wikidex.net/wiki/Envidia_ardiente) | ![tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
+| [Desahogo](https://www.wikidex.net/wiki/Desahogo) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Golpe rastrero](https://www.wikidex.net/wiki/Golpe_rastrero) | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+{% endtab %}
+
+{% tab title="Movimientos por tutor de transferencia" %}
+| Movimiento | Tipo |
+| :----------: | :----: |
+| [Cautivar](https://www.wikidex.net/wiki/Cautivar)         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Rayo Carga](https://www.wikidex.net/wiki/Rayo_Carga)       | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
+| [Confidencia](https://www.wikidex.net/wiki/Confidencia)      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Antojo](https://www.wikidex.net/wiki/)           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Puño Mareo](https://www.wikidex.net/wiki/Puño_Mareo)       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Esfuerzo](https://www.wikidex.net/wiki/Esfuerzo)         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Profecía](https://www.wikidex.net/wiki/Profecía)         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Corte Furia](https://www.wikidex.net/wiki/Corte_Furia)      | ![tipo bicho](../../images/pokemon/tipos/tipo_bicho.png)        |
+| [Patada Salto](https://www.wikidex.net/wiki/Patada_Salto)    | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| [Enfoque Láser](https://www.wikidex.net/wiki/Enfoque_Láser)    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Bofetón Lodo](https://www.wikidex.net/wiki/Bofetón_Lodo)     | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png)      |
+| [Puño Incremento](https://www.wikidex.net/wiki/Puño_Incremento)  | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
+| [Retribución](https://www.wikidex.net/wiki/Retribución)      | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Poder Secreto](https://www.wikidex.net/wiki/Poder_Secreto)    | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Onda Voltio](https://www.wikidex.net/wiki/Onda_Voltio)      | ![tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png)|
+| [Contoneo](https://www.wikidex.net/wiki/Contoneo)         | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Tóxico](https://www.wikidex.net/wiki/Tóxico)           | ![tipo veneno](../../images/pokemon/tipos/tipo_veneno.png)      |
+| [Golpe Aéreo](https://www.wikidex.net/wiki/Golpe_Aéreo)      | ![tipo volador](../../images/pokemon/tipos/tipo_volador.png)    |
+| [Embargo](https://www.wikidex.net/wiki/Embargo)          | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| [Ataque Finta](https://www.wikidex.net/wiki/Ataque_Finta)     | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| [Más Psique](https://www.wikidex.net/wiki/Más_Psique)       | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Castigo](https://www.wikidex.net/wiki/Castigo)          | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| [Persecución](https://www.wikidex.net/wiki/Persecución)      | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| [Rugido](https://www.wikidex.net/wiki/Rugido)           | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png)      |
+| [Robo](https://www.wikidex.net/wiki/Robo)             | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png)|
+| [Rencor](https://www.wikidex.net/wiki/Rencor)           | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png)  |
 {% endtab %}
 {% endtabs %}
 
