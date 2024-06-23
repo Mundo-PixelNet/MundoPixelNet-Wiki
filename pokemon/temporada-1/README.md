@@ -17,5 +17,5 @@ Esta Temporada introduce los [**Pokémon Híbridos**](../../funciones/hibridos.m
   | Gratis | Premium |
   | :----: | :----: |
   | [Milotic Primordial](pase-milotic-primordial.md) ![Sprite de Milotic Primordial](../../images/pokemon/temporada-1/Primordial1-sprite.png) | [Tsareena Estacional](pase-tsareena-estacional.md) ![Sprite de Tsareena Estacional](../../images/pokemon/temporada-1/Estacional1-sprite.png) |
-  | | |
+  | [Braviary Fénix](pase-braviary-fenix.md) ![Sprite de Braviary Fénix](../../images/pokemon/temporada-1/Fenix-sprite.png) | [Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) ![Sprite de Vulpix Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar1-sprite.png) ![Sprite de Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar2-sprite.png) |
   | | |
