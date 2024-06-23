@@ -1,6 +1,6 @@
 # # 📲 Pokédex
 
-En [Mundo Pixelnet](**/README.md) tenemos Pokémon originales con sus propios modelos, Movesets e historia, consulta la lista de Pokémon originales:
+En [Mundo Pixelnet](**/README.md) tenemos Pokémon originales con sus propios modelos, Movesets e historia, consulta la lista de Pokémon originales del servidor:
 
 | Numero |  Pokémon |                                            Sprite                                           |
 | :---: | :----: | :-----------------------------------------------------------------------------------------: |
