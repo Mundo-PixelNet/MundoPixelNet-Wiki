@@ -51,35 +51,35 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Movimientos por nivel" %}
 | Nivel | Movimiento | Tipo |
 | :-----: | :----------: | :----: |
-| 1 | Roca veloz | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
-| 1 | Doble equipo | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Malicioso | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Ataque rápido | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Anticipo | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 1 | Ataque arena | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
-| 1 | Golpe bajo | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 1 | Placaje | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 1 | Golpe roca | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 1 | Onda vacío | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 1 | Sacrificio | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 1 | Garra metal | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
-| 1 | Inversión | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 1 | Mach Punch | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 5 | Garra metal | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
-| 9 | Mordisco | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 13 | Contraataque | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 17 | Lanzarrocas | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
-| 21 | Palmeo | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 25 | Danza espada | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 29 | Avalancha | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
-| 33 | Puño incremento | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 37 | A bocajarro | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 41 | Roca veloz | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
-| 45 | Roca afilada | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
-| 49 | Triturar | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 53 | Esfera aural | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 57 | Velocidad extrema | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 69 | Cabeza de hierro | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| 1 | [Roca veloz](https://www.wikidex.net/wiki/Roca_veloz) | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
+| 1 | [Doble equipo](https://www.wikidex.net/wiki/Doble_equipo) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Malicioso](https://www.wikidex.net/wiki/Malicioso) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Ataque rápido](https://www.wikidex.net/wiki/Ataque_rápido) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Anticipo](https://www.wikidex.net/wiki/Anticipo) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 1 | [Ataque arena](https://www.wikidex.net/wiki/Ataque_arena) | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
+| 1 | [Golpe bajo](https://www.wikidex.net/wiki/Golpe_bajo) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| 1 | [Placaje](https://www.wikidex.net/wiki/Placaje) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Golpe roca](https://www.wikidex.net/wiki/Golpe_roca) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 1 | [Onda vacío](https://www.wikidex.net/wiki/Onda_vacío) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 1 | [Sacrificio](https://www.wikidex.net/wiki/Sacrificio) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 1 | [Garra metal](https://www.wikidex.net/wiki/Garra_metal) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| 1 | [Inversión](https://www.wikidex.net/wiki/Inversión) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 1 | [Mach Punch](https://www.wikidex.net/wiki/Mach_Punch) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 5 | [Garra metal](https://www.wikidex.net/wiki/Garra_metal) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
+| 9 | [Mordisco](https://www.wikidex.net/wiki/Mordisco) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| 13 | [Contraataque](https://www.wikidex.net/wiki/Contraataque) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 17 | [Lanzarrocas](https://www.wikidex.net/wiki/Lanzarrocas) | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
+| 21 | [Palmeo](https://www.wikidex.net/wiki/Palmeo) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 25 | [Danza espada](https://www.wikidex.net/wiki/Danza_espada) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 29 | [Avalancha](https://www.wikidex.net/wiki/Avalancha) | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
+| 33 | [Puño incremento](https://www.wikidex.net/wiki/Puño_incremento) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 37 | [A bocajarro](https://www.wikidex.net/wiki/A_bocajarro) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 41 | [Roca veloz](https://www.wikidex.net/wiki/Roca_veloz) | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
+| 45 | [Roca afilada](https://www.wikidex.net/wiki/Roca_afilada) | ![tipo roca](../../images/pokemon/tipos/tipo_roca.png) |
+| 49 | [Triturar](https://www.wikidex.net/wiki/Triturar) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| 53 | [Esfera aural](https://www.wikidex.net/wiki/Esfera_aural) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| 57 | [Velocidad extrema](https://www.wikidex.net/wiki/Velocidad_extrema) | ![tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 69 | [Cabeza de hierro](https://www.wikidex.net/wiki/Cabeza_de_hierro) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
 {% endtab %}
 
 {% tab title="Movimientos por tutor" %}
