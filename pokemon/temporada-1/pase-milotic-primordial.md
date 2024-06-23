@@ -27,4 +27,4 @@ La creación de esta skin se basa en la energía primordial de la creación, hac
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 1 del pase gratuito y sus otros estilos se obtiene en otros niveles del pase como se muestra arriba.
+Esta skin se puede obtener en el nivel 1 del pase gratuito de la temporada 1 y sus otros estilos se obtiene en otros niveles del pase como se muestra arriba.
