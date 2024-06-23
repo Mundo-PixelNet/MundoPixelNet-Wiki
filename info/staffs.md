@@ -35,4 +35,22 @@ El rango Helper tiene la función de ayudar con dudas y responder preguntas para
 | ![Skin de Valtolomeo](../images/Rangos/Helper/Valtolomeo.png)|**Valtolomeo**|
 | ![Skin de Juank_16](../images/Rangos/Helper/Juank_16.png)|**Juank_16**|
 | ![Skin de YoSoyLeo](../images/Rangos/Helper/YoSoyLeo.png)|**YoSoyLeo**|
-| ![Skin de JustSpinWin](../images/Rangos/Helper/JustSpinWin.png)|**JustSpinWin**|
+| ![Skin de JustSpinWin](../images/Rangos/Helper/Steve.png)|**JustSpinWin**|
+
+# ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
+El rango Developer tiene la función de programar los complementos y bots del servidor, haciéndolo aún más único y original.
+| Skin | Usuario |
+| :--: | :-----: |
+| ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
+| ![Skin de Cheminsky](../images/Rangos/Helper/Steve.png)|**Cheminsky**|
+
+# 🧱 **Builder**
+El rango Builder tiene la función de construir los mapas del servidor, ya sea para una misión o cualquier cosa nueva que implique construcción
+| Skin | Usuario |
+| :--: | :-----: |
+| ![Skin de OdyZam](../images/Rangos/Admin/OdyZam.png)|**OdyZam**|
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
+| ![Skin de BonMurci](../images/Rangos/Mod/BonMurci.png)|**BonMurci**|
+| ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**JuniorCX**|
+| ![Skin de Anne](../images/Rangos/Helper/Anne.png)|**Anne**|
+| ![Skin de Trolendo](../images/Rangos/Helper/Steve.png)|**Trolendo**|
