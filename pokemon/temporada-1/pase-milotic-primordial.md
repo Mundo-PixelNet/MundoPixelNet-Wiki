@@ -9,7 +9,7 @@
 |                      **Sprite** | ![Sprite de Milotic Primordial](../../images/pokemon/temporada-1/Primordial1-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
-La personalidad de este espécimen guarda una sorprendente similitud con la de la leyenda de un héroe legendario que salvo a toda Etheria de una criatura dimensional.
+La creación de esta skin se basa en la energía primordial de la creación, haciendo referencia tanto al tema místico como a el lore de la temporada actual.
 
 ## Formas
 
@@ -25,4 +25,4 @@ La personalidad de este espécimen guarda una sorprendente similitud con la de l
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 1 del pase gratuito y sus otros estilos se lanzarán en otros niveles del pase como se muestra arriba.
+Esta skin se puede obtener en el nivel 1 del pase gratuito y sus otros estilos se obtiene en otros niveles del pase como se muestra arriba.
