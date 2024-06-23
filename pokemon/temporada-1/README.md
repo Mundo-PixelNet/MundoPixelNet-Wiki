@@ -8,7 +8,7 @@ La Temporada Mística _(Temporada 1)_ de Mundo PixelNet trae una temática de ma
 
 Esta Temporada introduce los [**Pokémon Híbridos**](../../funciones/hibridos.md). Al igual que varios Pokémon del Pase de Temporada, Gatchas, Misiones y más.
 
-### 🧬 Pokémon
+### 📲 Pokémon
 
 | Hibridos |
 | :------: |
