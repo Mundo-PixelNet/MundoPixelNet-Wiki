@@ -15,11 +15,11 @@ La creación de esta skin está basada en hadas Estacionales.
 
 |  Nível |  Forma |                                            Sprite                                           |
 | :----: | :----: | :-----------------------------------------------------------------------------------------: |
-| **1** | Estacional Otoño |        ![Sprite de Tsareena Estacional Otoño](../../images/pokemon/temporada-1/Primordial1-sprite.png)        |
-| **25** | Estacional Primavera |  ![Sprite de Tsareena Estacional Primavera](../../images/pokemon/temporada-1/Primordial2-sprite.png)  |
-| **49** | Estacional Verano | ![Sprite de Tsareena Estacional Verano](../../images/pokemon/temporada-1/Primordial3-sprite.png) |
-| **75** | Estacional Invierno | ![Sprite de Tsareena Estacional Invierno](../../images/pokemon/temporada-1/Primordial4-sprite.png) |
-| **99** | Estacional Blossom | ![Sprite de Tsareena Estacional Blossom](../../images/pokemon/temporada-1/Primordial5-sprite.png) |
+| **1** | Estacional Otoño |        ![Sprite de Tsareena Estacional Otoño](../../images/pokemon/temporada-1/Estacional1-sprite.png)        |
+| **25** | Estacional Primavera |  ![Sprite de Tsareena Estacional Primavera](../../images/pokemon/temporada-1/Estacional2-sprite.png)  |
+| **49** | Estacional Verano | ![Sprite de Tsareena Estacional Verano](../../images/pokemon/temporada-1/Estacional3-sprite.png) |
+| **75** | Estacional Invierno | ![Sprite de Tsareena Estacional Invierno](../../images/pokemon/temporada-1/Estacional4-sprite.png) |
+| **99** | Estacional Blossom | ![Sprite de Tsareena Estacional Blossom](../../images/pokemon/temporada-1/Estacional5-sprite.png) |
 
 ![Formas de Tsareena Estacional](../../images/pokemon/temporada-1/Estacional-formas.png)
 
