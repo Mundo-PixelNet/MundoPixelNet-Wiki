@@ -27,4 +27,4 @@ La creación de esta skin se basa en hadas estacionales, haciendo referencia tan
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 1 del pase de paga y sus otros estilos se obtiene en otros niveles del pase como se muestra arriba.
+Esta skin se puede obtener en el nivel 1 del [pase premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3) y sus otros estilos se obtiene en otros niveles del pase como se muestra arriba.
