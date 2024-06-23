@@ -15,4 +15,4 @@ La creación de esta skin hace referencia a la criatura mitológica Fénix y tam
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 70 del pase gratuito.
+Esta skin se puede obtener en el nivel 70 del pase gratuito de la temporada 1.
