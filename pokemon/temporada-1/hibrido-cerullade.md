@@ -14,7 +14,7 @@
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 
-### Descripcion
+### Descripción
 La personalidad de este espécimen guarda una sorprendente similitud con la de la leyenda de un héroe legendario que salvo a toda Etheria de una criatura dimensional.
 
 ### Comentario del desarrollador
