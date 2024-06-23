@@ -9,6 +9,7 @@
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 
+### Comentario del desarrollador
 La creación de esta skin se basa en monstruos marinos mitológicos y también en la leviatán mariposa del mod Wyrmroost.
 
 ![Formas de Magikarp y Gyarados Leviathan](../../images/pokemon/temporada-1/leviathan-formas.png)
