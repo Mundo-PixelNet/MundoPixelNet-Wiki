@@ -14,4 +14,4 @@ La creación de este skin está basado en titanes de la mitología griega y el s
 
 ## Obtención
 
-Esta skin se puede obtener en el gatcha de la temporada 1, la llave se puede obtener en el pase o la tienda de llaves gatcha con el precio de **60k**.
+Esta skin se puede obtener en el gatcha de la temporada 1 con un 3,8% de posibilidades de conseguir esta skin, la llave se puede obtener en el pase o la tienda de llaves gatcha con el precio de **60k**.
