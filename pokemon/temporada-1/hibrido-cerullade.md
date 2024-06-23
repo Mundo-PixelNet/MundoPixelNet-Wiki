@@ -24,6 +24,8 @@ La personalidad de este espécimen guarda una sorprendente similitud con la de l
 | Dimensional | ![Sprite de Cerullade Dimensional](../../images/pokemon/temporada-1/Cerullade-sprite-dimensional.png) |
 | Nexus | ![Sprite de Cerullade Nexus](../../images/pokemon/temporada-1/Cerullade-sprite-nexus.png) |
 
+{% hint style="info" %} Este Pokémon tiene estilos que se pueden [comprar en la tienda](https://tienda.mundopixelnet.com/category/servidor-escarlata-1), para cambiar entre ellos usa el comando [/estilos](../../funciones/estilos.md).{% endhint %}
+
 ![Formas de Cerullade](../../images/pokemon/temporada-1/Cerullade-formas.png)
 
 ## Obtención
