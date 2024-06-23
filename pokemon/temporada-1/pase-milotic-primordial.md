@@ -7,7 +7,7 @@
 |                     **Artwork** | ![Artwork de Milotic Primordial](../../images/pokemon/temporada-1/Primordial.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Milotic Primordial](../../images/pokemon/temporada-1/Primordial1-sprite.png)                                                          |                                                                                                             |
-|                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
+|                      Creado por | FuriadaNoite, BonMurci y OdyZam                                                                                                               |
 
 La creación de esta skin se basa en la energía primordial de la creación, haciendo referencia tanto al tema místico como a el lore de la temporada actual.
 
