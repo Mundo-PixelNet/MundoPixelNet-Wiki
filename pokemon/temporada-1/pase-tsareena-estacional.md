@@ -11,7 +11,7 @@
 
 La creación de esta skin se basa en hadas estacionales, haciendo referencia tanto al tema místico como a los nuevos biomas.
 
-{% hint style="info" %} Esta skin puede cambiar de estilo usando [/estilos](../../funciones/estilos.md).{% endhint %}
+{% hint style="info" %} Esta skin puede cambiar de estilo usando el comando [/estilos](../../funciones/estilos.md).{% endhint %}
 
 ## Formas
 
