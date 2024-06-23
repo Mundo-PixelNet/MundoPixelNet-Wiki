@@ -17,11 +17,10 @@
 ### Descripcion
 La personalidad de este espécimen guarda una sorprendente similitud con la de la leyenda de un héroe legendario que salvo a toda Etheria de una criatura dimensional.
 
-## Comentario del desarrollador
-
+### Comentario del desarrollador
 La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa.
 
-### Formas
+## Formas
 
 |  Forma |                                            Sprite                                           |
 | :----: | :-----------------------------------------------------------------------------------------: |
