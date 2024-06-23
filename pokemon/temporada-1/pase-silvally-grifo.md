@@ -17,4 +17,4 @@ La creación de este skin se basó en las criaturas mitológicas grifo, y decidi
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 100 del pase gratuito.
+Esta skin se puede obtener en el nivel 100 del pase gratuito de la temporada 1.
