@@ -14,7 +14,7 @@
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 
-### Descripcion
+### Descripción
 Según artefactos antiguos, los nobles de la ciudad de Etheria solían vivir con este espécimen debido a su elegante personalidad.
 
 ### Comentario del desarrollador
