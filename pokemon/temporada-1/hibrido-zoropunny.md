@@ -13,7 +13,12 @@
 |                     Hab. oculta | [Ilusión](https://www.wikidex.net/wiki/Ilusión)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
+
+### Descripcion
 Reconocido por ser un excelente cazador, este espécimen engaña a sus presas y gana su confianza. Cuando se dan cuenta, ya es tarde.
+
+### Comentario del desarrollador
+Este Pokémon se basó en los conceptos de chica mala, cazadora furtiva y un poco de la personalidad del personaje La Muerte en "El Gato con Botas:El Último Deseo"
 
 ## Formas
 
