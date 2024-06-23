@@ -5,13 +5,13 @@
 
 |                     **Artwork** | ![Artwork de Vulpix y Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                  **Sprite** | ![Sprite de Vulpix Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar1-sprite.png) , ![Sprite de Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar2-sprite.png)                                                          |                                                                                                             |
+|                  **Sprite** | ![Sprite de Vulpix Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar1-sprite.png) ![Sprite de Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar2-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
-La creación de esta skin hace referencia a la criatura mitológica Fénix y también al lore de la temporada, con el nacimiento de un nuevo mundo.
+La creación de este skin hace referencia a la criatura mitológica Kitsune además de misticismos relacionados con la luna.
 
-![Formas de Milotic Primordial](../../images/pokemon/temporada-1/Fenix-formas.png)
+![Formas de Vulpix y Ninetales Espiritu Lunar](../../images/pokemon/temporada-1/EspirituLunar-formas.png)
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 70 del pase gratuito.
+Esta skin se puede obtener en el nivel 50 del pase de paga.
