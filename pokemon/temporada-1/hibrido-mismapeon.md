@@ -13,7 +13,12 @@
 |                     Hab. oculta | [Espejo mágico](https://www.wikidex.net/wiki/Espejo\_m%C3%A1gic)                                                                       |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
+
+### Descripción
 Las leyendas cuentan que el poder de este majestuoso espécimen viene de las estrellas. En las noches claras, es común verlos mirando al cielo en busca de constelaciones.
+
+### Comentario del desarrollador
+La creación de este Pokémon se basó en las brujas y el misticismo detrás de las constelaciones y estrellas, Creando así la personalidad mística de Mismapeon
 
 ## Formas
 
