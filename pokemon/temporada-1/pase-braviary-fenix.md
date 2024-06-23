@@ -9,6 +9,8 @@
 |                      **Sprite** | ![Sprite de Braviary Fénix](../../images/pokemon/temporada-1/Fenix-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
+
+### Comentario del desarrollador
 La creación de esta skin hace referencia a la criatura mitológica Fénix y también al lore de la temporada, con el nacimiento de un nuevo mundo.
 
 ![Formas de Milotic Primordial](../../images/pokemon/temporada-1/Fenix-formas.png)
