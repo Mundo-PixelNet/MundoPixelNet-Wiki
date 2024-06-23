@@ -11,6 +11,8 @@
 
 La creación de esta skin se basa en la energía primordial de la creación, haciendo referencia tanto al tema místico como a el lore de la temporada actual.
 
+
+### Comentario del desarrollador
 {% hint style="info" %} Esta skin puede cambiar de estilo usando el comando [/estilos](../../funciones/estilos.md).{% endhint %}
 
 ## Formas
