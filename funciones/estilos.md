@@ -20,11 +20,11 @@ Además, tener en cuenta que si tu pokémon tiene formas exclusivas pero tu no l
 Para cambiar el estilo de tu Pokémon, debes dejarlo en el **primer espacio del equipo** y usar el comando **/estilos**, luego de lo cual aparecerá un menú de confirmación para que puedas estar seguro de que es el Pokémon correcto.
 
 <div style="text-align: center">
-<img src="../images/funciones/estilos/MPN-estilos1.png">
+<img src="../images/funciones/estilos/MPN-Estilos1.png">
 </div>
 
 Después de la confirmación, debes elegir el estilo que deseas siempre que lo hayas desbloqueado, y el estilo se cambiará automáticamente **sin perder ningún atributo de estadística como IVs y EVs.**
 
 <div style="text-align: center">
-<img src="../images/funciones/estilos/MPN-estilos2.png">
+<img src="../images/funciones/estilos/MPN-Estilos2.png">
 </div>
