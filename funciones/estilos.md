@@ -1,4 +1,4 @@
-# 🧬 Estilos
+# 👔 Estilos
 
 Los **Pokémon Pokémon con estilos son skins creadas por nosotros** que solo funcionan en Mundo PixelNet. Los estilos pueden tener su propio modelo además de una textura personalizada.
 
