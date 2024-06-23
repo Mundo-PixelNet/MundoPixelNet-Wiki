@@ -14,7 +14,7 @@
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 
-### Descripcion
+### Descripción
 Reconocido por ser un excelente cazador, este espécimen engaña a sus presas y gana su confianza. Cuando se dan cuenta, ya es tarde.
 
 ### Comentario del desarrollador
