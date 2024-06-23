@@ -6,6 +6,10 @@
   * [🍊 Pixelmon 1.16.5](instalacion/pixelmon-16.md)
 * [✍️ Contribuir](contribuir.md)
 
+## INFORMACIÓN
+
+* [🛠️ Staffs](informacion/staffs.md)
+
 ## FUNCIONES
 
 * [🧬 Híbridos](funciones/hibridos.md)
