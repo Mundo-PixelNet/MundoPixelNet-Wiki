@@ -15,7 +15,7 @@ La creación de esta skin está basada en las hadas y también en el nuevo bioma
 
 ## Formas
 
-![Formas de Meloetta Faerie](../../images/pokemon/temporada-1/Faerie-formas.png)
+![Formas de Meloetta Faerie](../../images/pokemon/temporada-1/faerie-formas.png)
 
 ## Obtención
 
