@@ -77,16 +77,16 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre |Precio |Descripción |
 | - | - | - | - |
-|![Inciensos](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/WAVEINCENSE.png)   |Inciensos |   | |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad||Permite cambiar la habilidad a un Pokémon que tiene dos.    |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |Piedra eterna| |Impide la evolución del Pokémon que la lleve equipada. Y sirve para traspasar la Naturaleza en la crianza.   |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino| |Hace que si el portador se enamora de un Pokémon, dicho Pokémon se enamore también del portador. Y sirve para traspasar 5 IVs al azar en la crianza.    |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |    |El Pokémon que la lleve equipada recibe 4 puntos de esfuerzo (EVs) extra en PS al participar en la derrota de un Pokémon en un combate. Y sirve para traspasar el IV de los PS en la crianza. |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERLENS.png)   |Lente Recia|   |Ataque Especial |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBRACER.png)   |Brazal Recio|   |Ataque |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBELT.png)   |Cinto Recio |   |Defensa |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBAND.png)   |Banda Recia|   |Defensa Especial |
-|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERANKLET.png)   |Franja Recia|   |Velocidad |
+|![Inciensos](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/WAVEINCENSE.png)   |Inciensos |15K   | |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad|20K|Permite cambiar la habilidad a un Pokémon que tiene dos.    |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |Piedra eterna|10K |Impide la evolución del Pokémon que la lleve equipada. Y sirve para traspasar la Naturaleza en la crianza.   |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino|50K |Hace que si el portador se enamora de un Pokémon, dicho Pokémon se enamore también del portador. Y sirve para traspasar 5 IVs al azar en la crianza.    |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |40K    |El Pokémon que la lleve equipada recibe 4 puntos de esfuerzo (EVs) extra en PS al participar en la derrota de un Pokémon en un combate. Y sirve para traspasar el IV de los PS en la crianza. |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERLENS.png)   |Lente Recia|40K   |Ataque Especial |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBRACER.png)   |Brazal Recio|40K   |Ataque |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBELT.png)   |Cinto Recio |40K   |Defensa |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERBAND.png)   |Banda Recia|40K   |Defensa Especial |
+|![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/POWERANKLET.png)   |Franja Recia|40K   |Velocidad |
 
 
 
@@ -134,53 +134,53 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Abomasnowita   |   |Megapiedra para Megaevolucionar a Abomasnow   |
-|![Absolita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABSOLITE.png)   |Absolita   |   |Megapiedra para Megaevolucionar a Absol   |
-|![Aerodactylita](../images/usuarios/rivalsilver97/iconos/megapiedras/AERODACTYLITE.png)   |Aerodactylita   |   |Megapiedra para Megaevolucionar a Aerodactyl   |
-|![Aggronita ](../images/usuarios/rivalsilver97/iconos/megapiedras/AGGRONITE.png)   |Aggronita   |   |Megapiedra para Megaevolucionar a Aggro  |
-|![Alakazamita](../images/usuarios/rivalsilver97/iconos/megapiedras/ALAKAZITE.png)   |Alakazamita   |   |Megapiedra para Megaevolucionar a Alakazam  |
-|![Altarianita ](../images/usuarios/rivalsilver97/iconos/megapiedras/ALTARIANITE.png)   |Altarianita   |   |Megapiedra para Megaevolucionar a Altaria  |
-|![Ampharosita](../images/usuarios/rivalsilver97/iconos/megapiedras/AMPHAROSITE.png)   |Ampharosita   |   |Megapiedra para Megaevolucionar a Ampharos  |
-|![Audinita](../images/usuarios/rivalsilver97/iconos/megapiedras/AUDINITE.png)   |Audinita   |   |Megapiedra para Megaevolucionar a Audino  |
-|![Banettita](../images/usuarios/rivalsilver97/iconos/megapiedras/BANETTITE.png)   |Banettita   |   |Megapiedra para Megaevolucionar a Banette  |
-|![Beedrillita](../images/usuarios/rivalsilver97/iconos/megapiedras/BEEDRILLITE.png)   |Beedrillita   |   |Megapiedra para Megaevolucionar a Beedrill  |
-|![Blastoisita](../images/usuarios/rivalsilver97/iconos/megapiedras/BLASTOISINITE.png)   |Blastoisita   |   |Megapiedra para Megaevolucionar a Blastoise  |
-|![Blazikenita ](../images/usuarios/rivalsilver97/iconos/megapiedras/BLAZIKENITE.png)   |Blazikenita   |   |Megapiedra para Megaevolucionar a Blaziken  |
-|![Cameruptita ](../images/usuarios/rivalsilver97/iconos/megapiedras/CAMERUPTITE.png)   |Cameruptita   |   |Megapiedra para Megaevolucionar a Camerupt  |
-|![Charizardita X](../images/usuarios/rivalsilver97/iconos/megapiedras/CHARIZARDITEX.png)   |Charizardita X   |   |Megapiedra para Megaevolucionar a Charizard  |
-|![Charizardita Y](../images/usuarios/rivalsilver97/iconos/megapiedras/CHARIZARDITEY.png)   |Charizardita Y   |   |Megapiedra para Megaevolucionar a  Charizard |
-|![Diancita](../images/usuarios/rivalsilver97/iconos/megapiedras/DIANCITE.png)   |Diancita   |   |Megapiedra para Megaevolucionar a Diancie  |
-|![Galladita](../images/usuarios/rivalsilver97/iconos/megapiedras/GALLADITE.png)   |Galladita   |   |Megapiedra para Megaevolucionar a Gallade  |
-|![Garchompita ](../images/usuarios/rivalsilver97/iconos/megapiedras/GARCHOMPITE.png)   |Garchompita   |   |Megapiedra para Megaevolucionar a Garchomp  |
-|![Gardevoirita](../images/usuarios/rivalsilver97/iconos/megapiedras/GARDEVOIRITE.png)   |Gardevoirita   |   |Megapiedra para Megaevolucionar a Gardevoir  |
-|![Gengarita](../images/usuarios/rivalsilver97/iconos/megapiedras/GENGARITE.png)   |Gengarita   |   |Megapiedra para Megaevolucionar a Gengar   |
-|![Glalita](../images/usuarios/rivalsilver97/iconos/megapiedras/GLALITITE.png)   |Glalita   |   |Megapiedra para Megaevolucionar a Glalie   |
-|![Sharpedonita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SHARPEDONITE.png)   |Sharpedonita   |   |Megapiedra para Megaevolucionar a Sharpedo   |
-|![Steelixita ](../images/usuarios/rivalsilver97/iconos/megapiedras/STEELIXITE.png)   |Steelixita   |   |Megapiedra para Megaevolucionar a Steelix   |
-|![Tyranitarita ](../images/usuarios/rivalsilver97/iconos/megapiedras/TYRANITARITE.png)   |Tyranitarita   |   |Megapiedra para Megaevolucionar a Tyranita   |
-|![Gyaradosita](../images/usuarios/rivalsilver97/iconos/megapiedras/GYARADOSITE.png)   |Gyaradosita   |   |Megapiedra para Megaevolucionar a Gyarados   |
-|![Heracrossita](../images/usuarios/rivalsilver97/iconos/megapiedras/HERACRONITE.png)   |Heracrossita   |   |Megapiedra para Megaevolucionar a Heracross   |
-|![Houndoomita](../images/usuarios/rivalsilver97/iconos/megapiedras/HOUNDOOMINITE.png)   |Houndoomita   |   |Megapiedra para Megaevolucionar a Houndoom   |
-|![Kangaskhanita ](../images/usuarios/rivalsilver97/iconos/megapiedras/KANGASKHANITE.png)   |Kangaskhanita   |  |Megapiedra para Megaevolucionar a Kangaskhan   |
-|![Latiasita](../images/usuarios/rivalsilver97/iconos/megapiedras/LATIASITE.png)   |Latiasita   |   |Megapiedra para Megaevolucionar a Latias  |
-|![Latiosita](../images/usuarios/rivalsilver97/iconos/megapiedras/LATIOSITE.png)   |Latiosita   |   |Megapiedra para Megaevolucionar a Latios  |
-|![Lopunnita](../images/usuarios/rivalsilver97/iconos/megapiedras/LOPUNNITE.png)   |Lopunnita   |   |Megapiedra para Megaevolucionar a Lopunny  |
-|![Lucarita ](../images/usuarios/rivalsilver97/iconos/megapiedras/LUCARIONITE.png)   |Lucarita   |   |Megapiedra para Megaevolucionar a Lucario  |
-|![Manectricita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MANECTITE.png)   |Manectricita   |   |Megapiedra para Megaevolucionar a Manectric  |
-|![Mawilita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MAWILITE.png)   |Mawilita   |   |Megapiedra para Megaevolucionar a Mawile  |
-|![Medichamita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MEDICHAMITE.png)   |Medichamita   |   |Megapiedra para Megaevolucionar a Medicham  |
-|![Metagrossita](../images/usuarios/rivalsilver97/iconos/megapiedras/METAGROSSITE.png)   |Metagrossita   |   |Megapiedra para Megaevolucionar a Metagross   |
-|![Mewtwoita X](../images/usuarios/rivalsilver97/iconos/megapiedras/MEWTWONITEX.png)   |Mewtwoita X   |   |Megapiedra para Megaevolucionar a Mewtwo   |
-|![Mewtwoita Y](../images/usuarios/rivalsilver97/iconos/megapiedras/MEWTWONITEY.png)   |Mewtwoita Y   |   |Megapiedra para Megaevolucionar a Mewtwo   |
-|![Pidgeotita](../images/usuarios/rivalsilver97/iconos/megapiedras/PIDGEOTITE.png)   |Pidgeotita   |   |Megapiedra para Megaevolucionar a Pidgeot  |
-|![Pinsirita ](../images/usuarios/rivalsilver97/iconos/megapiedras/PINSIRITE.png)   |Pinsirita   |   | Megapiedra para Megaevolucionar a Pinsir |
-|![Sableynita](../images/usuarios/rivalsilver97/iconos/megapiedras/SABLENITE.png)   |Sableynita   |   |Megapiedra para Megaevolucionar a Sableye  |
-|![Salamencita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SALAMENCITE.png)   |Salamencita   |   |Megapiedra para Megaevolucionar a Salamence  |
-|![Sceptilita](../images/usuarios/rivalsilver97/iconos/megapiedras/SCEPTILITE.png)   |Sceptilita   |   |Megapiedra para Megaevolucionar a Sceptile  |
-|![Scizorita](../images/usuarios/rivalsilver97/iconos/megapiedras/SCIZORITE.png)   |Scizorita   |   |Megapiedra para Megaevolucionar a Scizor  |
-|![Slowbronita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SLOWBRONITE.png)   |Slowbronita   |   |Megapiedra para Megaevolucionar a Slowbro  |
-|![Swampertita](../images/usuarios/rivalsilver97/iconos/megapiedras/SWAMPERTITE.png)   |Swampertita   |   |Megapiedra para Megaevolucionar a Swampert  |
-|![Venusaurita](../images/usuarios/rivalsilver97/iconos/megapiedras/VENUSAURITE.png)   |Venusaurita   |   |Megapiedra para Megaevolucionar a Venusaur  |
+|![Abomasnowita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABOMASITE.png)   |Abomasnowita   |40k-60k   |Megapiedra para Megaevolucionar a Abomasnow   |
+|![Absolita](../images/usuarios/rivalsilver97/iconos/megapiedras/ABSOLITE.png)   |Absolita   |50k-75k   |Megapiedra para Megaevolucionar a Absol   |
+|![Aerodactylita](../images/usuarios/rivalsilver97/iconos/megapiedras/AERODACTYLITE.png)   |Aerodactylita   |100k-120k   |Megapiedra para Megaevolucionar a Aerodactyl   |
+|![Aggronita ](../images/usuarios/rivalsilver97/iconos/megapiedras/AGGRONITE.png)   |Aggronita   |50k-75k   |Megapiedra para Megaevolucionar a Aggro  |
+|![Alakazamita](../images/usuarios/rivalsilver97/iconos/megapiedras/ALAKAZITE.png)   |Alakazamita   |50k-75k   |Megapiedra para Megaevolucionar a Alakazam  |
+|![Altarianita ](../images/usuarios/rivalsilver97/iconos/megapiedras/ALTARIANITE.png)   |Altarianita   |100k-120k   |Megapiedra para Megaevolucionar a Altaria  |
+|![Ampharosita](../images/usuarios/rivalsilver97/iconos/megapiedras/AMPHAROSITE.png)   |Ampharosita   |50k-60k   |Megapiedra para Megaevolucionar a Ampharos  |
+|![Audinita](../images/usuarios/rivalsilver97/iconos/megapiedras/AUDINITE.png)   |Audinita   |40k-60k   |Megapiedra para Megaevolucionar a Audino  |
+|![Banettita](../images/usuarios/rivalsilver97/iconos/megapiedras/BANETTITE.png)   |Banettita   |50k-60k   |Megapiedra para Megaevolucionar a Banette  |
+|![Beedrillita](../images/usuarios/rivalsilver97/iconos/megapiedras/BEEDRILLITE.png)   |Beedrillita   |20k-30k   |Megapiedra para Megaevolucionar a Beedrill  |
+|![Blastoisita](../images/usuarios/rivalsilver97/iconos/megapiedras/BLASTOISINITE.png)   |Blastoisita   |100k-120k   |Megapiedra para Megaevolucionar a Blastoise  |
+|![Blazikenita ](../images/usuarios/rivalsilver97/iconos/megapiedras/BLAZIKENITE.png)   |Blazikenita   |120k-140k   |Megapiedra para Megaevolucionar a Blaziken  |
+|![Cameruptita ](../images/usuarios/rivalsilver97/iconos/megapiedras/CAMERUPTITE.png)   |Cameruptita   |50k-60k   |Megapiedra para Megaevolucionar a Camerupt  |
+|![Charizardita X](../images/usuarios/rivalsilver97/iconos/megapiedras/CHARIZARDITEX.png)   |Charizardita X   |200k-220k   |Megapiedra para Megaevolucionar a Charizard  |
+|![Charizardita Y](../images/usuarios/rivalsilver97/iconos/megapiedras/CHARIZARDITEY.png)   |Charizardita Y   |200k-220k   |Megapiedra para Megaevolucionar a  Charizard |
+|![Diancita](../images/usuarios/rivalsilver97/iconos/megapiedras/DIANCITE.png)   |Diancita   |120k-140k   |Megapiedra para Megaevolucionar a Diancie  |
+|![Galladita](../images/usuarios/rivalsilver97/iconos/megapiedras/GALLADITE.png)   |Galladita   |70k-90k   |Megapiedra para Megaevolucionar a Gallade  |
+|![Garchompita ](../images/usuarios/rivalsilver97/iconos/megapiedras/GARCHOMPITE.png)   |Garchompita   |130k-150k   |Megapiedra para Megaevolucionar a Garchomp  |
+|![Gardevoirita](../images/usuarios/rivalsilver97/iconos/megapiedras/GARDEVOIRITE.png)   |Gardevoirita   |120k-140k   |Megapiedra para Megaevolucionar a Gardevoir  |
+|![Gengarita](../images/usuarios/rivalsilver97/iconos/megapiedras/GENGARITE.png)   |Gengarita   |90k-100k   |Megapiedra para Megaevolucionar a Gengar   |
+|![Glalita](../images/usuarios/rivalsilver97/iconos/megapiedras/GLALITITE.png)   |Glalita   |40k-50k   |Megapiedra para Megaevolucionar a Glalie   |
+|![Sharpedonita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SHARPEDONITE.png)   |Sharpedonita   |70k-90k   |Megapiedra para Megaevolucionar a Sharpedo   |
+|![Steelixita ](../images/usuarios/rivalsilver97/iconos/megapiedras/STEELIXITE.png)   |Steelixita   |60k-70k   |Megapiedra para Megaevolucionar a Steelix   |
+|![Tyranitarita ](../images/usuarios/rivalsilver97/iconos/megapiedras/TYRANITARITE.png)   |Tyranitarita   |130k-150k   |Megapiedra para Megaevolucionar a Tyranita   |
+|![Gyaradosita](../images/usuarios/rivalsilver97/iconos/megapiedras/GYARADOSITE.png)   |Gyaradosita   |100k-120k   |Megapiedra para Megaevolucionar a Gyarados   |
+|![Heracrossita](../images/usuarios/rivalsilver97/iconos/megapiedras/HERACRONITE.png)   |Heracrossita   |40k-50k   |Megapiedra para Megaevolucionar a Heracross   |
+|![Houndoomita](../images/usuarios/rivalsilver97/iconos/megapiedras/HOUNDOOMINITE.png)   |Houndoomita   |60k-70k   |Megapiedra para Megaevolucionar a Houndoom   |
+|![Kangaskhanita ](../images/usuarios/rivalsilver97/iconos/megapiedras/KANGASKHANITE.png)   |Kangaskhanita   |90k-100k  |Megapiedra para Megaevolucionar a Kangaskhan   |
+|![Latiasita](../images/usuarios/rivalsilver97/iconos/megapiedras/LATIASITE.png)   |Latiasita   |170k-200ks   |Megapiedra para Megaevolucionar a Latias  |
+|![Latiosita](../images/usuarios/rivalsilver97/iconos/megapiedras/LATIOSITE.png)   |Latiosita   |150-180k   |Megapiedra para Megaevolucionar a Latios  |
+|![Lopunnita](../images/usuarios/rivalsilver97/iconos/megapiedras/LOPUNNITE.png)   |Lopunnita   |180k-200k   |Megapiedra para Megaevolucionar a Lopunny  |
+|![Lucarita ](../images/usuarios/rivalsilver97/iconos/megapiedras/LUCARIONITE.png)   |Lucarita   |130k-150k   |Megapiedra para Megaevolucionar a Lucario  |
+|![Manectricita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MANECTITE.png)   |Manectricita   |60k-70k   |Megapiedra para Megaevolucionar a Manectric  |
+|![Mawilita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MAWILITE.png)   |Mawilita   |60k-70k   |Megapiedra para Megaevolucionar a Mawile  |
+|![Medichamita ](../images/usuarios/rivalsilver97/iconos/megapiedras/MEDICHAMITE.png)   |Medichamita   |80k-90k   |Megapiedra para Megaevolucionar a Medicham  |
+|![Metagrossita](../images/usuarios/rivalsilver97/iconos/megapiedras/METAGROSSITE.png)   |Metagrossita   |130k-150k   |Megapiedra para Megaevolucionar a Metagross   |
+|![Mewtwoita X](../images/usuarios/rivalsilver97/iconos/megapiedras/MEWTWONITEX.png)   |Mewtwoita X   |220k-240k   |Megapiedra para Megaevolucionar a Mewtwo   |
+|![Mewtwoita Y](../images/usuarios/rivalsilver97/iconos/megapiedras/MEWTWONITEY.png)   |Mewtwoita Y   |230k-250k   |Megapiedra para Megaevolucionar a Mewtwo   |
+|![Pidgeotita](../images/usuarios/rivalsilver97/iconos/megapiedras/PIDGEOTITE.png)   |Pidgeotita   |40k-50k   |Megapiedra para Megaevolucionar a Pidgeot  |
+|![Pinsirita ](../images/usuarios/rivalsilver97/iconos/megapiedras/PINSIRITE.png)   |Pinsirita   |70k-80k   | Megapiedra para Megaevolucionar a Pinsir |
+|![Sableynita](../images/usuarios/rivalsilver97/iconos/megapiedras/SABLENITE.png)   |Sableynita   |50k-60k   |Megapiedra para Megaevolucionar a Sableye  |
+|![Salamencita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SALAMENCITE.png)   |Salamencita   |130k-150k   |Megapiedra para Megaevolucionar a Salamence  |
+|![Sceptilita](../images/usuarios/rivalsilver97/iconos/megapiedras/SCEPTILITE.png)   |Sceptilita   |120k-140k   |Megapiedra para Megaevolucionar a Sceptile  |
+|![Scizorita](../images/usuarios/rivalsilver97/iconos/megapiedras/SCIZORITE.png)   |Scizorita   |90k-100k   |Megapiedra para Megaevolucionar a Scizor  |
+|![Slowbronita ](../images/usuarios/rivalsilver97/iconos/megapiedras/SLOWBRONITE.png)   |Slowbronita   |60k-70k   |Megapiedra para Megaevolucionar a Slowbro  |
+|![Swampertita](../images/usuarios/rivalsilver97/iconos/megapiedras/SWAMPERTITE.png)   |Swampertita   |120k-140k   |Megapiedra para Megaevolucionar a Swampert  |
+|![Venusaurita](../images/usuarios/rivalsilver97/iconos/megapiedras/VENUSAURITE.png)   |Venusaurita   |100k-120k   |Megapiedra para Megaevolucionar a Venusaur  |
 
 
 # Objetos de Evolución
@@ -262,7 +262,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |Icono   |Nombre  |Precio   |
 | - | - | - |
 |   |Reparación   |50K   |
-|   |Irrompibilidad IV   |50K   |
+|   |Irrompibilidad III   |50K   |
 |   |El resto de encantamientos   | 30K   |
 
 # Bayas
@@ -275,22 +275,22 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Gema Bicho   |   |   |
-|   |Gema Siniestro   |   |   |
-|   |Gema Dragón   |   |   |
-|   |Gema Eléctrico   |   |   |
-|   |Gema Hada   |   |   |
-|   |Gema Lucha   |   |   |
-|   |Gema Fuego   |   |   |
-|   |Gema Volador   |   |   |
-|   |Gema Fantasma   |   |   |
-|   |Gema Planta   |   |   |
-|   |Gema Tierra   |   |   |
-|   |Gema Normal   |   |   |
-|   |Gema Veneno   |   |   |
-|   |Gema Psíquico   |   |   |
-|   |Gema Roca   |   |   |
-|   |Gema Agua   |   |   |
+|   |Gema Bicho   |2K   |   |
+|   |Gema Siniestro   |2K   |   |
+|   |Gema Dragón   |2K   |   |
+|   |Gema Eléctrico   |2K   |   |
+|   |Gema Hada   |2K   |   |
+|   |Gema Lucha   |2K   |   |
+|   |Gema Fuego   |2K   |   |
+|   |Gema Volador   |2K   |   |
+|   |Gema Fantasma   |2K   |   |
+|   |Gema Planta   |2K   |   |
+|   |Gema Tierra   |2K   |   |
+|   |Gema Normal   |2K   |   |
+|   |Gema Veneno   |2K   |   |
+|   |Gema Psíquico   |2K   |   |
+|   |Gema Roca   |2K   |  |
+|   |Gema Agua   |2K   |   |
 
 
 # Partes de Porygon
@@ -326,43 +326,43 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Cristales Z
 
-|Icono   |Nombre  |Precio   |Tipo|
+|Icono   |Nombre  |Precio   |Tipo/Pokémon|
 | - | - | - | - |
-|   |Metalostal Z  |   |   |
-|   |Hidrostal Z   |   |   |
-|   |Insectostal Z   |   |   |
-|   |Dracostal Z   |   |   |
-|   |Electrostal Z   |   |   |
-|   |Espectrostal Z   |   |   |
-|   |Pirostal Z   |   |   |
-|   |Feeristal Z   |   |   |
-|   |Criostal Z   |   |   |
-|   |Lizastal Z   |   |   |
-|   |Normalstal Z   |   |   |
-|   |Fitostal Z   |   |   |
-|   |Psicostal Z   |   |   |
-|   |Litostal Z   |   |   |
-|   |Nicostal Z   |   |   |
-|   |Geostal Z   |   |   |
-|   |Toxistal Z   |   |   |
-|   |Aerostal Z   |   |   |
-|   |Pikastal Z   |   |   |
-|   |Alo-Raistal Z   |   |   |
-|   |Eeveestal Z   |   |   |
-|   |Snorlastal Z   |   |   |
-|   |Dueyestal Z   |   |   |
-|   |Incinostal Z   |   |   |
-|   |Primastal Z   |   |   |
-|   |Tapistal Z   |   |   |
-|   |Mewstal Z   |   |   |
-|   |Ash-Pikastal Z   |   |   |
-|   |Marshastal Z   |   |   |
-|   |Kommostal Z   |   |   |
-|   |Lycanrostal Z   |   |   |
-|   |Mimikyustal Z   |   |   |
-|   |Solgaleostal Z   |   |   |
-|   |Lunalastal Z   |   |   |
-|   |Ultranecrostal Z   |   |   |
+|   |Metalostal Z  |20K   |![Venusaurita](../images/pokemon/tipos/tipo_acero.png)   |
+|   |Hidrostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_agua.png)   |
+|   |Insectostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_bicho.png)   |
+|   |Dracostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_dragon.png)   |
+|   |Electrostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_electrico.png)   |
+|   |Espectrostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_fantasma.png)   |
+|   |Pirostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_fuego.png)   |
+|   |Feeristal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_hada.png)   |
+|   |Criostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_hielo.png)   |
+|   |Lizastal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_lucha.png)   |
+|   |Normalstal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_normal.png)   |
+|   |Fitostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_planta.png)   |
+|   |Psicostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_psiquico.png)   |
+|   |Litostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_roca.png)   |
+|   |Nicostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_siniestro.png)   |
+|   |Geostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_tierra.png)   |
+|   |Toxistal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_veneno.png)   |
+|   |Aerostal Z   |20K   |![Venusaurita](../images/pokemon/tipos/tipo_volador.png)   |
+|   |Pikastal Z   |70K   |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/PIKACHU.png)   |
+|   |Alo-Raistal Z   |70K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/RAICHU_1.png)   |
+|   |Eeveestal Z   |70K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/EEVEE.png)   |
+|   |Snorlastal Z   |70K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/SNORLAX.png)   |
+|   |Dueyestal Z   |70K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/DECIDUEYE.png)   |
+|   |Incinostal Z   |70K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/INCINEROAR.png)   |
+|   |Primastal Z   |70K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/PRIMARINA.png)   |
+|   |Tapistal Z   |80K   |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/TAPUKOKO.png)![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/TAPULELE.png)![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/TAPUBULU.png)![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/TAPUFINI.png)   |
+|   |Mewstal Z   |80K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/MEW.png)   |
+|   |Ash-Pikastal Z   |70K   |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/PIKACHU_8.png)   |
+|   |Marshastal Z   |80K   |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/MARSHADOW.png)   |
+|   |Kommostal Z   |100K   |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/KOMMOO.png)   |
+|   |Lycanrostal Z   |100K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/LYCANROC.png)![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/LYCANROC_1.png)![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/LYCANROC_2.png)     |
+|   |Mimikyustal Z   |100K    |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/MIMIKYU.png)   |
+|   |Solgaleostal Z   |50K   |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/SOLGALEO.png)![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/NECROZMA_1.png)   |
+|   |Lunalastal Z   |50K   |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/LUNALA.png)![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/NECROZMA_2.png)   |
+|   |Ultranecrostal Z   |100K |![Venusaurita](../images/usuarios/rivalsilver97/iconos/cristalesz/NECROZMA_3.png)   |
 
 
 
@@ -529,15 +529,4 @@ Los Pokémon **siempre se venden castrados**, El precio mínimo va sumando segú
 |Naturaleza a elección   |+15K   |
 |Con Fallo de IV| +10K |
 |Con Habilidad Oculta| +30K |
-
-
-# Servidor
-
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|![Mod Shiny](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORSHINY.png)   |Mod Shiny  |20K   |Modificador que sirve para cambiar a la forma variocolor de tu Pokémon.   |
-|![Mod Naturaleza](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORNATURALEZA.png)   |Mod Naturaleza   |30K   |Modificador que sirve para cambiar la Naturaleza de tu Pokémon.    |
-|![Mod Tamaño](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORTAMAÑO.png)   |Mod Tamaño  | 20K  |Modificador que sirve para cambiar el Tamaño de tu Pokémon.    |
-|![Mod Género](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORGENERO.png)   |Mod Género  |50K   |Modificador que sirve para cambiar el Género de tu Pokémon.    |
-|![Mod Ball](../images/usuarios/rivalsilver97/iconos/modificadores/MODIFICADORBALL.png)   |Mod Ball   |10K   |Modificador que sirve para cambiar la Ball de tu Pokémon.    |
 
