@@ -187,9 +187,35 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
+|   |Piedra Hielo   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Alba   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Fuego   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Hoja   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Lunar   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Día   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Solar   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Trueno   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Noche   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Piedra Agua   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
+|   |Escama marina   |   |   |
+|   |Diente marino   |   |   |
+|   |Escamadragón   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
 
 # Objetos Competitivos
 
@@ -297,11 +323,11 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Porygon (completo)   |   |   |
-|   |Cuerpo de Porygon   |   |   |
-|   |Pierna de Porygon   |   |   |
-|   |Cola de Porygon   |   |   |
-|   |Cabeza de Porygon   |   |   |
+|   |Porygon (completo)   |10K   |   |
+|   |Cuerpo de Porygon   |1K   |   |
+|   |Pierna de Porygon   |1K   |   |
+|   |Cola de Porygon   |1K   |   |
+|   |Cabeza de Porygon   |1K   |   |
 
 # Fósiles (por unidad)
 
