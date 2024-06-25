@@ -13,7 +13,7 @@ La creación de esta skin se basa en la energía primordial de la creación, hac
 
 
 ### Comentario del desarrollador
-{% hint style="info" %} Esta skin puede cambiar de estilo usando el comando [/estilos](../../funciones/estilos.md).{% endhint %}
+{% hint style="info" %} Esta skin puede cambiar de estilo usando el comando `/estilos`.{% endhint %}
 
 ## Formas
 

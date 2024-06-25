@@ -29,7 +29,7 @@ La creación de este Pokémon se basó en el típico cuento de hadas donde un h�
 | Dimensional | ![Sprite de Cerullade Dimensional](../../images/pokemon/temporada-1/Cerullade-sprite-dimensional.png) |
 | Nexus | ![Sprite de Cerullade Nexus](../../images/pokemon/temporada-1/Cerullade-sprite-nexus.png) |
 
-{% hint style="info" %} Este Pokémon tiene estilos que se pueden [comprar en la tienda](https://tienda.mundopixelnet.com/category/servidor-escarlata-1), para cambiar entre ellos usa el comando [/estilos](../../funciones/estilos.md).{% endhint %}
+{% hint style="info" %} Este Pokémon tiene estilos que se pueden comprar en la Tienda Web *(tienda.mundopixelnet.com)*, para cambiar entre ellos usa el comando `/estilos`.{% endhint %}
 
 ![Formas de Cerullade](../../images/pokemon/temporada-1/Cerullade-formas.png)
 

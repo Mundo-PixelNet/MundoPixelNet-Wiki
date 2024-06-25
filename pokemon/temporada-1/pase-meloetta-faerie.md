@@ -13,7 +13,7 @@
 ### Comentario del desarrollador
 La creación de esta skin está basada en las hadas y también en el nuevo bioma místico.
 
-{% hint style="info" %} Esta skin, al igual que la versión original, puede cambiar de forma mediante el movimiento [Canto arcaico](https://www.wikidex.net/wiki/Canto_arcaico).{% endhint %}
+{% hint style="info" %} Esta skin, al igual que la versión original, puede cambiar de forma mediante el movimiento Canto arcaico.{% endhint %}
 
 ## Formas
 
