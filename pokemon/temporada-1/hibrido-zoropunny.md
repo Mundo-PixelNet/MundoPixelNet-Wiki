@@ -7,7 +7,7 @@
 |                     **Artwork** | ![Artwork de Zoropunny](../../images/pokemon/temporada-1/Zoropunny.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Zoropunny](../../images/pokemon/temporada-1/Zoropunny-sprite.png)                                                          |
-| [Híbrido](#) | Lopunny y Zoroark                                                                                                                     |
+| [Híbrido](../../funciones/hibridos.md) | Lopunny y Zoroark                                                                                                                     |
 |                           Tipos | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png)        |
 |                     Habilidades | [Flexibilidad](https://www.wikidex.net/wiki/Flexibilidad)|
 |                     Hab. oculta | [Ilusión](https://www.wikidex.net/wiki/Ilusión)                                                                       |

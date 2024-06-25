@@ -7,7 +7,7 @@
 |                     **Artwork** | ![Artwork de Gardewile](../../images/pokemon/temporada-1/Gardewile.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)                                                          |
-| [Híbrido](#) | Ceruledge y Gallade                                                                                                                     |
+| [Híbrido](../../funciones/hibridos.md) | Ceruledge y Gallade                                                                                                                     |
 |                           Tipos | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) ![Tipo hada](../../images/pokemon/tipos/tipo_hada.png)        |
 |                     Habilidades | [Potencia](https://www.wikidex.net/wiki/Potencia)<br>[Intimidación](https://www.wikidex.net/wiki/Intimidación) |
 |                     Hab. oculta | [Piel Feérica](https://www.wikidex.net/wiki/Piel_fe%C3%A9rica)                                                                       |

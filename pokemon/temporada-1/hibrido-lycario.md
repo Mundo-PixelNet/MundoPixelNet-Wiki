@@ -7,7 +7,7 @@
 |                     **Artwork** | ![Artwork de Lycario](../../images/pokemon/temporada-1/Lycario.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Lycario](../../images/pokemon/temporada-1/Lycario-sprite.png)                                                          |
-| [Híbrido](#) | Lucario y Lycanroc                                                                                                                     |
+| [Híbrido](../../funciones/hibridos.md) | Lucario y Lycanroc                                                                                                                     |
 |                           Tipos | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) ![Tipo roca](../../images/pokemon/tipos/tipo_roca.png)        |
 |                     Habilidades | [Vista lince](https://www.wikidex.net/wiki/Vista_lince)<br>[Espíritu vital](https://www.wikidex.net/wiki/Espíritu_vital) |
 |                     Hab. oculta | [Indefenso](https://www.wikidex.net/wiki/Indefenso)                                                                       |
