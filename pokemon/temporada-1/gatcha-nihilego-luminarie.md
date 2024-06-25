@@ -12,7 +12,7 @@
 ### Comentario del desarrollador
 La creación de esta piel se basa en el misticismo que rodea a la luna y al espacio en general.
 
-![Formas de Kingambit Titan](../../images/pokemon/temporada-1/luminarie-formas.png)
+![Vistazo en el juego a Nihilego Luminarie](../../images/pokemon/temporada-1/luminarie-formas.png)
 
 ## Obtención
 
