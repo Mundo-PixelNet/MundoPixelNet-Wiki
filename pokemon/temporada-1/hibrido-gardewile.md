@@ -22,6 +22,8 @@ La creación de este Pokémon se basó en el típico cuento de hadas donde un h�
 
 ## Formas
 
+Gardewile tiene varias formas disponibles que pueden ser cambios gracias a Modificadores de skin, u otras formas.
+
 |  Forma |                                            Sprite                                           |
 | :----: | :-----------------------------------------------------------------------------------------: |
 | Normal |        ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)        |
