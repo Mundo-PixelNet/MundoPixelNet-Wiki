@@ -7,7 +7,7 @@
 |                     **Artwork** | ![Artwork de Gardewile](../../images/pokemon/temporada-1/Gardewile.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)                                                          |
-| [Híbrido](../../funciones/hibridos.md) | Ceruledge y Gallade                                                                                                                     |
+| [Híbrido](../../funciones/hibridos.md) | Gardevoir y Mawile                                                                                                                     |
 |                           Tipos | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) ![Tipo hada](../../images/pokemon/tipos/tipo_hada.png)        |
 |                     Habilidades | [Potencia](https://www.wikidex.net/wiki/Potencia)<br>[Intimidación](https://www.wikidex.net/wiki/Intimidación) |
 |                     Hab. oculta | [Piel Feérica](https://www.wikidex.net/wiki/Piel_fe%C3%A9rica)                                                                       |
@@ -18,7 +18,7 @@
 Según artefactos antiguos, los nobles de la ciudad de Etheria solían vivir con este espécimen debido a su elegante personalidad.
 
 ### Comentario del desarrollador
-La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa.
+La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa, es la pareja de Cerullade.
 
 ## Formas
 
