@@ -22,6 +22,8 @@ Este Pokémon se basó en los conceptos de chica mala, cazadora furtiva y un poc
 
 ## Formas
 
+Zoropunny tiene varias formas disponibles que pueden ser cambios gracias a Modificadores de skin, u otras formas.
+
 |  Forma |                                            Sprite                                           |
 | :----: | :-----------------------------------------------------------------------------------------: |
 | Normal |        ![Sprite de Zoropunny](../../images/pokemon/temporada-1/Zoropunny-sprite.png)        |
