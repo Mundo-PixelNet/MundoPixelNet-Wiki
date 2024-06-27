@@ -18,7 +18,7 @@
 La personalidad de este espécimen guarda una sorprendente similitud con la de la leyenda de un héroe legendario que salvo a toda Etheria de una criatura dimensional.
 
 ### Comentario del desarrollador
-La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa.
+La creación de este Pokémon se basó en el típico cuento de hadas donde un héroe enfrenta una amenaza y se casa con la princesa, es la pareja de Gardewile.
 
 ## Formas
 
@@ -29,7 +29,7 @@ La creación de este Pokémon se basó en el típico cuento de hadas donde un h�
 | Dimensional | ![Sprite de Cerullade Dimensional](../../images/pokemon/temporada-1/Cerullade-sprite-dimensional.png) |
 | Nexus | ![Sprite de Cerullade Nexus](../../images/pokemon/temporada-1/Cerullade-sprite-nexus.png) |
 
-{% hint style="info" %} Este Pokémon tiene estilos que se pueden comprar en la Tienda Web *(tienda.mundopixelnet.com)*, para cambiar entre ellos usa el comando `/estilos`.{% endhint %}
+{% hint style="info" %} Este Pokémon tiene estilos que se pueden comprar en la Tienda Web *(tienda.mundopixelnet.com)*, para cambiar entre ellos usa el comando /estilos.{% endhint %}
 
 ![Formas de Cerullade](../../images/pokemon/temporada-1/Cerullade-formas.png)
 

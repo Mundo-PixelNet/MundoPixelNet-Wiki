@@ -22,6 +22,8 @@ La creación de este Pokémon se basó en leyendas de hombres lobo, y por eso le
 
 ## Formas
 
+Lycario tiene varias formas disponibles que pueden ser cambios gracias a Modificadores de skin, u otras formas.
+
 |  Forma |                                            Sprite                                           |
 | :----: | :-----------------------------------------------------------------------------------------: |
 | Normal |        ![Sprite de Lycario](../../images/pokemon/temporada-1/Lycario-sprite.png)        |
