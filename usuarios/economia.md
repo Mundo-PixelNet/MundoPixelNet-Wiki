@@ -423,11 +423,11 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |
 | - | - | - |
-|   |Porygon (completo)   |10K   |   |
-|   |Cuerpo de Porygon   |1K   |   |
-|   |Pierna de Porygon   |1K   |   |
-|   |Cola de Porygon   |1K   |   |
-|   |Cabeza de Porygon   |1K   |   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/porygon/Porygon.png)   |Porygon (completo)   |10K   |   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/porygon/Grid_Porygon_Body.png)   |Cuerpo de Porygon   |1K   |   |   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/porygon/Grid_Porygon_Leg.png)   |Pierna de Porygon    | 1K   |  |   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/porygon/Grid_Porygon_Tail.png)   |Cola de Porygon   |1K   |   |   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/porygon/Grid_Porygon_Head.png)   |Cabeza de Porygon   |1K    |  |   |
 
 # Fósiles (por unidad)
 
