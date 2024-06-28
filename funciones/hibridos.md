@@ -81,3 +81,15 @@ Esto significa que a la hora de crear el Híbrido este tiene un 30% de acertar y
 Capaz quieres crear un Híbrido con IVs perfectos y pones a tu Lucario 100%. Pero si el intento falla, este Lucario 100% no podrá volver a ser usado. Así que guárdate tus Pokémon más útiles para cuando tengas el Híbrido al 100% de Porcentaje de éxito.
 
 Por último, **los IVs del Híbrido creado serán del Pokémon usado con mayor porcentaje de IVs**.
+
+## 📖 Lista de Híbridos
+
+Estos son los híbridos disponibles actualmente:
+
+|  Pokémon |                                            Sprite                                           |
+| :----: | :-----------------------------------------------------------------------------------------: |
+| [Cerullade](../pokemon/temporada-1/hibrido-cerullade.md) |        ![Sprite de Cerullade](../images/pokemon/temporada-1/Cerullade-sprite.png)        |
+| [Gardewile](../pokemon/temporada-1/hibrido-gardewile.md) |  ![Sprite de Gardewile](../images/pokemon/temporada-1/Gardewile-sprite.png)  |
+| [Lycario](../pokemon/temporada-1/hibrido-lycario.md) | ![Sprite de Lycario](../images/pokemon/temporada-1/Lycario-sprite.png) |
+| [Mismapeon](../pokemon/temporada-1/hibrido-mismapeon.md) | ![Sprite de Mismapeon](../images/pokemon/temporada-1/Mismapeon-sprite.png) |
+| [Zoropunny](../pokemon/temporada-1/hibrido-zoropunny.md) | ![Sprite de Zoropunny](../images/pokemon/temporada-1/Zoropunny-sprite.png) |
