@@ -387,9 +387,9 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |
 | - | - | - |
-|   |Reparación   |50K   |
-|   |Irrompibilidad III   |50K   |
-|   |El resto de encantamientos   | 30K   |
+|![Reparación](../images/usuarios/rivalsilver97/iconos/encantamientos/Libroencantado.gif)   |Reparación   |50K   |
+|![Irrompibilidad III ](../images/usuarios/rivalsilver97/iconos/encantamientos/Libroencantado.gif)   |Irrompibilidad III   |50K   |
+|![El resto de encantamientos](../images/usuarios/rivalsilver97/iconos/encantamientos/Libroencantado.gif)   |El resto de encantamientos   | 30K   |
 
 # Bayas
 
@@ -497,7 +497,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Todos   | valen  | 15k  |
+|![Metalostal Z](../images/usuarios/rivalsilver97/iconos/discossilvally/DARKMEMORY.png)   |Todos   | valen  | 15k  |
 
 
 
@@ -505,7 +505,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Descripción|
 | - | - | - | - |
-|   |Todos    |valen   |10k   |
+|![Metalostal Z](../images/usuarios/rivalsilver97/iconos/romsgenesect/SHOCKDRIVE.png)   |Todos    |valen   |10k   |
 
 # Pokémon Legendarios y Singulares
 
