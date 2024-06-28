@@ -185,45 +185,145 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Objetos de Evolución
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|   |Piedra Hielo   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Alba   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Fuego   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Hoja   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Lunar   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Día   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Solar   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Trueno   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Noche   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Piedra Agua   |   |Sirve para evolucionar a algunas especies de Pokémon.   |
-|   |Escama marina   |   |   |
-|   |Diente marino   |   |   |
-|   |Escamadragón   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |
+| - | - | - |
+|   |Piedra Hielo   |10K   |
+|   |Piedra Alba   |10K   |
+|   |Piedra Fuego   |10K   |
+|   |Piedra Hoja   |10K   |
+|   |Piedra Lunar   |10K   |
+|   |Piedra Día   |10K   |
+|   |Piedra Solar   |10K   |
+|   |Piedra Trueno   |10K   |
+|   |Piedra Noche   |10K   |
+|   |Piedra Agua   |10K   |
+|   |Escama marina   |10K   |
+|   |Diente marino   |10K   |
+|   |Escamadragón   |10K   |
+|   |Discoextraño   |10K   |
+|   |Electrizador   |10K   |
+|   |Magmatizador   |10K   |
+|   |Piedra Oval   |10K   |
+|   |Escama bella   |10K   |
+|   |Protector   |10K   |
+|   |Telaterrible   |5K   |
+|   |Saquito fragante   |5K   |
+|   |Mejora   |10K   |
+|   |Dulce de nata   |5K   |
+|   |Brazal galanuez   |5K   |
+|   |Tetera agrietada   |5K   |
+|   |Manzana ácida   |2K   |
+|   |Manzana dulce   |2K    |
+|   |Roca del Rey   |10K   |
+|   |Armadura Maliciosa   |50K   |
+|   |Colmillo Agudo   |5K   |
+
 
 
 # Objetos Competitivos
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Icono   |Nombre  |Precio   |
+| - | - | - |
+|   |Diamansfera   |100K   |
+|   |Lustresfera   |100K   |   |
+|   |Griseosfera   |100K   |   |
+|   |Nerviosfera   |10   |   |
+|   |Gran Diamansfera   |100K   |   |
+|   |Gran Lustresfera   |100K   |   |
+|   |Gran Griseosfera   |100K   |   |
+|   |Tubérculo   |10K   |   |
+|   |Globo Helio   |15K   |   |
+|   |Chaleco Asalto   |50K |   |
+|   |Zumo   |5K   |   |
+|   |Raíz Grande   |10K   |   |
+|   |Banda Atadura   |10K   |   |
+|   |Cinturón Negro   |15K   |   |
+|   |Gafas de sol   |5K   |   |
+|   |Lodo Negro   |10K   |   |
+|   |Polvo Brillo   |5K   |   |
+|   |Pila   |5K   |   |
+|   |Carbón  |5K   |   |
+|   |Roca Lluvia   |10K   |   |
+|   |Colmillo Dragón   |5K   |   |
+|   |Botón Escape   |5K   |   |
+|   |Mineral Evolutivo   |50K   |   |
+|   |Semilla Hierba   |10K   |   |
+|   |Semilla Electro    |10K   |   |
+|   |Semilla Psique   |10K   |   |
+|   |Semilla Bruma    |10K   |   |
+|   |Cinta Experto   |30K   |   |
+|   |Llamasfera   |30K   |   |
+|   |Piedra Pómez   |10K   |   |
+|   |Cinta Focus   |35K   |   |
+|   |Banda Focus   |15K   |   |
+|   |Garra Garfio   |5K   |   |
+|   |Piedra Dura   |5K   |   |
+|   |Roca Calor   |10K   |   |
+|   |Botas Gruesas   |20K   |   |
+|   |Roca Hielo   |10K   |   |
+|   |Bola Férrea   |10K   |   |
+|   |Roca del Rey   |10K   |   |
+|   |Cola Plúmbea   |8K  |   |
+|   |Restos   |20K   |   |
+|   |Vidasfera   |30K   |   |
+|   |Bola Luminosa   |10K   |   |
+|   |Refleluz   |30K   |   |
+|   |Huevo Suerte   |10K   |   |
+|   |Puño Suerte   |5K   |   |
+|   |Musgo Brillante   |5K   |   |
+|   |Brazal Firme   |5K   |   |
+|   |Imán   |5K   |   |
+|   |Hierba Mental   |10K   |   |
+|   |Hierba Única   |15K   |   |
+|   |Polvo Metálico   |5K   |   |
+|   |Semilla Milagro   |5K   |   |
+|   |Revestimiento Metálico   |5K    |   |
+|   |Metrónomo   |5K    |   |
+|   |Cinta Fuerte   |30K   |   |
+|   |Agua Mística   |15K   |   |
+|   |Antiderretir   |20K   |   |
+|   |Flecha Venenosa   |5K   |   |
+|   |Garra Rápida   |10K   |   |
+|   |Polvo Veloz   |5K   |   |
+|   |Garra Afilada   |10K   |   |
+|   |Colmillo Agudo   |5K   |   |
+|   |Tarjeta Roja   |5K   |   |
+|   |Blanco   |5K   |   |
+|   |Casco Dentado   |30K   |   |
+|   |Gafas Protectoras   |15K   |   |
+|   |Periscopio   |15K   |   |
+|   |Pico Afilado   |10K   |   |
+|   |Muda Concha   |5K   |   |
+|   |Campana Concha   |25K   |   |
+|   |Pañuelo Seda   |20K   |   |
+|   |Polvo Plata   |5K   |   |
+|   |Bola Humo   |5K   |   |
+|   |Roca Suave   |10K   |   |
+|   |Bola de Nieve   |5K   |   |
+|   |Arena fina   |5K   |   |
+|   |Campana Alivio   |2K   |   |
+|   |Rocío Bondad   |20K   |   |
+|   |Hechizo   |15K   |   |
+|   |Puerro   |10K   |   |
+|   |Toxiestrella   |10K   |   |
+|   |Hueso Grueso   |10K   |   |
+|   |Toxisfera   |20K   |   |
+|   |Paracontacto   |15K   |   |
+|   |Cuchara Torcida   |15K   |   |
+|   |Seguro Debilidad   |20K   |   |
+|   |Hierba Blanca   |10K   |   |
+|   |Lupa   | 10K  |   |
+|   |Gafas Especiales   |20K   |   |
+|   |Telescopio   |20K   |   |
+|   |Spray Bucal   |5K   |   |
+|   |Servicio Raro   |20K   |   |
+|   |Cinta Elegida   |20K   |   |
+|   |Pañuelo Elección   |20K   |   |
+|   |Gafas Elección   |20K   |   |
+
+
+
+
 
 # Otros (por unidad)
 
@@ -299,8 +399,8 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Gemas
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
+|Icono   |Nombre  |Precio   |
+| - | - | - |
 |   |Gema Bicho   |2K   |   |
 |   |Gema Siniestro   |2K   |   |
 |   |Gema Dragón   |2K   |   |
@@ -319,10 +419,10 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |Gema Agua   |2K   |   |
 
 
-# Partes de Porygon
+# Partes de Porygon (por unidad)
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
+|Icono   |Nombre  |Precio   |
+| - | - | - |
 |   |Porygon (completo)   |10K   |   |
 |   |Cuerpo de Porygon   |1K   |   |
 |   |Pierna de Porygon   |1K   |   |
@@ -409,8 +509,10 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Pokémon Legendarios y Singulares
 
-|Sprite   |Nombre  |Precio   |Naturaleza favorable|
-| - | - | - | - |
+Si el Pokémon Legendario/Singular es **Shiny de forma natural**, se le suma 75K al precio.
+
+|Sprite   |Nombre  |Precio   |
+| - | - | - |
 |![Articuno](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
 |![Articuno Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARTICUNO_1.png)   |Articuno Galar   |400K   |- Miedosa<br>- Serena<br>- Modesta   |
 |![Zapdos](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZAPDOS.png)   |Zapdos   |150K   |- Miedosa<br>- Serena<br>- Osada<br>- Modesta   |
@@ -422,41 +524,41 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RAIKOU.png)   |Raikou   |250K   |- Miedosa<br>- Alocada   |
 |![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ENTEI.png)   |Entei   |150K   |- Firme<br>- Alegre   |
 |![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SUICUNE.png)   |Suicune   |250K   |- Osada<br>- Miedosa<br>- Serena<br>- Modesta   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LUGIA.png)   |Lugia   |300K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HOOH.png)   |Ho-Oh   |300K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CELEBI.png)   |Celebi   |500K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIROCK.png)   |Regirock   |450K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGICE.png)   |Regice   |450K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGISTEEL.png)   |Registel   |450K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LATIAS.png)   |Latias   |650K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LATIOS.png)   |Latios   |650K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYOGRE.png)   |Kyogre   |800K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GROUDON.png)   |Groudon   |800K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RAYQUAZA.png)   |Rayquaza   |900K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/JIRACHI.png)   |Jirachi   |1M   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DEOXYS.png)   |Deoxys   |900K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIGIGAS.png)   |Regigigas   |800K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HEATRAN.png)   |Heatran   |750K   |   |
-|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CRESSELIA.png)   |Cresselia   |1M   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/AZELF.png)    |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MESPRIT.png)    |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DIALGA.png)   |Dialga   |500K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PALKIA.png)   |Palkia   |500K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |500K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PHIONE.png)   |Phione   |50K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MANAPHY.png)   |Manaphy   |150K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SHAYMIN.png)   |Shaymin   |550K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DARKRAI.png)   |Darkrai   |1.2M   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARCEUS.png)   |Arceus   |650K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/VIRIZION.png)   |Virizion   |250K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/COBALION.png)   |Cobalion   |300K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TERRAKION.png)   |Terrakion   |300K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TORNADUS.png)   |Tornadus   |600K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LANDORUS.png)   |Landorus   |900K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/THUNDURUS.png)   |Thundurus   |550K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZEKROM.png)   |Zekrom   |800K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RESHIRAM.png)   |Reshiram   |800K    |   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LUGIA.png)   |Lugia   |300K   |- Osada<br>- Serena<br>- Miedosa<br>- Modesta   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HOOH.png)   |Ho-Oh   |300K   |- Alegre <br>- Agitada<br>- Osada<br>- Plácida<br>- Firme   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CELEBI.png)   |Celebi   |500K   |- Miedosa<br>- Serena<br>- Modesta   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIROCK.png)   |Regirock   |450K   |-Agitada<br>- Firme   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGICE.png)   |Regice   |450K   |- Modesta<br>- Miedosa<br>- Serena   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGISTEEL.png)   |Registel   |450K   |- Serena<br>- Cauta<br>- Osada<br>- Agitada   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LATIAS.png)   |Latias   |650K   |- Miedosa<br>- Modesta   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LATIOS.png)   |Latios   |650K   |- Miedosa<br>- Ingenua<br>- Activa   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYOGRE.png)   |Kyogre   |800K   |- Modesta<br>- Firme<br>- Alegre<br>- Osada<br>- Activa<br>- Miedosa<br>- Grosera<br>- Plácida<br>- Afable<br>- Pícara   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GROUDON.png)   |Groudon   |800K   |- Firme<br>- Plácida<br>- Agitada<br>- Cauta<br>- Afable<br>- Pícara<br>- Grosera   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RAYQUAZA.png)   |Rayquaza   |900K   |- Firme<br>- Alegre<br>- Ingenua<br>- Pícara<br>- Huraña   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/JIRACHI.png)   |Jirachi   |1M   |- Alegre<br>- Cauta<br>- Ingenua<br>- Miedosa<br>- Firme   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DEOXYS.png)   |Deoxys   |900K   |- Alegre<br>- Miedosa   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/REGIGIGAS.png)   |Regigigas   |800K   |- Firme<br>- Alegre   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/HEATRAN.png)   |Heatran   |750K   |- Serena<br>- Modesta<br>- Miedosa<br>- Osada   |
+|![Zapdos Galar](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CRESSELIA.png)   |Cresselia   |1M   |- Osada<br>- Plácida<br>- Grosera<br>- Modesta<br>- Mansa   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  | - Miedosa<br>- Plácida  |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/AZELF.png)    |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Alegre<br>- Ingenua   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MESPRIT.png)    |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Osada<br>- Modesta   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DIALGA.png)   |Dialga   |500K   |- Modesta<br>- Grosera<br>- Mansa   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PALKIA.png)   |Palkia   |500K   |- Activa<br>- Afable<br>- Modesta   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |500K   |- Plácida<br>- Modesta<br>- Osada   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PHIONE.png)   |Phione   |50K   |- Plácida<br>- Miedosa   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/MANAPHY.png)   |Manaphy   |150K   |-Modesta<br>- Miedosa   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/SHAYMIN.png)   |Shaymin   |550K   |- Miedosa<br>- Modesta   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/DARKRAI.png)   |Darkrai   |1.2M   |- Miedosa<br>- Modesta   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ARCEUS.png)   |Arceus   |650K   |- Firme<br>- Miedosa<br>- Osada<br>- Modesta<br>- Alegre   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/VIRIZION.png)   |Virizion   |250K   |- Alegre<br>- Activa<br>- Miedosa   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/COBALION.png)   |Cobalion   |300K   |- Alegre<br>- Miedosa   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TERRAKION.png)   |Terrakion   |300K   |- Alegre<br>- Firme   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/TORNADUS.png)   |Tornadus   |600K   |- Miedosa<br>- Activa   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/LANDORUS.png)   |Landorus   |900K   |- Miedosa<br>- Alegre<br>- Firme<br>- Agitada   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/THUNDURUS.png)   |Thundurus   |550K   |- Miedosa<br>- Ingenua<br>- Osada<br>- Alegre<br>- Modesta   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/ZEKROM.png)   |Zekrom   |800K   |- Agitada<br>- Alocada<br>- Alegre<br>- Firme   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/RESHIRAM.png)   |Reshiram   |800K    |- Modesta<br>- Miedosa   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYUREM.png)   |Kyurem   |900K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYUREM_1.png)<br>![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KYUREM_2.png)   |Kyurem Negro y Blanco |1.7M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/VICTINI.png)   |Victini   |350K   |   |
@@ -508,19 +610,27 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CHIENPAO.png)   |Chien-Pao   |800K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CHIYU.png)   |Chi-Yu   |800K   |   |
 
+
+
 # Pokémon Paradojas
 
-|Sprite   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
+Si el Pokémon Paradoja es **Shiny de forma natural**, se le suma 75K al precio.
+
+|Sprite   |Nombre  |Precio   |
+| - | - | - |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONLEAVES.png)    |Ferrohojas   |1.1M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONMOTH.png)    |Ferropolilla   |1.1M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/IRONTHORNS.png)    |Ferropúas   |1.1M   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/WALKINGWAKE.png)    |Ondulagua   |1.1M   |   |
 
+
+
 # Pokémon Ultraentes
 
-|Sprite  |Nombre  |Precio   |Descripción|
-| - | - | - | - |
+Si el Pokémon Ultraente es **Shiny de forma natural**, se le suma 75K al precio.
+
+|Sprite  |Nombre  |Precio   |
+| - | - | - |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NIHILEGO.png)    |Nihilego   |200K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/BUZZWOLE.png)    |Buzzwole   |200K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/PHEROMOSA.png)    |Pheromosa   |300K   |   |
@@ -534,10 +644,13 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/BLACEPHALON.png)    |Blacephalon   |500K   |   |
 
 
+
 # Pokémon Especiales
 
-|Sprite  |Nombre  |Precio   |Descripción|
-| - | - | - | - |
+Si el Pokémon Especial es **Shiny de forma natural**, se le suma 75K al precio.
+
+|Sprite  |Nombre  |Precio   |
+| - | - | - |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonespeciales/GRENINJA_2.png)   |Greninja Ash   |1.2M   |   |
 
 
@@ -555,4 +668,5 @@ Los Pokémon **siempre se venden castrados**, El precio mínimo va sumando segú
 |Naturaleza a elección   |+15K   |
 |Con Fallo de IV| +10K |
 |Con Habilidad Oculta| +30K |
+|Shiny (natural)| +75K|
 
