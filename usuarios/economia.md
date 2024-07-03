@@ -75,8 +75,8 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 # Objetos de Crianza
 
-|Icono   |Nombre |Precio |Descripción |
-| - | - | - | - |
+|Icono   |Nombre |Precio |
+| - | - | - |
 |![Inciensos](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/WAVEINCENSE.png)   |Inciensos |15K   | |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad|20K|Permite cambiar la habilidad a un Pokémon que tiene dos.    |
 |![Cápsula Habilidad](../images/usuarios/rivalsilver97/iconos/pokemoncrianza/EVERSTONE.png)   |Piedra eterna|10K |Impide la evolución del Pokémon que la lleve equipada. Y sirve para traspasar la Naturaleza en la crianza.   |
@@ -111,7 +111,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/TOXICPLATE.png)   |Tabla Tóxica   |25K    | |
 |![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/ZAPPLATE.png)   |Tabla Trueno   |25K    | |
 |![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/BLANKPLATE.png)   |Tabla Neutra   |25K    | |
-|![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/LEGENDPLATE.png)   |Tabla Legendaria   |30K    | |
+|![Draco Plate](../images/usuarios/rivalsilver97/iconos/tablas/LEGENDPLATE.png)   |Tabla Legendaria   |425K    | |
 
 
 
@@ -224,102 +224,102 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |
 | - | - | - |
-|   |Diamansfera   |100K   |
-|   |Lustresfera   |100K   |   |
-|   |Griseosfera   |100K   |   |
-|   |Nerviosfera   |10   |   |
-|   |Gran Diamansfera   |100K   |   |
-|   |Gran Lustresfera   |100K   |   |
-|   |Gran Griseosfera   |100K   |   |
-|   |Tubérculo   |10K   |   |
-|   |Globo Helio   |15K   |   |
-|   |Chaleco Asalto   |50K |   |
-|   |Zumo   |5K   |   |
-|   |Raíz Grande   |10K   |   |
-|   |Banda Atadura   |10K   |   |
-|   |Cinturón Negro   |15K   |   |
-|   |Gafas de sol   |5K   |   |
-|   |Lodo Negro   |10K   |   |
-|   |Polvo Brillo   |5K   |   |
-|   |Pila   |5K   |   |
-|   |Carbón  |5K   |   |
-|   |Roca Lluvia   |10K   |   |
-|   |Colmillo Dragón   |5K   |   |
-|   |Botón Escape   |5K   |   |
-|   |Mineral Evolutivo   |50K   |   |
-|   |Semilla Hierba   |10K   |   |
-|   |Semilla Electro    |10K   |   |
-|   |Semilla Psique   |10K   |   |
-|   |Semilla Bruma    |10K   |   |
-|   |Cinta Experto   |30K   |   |
-|   |Llamasfera   |30K   |   |
-|   |Piedra Pómez   |10K   |   |
-|   |Cinta Focus   |35K   |   |
-|   |Banda Focus   |15K   |   |
-|   |Garra Garfio   |5K   |   |
-|   |Piedra Dura   |5K   |   |
-|   |Roca Calor   |10K   |   |
-|   |Botas Gruesas   |20K   |   |
-|   |Roca Hielo   |10K   |   |
-|   |Bola Férrea   |10K   |   |
-|   |Roca del Rey   |10K   |   |
-|   |Cola Plúmbea   |8K  |   |
-|   |Restos   |20K   |   |
-|   |Vidasfera   |30K   |   |
-|   |Bola Luminosa   |10K   |   |
-|   |Refleluz   |30K   |   |
-|   |Huevo Suerte   |10K   |   |
-|   |Puño Suerte   |5K   |   |
-|   |Musgo Brillante   |5K   |   |
-|   |Brazal Firme   |5K   |   |
-|   |Imán   |5K   |   |
-|   |Hierba Mental   |10K   |   |
-|   |Hierba Única   |15K   |   |
-|   |Polvo Metálico   |5K   |   |
-|   |Semilla Milagro   |5K   |   |
-|   |Revestimiento Metálico   |5K    |   |
-|   |Metrónomo   |5K    |   |
-|   |Cinta Fuerte   |30K   |   |
-|   |Agua Mística   |15K   |   |
-|   |Antiderretir   |20K   |   |
-|   |Flecha Venenosa   |5K   |   |
-|   |Garra Rápida   |10K   |   |
-|   |Polvo Veloz   |5K   |   |
-|   |Garra Afilada   |10K   |   |
-|   |Colmillo Agudo   |5K   |   |
-|   |Tarjeta Roja   |5K   |   |
-|   |Blanco   |5K   |   |
-|   |Casco Dentado   |30K   |   |
-|   |Gafas Protectoras   |15K   |   |
-|   |Periscopio   |15K   |   |
-|   |Pico Afilado   |10K   |   |
-|   |Muda Concha   |5K   |   |
-|   |Campana Concha   |25K   |   |
-|   |Pañuelo Seda   |20K   |   |
-|   |Polvo Plata   |5K   |   |
-|   |Bola Humo   |5K   |   |
-|   |Roca Suave   |10K   |   |
-|   |Bola de Nieve   |5K   |   |
-|   |Arena fina   |5K   |   |
-|   |Campana Alivio   |2K   |   |
-|   |Rocío Bondad   |20K   |   |
-|   |Hechizo   |15K   |   |
-|   |Puerro   |10K   |   |
-|   |Toxiestrella   |10K   |   |
-|   |Hueso Grueso   |10K   |   |
-|   |Toxisfera   |20K   |   |
-|   |Paracontacto   |15K   |   |
-|   |Cuchara Torcida   |15K   |   |
-|   |Seguro Debilidad   |20K   |   |
-|   |Hierba Blanca   |10K   |   |
-|   |Lupa   | 10K  |   |
-|   |Gafas Especiales   |20K   |   |
-|   |Telescopio   |20K   |   |
-|   |Spray Bucal   |5K   |   |
-|   |Servicio Raro   |20K   |   |
-|   |Cinta Elegida   |20K   |   |
-|   |Pañuelo Elección   |20K   |   |
-|   |Gafas Elección   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ADAMANTORB.png)   |Diamansfera   |100K   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LUSTROUSORB.png)   |Lustresfera   |100K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/GRISEOUSORB.png)   |Griseosfera   |100K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ADRENALINEORB.png)   |Nerviosfera   |10   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ADAMANTCRYSTAL.png)   |Gran Diamansfera   |100K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LUSTROUSGLOBE.png)    |Gran Lustresfera   |100K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/GRISEOUSCORE.png)   |Gran Griseosfera   |100K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ABSORBBULB.png)   |Tubérculo   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/AIRBALLOON.png)   |Globo Helio   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ASSAULTVEST.png)   |Chaleco Asalto   |50K |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/BERRYJUICE.png)   |Zumo   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/BIGROOT.png)   |Raíz Grande   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/BINDINGBAND.png)   |Banda Atadura   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/BLACKBELT.png)   |Cinturón Negro   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/BLACKGLASSES.png)   |Gafas de sol   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/BLACKSLUDGE.png)   |Lodo Negro   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/BRIGHTPOWDER.png)   |Polvo Brillo   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/CELLBATTERY.png)   |Pila   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/CHARCOAL.png)   |Carbón  |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/DAMPROCK.png)   |Roca Lluvia   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/DRAGONFANG.png)   |Colmillo Dragón   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/EJECTBUTTON.png)   |Botón Escape   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/EVIOLITE.png)   |Mineral Evolutivo   |50K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/GRASSYSEED.png)   |Semilla Hierba   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ELECTRICSEED.png)   |Semilla Electro    |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/PSYCHICSEED.png)   |Semilla Psique   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/MISTYSEED.png)   |Semilla Bruma    |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/EXPERTBELT.png)   |Cinta Experto   |30K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/FLAMEORB.png)   |Llamasfera   |30K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/FLOATSTONE.png)   |Piedra Pómez   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/FOCUSBAND.png)   |Cinta Focus   |35K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/FOCUSSASH.png)   |Banda Focus   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/GRIPCLAW.png)   |Garra Garfio   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/HARDSTONE.png)   |Piedra Dura   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/HEATROCK.png)   |Roca Calor   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/HEAVYDUTYBOOTS.png)   |Botas Gruesas   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ICYROCK.png)   |Roca Hielo   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/IRONBALL.png)   |Bola Férrea   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/KINGSROCK.png)   |Roca del Rey   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LAGGINGTAIL.png)   |Cola Plúmbea   |8K  |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LEFTOVERS.png)   |Restos   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LIFEORB.png)   |Vidasfera   |30K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LIGHTBALL.png)   |Bola Luminosa   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LIGHTCLAY.png)   |Refleluz   |30K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LUCKYEGG.png)   |Huevo Suerte   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LUCKYPUNCH.png)   |Puño Suerte   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/LUMINOUSMOSS.png)   |Musgo Brillante   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/MACHOBRACE.png)   |Brazal Firme   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/MAGNET.png)   |Imán   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/MENTALHERB.png)   |Hierba Mental   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/POWERHERB.png)   |Hierba Única   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/METALPOWDER.png)   |Polvo Metálico   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/MIRACLESEED.png)   |Semilla Milagro   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/METALCOAT.png)   |Revestimiento Metálico   |5K    |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/METRONOME.png)   |Metrónomo   |5K    |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/MUSCLEBAND.png)   |Cinta Fuerte   |30K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/MYSTICWATER.png)   |Agua Mística   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/NEVERMELTICE.png)   |Antiderretir   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/POISONBARB.png)   |Flecha Venenosa   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/QUICKCLAW.png)   |Garra Rápida   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/QUICKPOWDER.png)   |Polvo Veloz   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/RAZORCLAW.png)   |Garra Afilada   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/RAZORFANG.png)   |Colmillo Agudo   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/REDCARD.png)   |Tarjeta Roja   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/RINGTARGET.png)   |Blanco   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ROCKYHELMET.png)   |Casco Dentado   |30K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SAFETYGOGGLES.png)   |Gafas Protectoras   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SCOPELENS.png)   |Periscopio   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SHARPBEAK.png)   |Pico Afilado   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SHEDSHELL.png)   |Muda Concha   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SHELLBELL.png)   |Campana Concha   |25K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SILKSCARF.png)   |Pañuelo Seda   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SILVERPOWDER.png)   |Polvo Plata   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SMOKEBALL.png)   |Bola Humo   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SMOOTHROCK.png)   |Roca Suave   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SNOWBALL.png)   |Bola de Nieve   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SOFTSAND.png)   |Arena fina   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SOOTHEBELL.png)   |Campana Alivio   |2K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SOULDEW.png)   |Rocío Bondad   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/SPELLTAG.png)   |Hechizo   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/STICK.png)   |Puerro   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/STICKYBARB.png)   |Toxiestrella   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/THICKCLUB.png)   |Hueso Grueso   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/TOXICORB.png)   |Toxisfera   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/PROTECTIVEPADS.png)   |Paracontacto   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/TWISTEDSPOON.png)   |Cuchara Torcida   |15K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/WEAKNESSPOLICY.png)   |Seguro Debilidad   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/WHITEHERB.png)   |Hierba Blanca   |10K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/WIDELENS.png)   |Lupa   | 10K  |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/WISEGLASSES.png)   |Gafas Especiales   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ZOOMLENS.png)   |Telescopio   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/THROATSPRAY.png)   |Spray Bucal   |5K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/ROOMSERVICE.png)   |Servicio Raro   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/CHOICEBAND.png)   |Cinta Elegida   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/CHOICESCARF.png)   |Pañuelo Elección   |20K   |   |
+|![Diamansfera](../images/usuarios/rivalsilver97/iconos/objetoscompetitivos/CHOICESPECS.png)   |Gafas Elección   |20K   |   |
 
 
 
@@ -433,21 +433,21 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |Resultado Fósil|
 | - | - | - | - |
-|   |Fósil Hélix   |20K   |Omanyte   |
-|   |Fósil Domo  |20K   |Kabuto   |
-|   |Ámbar Viejo   |20K   |Aerodactyl   |
-|   |Fósil Raíz   |20K   |Lileep   |
-|   |Fósil Garra  |20K   |Anorith   |
-|   |Fósil Cráneo  |20K   |Cranidos   |
-|   |Fósil Coraza  |20K   |Shieldon   |
-|   |Fósil Tapa  |20K   |Tirtouga   |
-|   |Fósil Pluma  |20K   |Archen   |
-|   |Fósil Mandíbula  |20K   |Tyrunt   |
-|   |Fósil Aleta  |20K   |Amaura   |
-|   |Ornitofósil   |40K   |Arctozolt (+Plesiofósil)/Dracozolt (+Dracofósil)   |
-|   |Iciofósil  |40K   |Dracovish (+Dracofósil)/Actovish (+Plesiofósil)    |
-|   |Dracofósil |40K    |Dracozolt (+Ornitofósil)/Dracovish (+Iciofósil)   |
-|   |Plesiofósil   |40K    |Arctozolt (+Ornitofósil)/Arctovish (+Iciofósil)   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/HELIXFOSSIL.png)    |Fósil Hélix   |20K   |Omanyte   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/DOMEFOSSIL.png)    |Fósil Domo  |20K   |Kabuto   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/OLDAMBER.png)    |Ámbar Viejo   |20K   |Aerodactyl   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/ROOTFOSSIL.png)    |Fósil Raíz   |20K   |Lileep   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/CLAWFOSSIL.png)    |Fósil Garra  |20K   |Anorith   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/SKULLFOSSIL.png)    |Fósil Cráneo  |20K   |Cranidos   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/ARMORFOSSIL.png)    |Fósil Coraza  |20K   |Shieldon   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/COVERFOSSIL.png)    |Fósil Tapa  |20K   |Tirtouga   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/PLUMEFOSSIL.png)    |Fósil Pluma  |20K   |Archen   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/JAWFOSSIL.png)    |Fósil Mandíbula  |20K   |Tyrunt   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/SAILFOSSIL.png)    |Fósil Aleta  |20K   |Amaura   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/FOSSILIZEDBIRD.png)    |Ornitofósil   |40K   |Arctozolt (+Plesiofósil)/Dracozolt (+Dracofósil)   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/FOSSILIZEDFISH.png)    |Iciofósil  |40K   |Dracovish (+Dracofósil)/Actovish (+Plesiofósil)    |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/FOSSILIZEDDINO.png)    |Dracofósil |40K    |Dracozolt (+Ornitofósil)/Dracovish (+Iciofósil)   |
+|![Porygon](../images/usuarios/rivalsilver97/iconos/fosiles/FOSSILIZEDDINO.png)    |Plesiofósil   |40K    |Arctozolt (+Ornitofósil)/Arctovish (+Iciofósil)   |
 
 
 # Cristales Z
@@ -637,7 +637,7 @@ Si el Pokémon Ultraente es **Shiny de forma natural**, se le suma 75K al precio
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/XURKITREE.png)    |Xurkitree   |400K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/CELESTEELA.png)    |Celesteela   |400K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/KARTANA.png)    |Kartana   |600K   |   |
-|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GUZZLORD.png)    |Guzzlord   |150K   |   |
+|![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/GUZZLORD.png)    |Guzzlord   |350K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/POIPOLE.png)    |Poipole   |400K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/NAGANADEL.png)    |Naganadel   |300K   |   |
 |![Uxie](../images/usuarios/rivalsilver97/iconos/pokemonlegendarios/STAKATAKA.png)    |Stakataka   |250K   |   |
