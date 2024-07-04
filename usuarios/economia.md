@@ -3,11 +3,11 @@
 
 Dicha lista de precios es meramente orientativa y sirve para tener una idea de a qué precios mínimos vender, pudiendo así vender a más, pero no a menos de lo permitido, la lista es **oficial** aunque puede estar sujeta a cambios según como vaya la economía en el servidor.
 
-**El incumplimiento de esta lista de precios mínimos puede llevar sanción.**
+**El incumplimiento de esta lista de precios mínimos puede llevar sanción, ya que vender bajo mínimos estarías devaluando la economía.**
 
 Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**, **Tablas**, **Máquinas**, **Megapiedras**, **Objetos evolutivos**, **Objetos competitivos**, **Otros**, **Encantamientos**, **Bayas**, **Gemas**, **Partes de Porygon**, **Fósiles**, **Cristales Z**, **Discos de Silvally**, **ROMs de Genesect**, **Pokémon Legendarios (según naturaleza)**, **Ultraentes**, **Pokémon Especiales**, **Crianza** y **Modificadores**.
 
-Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla en nuestro servidor de Discord!
+Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dudes en escribirla en nuestro servidor de Discord!
 
 # Balls x Stack
 
@@ -652,7 +652,7 @@ Si el Pokémon Especial es **Shiny de forma natural**, se le suma 75K al precio.
 
 
 # Precios de Crianza
-Los Pokémon **siempre se venden castrados**, El precio mínimo va sumando según si tiene estas características:
+Los Pokémon **siempre se venden castrados**, El precio mínimo va aumentando según va obteniendo estas características:
 
 |Nombre|Precio  |
 | - | - |
