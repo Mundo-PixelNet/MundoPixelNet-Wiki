@@ -5,7 +5,7 @@ Dicha lista de precios es meramente orientativa y sirve para tener una idea de a
 
 **El incumplimiento de esta lista de precios mínimos puede llevar sanción, ya que vender bajo mínimos estarías devaluando la economía.**
 
-Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**, **Tablas**, **Máquinas**, **Megapiedras**, **Objetos evolutivos**, **Objetos competitivos**, **Otros**, **Encantamientos**, **Bayas**, **Gemas**, **Partes de Porygon**, **Fósiles**, **Cristales Z**, **Discos de Silvally**, **ROMs de Genesect**, **Pokémon Legendarios (según naturaleza)**, **Ultraentes**, **Pokémon Especiales**, **Crianza** y **Modificadores**.
+Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**, **Tablas**, **Máquinas**, **Megapiedras**, **Objetos evolutivos**, **Objetos competitivos**, **Otros**, **Encantamientos**, **Bayas**, **Gemas**, **Partes de Porygon**, **Fósiles**, **Cristales Z**, **Discos de Silvally**, **ROMs de Genesect**, **Pokémon Legendarios**, **Ultraentes**, **Pokémon Especiales**, **Crianza** y **Modificadores**.
 
 Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dudes en escribirla en nuestro servidor de Discord!
 
