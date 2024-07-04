@@ -1,9 +1,3 @@
----
-description: >-
-  Creado por: RivalSilver97 / silversnake97
-  Descripción: Listado de precios de los servidores
----
-
 # 🛒 LISTADO DE PRECIOS
 ¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás un listado de precios mínimos a los cuales vender tus Pokémon/objetos en el servidor.
 
@@ -373,8 +367,8 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/DNASPLICERS.png)    |Punta ADN   |50K   |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPSHARE.png)    |Repartir Exp   |70K   |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPSHARE.png)    |Compartir Exp   |40K   |
-|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/NSOLARIZER.png)    |Necrosol   |Necrosol   |
-|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/NLUNARIZER.png)    |Necroluna   |Necroluna   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/NSOLARIZER.png)    |Necrosol   |150K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/NLUNARIZER.png)    |Necroluna   |150K  |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ORB.png)    |Orbe vacío   |50K   |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ORBFULL.png)    |Orbe lleno   |100K   |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/REDAPRICORN.png)    |Bonguris (por stack)   |5K    |
