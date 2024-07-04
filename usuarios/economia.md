@@ -337,7 +337,9 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |   |Caramelo EXP S   |3K    |
 |   |Caramelo EXP XS    |3K    |
 |   |Foto Pokémon   |1K   |
-|   |RT/DT/MT   |   |
+|   |MT  |15K   |
+|   |MO  |20K   |
+|   |DT   |8K   |
 |   |Estrella del Nether   |150K   |
 |   |Faro   | 25K  |
 |   |Disco de Música   |2K   |
