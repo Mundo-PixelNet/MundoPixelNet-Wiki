@@ -329,55 +329,56 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 
 |Icono   |Nombre  |Precio   |
 | - | - | - |
-|   |Carameloraro   |2K   |
-|   |Refresco Raro   |5K   |
-|   |Caramelo EXP XL   |6K   |
-|   |Caramelo EXP L   |3K   |
-|   |Caramelo EXP M    |3K    |
-|   |Caramelo EXP S   |3K    |
-|   |Caramelo EXP XS    |3K    |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RARECANDY.png)   |Carameloraro   |2K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RARESODA.png)   |Refresco Raro   |5K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ULTRARARESODA.png)    |Refresco Genial   |10K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYXL.png)   |Caramelo EXP XL   |10K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYl.png)    |Caramelo EXP L   |8K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYM.png)    |Caramelo EXP M    |5K    |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYS.png)   |Caramelo EXP S   |3K    |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYXS.png)   |Caramelo EXP XS    |1K    |
 |   |Foto Pokémon   |1K   |
-|   |MT  |15K   |
-|   |MO  |20K   |
-|   |DT   |8K   |
-|   |Estrella del Nether   |150K   |
-|   |Faro   | 25K  |
-|   |Disco de Música   |2K   |
-|   |Lente Plateada de Ras   |50K   |
-|   |Lente Dorada de Ras   |500K   |
-|   |Riendas Unión   |100K   |
-|   |Manuscrito de las Sombras   |100K   |
-|   |Manuscrito de las Aguas   |100K   |
-|   |Espada Oxidada   |50K   |
-|   |Escudo Oxidado   |50K    |
-|   |Reloj de Arena argénteo de Isis   |5K   |
-|   |Reloj de Arena aúrico de Isis   |15K   |
-|   |Ala Arcoiris   |100K   |
-|   |Supercaña   |35K   |
-|   |Chapa Plateada   |20K   |
-|   |Chapa Dorada   |100K   |
-|   |Fragmento Azul   |10K   |
-|   |Fragmento Rojo   |10K   |
-|   |Orbe Azul   |90K   |
-|   |Orbe Rojo   |90K    |
-|   |Rubí de la Emoción   |75K   |
-|   |Rubí del Conocimiento   |75K   |
-|   |Rubí de la Voluntad   |75K   |
-|   |Cadena Roja   |225K   |
-|   |Campana Clara   | 90K  |
-|   |Campana Oleaje  | 90K  |
-|   |Botella de Prisión   |50K   |
-|   |Gracídea  |20K   |
-|   |Meteorito   |20K   |
-|   |Punta ADN   |50K   |
-|   |Repartir Exp   |70K   |
-|   |Compartir Exp   |40K   |
-|   |Necrosol   |Necrosol   |
-|   |Necroluna   |Necroluna   |
-|   |Orbe vacío   |50K   |
-|   |Orbe lleno   |100K   |
-|   |Bonguris (por stack)   |5K    |
-|   |Elitras   |10K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/machine_STEEL.png)   |MT  |15K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/machine_NORMAL.png)   |MO  |20K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/machine_tr_DARK.png)   |DT   |8K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/NETHERSTAR.gif)    |Estrella del Nether   |150K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/BEACON.png)    |Faro   | 25K  |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/MUSICDISC.png)   |Disco de Música   |2K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/HIROKUSSILVERLENS.png)   |Lente Plateada de Ras   |50K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/HIROKUSGOLDENLENS.png)    |Lente Dorada de Ras   |500K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/REINSOFUNITY.png)   |Riendas Unión   |100K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/SCROLLOFDARKNESS.png)   |Manuscrito de las Sombras   |100K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/SCROLLOFWATERS.png)   |Manuscrito de las Aguas   |100K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RUSTEDSWORD.png)    |Espada Oxidada   |50K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RUSTEDSHIELD.png)    |Escudo Oxidado   |50K    |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ISISSILVERHOURGLASS.png)    |Reloj de Arena argénteo de Isis   |5K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ISISGOLDHOURGLASS.png)    |Reloj de Arena aúrico de Isis   |15K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RAINBOWWING.png)    |Ala Arcoiris   |100K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/SUPERROD.png)    |Supercaña   |35K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/BOTTLECAP.png)    |Chapa Plateada   |20K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/GOLDBOTTLECAP.png)    |Chapa Dorada   |100K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ALPHASHARD.png)    |Fragmento Azul   |10K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/OMEGASHARD.png)    |Fragmento Rojo   |10K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/BLUEORB.png)    |Orbe Azul   |90K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/REDORB.png)    |Orbe Rojo   |90K    |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RUBY.png)   |Rubí de la Emoción   |75K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RUBY.png)   |Rubí del Conocimiento   |75K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RUBY.png)   |Rubí de la Voluntad   |75K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/REDCHAIN.png)   |Cadena Roja   |225K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/CLEARBELL.png)   |Campana Clara   | 90K  |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/TIDALBELL.png)   |Campana Oleaje  | 90K  |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/TIDALBELL.png)    |Botella de Prisión   |50K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/GRACIDEA.png)    |Gracídea  |20K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/METEORITE.png)    |Meteorito   |20K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/DNASPLICERS.png)    |Punta ADN   |50K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPSHARE.png)    |Repartir Exp   |70K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPSHARE.png)    |Compartir Exp   |40K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/NSOLARIZER.png)    |Necrosol   |Necrosol   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/NLUNARIZER.png)    |Necroluna   |Necroluna   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ORB.png)    |Orbe vacío   |50K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ORBFULL.png)    |Orbe lleno   |100K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/REDAPRICORN.png)    |Bonguris (por stack)   |5K    |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ELYTRA.png)    |Elitras   |10K   |
 
 
 
