@@ -3,7 +3,7 @@ description: >-
   Consulta la lista de precios para la compra venta de objetos en el servidor.
 ---
 
-# 🛒 Lista de Precios
+# 🛒 Introducción
 ¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás un listado de precios mínimos a los cuales vender tus Pokémon/objetos en el servidor.
 
 Dicha lista de precios es meramente orientativa y sirve para tener una idea de a qué precios mínimos vender, pudiendo así vender a más, pero no a menos de lo permitido, la lista es **oficial** aunque puede estar sujeta a cambios según como vaya la economía en el servidor.
@@ -12,7 +12,7 @@ Dicha lista de precios es meramente orientativa y sirve para tener una idea de a
 
 Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**, **Tablas**, **Máquinas**, **Megapiedras**, **Objetos evolutivos**, **Objetos competitivos**, **Otros**, **Encantamientos**, **Bayas**, **Gemas**, **Partes de Porygon**, **Fósiles**, **Cristales Z**, **Discos de Silvally**, **ROMs de Genesect**, **Pokémon Legendarios**, **Ultraentes**, **Pokémon Especiales**, **Crianza** y **Modificadores**.
 
-Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dudes en escribirla en nuestro servidor de Discord!
+Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dudes en escribirla en [nuestro servidor de Discord](https://wiki.mundopixelnet.com/)!
 
 # Balls x Stack
 
@@ -661,12 +661,12 @@ Los Pokémon **siempre se venden castrados**, El precio mínimo va aumentando se
 
 |Nombre|Precio  |
 | - | - |
-|1x31 IVs  | +15K  |
-|2x31 IVs  | +30K  |
-|3x31 IVs  | +45K  |
-|4x31 IVs  | +60K  |
-|5x31 IVs  | +75K  |
-|6x31 IVs  | +100K |
+|1x31 IVs  | 15K  |
+|2x31 IVs  | 30K  |
+|3x31 IVs  | 45K  |
+|4x31 IVs  | 60K  |
+|5x31 IVs  | 75K  |
+|6x31 IVs  | 100K |
 |Naturaleza a elección   |+15K   |
 |Con Fallo de IV| +10K |
 |Con Habilidad Oculta| +30K |
