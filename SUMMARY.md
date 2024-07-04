@@ -8,11 +8,11 @@
 
 ## INFORMACIÓN
 
+* [🛒 Lista de Precios](funciones/economia.md)
 * [🛠️ Staffs](informacion/staffs.md)
 
 ## FUNCIONES
 
-* [🛒 Lista de Precios](funciones/economia.md)
 * [🧬 Híbridos](funciones/hibridos.md)
 * [👔 Estilos](funciones/estilos.md)
 
