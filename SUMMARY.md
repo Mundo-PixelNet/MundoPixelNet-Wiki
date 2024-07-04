@@ -8,7 +8,7 @@
 
 ## INFORMACIÓN
 
-* [🛒 Lista de Precios](funciones/economia.md)
+* [🛒 Lista de Precios](informacion/economia.md)
 * [🛠️ Staffs](informacion/staffs.md)
 
 ## FUNCIONES
