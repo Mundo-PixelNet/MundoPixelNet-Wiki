@@ -333,7 +333,7 @@ Si tenéis alguna sugerencia y/o nos ha faltado algo, ¡no dudes en escribirla e
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/RARESODA.png)   |Refresco Raro   |5K   |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/ULTRARARESODA.png)    |Refresco Genial   |10K   |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYXL.png)   |Caramelo EXP XL   |10K   |
-|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYl.png)    |Caramelo EXP L   |8K   |
+|![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYL.png)    |Caramelo EXP L   |8K   |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYM.png)    |Caramelo EXP M    |5K    |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYS.png)   |Caramelo EXP S   |3K    |
 |![Carameloraro](../images/usuarios/rivalsilver97/iconos/otros/EXPCANDYXS.png)   |Caramelo EXP XS    |1K    |
