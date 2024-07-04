@@ -12,6 +12,7 @@
 
 ## FUNCIONES
 
+* [🛒 Lista de Precios](funciones/economia.md)
 * [🧬 Híbridos](funciones/hibridos.md)
 * [👔 Estilos](funciones/estilos.md)
 
