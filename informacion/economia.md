@@ -253,8 +253,8 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 |![Diamansfera](../images/iconos/objetoscompetitivos/EXPERTBELT.png)   |Cinta Experto   |30K   |   |
 |![Diamansfera](../images/iconos/objetoscompetitivos/FLAMEORB.png)   |Llamasfera   |30K   |   |
 |![Diamansfera](../images/iconos/objetoscompetitivos/FLOATSTONE.png)   |Piedra Pómez   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/FOCUSBAND.png)   |Cinta Focus   |35K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/FOCUSSASH.png)   |Banda Focus   |15K   |   |
+|![Diamansfera](../images/iconos/objetoscompetitivos/FOCUSSASH.png)   |Cinta Focus   |35K   |   |
+|![Diamansfera](../images/iconos/objetoscompetitivos/FOCUSBAND.png)   |Banda Focus   |15K   |   |
 |![Diamansfera](../images/iconos/objetoscompetitivos/GRIPCLAW.png)   |Garra Garfio   |5K   |   |
 |![Diamansfera](../images/iconos/objetoscompetitivos/HARDSTONE.png)   |Piedra Dura   |5K   |   |
 |![Diamansfera](../images/iconos/objetoscompetitivos/HEATROCK.png)   |Roca Calor   |10K   |   |
@@ -366,7 +366,7 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 |![Carameloraro](../images/iconos/otros/REDCHAIN.png)   |Cadena Roja   |225K   |
 |![Carameloraro](../images/iconos/otros/CLEARBELL.png)   |Campana Clara   | 90K  |
 |![Carameloraro](../images/iconos/otros/TIDALBELL.png)   |Campana Oleaje  | 90K  |
-|![Carameloraro](../images/iconos/otros/TIDALBELL.png)    |Botella de Prisión   |50K   |
+|![Carameloraro](../images/iconos/otros/PRISONBOTTLE.png)    |Botella de Prisión   |50K   |
 |![Carameloraro](../images/iconos/otros/GRACIDEA.png)    |Gracídea  |20K   |
 |![Carameloraro](../images/iconos/otros/METEORITE.png)    |Meteorito   |20K   |
 |![Carameloraro](../images/iconos/otros/DNASPLICERS.png)    |Punta ADN   |50K   |
@@ -380,7 +380,11 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 |![Carameloraro](../images/iconos/otros/ELYTRA.png)    |Elitras   |10K   |
 
 
+# Mentas
 
+|Icono   |Nombre  |Precio   |Descripción|
+| - | - | - | - |
+|![Mentas](../images/iconos/mentas/MINT.png)   |Todas   |valen   |25K   |
 
 
 
