@@ -78,6 +78,7 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 | - | - | - |
 |![Inciensos](../images/iconos/pokemoncrianza/WAVEINCENSE.png)   |Inciensos |15K   | |
 |![Cápsula Habilidad](../images/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad|20K|Permite cambiar la habilidad a un Pokémon que tiene dos.    |
+|![Cápsula Habilidad](../images/iconos/pokemoncrianza/ABILITYPATCH.png)   |Parche Habilidad|80K|Permite cambiar la habilidad a un Pokémon por su Habilidad Oculta    |
 |![Cápsula Habilidad](../images/iconos/pokemoncrianza/EVERSTONE.png)   |Piedra eterna|10K |Impide la evolución del Pokémon que la lleve equipada. Y sirve para traspasar la Naturaleza en la crianza.   |
 |![Cápsula Habilidad](../images/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino|50K |Hace que si el portador se enamora de un Pokémon, dicho Pokémon se enamore también del portador. Y sirve para traspasar 5 IVs al azar en la crianza.    |
 |![Cápsula Habilidad](../images/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |40K    |El Pokémon que la lleve equipada recibe 4 puntos de esfuerzo (EVs) extra en PS al participar en la derrota de un Pokémon en un combate. Y sirve para traspasar el IV de los PS en la crianza. |
@@ -549,9 +550,9 @@ Si el Pokémon Legendario/Singular es **Shiny de forma natural**, se le suma 75K
 |![Uxie](../images/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  | - Miedosa<br>- Plácida  |
 |![Uxie](../images/iconos/pokemonlegendarios/AZELF.png)    |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Alegre<br>- Ingenua   |
 |![Uxie](../images/iconos/pokemonlegendarios/MESPRIT.png)    |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Osada<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/DIALGA.png)   |Dialga   |500K   |- Modesta<br>- Grosera<br>- Mansa   |
-|![Uxie](../images/iconos/pokemonlegendarios/PALKIA.png)   |Palkia   |500K   |- Activa<br>- Afable<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |500K   |- Plácida<br>- Modesta<br>- Osada   |
+|![Uxie](../images/iconos/pokemonlegendarios/DIALGA.png)   |Dialga   |700K   |- Modesta<br>- Grosera<br>- Mansa   |
+|![Uxie](../images/iconos/pokemonlegendarios/PALKIA.png)   |Palkia   |700K   |- Activa<br>- Afable<br>- Modesta   |
+|![Uxie](../images/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |750K   |- Plácida<br>- Modesta<br>- Osada   |
 |![Uxie](../images/iconos/pokemonlegendarios/PHIONE.png)   |Phione   |50K   |- Plácida<br>- Miedosa   |
 |![Uxie](../images/iconos/pokemonlegendarios/MANAPHY.png)   |Manaphy   |150K   |-Modesta<br>- Miedosa   |
 |![Uxie](../images/iconos/pokemonlegendarios/SHAYMIN.png)   |Shaymin   |550K   |- Miedosa<br>- Modesta   |
