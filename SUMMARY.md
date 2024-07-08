@@ -15,6 +15,7 @@
 
 * [🧬 Híbridos](funciones/hibridos.md)
 * [👔 Estilos](funciones/estilos.md)
+* [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 
 ## POKÉMON
 
