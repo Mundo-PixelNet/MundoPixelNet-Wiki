@@ -371,14 +371,15 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 |![Carameloraro](../images/iconos/otros/GRACIDEA.png)    |Gracídea  |20K   |
 |![Carameloraro](../images/iconos/otros/METEORITE.png)    |Meteorito   |20K   |
 |![Carameloraro](../images/iconos/otros/DNASPLICERS.png)    |Punta ADN   |50K   |
-|![Carameloraro](../images/iconos/otros/EXPSHARE.png)    |Repartir Exp   |70K   |
-|![Carameloraro](../images/iconos/otros/EXPSHARE.png)    |Compartir Exp   |40K   |
+|![Carameloraro](../images/iconos/otros/EXPALL.png)    |Compartir Exp  |70K   |
+|![Carameloraro](../images/iconos/otros/EXPSHARE.png)    |Repartir Exp  |40K   |
 |![Carameloraro](../images/iconos/otros/NSOLARIZER.png)    |Necrosol   |150K   |
 |![Carameloraro](../images/iconos/otros/NLUNARIZER.png)    |Necroluna   |150K  |
 |![Carameloraro](../images/iconos/otros/ORB.png)    |Orbe vacío   |50K   |
 |![Carameloraro](../images/iconos/otros/ORBFULL.png)    |Orbe lleno   |100K   |
 |![Carameloraro](../images/iconos/otros/REDAPRICORN.png)    |Bonguris (por stack)   |5K    |
 |![Carameloraro](../images/iconos/otros/ELYTRA.png)    |Elitras   |10K   |
+|![Carameloraro](../images/iconos/otros/MAXSOUP.png)    |Maxisopa   |30K   |
 
 
 # Mentas
@@ -550,9 +551,9 @@ Si el Pokémon Legendario/Singular es **Shiny de forma natural**, se le suma 75K
 |![Uxie](../images/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  | - Miedosa<br>- Plácida  |
 |![Uxie](../images/iconos/pokemonlegendarios/AZELF.png)    |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Alegre<br>- Ingenua   |
 |![Uxie](../images/iconos/pokemonlegendarios/MESPRIT.png)    |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Osada<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/DIALGA.png)   |Dialga   |700K   |- Modesta<br>- Grosera<br>- Mansa   |
-|![Uxie](../images/iconos/pokemonlegendarios/PALKIA.png)   |Palkia   |700K   |- Activa<br>- Afable<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |750K   |- Plácida<br>- Modesta<br>- Osada   |
+|![Uxie](../images/iconos/pokemonlegendarios/DIALGA.png)   |Dialga   |800K   |- Modesta<br>- Grosera<br>- Mansa   |
+|![Uxie](../images/iconos/pokemonlegendarios/PALKIA.png)   |Palkia   |800K   |- Activa<br>- Afable<br>- Modesta   |
+|![Uxie](../images/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |900K   |- Plácida<br>- Modesta<br>- Osada   |
 |![Uxie](../images/iconos/pokemonlegendarios/PHIONE.png)   |Phione   |50K   |- Plácida<br>- Miedosa   |
 |![Uxie](../images/iconos/pokemonlegendarios/MANAPHY.png)   |Manaphy   |150K   |-Modesta<br>- Miedosa   |
 |![Uxie](../images/iconos/pokemonlegendarios/SHAYMIN.png)   |Shaymin   |550K   |- Miedosa<br>- Modesta   |
@@ -610,7 +611,7 @@ Si el Pokémon Legendario/Singular es **Shiny de forma natural**, se le suma 75K
 |![Uxie](../images/iconos/pokemonlegendarios/ZARUDE.png)   |Zarude   |400K   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/GLASTRIER.png)   |Glastrier   |400K   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/SPECTRIER.png)   |Spectrier   |400K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/CALYREX.png)   |Calyrex   |600K   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/CALYREX.png)   |Calyrex   |850K   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/REGIELEKI.png)   |Regieleki   |1.5M   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/REGIDRAGO.png)   |Regidrago   |1.5M   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/ENAMORUS.png)   |Enamorus   |650K   |   |
@@ -626,8 +627,8 @@ Si el Pokémon Paradoja es **Shiny de forma natural**, se le suma 75K al precio.
 |Sprite   |Nombre  |Precio   |
 | - | - | - |
 |![Uxie](../images/iconos/pokemonlegendarios/IRONLEAVES.png)    |Ferrohojas   |1.1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/IRONMOTH.png)    |Ferropolilla   |1.1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/IRONTHORNS.png)    |Ferropúas   |1.1M   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/IRONMOTH.png)    |Ferropolilla   |750K   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/IRONTHORNS.png)    |Ferropúas   |750K    |   |
 |![Uxie](../images/iconos/pokemonlegendarios/WALKINGWAKE.png)    |Ondulagua   |1.1M   |   |
 
 
