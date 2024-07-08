@@ -43,6 +43,7 @@ Cuando atrapes el Pokémon recibirás varias recompensas que salen en el menú d
 | - | - |
 | 4000₽ | SÍ |
 | Token del Gatcha Misiones | SÍ |
+| 500XP de Temporada | SÍ |
 | Llave Diaria o Cebo de un tipo vigoroso | Una de las dos |
 
 <div style="text-align: center">
