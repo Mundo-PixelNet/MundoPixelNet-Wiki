@@ -16,7 +16,6 @@ El rango Admin tiene autoridad para tomar decisiones importantes.
 | :--: | :-----: |
 | ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
 | ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png)|**RivalSilver97**|
-| ![Skin de OdyZam](../images/Rangos/Admin/OdyZam.png)|**OdyZam**|
 
 # ![Moderador](../images/Rangos/Mod/modarc.png) **Moderador**
 El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para mantener el correcto funcionamiento del servidor.
@@ -48,7 +47,6 @@ El rango Developer tiene la función de programar los complementos y bots del se
 El rango Builder tiene la función de construir los mapas del servidor, ya sea para una misión o cualquier cosa nueva que implique construcción
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de OdyZam](../images/Rangos/Admin/OdyZam.png)|**OdyZam**|
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
 | ![Skin de BonMurci](../images/Rangos/Mod/BonMurci.png)|**BonMurci**|
 | ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**JuniorCX**|
