@@ -2,18 +2,13 @@
 
 En [Mundo Pixelnet](../README.md) tenemos algunos rangos específicos para cada tarea, en la lista a continuación tendremos qué hace cada uno y quién ocupa actualmente ese rango.
 
-# ![Dios](../images/Rangos/Dios/diosarc.png) **Dios**
-El rango Dios tiene la máxima autoridad sobre el servidor, pudiendo tomar decisiones importantes.
+# ![Admin](../images/Rangos/Admin/adminArc.png) **Admin**
+El rango Admin tiene la máxima autoridad sobre el servidor, pudiendo tomar decisiones importantes.
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png)|**PokeSantiTW**|
 | ![Skin de Cema21](../images/Rangos/Dios/Cema21.png)|**Cema21**|
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
-
-# ![Admin](../images/Rangos/Admin/adminArc.png) **Admin**
-El rango Admin tiene autoridad para tomar decisiones importantes.
-| Skin | Usuario |
-| :--: | :-----: |
 | ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
 | ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png)|**RivalSilver97**|
 
