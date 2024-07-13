@@ -12,12 +12,16 @@
 * [🛒 Lista de Precios](informacion/economia.md)
 * [🛠️ Staffs](informacion/staffs.md)
 * [📩 Tickets](informacion/tickets.md)
+* [📥 Sugerencias](informacion/sugerencias.md)
+* [🔒 Claims](informacion/claims.md)
+* [🔗 Vincular](informacion/vincular.md)
 
 ## FUNCIONES
 
 * [🧬 Híbridos](funciones/hibridos.md)
 * [👔 Estilos](funciones/estilos.md)
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
+* [✨ Gremios](informacion/gremios.md)
 
 ## POKÉMON
 
