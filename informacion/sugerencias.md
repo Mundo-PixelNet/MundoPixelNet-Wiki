@@ -13,7 +13,7 @@ Ejemplo: ?suggest [Servidor Escarlata] Deseo que el NPC del warp tiendas que ven
 {% hint style="info" %} Debe incluir el Servidor en el que quieres realizar la sugerencia, Servidor Fuego (1.12.2) o Servidor Escarlata (1.16.5).{% endhint %}
 
 <div style="text-align: center">
-<img src="../images/informacion/sugerencias/sugerencia1.mp4">
+<img src="../images/informacion/sugerencias/sugerencia1.gif">
 </div>
 
 Una vez hecha, tu sugerencia se creará en el [📥︙sugerencias](https://discord.com/channels/978703875961921556/984958661694734396) donde será leída y evaluada por otros usuarios y [staffs](staffs.md).
