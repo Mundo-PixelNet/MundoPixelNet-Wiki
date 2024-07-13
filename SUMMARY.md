@@ -8,8 +8,10 @@
 
 ## INFORMACIÓN
 
+* [🎮 Normas](informacion/normas.md)
 * [🛒 Lista de Precios](informacion/economia.md)
 * [🛠️ Staffs](informacion/staffs.md)
+* [📩 Tickets](informacion/tickets.md)
 
 ## FUNCIONES
 
