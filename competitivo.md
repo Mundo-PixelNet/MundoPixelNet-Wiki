@@ -30,8 +30,19 @@ Stealth Rock -
 
 ![PKMN IMAGE](pkmn\36.gif)
 
+
+
+
+
 ![PKMN Image](pkmn/100835.gif)
+
+
+
+
 ![pkmn 691](pkmn\691.gif) 
+
+
+
 
 Spikes - 
 
