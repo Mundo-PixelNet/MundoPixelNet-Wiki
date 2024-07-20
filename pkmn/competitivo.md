@@ -30,18 +30,12 @@ Ceaseless Edge
 
 Stealth Rock - 
 
-![PKMN IMAGE](36.gif)
-
-![PKMN Image](100835.gif)
-
-![pkmn 691](691.gif) 
+![PKMN IMAGE](36.gif)![PKMN Image](100835.gif)![pkmn 691](691.gif) 
 
 
 Spikes - 
 
-![PKMN Image](100835.gif)
-![pkmn 691](691.gif)  
-![pkmn 2358](2358.gif)
+![PKMN Image](100835.gif)![pkmn 691](691.gif)  ![pkmn 2358](2358.gif)
 
 Toxic Spikes -
 
@@ -50,15 +44,16 @@ Toxic Spikes -
 
 
 
+
+
 Hazard Setters -
 
-![PKMN Image](100835.gif)
-![pkmn 2358](2358.gif)
+![PKMN Image](100835.gif)![pkmn 2358](2358.gif)
 
 
 
-Screen Setters - 
-
+Screen Setters -
+ 
 ![Alt Text](2118.gif) 
 
 Hazard Control
@@ -66,13 +61,15 @@ Hazard Control
 
 ![pkmn 2080](2080.gif)
 
-Magic Bounce - :
+Magic Bounce - 
 
 ![PKMN Image](100835.gif)![pkmn 2115](2115.gif)
 
 
 
-Toxic- ![pkmn 932](932.gif) ![pkmn 2358](2358.gif)
+Toxic- 
+
+![pkmn 932](932.gif) ![pkmn 2358](2358.gif)
 
 # Offensive Roles
 
@@ -80,12 +77,11 @@ Wallbreakers
 
 Physical - 
 
- ![pkmn 149](149.gif)  ![pkmn 2237](2237.gif) 
+![pkmn 149](149.gif)![pkmn 2237](2237.gif) 
 
 Special - 
 
-![PKMN Image](100835.gif)![pkmn 976](976.gif) ![pkmn 885](885.gif) 
-![pkmn 2115](2115.gif)
+![PKMN Image](100835.gif)![pkmn 976](976.gif) ![pkmn 885](885.gif) ![pkmn 2115](2115.gif)
 
 Mixed - 
 
@@ -130,8 +126,7 @@ Specially Defensive -
  ![pkmn 691](691.gif)  ![pkmn 932](932.gif) ![pkmn 2358](2358.gif)
 
 Mixed -  
-![pkmn 2080](2080.gif)![pkmn 691](691.gif)  ![pkmn 932](932.gif)  
-![pkmn 885](885.gif)
+![pkmn 2080](2080.gif)![pkmn 691](691.gif)  ![pkmn 932](932.gif)  ![pkmn 885](885.gif)
 
 
 
