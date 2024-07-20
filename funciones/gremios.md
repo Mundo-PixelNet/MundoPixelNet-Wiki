@@ -33,3 +33,12 @@ Una vez que hayas definido todos los datos usarás **shift + clic derecho** y tu
 <img src="../images/funciones/gremios/gremio2.png">
 </div>
 
+## Qué puedo hacer en un gremio?
+
+### Chat privado para miembros del gremio
+Un chat exclusivo donde solo los miembros del gremio pueden leer y hablar, ayudando a comunicarse entre sí
+
+### Warps exclusivas
+Los administradores del gremio pueden crear warps exclusivos para, por ejemplo, crear una base donde todos los miembros se reúnan y vivan juntos, entre otras cosas.
+
+###
