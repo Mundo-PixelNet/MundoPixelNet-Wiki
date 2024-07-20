@@ -34,7 +34,7 @@ Stealth Rock -
 
 
 
-![PKMN Image](pkmn/100835.gif)
+
 
 
 
