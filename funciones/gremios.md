@@ -22,7 +22,7 @@ Una vez que hayas definido todos los datos usarás **shift + clic derecho** y tu
 ## Cómo puedo unirme a un gremio?
 
 - Para unirte a un gremio escribirás **/guilds** y harás **clic en Lista de gremios**, una vez hecho esto busca el gremio al que deseas unirte, prestando atención para asegurarte de que no esté lleno ya que cada gremio tiene un **límite de 7 jugadores, incluido el creador del gremio** y haga clic con el **botón izquierdo del mouse en el ícono del gremio** al que desea unirse, una vez hecho esto, enviará una solicitud para unirse que debe ser aceptada por los administradores del gremio, o si el gremio está abierto, se unirá automáticamente.
-- 
+  
   <div style="text-align: center">
 <img src="../images/funciones/gremios/gremio1.png">
 </div>
