@@ -26,7 +26,7 @@ Entry Hazards
 
 Ceaseless Edge
 
-![alt text](2271.gif)
+![alt text(images/silver988766/2271.gif)
 
 
  
