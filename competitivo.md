@@ -48,7 +48,6 @@ Stealth Rock -
 
 
 Spikes - 
-
 ![PKMN Image](pkmn/100835.gif)
 
 ![alt text](pkmn/691.gif)
@@ -62,18 +61,20 @@ Toxic Spikes -
 
 
 Hazard Setters -
-
 ![PKMN Image](pkmn/100835.gif)![pkmn 2358](pkmn\2358.gif) ![pkmn 2348](pkmn\2348.gif)
 
 Screen Setters - 
+
 ![Alt Text](pkmn\2118.gif) 
 
 
 Hazard Control
+
 ![pkmn 2080](pkmn\2080.gif)
  
 
-Magic Bounce - :
+Magic Bounce - 
+
 
 ![PKMN Image](pkmn/100835.gif)
 ![alt text](pkmn/2115.gif)
@@ -81,7 +82,24 @@ Magic Bounce - :
 
 
 
-Toxic- ![pkmn 932](pkmn\932.gif) ![pkmn 2358](pkmn\2358.gif)
+Toxic- 
+
+
+
+
+
+
+![pkmn 932](pkmn\932.gif) ![pkmn 2358](pkmn\2358.gif)
+
+
+
+
+
+
+
+
+
+
 
 # Offensive Roles
 
@@ -93,8 +111,8 @@ Physical -
 
 Special - 
 
-![PKMN Image](pkmn/100835.gif)![pkmn 976](pkmn\976.gif) ![pkmn 885](pkmn\885.gif) 
-![pkmn 2115](pkmn\2115.gif)
+![PKMN Image](pkmn/100835.gif)![pkmn 976](pkmn/976.gif) ![pkmn 885](pkmn\885.gif) 
+![pkmn 2115](pkmn/2115.gif)
 
 Mixed - 
 
@@ -126,8 +144,8 @@ U-turn
 Volt Switch 
 
 ![pkmn 885](pkmn\885.gif)
-![pkmn 976](pkmn\976.gif) 
-![pkmn 145](pkmn\145.gif)
+![pkmn 976](pkmn/976.gif) 
+![pkmn 145](pkmn/145.gif)
 
 # Defensive Roles
 
