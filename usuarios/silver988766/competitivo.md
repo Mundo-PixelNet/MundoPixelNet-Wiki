@@ -145,7 +145,7 @@ En esta playlist pueden ver otro monton de cosas mucho mas detallado (es bastant
  
 Ahora que ya entendemos los roles de cada Pokémon, podemos usarlos para formar un equipo. En el siguiente enlace, puedes ver un equipo básico que hemos diseñado:
 
-Equipo Básico (https://pokepast.es/9da62adc2f9bcda5)
+Equipo Básico: [https://pokepast.es/9da62adc2f9bcda5](https://pokepast.es/9da62adc2f9bcda5)
 
 En este equipo, cada Pokémon cumple un rol específico:
 
