@@ -1,7 +1,7 @@
 ---
 description: >-
-  Creado por: <silver988766>
-  Descripción: <guia competitiva pokemon>
+  Creado por: silver988766
+  Descripción: guia competitiva pokemon
 ---
 
 # Guía Competitiva de Pokémon: Primera Parte
@@ -25,8 +25,10 @@ La mayoria de los roles estan en ingles para buscarlos de una mejor manera (algu
 Entry Hazards
 
 Ceaseless Edge
+![alt text](images/usuarios/silver988766/2271.gif)
 
-![alt text(images/silver988766/2271.gif)
+
+
 
 
  
