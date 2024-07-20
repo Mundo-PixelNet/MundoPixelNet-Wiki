@@ -12,7 +12,7 @@ Para proteger tu casa necesitarás una pala dorada que puedes conseguir a travé
 - Respetar las [normas](normas.md) del servidor, sin proteger un bioma completo por ejemplo, o que tu reclamo no esté hecho para bloquear el progreso de otros jugadores.
 
 <div style="text-align: center">
-<img src="../images/funciones/claims/claim1.png">
+<img src="../images/informacion/claims/claim1.png">
 </div>
 
 Para modificar un claim existente, debes hacer clic en una de las esquinas con la pala dorada y seleccionar la nueva ubicación de esa esquina.
