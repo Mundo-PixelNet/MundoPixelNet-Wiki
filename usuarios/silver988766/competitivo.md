@@ -27,7 +27,8 @@ Entry Hazards
 Ceaseless Edge
 
 
-![alt text ](../.../images/usuarios/silver988766/2271.gif)
+![alt text ](../../images/usuarios/silver988766/2271.gif)
+
 
 
 
@@ -36,7 +37,7 @@ Ceaseless Edge
  
 Stealth Rock - 
 
-![PKMN IMAGE](36.gif)![PKMN Image](100835.gif)![pkmn 691](691.gif) 
+![PKMN IMAGE](../../images/usuarios/silver988766/36.gif)![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 691](../../images/usuarios/silver988766/691.gif) 
 
 
 Spikes - 
