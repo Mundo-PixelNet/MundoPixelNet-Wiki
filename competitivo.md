@@ -28,7 +28,11 @@ Ceaseless Edge
 
 Stealth Rock - 
 
-![PKMN IMAGE](pkmn\36.gif)
+![alt text](pkmn/36.gif)
+
+![PKMN Image](pkmn/100835.gif)
+
+![alt text](pkmn/691.gif)
 
 
 
@@ -38,8 +42,7 @@ Stealth Rock -
 
 
 
-
-![pkmn 691](pkmn\691.gif) 
+ 
 
 
 
@@ -47,8 +50,10 @@ Stealth Rock -
 Spikes - 
 
 ![PKMN Image](pkmn/100835.gif)
-![pkmn 691](pkmn\691.gif)  
-![pkmn 2358](pkmn\2358.gif)
+
+![alt text](pkmn/691.gif)
+ 
+![alt text](pkmn/2358.gif)
 
 Toxic Spikes -
 ![pkmn 932](pkmn\932.gif) 
@@ -58,9 +63,7 @@ Toxic Spikes -
 
 Hazard Setters -
 
-![PKMN Image](pkmn/100835.gif)
-![pkmn 2358](pkmn\2358.gif) 
-![pkmn 2348](pkmn\2348.gif)
+![PKMN Image](pkmn/100835.gif)![pkmn 2358](pkmn\2358.gif) ![pkmn 2348](pkmn\2348.gif)
 
 Screen Setters - 
 ![Alt Text](pkmn\2118.gif) 
@@ -71,8 +74,10 @@ Hazard Control
  
 
 Magic Bounce - :
+
 ![PKMN Image](pkmn/100835.gif)
-![pkmn 2115](pkmn\2115.gif)
+![alt text](pkmn/2115.gif)
+
 
 
 
@@ -129,23 +134,28 @@ Volt Switch
 Walls
 
 Physically Defensive - 
-![pkmn 2080](pkmn\2080.gif) 
-![pkmn 691](pkmn\691.gif)
-![pkmn 932](pkmn\932.gif) 
+
+![alt text](pkmn\2080.gif) 
+![alt text](pkmn/691.gif)
+![alt text](pkmn\932.gif) 
+
+
 
 Specially Defensive -
 ![pkmn 691](pkmn\691.gif)
+
 ![pkmn 932](pkmn\932.gif)
+
 ![pkmn 2358](pkmn\2358.gif)
 
 Mixed -  
-![pkmn 2080](pkmn\2080.gif) 
+![alt text](pkmn\2080.gif) 
 
-![pkmn 691](pkmn\691.gif)
+![alt text](pkmn/691.gif)
 
-![pkmn 932](pkmn\932.gif)
+![alt text](pkmn\932.gif)
   
-![pkmn 885](pkmn\885.gif)
+![alt text](pkmn\885.gif)
 
 
 
@@ -156,7 +166,7 @@ Drizzle -
 ![Image of Pokémon #279](pkmn/279.gif)
 
 Swift Swim -
-![Alt Text](pkmn\100260.gif)
+![alt text](pkmn\100260.gif)
 
 Abusers 
 
@@ -167,11 +177,11 @@ Abusers
 Trick Room
 Setters - 
 
-![pkmn 2115](pkmn\2115.gif)  
+![alt text](pkmn\2115.gif)  
 Abusers -
 
 
- ![Alt Text](pkmn\2262.gif)
+ ![alt text](pkmn\2262.gif)
 
 
 
