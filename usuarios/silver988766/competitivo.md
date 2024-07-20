@@ -25,17 +25,15 @@ La mayoria de los roles estan en ingles para buscarlos de una mejor manera (algu
 Entry Hazards
 
 Ceaseless Edge
-![alt text](images/usuarios/silver988766/2271.gif)
+
+
+![alt text ](../.../images/usuarios/silver988766/2271.gif)
 
 
 
 
 
  
-
-
-
-
 Stealth Rock - 
 
 ![PKMN IMAGE](36.gif)![PKMN Image](100835.gif)![pkmn 691](691.gif) 
