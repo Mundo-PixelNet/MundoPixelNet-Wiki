@@ -7,7 +7,7 @@ Los Gremios son grupos de jugadores que evolucionarán juntos y competirán con 
 ## Cómo puedo crear un gremio?
 
 1- Para crear un gremio tendrás que usar /guilds y hacer clic en "crear gremio"
-2- Ahora tendrás que elegir el ID, nombre, emblema, descripción y si los jugadores podrán unirse al gremio por su cuenta, sin que nadie tenga que aceptar la solicitud, no olvides que crear un gremio cuesta 250.000 ₽ más una tarifa de mantenimiento de 30.000 ₽ cada 3 días.
+2- Ahora tendrás que elegir el ID, nombre, emblema, descripción y si los jugadores podrán unirse al gremio por su cuenta, sin que nadie tenga que aceptar la solicitud, no olvides que **crear un gremio cuesta 250.000 ₽** más una **tarifa de mantenimiento de 30.000 ₽ cada 3 días**.
 
 | Creación | Descripcion |
 |:--------:|:-----------:|
