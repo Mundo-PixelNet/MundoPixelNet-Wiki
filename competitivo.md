@@ -114,27 +114,38 @@ Extreme speed
 
 
 U-turn 
-
- ![pkmn 2080](pkmn\2080.gif) ![pkmn 976](pkmn\976.gif) ![pkmn 2237](pkmn\2237.gif)
+![pkmn 2080](pkmn\2080.gif)
+![pkmn 976](pkmn\976.gif) 
+![pkmn 2237](pkmn\2237.gif)
 
 Volt Switch 
 
-![pkmn 885](pkmn\885.gif)![pkmn 976](pkmn\976.gif) ![pkmn 145](pkmn\145.gif)
+![pkmn 885](pkmn\885.gif)
+![pkmn 976](pkmn\976.gif) 
+![pkmn 145](pkmn\145.gif)
 
 # Defensive Roles
 
 Walls
 
 Physically Defensive - 
-
- ![pkmn 2080](pkmn\2080.gif) ![pkmn 691](pkmn\691.gif)  ![pkmn 932](pkmn\932.gif) 
+![pkmn 2080](pkmn\2080.gif) 
+![pkmn 691](pkmn\691.gif)
+![pkmn 932](pkmn\932.gif) 
 
 Specially Defensive -
-
- ![pkmn 691](pkmn\691.gif)  ![pkmn 932](pkmn\932.gif) ![pkmn 2358](pkmn\2358.gif)
+![pkmn 691](pkmn\691.gif)
+![pkmn 932](pkmn\932.gif)
+![pkmn 2358](pkmn\2358.gif)
 
 Mixed -  
-![pkmn 2080](pkmn\2080.gif)![pkmn 691](pkmn\691.gif)  ![pkmn 932](pkmn\932.gif)  ![pkmn 885](pkmn\885.gif)
+![pkmn 2080](pkmn\2080.gif) 
+
+![pkmn 691](pkmn\691.gif)
+
+![pkmn 932](pkmn\932.gif)
+  
+![pkmn 885](pkmn\885.gif)
 
 
 
@@ -145,12 +156,12 @@ Drizzle -
 ![Image of Pokémon #279](pkmn/279.gif)
 
 Swift Swim -
-
- ![Alt Text](pkmn\100260.gif) 
+![Alt Text](pkmn\100260.gif)
 
 Abusers 
 
-![pkmn 145](pkmn\145.gif)
+![alt text](pkmn/145.gif)
+
 
 
 Trick Room
