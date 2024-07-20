@@ -27,7 +27,7 @@ Una vez que hayas definido todos los datos usarás **shift + clic derecho** y tu
 <img src="../images/funciones/gremios/gremio1.png">
 </div>
 
-- Si hay muchos gremios, puedes hacer clic en Buscar gremio y escribir el ID correspondiente al gremio al que deseas unirte, esto filtrará la lista, mostrando solo aquellos que tengan un ID compatible con lo que escribiste.
+- Si hay muchos gremios, puedes hacer **clic en Buscar gremio y escribir el ID correspondiente al gremio al que deseas unirte**, esto filtrará la lista, mostrando solo aquellos que tengan un ID compatible con lo que escribiste.
 
   <div style="text-align: center">
 <img src="../images/funciones/gremios/gremio2.png">
