@@ -38,3 +38,6 @@
   * [🗝️ Nihilego Luminarie](pokemon/temporada-1/gatcha-nihilego-luminarie.md)
 
 ## POR USUARIOS
+
+* **silver988766**:
+  * [💥 Guía Competitiva de Pokémon](usuarios/silver988766/competitivo.md)
