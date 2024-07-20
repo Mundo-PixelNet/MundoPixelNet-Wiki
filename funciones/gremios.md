@@ -7,7 +7,7 @@ Los Gremios son grupos de jugadores que evolucionarán juntos y competirán con 
 ## Cómo puedo crear un gremio?
 
 1- Para crear un gremio tendrás que usar /guilds y hacer clic en "crear gremio"
-2- Ahora tendrás que elegir el ID, nombre, emblema, descripción y si los jugadores podrán unirse al gremio por su cuenta, sin que nadie tenga que aceptar la solicitud, no olvides que crear un gremio cuesta 250.000 pokedólares.
+2- Ahora tendrás que elegir el ID, nombre, emblema, descripción y si los jugadores podrán unirse al gremio por su cuenta, sin que nadie tenga que aceptar la solicitud, no olvides que crear un gremio cuesta 250.000 ₽ más una tarifa de mantenimiento de 30.000 ₽ cada 3 días.
 
 | Creación | Descripcion |
 |:--------:|:-----------:|
@@ -41,4 +41,8 @@ Un chat exclusivo donde solo los miembros del gremio pueden leer y hablar, ayuda
 ### Warps exclusivas
 Los administradores del gremio pueden crear warps exclusivos para, por ejemplo, crear una base donde todos los miembros se reúnan y vivan juntos, entre otras cosas.
 
-###
+### Mejoras del gremio
+Las mejoras son formas de beneficiar al gremio y a sus miembros, actualmente tenemos 3 tipos de mejoras, a saber: aumento 2x de XP, aumento 2x del porcentaje de shiny y aumento del número de jugadores, para comprar mejoras necesitas estrellas del gremio.
+
+### Guerra de gremios
+Todos los fines de semana se activarán las Guerras de Gremio: Findes de Guerra. Para entrar a las Guerras de Gremios tu Gremio necesitará 5 Estrellas. Si ganas la guerra, obtendrás una estrella. Si pierdes, perderás una estrella. ¡Es una apuesta por Estrellas! 
