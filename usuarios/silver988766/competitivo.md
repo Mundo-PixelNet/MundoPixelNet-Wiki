@@ -42,11 +42,11 @@ Stealth Rock -
 
 Spikes - 
 
-![PKMN Image](100835.gif)![pkmn 691](691.gif)  ![pkmn 2358](2358.gif)
+![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
 
 Toxic Spikes -
 
- ![pkmn 932](932.gif) 
+ ![pkmn 932](../../images/usuarios/silver988766/932.gif) 
 
 
 
@@ -55,28 +55,28 @@ Toxic Spikes -
 
 Hazard Setters -
 
-![PKMN Image](100835.gif)![pkmn 2358](2358.gif)
+![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
 
 
 
 Screen Setters -
  
-![Alt Text](2118.gif) 
+![Alt Text](../../images/usuarios/silver988766/2118.gif) 
 
 Hazard Control
 
 
-![pkmn 2080](2080.gif)
+![pkmn 2080](../../images/usuarios/silver988766/2080.gif)
 
 Magic Bounce - 
 
-![PKMN Image](100835.gif)![pkmn 2115](2115.gif)
+![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 2115](../../images/usuarios/silver988766/2115.gif)
 
 
 
 Toxic- 
 
-![pkmn 932](932.gif) ![pkmn 2358](2358.gif)
+![pkmn 932](../../images/usuarios/silver988766/932.gif) ![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
 
 # Offensive Roles
 
@@ -84,15 +84,15 @@ Wallbreakers
 
 Physical - 
 
-![pkmn 149](149.gif)![pkmn 2237](2237.gif) 
+![pkmn 149](../../images/usuarios/silver988766/149.gif)![pkmn 2237](../../images/usuarios/silver988766/2237.gif) 
 
 Special - 
 
-![PKMN Image](100835.gif)![pkmn 976](976.gif) ![pkmn 885](885.gif) ![pkmn 2115](2115.gif)
+![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 976](../../images/usuarios/silver988766/976.gif) ![pkmn 885](../../images/usuarios/silver988766/885.gif) ![pkmn 2115](../../images/usuarios/silver988766/2115.gif)
 
 Mixed - 
 
-![PKMN Image](100835.gif)
+![PKMN Image](../../images/usuarios/silver988766/100835.gif)
 
 
 
@@ -102,23 +102,23 @@ Mixed -
 
 Aqua Jet 
 
- ![pkmn 2237](2237.gif)
+ ![pkmn 2237](../../images/usuarios/silver988766/2237.gif)
 
 
 Extreme speed 
 
-![pkmn 149](149.gif)
+![pkmn 149](../../images/usuarios/silver988766/149.gif)
 
  Pivoting-
 
 
 U-turn 
 
- ![pkmn 2080](2080.gif) ![pkmn 976](976.gif) ![pkmn 2237](2237.gif)
+ ![pkmn 2080](../../images/usuarios/silver988766/2080.gif) ![pkmn 976](../../images/usuarios/silver988766/976.gif) ![pkmn 2237](../../images/usuarios/silver988766/2237.gif)
 
 Volt Switch 
 
-![pkmn 885](885.gif)![pkmn 976](976.gif) ![pkmn 145](145.gif)
+![pkmn 885](../../images/usuarios/silver988766/885.gif)![pkmn 976](../../images/usuarios/silver988766/976.gif) ![pkmn 145](../../images/usuarios/silver988766/145.gif)
 
 # Defensive Roles
 
@@ -126,14 +126,14 @@ Walls
 
 Physically Defensive - 
 
- ![pkmn 2080](2080.gif) ![pkmn 691](691.gif)  ![pkmn 932](932.gif) 
+ ![pkmn 2080](../../images/usuarios/silver988766/2080.gif) ![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 932](../../images/usuarios/silver988766/932.gif) 
 
 Specially Defensive -
 
- ![pkmn 691](691.gif)  ![pkmn 932](932.gif) ![pkmn 2358](2358.gif)
+ ![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 932](../../images/usuarios/silver988766/932.gif) ![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
 
 Mixed -  
-![pkmn 2080](2080.gif)![pkmn 691](691.gif)  ![pkmn 932](932.gif)  ![pkmn 885](885.gif)
+![pkmn 2080](../../images/usuarios/silver988766/2080.gif)![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 932](../../images/usuarios/silver988766/932.gif)  ![pkmn 885](../../images/usuarios/silver988766/885.gif)
 
 
 
@@ -141,29 +141,29 @@ Mixed -
 
 Drizzle - 
 
-![Image of Pokémon #279](279.gif)
+![Image of Pokémon #279](../../images/usuarios/silver988766/279.gif)
 
 Swift Swim -
 
- ![Alt Text](100260.gif) 
+ ![Alt Text](../../images/usuarios/silver988766/100260.gif) 
 
 Abusers 
 
-![pkmn 145](145.gif)
+![pkmn 145](../../images/usuarios/silver988766/145.gif)
 
 
 Trick Room
 Setters - 
 
-![pkmn 2115](2115.gif)  
+![pkmn 2115](../../images/usuarios/silver988766/2115.gif)  
 Abusers -
 
 
- ![Alt Text](2262.gif)
+ ![Alt Text](../../images/usuarios/silver988766/2262.gif)
 
 
 
- esto es una pequeña lista de los roles que hay en los pokemon hay  muchos mas y con muchas mas diferentes estrategias si no esta aqui no es que el pokemon sea malo.
+ esto es una pequeña lista de los roles que hay en pokemon hay  muchos mas y con muchas mas diferentes estrategias si no esta aqui no es que el pokemon sea malo.
 
  en esta playlist pueden ver otro monton de cosas mucho mas detallado ( es bastante vieja)
  https://youtube.com/playlist?list=PLSyJtwV1139XKFsg4BsSxNc-_7vPqOBfo 
