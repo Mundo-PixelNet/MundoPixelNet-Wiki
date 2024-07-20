@@ -29,35 +29,39 @@ Ceaseless Edge
 Stealth Rock - 
 
 ![PKMN IMAGE](pkmn\36.gif)
-![PKMN Image](pkmn/100835.gif) ![pkmn 691](pkmn\691.gif) 
+
+![PKMN Image](pkmn/100835.gif)
+![pkmn 691](pkmn\691.gif) 
 
 Spikes - 
 
-![PKMN Image](pkmn/100835.gif)![pkmn 691](pkmn\691.gif)  ![pkmn 2358](pkmn\2358.gif)
+![PKMN Image](pkmn/100835.gif)
+![pkmn 691](pkmn\691.gif)  
+![pkmn 2358](pkmn\2358.gif)
 
 Toxic Spikes -
-
- ![pkmn 932](pkmn\932.gif) 
+![pkmn 932](pkmn\932.gif) 
 
 
 
 
 Hazard Setters -
 
-![PKMN Image](pkmn/100835.gif) ![pkmn 2358](pkmn\2358.gif) ![pkmn 2348](pkmn\2348.gif)
+![PKMN Image](pkmn/100835.gif)
+![pkmn 2358](pkmn\2358.gif) 
+![pkmn 2348](pkmn\2348.gif)
 
 Screen Setters - 
-
 ![Alt Text](pkmn\2118.gif) 
 
+
 Hazard Control
-
-
 ![pkmn 2080](pkmn\2080.gif)
+ 
 
 Magic Bounce - :
-
-![PKMN Image](pkmn/100835.gif)![pkmn 2115](pkmn\2115.gif)
+![PKMN Image](pkmn/100835.gif)
+![pkmn 2115](pkmn\2115.gif)
 
 
 
