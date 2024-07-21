@@ -4,7 +4,7 @@ Los claims se utilizan para proteger la tierra para que nadie pueda abrir cofres
 
 {% embed url="https://youtu.be/jhVswUP1rag?si=pwmAmr8EZaOynMen" %}
 
-## Cómo puedo claimear mi casa?
+## ¿Cómo puedo claimear mi casa?
 
 Para proteger tu casa necesitarás una pala dorada que puedes conseguir a través del kit de inicio o simplemente haciendo una. Con esta pala deberás pinchar en las esquinas opuestas de donde quieres proteger, siempre prestando atención a las siguientes limitaciones:
 - Debe tener la cantidad requerida de bloques de claim.
@@ -19,7 +19,7 @@ Para modificar un claim existente, debes hacer clic en una de las esquinas con l
 
 Para eliminar un claim que ya no desea o que está mal hecho, use el comando /abandonclaim mientras está dentro del claim.
 
-## Cómo puedo obtener más bloques de claim?
+## ¿Cómo puedo obtener más bloques de claim?
 
 Puedes comprar más bloques de claim en una de las tiendas /warp tiendas, tendrás las siguientes opciones:
 
@@ -29,7 +29,7 @@ Puedes comprar más bloques de claim en una de las tiendas /warp tiendas, tendr�
 | 500 | 3200 ₽ |
 | 1000 | 6200 ₽ |
 
-## Cómo puedo darle permisos a alguien sobre mi claim?
+## ¿Cómo puedo darle permisos a alguien sobre mi claim?
 
 De forma sencilla puedes dar permiso con **/trust usuario** y quitar permiso con **/untrust usuario** pero si quieres separar los permisos de forma compleja para que una persona tenga más permisos que otras **(útil para ciudades con múltiples usuarios)** puedes usar las siguientes opciones:
 
