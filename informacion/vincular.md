@@ -2,7 +2,7 @@
 
 Vincular tu cuenta de Minecraft con Mundo Pixelnet ofrece varios beneficios que te serán útiles durante tu juego.
 
-## Qué beneficios ofrece?
+## ¿Qué beneficios ofrece?
 
 Vincular tu cuenta de Minecraft con Discord propocionará:
 * Una mejor conexión con la comunidad.
@@ -11,7 +11,7 @@ Vincular tu cuenta de Minecraft con Discord propocionará:
 * Protección de cuenta ante pérdidas.
 * Una llave del gatcha de pokémon shiny
 
-## Cómo puedo vincular?
+## ¿Cómo puedo vincular?
 
 1- Manda un mensaje privado al bot @Mundo PixelNet con el comando /vincular.
 
@@ -27,6 +27,6 @@ Vincular tu cuenta de Minecraft con Discord propocionará:
 
 {% embed url="https://youtu.be/sZ7Y22QEcLY?si=lxVlhkDXX46FwrOB" %}
 
-## Cómo puedo reclamar mi llave gatcha de Pokémon Shiny?
+## ¿Cómo puedo reclamar mi llave gatcha de Pokémon Shiny?
 
 Una vez que su cuenta esté vinculada, todo lo que necesita hacer es usar **/regalomisterioso** y obtener su clave, una vez hecho esto, diríjase a **/warp gatcha** y use la clave en el gatcha correspondiente.
