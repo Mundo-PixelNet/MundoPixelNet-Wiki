@@ -4,7 +4,7 @@ Los Gremios son grupos de jugadores que evolucionarán juntos y competirán con 
 
 {% embed url="https://youtu.be/vaTZOsiHOYI?si=jowG7Kyss8yimQuZ" %}
 
-## Cómo puedo crear un gremio?
+## ¿Cómo puedo crear un gremio?
 
 1- Para crear un gremio tendrás que usar /guilds y hacer clic en "crear gremio"
 2- Ahora tendrás que elegir el ID, nombre, emblema, descripción y si los jugadores podrán unirse al gremio por su cuenta, sin que nadie tenga que aceptar la solicitud, no olvides que **crear un gremio cuesta 250.000 ₽** más una **tarifa de mantenimiento de 30.000 ₽ cada 3 días**.
@@ -19,7 +19,7 @@ Los Gremios son grupos de jugadores que evolucionarán juntos y competirán con 
 
 Una vez que hayas definido todos los datos usarás **shift + clic derecho** y tu gremio estará creado, recuerda que crear el gremio cuesta 250.000
 
-## Cómo puedo unirme a un gremio?
+## ¿Cómo puedo unirme a un gremio?
 
 - Para unirte a un gremio escribirás **/guilds** y harás **clic en Lista de gremios**, una vez hecho esto busca el gremio al que deseas unirte, prestando atención para asegurarte de que no esté lleno ya que cada gremio tiene un **límite de 7 jugadores, incluido el creador del gremio** y haga clic con el **botón izquierdo del mouse en el ícono del gremio** al que desea unirse, una vez hecho esto, enviará una solicitud para unirse que debe ser aceptada por los administradores del gremio, o si el gremio está abierto, se unirá automáticamente.
   
@@ -33,7 +33,7 @@ Una vez que hayas definido todos los datos usarás **shift + clic derecho** y tu
 <img src="../images/funciones/gremios/gremio2.png">
 </div>
 
-## Qué puedo hacer en un gremio?
+## ¿Qué puedo hacer en un gremio?
 
 ### Chat privado para miembros del gremio
 Un chat exclusivo donde solo los miembros del gremio pueden leer y hablar, ayudando a comunicarse entre sí
