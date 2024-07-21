@@ -3,7 +3,7 @@
 
 Los tickets son la mejor forma de comunicarte con el [Staff](staffs.md) en caso de algún problema, en él dirás en qué necesitas ayuda y luego un miembro del staff responderá, y en casos de problemas lo solucionarán.
 
-## Como abrir un ticket?
+## ¿Como abrir un ticket?
 
 Para abrir un ticket primero debes estar en el [servidor de Discord exclusivo de Mundo Pixelnet](https://discord.com/invite/mundopixelnet), luego busca el canal llamado [📩︙tickets
 ](https://discord.com/channels/978703875961921556/1127948019090858015) y haz clic en “Crear Ticket”.
