@@ -1,7 +1,7 @@
-﻿---
+---
 description: >-
   Creado por: Juniorcx
-  Descripción: Guía, consejos y recopilación sobre la crianza dentro de [Mundo Pixelnet](../README.md).
+  Descripción: Guía, consejos y recopilación sobre la crianza dentro de Mundo Pixelnet.
 ---
 
 # 💘 Guía de Crianza
