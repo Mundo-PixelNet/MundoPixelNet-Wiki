@@ -39,8 +39,8 @@ En conjunto, los dos progenitores transmitirán tres IV aleatorios a su descende
 
 Los objetos que influyen en la herencia de los IVs son:
 
-* **Lazo Destino**: si lo tiene cualquiera de los padres, se pasarán cinco IV de los padres a la descendencia en lugar de tres.´
-\* **Los Objetos Recios o Power Items**:
+* **Lazo Destino** ![Lazo Destino](/images/usuarios/Juniorcx/destinyknot.png): si lo tiene cualquiera de los padres, se pasarán cinco IV de los padres a la descendencia en lugar de tres.
+* **Los Objetos Recios o Power Items**:
 
 | **Objeto Recio** | **Estadística/IV** |
 | ------------ | :------------: |
@@ -109,7 +109,7 @@ Después de reclamar un Huevo ![huevo](/images/usuarios/Juniorcx/egg1.png), el j
 
 Después de una cantidad suficiente de pasos, el Huevo eclosionará. Un "paso" en lo que respecta a la eclosión de un Huevo equivale al tiempo que se tarda en recorrer la longitud total de dos bloques a velocidad normal. Los métodos para aumentar la velocidad de desplazamiento, como montar un Pokémon, aumentarán la velocidad a la que se deducen los pasos del Huevo. La cantidad de pasos necesarios para que un Huevo eclosione depende de la especie de Pokémon que se encuentre dentro del Huevo.
 
-*Si en el Equipo del jugador hay un Pokémon con Flame Body/Cuerpo Llama o Magma Armor/Escudo Magma o Steam Engine/Combustion , los Huevos del grupo del jugador eclosionarán el doble de rápido. Este efecto no se acumula si varios Pokémon del equipo tienen Flame Body o Magma Armor.*
+*Si en el Equipo del jugador hay un Pokémon con Flame Body/Cuerpo Llama o Magma Armor/Escudo Magma o Steam Engine/Combustible , los Huevos del grupo del jugador eclosionarán el doble de rápido. Este efecto no se acumula si varios Pokémon del equipo tienen Flame Body o Magma Armor.*
 
 # 💚 Criar desde 0
 
@@ -148,7 +148,7 @@ Una vez tengamos nuestros Pokemones 3X31 IVs o mas y genero diferentes, iremos a
 
 ### Proceso de Criar
 
-En esta parte de la guía aprenderemos a criar desde 0 a un pokemon perfecto 6x31 para usarlo como padre para futuras crías, en el ejemplo usaremos a Bidoof.
+En esta parte de la guía aprenderemos a criar desde 0 a un pokemon perfecto 6x31 para usarlo como padre para futuras crías, en el ejemplo usaremos a Bidoof ![Bidoof](/images/usuarios/Juniorcx/sprite.png).
 
 Una vez tengamos a los dos Bidoof 3x31 macho y hembra, procedemos a equiparlos objetos necesarios.
 imagnes
