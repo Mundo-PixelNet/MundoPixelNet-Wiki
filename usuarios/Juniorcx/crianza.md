@@ -1,7 +1,10 @@
 ---
 description: >-
+
   Creado por: Juniorcx
+  
   Descripción: Guía, consejos y recopilación sobre la crianza dentro de Mundo Pixelnet.
+  
 ---
 
 # 💘 Guía de Crianza
@@ -10,7 +13,7 @@ En esta guía aprenderás a criar desde 0, criar con naturaleza, pasar movimient
 
 # 🛍Requisitos
 
-En general, se necesitan dos Pokémon de sexos opuestos para reproducirse ![male](/images/usuarios/Juniorcx/male.png) ![female](/images/usuarios/Juniorcx/female.png). Además, ambos deben ser parte del mismo [Grupo de Huevos](https://pixelmonmod.com/wiki/Egg_Group), o un pokemon cualquiera y un Ditto.
+En general, se necesitan dos Pokémon de sexos opuestos para reproducirse ![male](/images/usuarios/Juniorcx/male.png) ![female](/images/usuarios/Juniorcx/female.png). Además, ambos deben ser parte del mismo [Grupo de Huevos](https://pixelmonmod.com/wiki/Egg_Group), o un pokemon cualquiera y un Ditto. ![ditto](/images/usuarios/Juniorcx/ditto.png)
 
 <p align="center">
 <img src="/images/usuarios/Juniorcx/136.png">
@@ -102,6 +105,8 @@ Para que dos Pokémon compatibles puedan reproducirse, deben contar con los elem
 <p align="center">
 <img src="/images/usuarios/Juniorcx/144.png">
 
+En Mundo Pixelnet los requisitos fueron alterados del original aca dejo una tabla actualizada.
+
 **Tabla de Requerimientos por Tipo**
 
 | Normal | Hada | Bicho | 
@@ -142,7 +147,7 @@ Una vez que ambos Pokémon hayan recibido los elementos necesarios, se iniciará
 <p align="center">
 <img src="/images/usuarios/Juniorcx/140.png">
 
-Al criar Pokemones de **Tipos** diferentes necesitarás 6 elementos, los 3 de cada tipo; y el tiempo de crianza aumentará al doble, 3 horas. imahenes ambos
+Al criar Pokemones de **Tipos** diferentes necesitarás 6 elementos, los 3 de cada tipo; y el tiempo de crianza aumentará al doble, 3 horas.
 
 Puedes abandonar la guardería hasta que finalice el proceso. Mientras tanto, puedes revisar tu inventario para comprobar cómo van tus crías.
 
@@ -209,7 +214,7 @@ Una vez tengamos nuestros Pokemones 3X31 IVs o más y género diferentes, iremos
 
 ### Proceso de Criar
 
-En esta parte de la guía aprenderemos a criar desde 0 a un pokemon perfecto 6x31 para usarlo como padre para futuras crías; en el ejemplo usaremos a Bidoof ![Bidoof](/images/usuarios/Juniorcx/sprite.png).
+En esta parte de la guía aprenderemos a criar desde 0 a un pokemon perfecto 6x31 para usarlo como padre para futuras crías; en el ejemplo usaremos a Bidoof. ![Bidoof](/images/usuarios/Juniorcx/sprite.png)
 
 Una vez tengamos a los dos Bidoof 3x31 macho y hembra, procedemos a equipar los objetos necesarios.
 imagnes
@@ -298,9 +303,13 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro pokemon y de
 1. Si solo quieres subir IVs es recomendable que el Ditto tenga equipado el Recio del IV que quieras heredar. Si no es así, equipar la Piedra Eterna ![Piedra Eterna](/images/usuarios/Juniorcx/everstone.png) si quieres pasar la Naturaleza del Ditto o el Lazo Destino ![Lazo Destino](/images/usuarios/Juniorcx/destinyknot.png) si quieres pasar la Naturaleza del otro pokemon con una Piedra Eterna equipada.
 2. Al ir engendrando crías con mejores IVs cruzarle con el Ditto e ir rotando los recios de Ditto hasta obtener una cría 5x31 o 6x31.
 
+# 🎞 Videos
+
+{% embed url="https://www.youtube.com/watch?v=MkCyYCK5KHk" %}
+
 # 🔰 Consideraciones
 
-* En [Mundo Pixelnet](../README.md) al comprar ciertos Rangos te dan acceso a comandos que facilitan el proceso de crianza. Son:
+* En [Mundo Pixelnet](../README.md) al comprar ciertos [Rangos](https://tienda.mundopixelnet.com/category/ranks) te dan acceso a comandos que facilitan el proceso de crianza. Son:
     * El /hatch: `/hatch (slot)` con este comando podemos abrir directamente un huevo sin necesidad de caminar.
     * El /breed: `/breed (slot) (slot)` con este comando podemos criar sin necesidad de una guardería y nos da el huevo al instante.
 * Algunos Pokémon, como Snorlax , no producirán sus formas base a menos que la madre ![Female](/images/usuarios/Juniorcx/female.png) tenga equipado un incienso determinado . Sin el incienso, estos Pokémon producirán las formas evolutivas inmediatamente posteriores a sus formas base (por ejemplo, criar un Snorlax sin un Incienso Lento producirá un Huevo que contenga otro Snorlax en lugar de un Munchlax ). Estos Pokémon y sus inciensos necesarios se enumeran a continuación.
@@ -325,5 +334,6 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro pokemon y de
 
 # 📂 Referencias
 
-[Wiki de Pixelmon Mod EN](https://pixelmonmod.com/wiki/Main_Page) *Se tradujo gran parte de su Breeding Guides*
+[Wiki de Pixelmon Mod EN](https://pixelmonmod.com/wiki/Main_Page) *Se tradujo gran parte de su Breeding Guides y se uso de base para esta guia*
+
 Colaboradores: Juank\_16, gametito, Y4MAT0sama.
