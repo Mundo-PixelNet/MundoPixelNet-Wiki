@@ -303,6 +303,24 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro pokemon y de
 1. Si solo quieres subir IVs es recomendable que el Ditto tenga equipado el Recio del IV que quieras heredar. Si no es así, equipar la Piedra Eterna ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png) si quieres pasar la Naturaleza del Ditto o el Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) si quieres pasar la Naturaleza del otro pokemon con una Piedra Eterna equipada.
 2. Al ir engendrando crías con mejores IVs cruzarle con el Ditto e ir rotando los recios de Ditto hasta obtener una cría 5x31 o 6x31.
 
+# 💛Crianza con Naturaleza o Forma
+
+## Naturaleza
+
+Una vez tengamos al Pokemon que queremos criar con la naturaleza deseada procedemos a equipar los objetos necesarios. (_Nota: puede ser tanto el padre o la madre y no necesariamente el poke que sera cria, ya que puede ser el papa 6x31 que comparta el grupo huevo._)
+
+Si o si es necesario equipar al pokemon con la naturaleza con la piedra eterna para que las crías herede la naturaleza, al otro le equipamos un lazo destino para pasar 5 IVs.
+
+El punto es ir obteniendo crías con más IVs perfectos y la naturaleza deseada para cruzarles con uno de los padres o entre ellas hasta obtener dos crías 5x31 que fallen en diferentes IVs y luego criarlas entre si hasta obtener un 6x31 con la naturaleza que quieres. (Recordando equipar la piedra eterna en el pokecon la naturaleza).
+
+## Forma Regional
+
+Una vez tengamos al Pokemon que queremos criar con la Forma deseada procedemos a equipar los objetos necesarios. (_Nota: puede ser tanto el padre o la madre mientras sean de la misma especie, de lo contrario debe ser la madre quien debe tener la forma._)
+
+Si o si es necesario equipar la piedra eterna al pokemon con la forma para que las crías herede esa forma, al otro le equipamos un lazo destino para pasar 5 IVs.
+
+El punto es ir obteniendo crías con más IVs perfectos y la forma deseada para cruzarles con uno de los padres o entre ellas hasta obtener dos crías 5x31 que fallen en diferentes IVs y luego criarlas entre si hasta obtener un 6x31 con la forma que quieres. (Recordando equipar la piedra eterna en el pokecon la forma regional).
+
 # 🎞 Videos
 
 {% embed url="https://www.youtube.com/watch?v=MkCyYCK5KHk" %}
