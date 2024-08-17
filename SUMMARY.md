@@ -23,6 +23,10 @@
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
 
+## GUÍAS
+
+* [💘 Crianza](usuarios/Juniorcx/crianza.md)
+
 ## POKÉMON
 
 * [📲 Pokédex](pokemon/README.md)
@@ -45,7 +49,5 @@
 
 ## POR USUARIOS
 
-* **Juniorcx**:
-  * [💘 Guía de Crianza](usuarios/Juniorcx/crianza.md)
 * **silver988766**:
   * [💥 Guía Competitiva de Pokémon](usuarios/silver988766/competitivo.md)
