@@ -45,5 +45,7 @@
 
 ## POR USUARIOS
 
+* **Juniorcx**:
+  * [💘 Guía de Crianza](usuarios/Juniorcx/crianza.md)
 * **silver988766**:
   * [💥 Guía Competitiva de Pokémon](usuarios/silver988766/competitivo.md)
