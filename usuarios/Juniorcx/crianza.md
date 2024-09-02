@@ -191,7 +191,7 @@ En [Mundo Pixelnet](../README.md) la Cadena de Captura funciona asi:
 | 21-50 | 2 |
 | 51+ | 3 |
 
-*Estos son IVs asegurados puedes salir con más de 3x31 IVs*
+*Estos son IVs asegurados, pueden salir con más de 3x31 IVs*
 
 Para ver los IVs de un Pokemon en [Mundo Pixelnet](../README.md) hay dos maneras:
 
