@@ -232,5 +232,7 @@ Continuando el ejemplo de Volcarona seria crucial equiparle un objeto que aument
 # 📂 Referencias
 
 [Wiki de Pixelmon Mod EN](https://pixelmonmod.com/wiki/Main_Page)
+
 [Wikidex](wikidex.net)
+
 [PokeFandom](pokemon.fandom.com)
