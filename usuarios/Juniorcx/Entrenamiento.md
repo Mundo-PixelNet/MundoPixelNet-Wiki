@@ -1,11 +1,8 @@
-- - -
-
-## description: >-
-
-Creado por: Juniorcx
-Descripción: Formas para entrenar a tu pokemon en Mundo PixelNet
-
-- - -
+---
+description: >-
+  Creado por: Juniorcx
+  Descripción: Formas para entrenar a tu pokemon en Mundo PixelNet
+---
 
 # 🏋️‍♂️ Entrenamiento Pokemon
 
