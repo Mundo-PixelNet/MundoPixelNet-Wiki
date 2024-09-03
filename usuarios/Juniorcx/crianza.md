@@ -20,7 +20,7 @@ En general, se necesitan dos Pokémon de sexos opuestos para reproducirse ![male
 
 ## Por parte de los materiales necesitarás:
 <p align="center">
-   
+
 |  |  |  |  |
 | --- | :---: | --- | :---: |
 | **Guardería/DayCare** | ![Guardería](../../images/usuarios/Juniorcx/Daycare.png) | **Lazo Destino/Destiny Knot** | ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) |
