@@ -11,6 +11,8 @@ Descripción: Formas para entrenar a tu pokemon en Mundo PixelNet
 
 El entrenamiento pokemon consiste en llevar a tu pokemon a su maximo potencial o hacerlo encajar en tu estrategia de combate. Los Pokémon tienen una serie de estadísticas: **PS**, **ataque** , **defensa**, **ataque especial**, **defensa especial** y **velocidad**; el punto de entrenarlo es mejorar sus estaditicas ya sea por entrenar sus EVs o Naturaleza y enseñarles Movimientos que favorescan o aprovechem las estadisticas del pokemon.
 
+En este apartado exploraremos 
+
 ## Estadisticas Base
 
 Cada Pokémon, según su especie y tipo, tiene unas estadísticas base cuando el Pokémon nace, estas estadísticas sólo se utilizan para poder comparar un Pokémon con otro, por ejemplo:
@@ -102,71 +104,101 @@ Después de atraparlo, la naturaleza solo se puede cambiar con un Modificador Na
 
 ## EVs o Puntos de esfuerzo
 
-Los puntos de esfuerzo (también conocidos como PE, o EVs por su sigla en inglés) son puntos que mejoran las estadísticas de un Pokémon basados en las fortalezas del Pokémon rival al que han derrotado.
+Los Puntos de Esfuerzo (también conocidos como PE, o EVs por su sigla en inglés) son puntos que mejoran las estadísticas de un Pokémon basados en las fortalezas del Pokémon rival al que han derrotado.
 
-Los Pokémon pueden ganar seis tipos diferentes de PE, uno por cada una de las seis estadísticas (PS, Ataque, Defensa, Ataque Especial, Defensa Especial y Velocidad), y cada Pokémon individualmente puede ganar hasta un máximo de 510 PE, con un límite adicional de 252 PE por estadística. Al ganar PE en una cierta estadística, ésta aumentará gradualmente, con una razón final de 4 PE equivaliendo a 1 punto en la estadística al nivel 100 (redondeado hacia abajo). Un Pokémon puede tener un máximo de 63 puntos extra en una determinada estadística, y un máximo total de 127 puntos de forma transversal en todas sus estadísticas, dados los efectos de los PE.
-Los efectos de los PE se aplican inmediatamente, por lo que no es necesario subir de nivel para visualizar sus efectos. A niveles más bajos, se necesitarán más PE para hacer la equivalencia con 1 punto de estadística (por ejemplo, se requerirán 8 PE por punto de estadística al nivel 50), pero a medida que se sube de nivel, la contribución de los PE existentes a las estadísticas alcanzará eventualmente la razón 4:1 del nivel 100.
+Los Pokémon pueden ganar seis tipos diferentes de EVs, uno por cada una de las seis estadísticas (PS, Ataque, Defensa, Ataque Especial, Defensa Especial y Velocidad), y cada Pokémon individualmente puede ganar hasta un máximo de 510 EVS, con un límite adicional de 252 PE por estadística. Al ganar EVs en una cierta estadística, ésta aumentará gradualmente, con una razón final de 4 EVs equivaliendo a 1 punto en la estadística al nivel 100 (redondeado hacia abajo). Un Pokémon puede tener un máximo de 63 puntos extra en una determinada estadística, y un máximo total de 127 puntos de forma transversal en todas sus estadísticas, dados los efectos de los EVs.
 
-Objetos
-Ciertos objetos equipados permiten a quien los porta ganar PE adicionales siempre que un Pokémon sea derrotado. No obstante, el Pokémon tendrá su Velocidad temporalmente reducida a la mitad mientras tenga equipado este tipo de objetos. Todos los siguientes objetos pueden ser obtenidos de jefes Pokémon o Cofres de PokeBotín.
+Los efectos de los EVs se aplican inmediatamente, por lo que no es necesario subir de nivel para visualizar sus efectos. A niveles más bajos, se necesitarán más EVS para hacer la equivalencia con 1 punto de estadística (por ejemplo, se requerirán 8 PE por punto de estadística al nivel 50), pero a medida que se sube de nivel, la contribución de los EVs existentes a las estadísticas alcanzará eventualmente la razón 4:1 del nivel 100.
 
-Un Pokémon que tenga equipado un Brazal firme ganará el doble de los PE normales de cualquier encuentro.
-Cuando un Pokémon que tiene equipado un objeto potenciador gana PE, este recibirá 8 PE adicionales en una estadística determinada, dependiendo de qué objeto potenciador tenga equipado.
-Las vitaminas incrementan un PE específico en 10 puntos, pero no lo aumentarán más allá de los 100 PE.
-Ciertas bayas disminuyen la cantidad de PE que un Pokémon tiene en una determinada estadística en 10.
-Estadística	Objeto potenciador	Vitamina	Baya
-PS	Grid Power Weight.pngPesa recia	Grid HP Up.pngMás PS	Grid Pomeg Berry.pngBaya Grana
-Ataque	Grid Power Bracer.pngBrazal recio	Grid Protein.pngProteína	Grid Kelpsy Berry.pngBaya Algama
-Defensa	Grid Power Belt.pngCinto recio	Grid Iron.pngHierro	Grid Qualot Berry.pngBaya Ispero
-Ataque Especial	Grid Power Lens.pngLente recia	Grid Calcium.pngCalcio	Grid Hondew Berry.pngBaya Meluce
-Defensa Especial	Grid Power Band.pngBanda recia	Grid Zinc.pngZinc	Grid Grepa Berry.pngBaya Uvav
-Velocidad	Grid Power Anklet.pngFranja recia	Grid Carbos.pngCarburante	Grid Tamato Berry.pngBaya Tamate
+Hay varias maneras de entrenar EVs dentro de Mundo Pixelnet:
 
+### Objetos
 
-Stat	Power item	Vitamin	Berry
-HP	Grid Power Weight.pngPower Weight	Grid HP Up.pngHP Up	Grid Pomeg Berry.pngPomeg Berry
-Attack	Grid Power Bracer.pngPower Bracer	Grid Protein.pngProtein	Grid Kelpsy Berry.pngKelpsy Berry
-Defense	Grid Power Belt.pngPower Belt	Grid Iron.pngIron	Grid Qualot Berry.pngQualot Berry
-Special Attack	Grid Power Lens.pngPower Lens	Grid Calcium.pngCalcium	Grid Hondew Berry.pngHondew Berry
-Special Defense	Grid Power Band.pngPower Band	Grid Zinc.pngZinc	Grid Grepa Berry.pngGrepa Berry
-Speed	Grid Power Anklet.pngPower Anklet	Grid Carbos.pngCarbos	Grid Tamato Berry.pngTamato Berry
+Ciertos objetos equipados permiten a quien los porta ganar EVs adicionales siempre que un Pokémon sea derrotado. No obstante, el Pokémon tendrá su Velocidad temporalmente reducida a la mitad mientras tenga equipado este tipo de objetos. Todos los siguientes objetos pueden ser obtenidos de Jefes Pokémon o Cofres de PokeBotín.
+
+Un Pokémon que tenga equipado un Brazal firme ganará el doble de los EVs normales de cualquier encuentro.
+
+* Cuando un Pokémon que tiene equipado un objeto potenciador gana EVs, este recibirá 8 Evs adicionales en una estadística determinada, dependiendo de qué objeto potenciador tenga equipado.
+* Las vitaminas incrementan un EVS específico en 10 puntos, pero no lo aumentarán más allá de los 100 EVs.
+* Ciertas bayas disminuyen la cantidad de EVs que un Pokémon tiene en una determinada estadística en 10.
+
+|Estadística|Objeto potenciador|	Vitamina|	Baya|
+|---|---|---|---|
+|PS	|Pesa recia|Más PS|Baya Grana|
+|Ataque|	Brazal recio|Proteína|	Baya Algama|
+|Defensa|	Cinto recio|Hierro|Baya Ispero|
+|Ataque Especial|Lente recia|Calcio|	Baya Meluce|
+|Defensa Especial|Banda recia|Zinc|	Baya Uvav|
+|Velocidad|Franja recia|Carburante|	Baya Tamate|
 
 
-Pokerus
-Pokérus es un virus beneficioso que puede aparecer aleatoriamente como un estado en un Pokémon, con un
-1
-12888
-probabilidad y una tasa de propagación de
-1
-5
-Por defecto, un Pokémon salvaje también puede contraer esta enfermedad, pero no se puede detectar hasta que se captura el Pokémon.
+|Stat|	Power item|	Vitamin|	Berry|
+|---|---|---|---|
+|HP|Power Weight|	HP Up|Pomeg Berry|
+|Attack|Power Bracer|Protein|Kelpsy Berry|
+|Defense|Power Belt|Iron|Qualot Berry|
+|Special Attack|Power Lens|Calcium|Hondew Berry|
+|Special Defense|Power Band|Zinc|Grepa Berry|
+|Speed|Power Anklet|Carbos|Tamato Berry|
+
+### Jugos EV o EV Juices
+
+Los EV Juices son un conjunto de 6 elementos que aumentan los EV de las estadísticas correspondientes de un Pokémon de manera similar a las vitaminas . Los EV Juices también se crean dentro del infusor al combinar 2 bayas del mismo color. La cantidad de EV otorgada tiene 5 valores posibles, siendo 4, 8, 12, 16 y 32, que están determinados por la combinación de bayas utilizadas en el infusor. 
+
+|Stat/Estadistica|	Juice/Jugo|
+|---|---|
+|HP/PS|Purple Juice/Jugo Morado|
+|Attack/Ataque|Red Juice/Jugo Rojo|
+|Defense/Defensa|Yellow Juice/Jugo Amarillo|
+|Special Attack/Ataque Especial|Blue Juice/Jugo Azul|
+|Special Defense/Defensa Especial|	Green Juice/Jugo Verde
+|Speed/Velocidad|Pink Juice/Jugo Rosado|
+
+Fabricación de jugos EV:
+Al preparar jugos EV, las bayas se pueden dividir en seis colores y tres grupos. Lo puedes ver en **[EV Juice](https://pixelmonmod.com/wiki/EV_Juices)**.
+
+Los jugos EV se elaboran mezclando dos bayas del mismo color. Esto funciona de forma ligeramente diferente si las dos bayas utilizadas son iguales que si son diferentes. La siguiente tabla describe el aumento de EV que se obtendrá al mezclar dos bayas del mismo color para elaborar un jugo EV. Lo puedes ver en **[EV Juice](https://pixelmonmod.com/wiki/EV_Juices)**.
+
+### Pokerus
+
+Pokérus es un virus beneficioso que puede aparecer aleatoriamente como un estado en un Pokémon, con un 1/12888 probabilidad y una tasa de propagación de 1/5. Por defecto, un Pokémon salvaje también puede contraer esta enfermedad, pero no se puede detectar hasta que se captura el Pokémon.
 
 Puedes saber si un Pokémon tiene Pokérus viendo el campo Estado en la página Resumen , que mostrará un cuadro violeta etiquetado como PkRS si el Pokémon está infectado.
-
-Efecto
-Pokérus tiene el efecto de duplicar cualquier EV que reciba un Pokémon. Este efecto es acumulativo con Macho Brace , que luego te da un total de 4 EV por cada Pokémon derrotado. Si hay un portador en el grupo, el virus puede propagarse a otros Pokémon del grupo, incluidos los huevos.
+* Efecto
+ Pokérus tiene el efecto de duplicar cualquier EV que reciba un Pokémon. Este efecto es acumulativo con Macho Brace , que luego te da un total de 4 EV por cada Pokémon derrotado. Si hay un portador en el grupo, el virus puede propagarse a otros Pokémon del grupo, incluidos los huevos.
 
 El virus caduca automáticamente después de un período de tiempo de entre 1 y 4 días reales, según la cepa contraída. Una vez caduca, ya no se propaga, aunque sus efectos potenciadores de EV permanecerán.
+
+### Entrenamiento
+
+En Mundo Pixelne estan todas las mecanicas mencinadas y existen 2 `/warp` dedicads a este entrenamiendo uno es `/warp evs` donde encontraras entrenadores con pokemones nivel 1 de cada una de las estadisticas, y `/warp entrenamintovip` para los usruarios con rango link tienda igual al otro pero con mejore pokemones.
+Las bayas las puedes encontrar salvaje o comprarlas en `/warp tiendas`.
 
 ## Habilidades
 
 Las habilidades son efectos pasivos que cada Pokémon tiene para usar en combate. Un Pokémon sólo puede tener una habilidad a la vez, la cual no puede ser cambiada. La habilidad de un Pokémon se decide en el momento en que es generado, siendo escogida de un conjunto de hasta tres posibles habilidades que el Pokémon puede tener, dependiendo de su especie.
 
-Del conjunto de posibles habilidades que un Pokémon puede tener, hay una o dos habilidades normales y, posiblemente, una habilidad oculta. Si un Pokémon tiene dos habilidades normales posibles, existe la misma probabilidad para que cualquiera de ellas sea la habilidad de ese Pokémon. Las habilidades ocultas son significativamente más raras que las habilidades normales; un Pokémon tiene, por defecto, una probabilidad de 
-1
-150
- de tener su habilidad oculta. La combinación de tipos de habilidades que un Pokémon puede tener incluye:
+Del conjunto de posibles habilidades que un Pokémon puede tener, una o dos habilidades normales y, posiblemente, una habilidad oculta. Si un Pokémon tiene dos habilidades normales posibles, existe la misma probabilidad para que cualquiera de ellas sea la habilidad de ese Pokémon. Las habilidades ocultas son significativamente más raras que las habilidades normales; un Pokémon tiene, por defecto, una probabilidad de 1/150 de tener su habilidad oculta. La combinación de tipos de habilidades que un Pokémon puede tener incluye:
 
-Una habilidad normal.
-Una habilidad normal y una habilidad oculta.
-Dos habilidades normales y una habilidad oculta.
-Las habilidades, incluyendo a las ocultas, pueden ser heredadas a través de la crianza.
+* Una habilidad normal.
+* Una habilidad normal y una habilidad oculta.
+* Dos habilidades normales y una habilidad oculta.
+  
+_Las habilidades, incluyendo a las ocultas, pueden ser heredadas a través de la crianza._
 
-Un Pokémon puede cambiar entre sus dos habilidades normales usando una Cápsula Habilidad. Sin embargo, una Cápsula Habilidad no puede cambiar de una habilidad normal a una habilidad oculta, y viceversa.Un Pokémon puede cambiar entre sus dos habilidades normales (si las tiene) usando una cápsula de habilidad . Sin embargo, una cápsula de habilidad no puede cambiar un Pokémon de su habilidad normal a su habilidad oculta (esto se hace con un parche de habilidad ). 
+Un Pokémon puede cambiar entre sus dos habilidades normales usando una Cápsula Habilidad. Sin embargo, una Cápsula Habilidad no puede cambiar de una habilidad normal a una habilidad oculta, .Un Pokémon puede cambiar entre sus dos habilidades normales (si las tiene) usando una cápsula de habilidad . Sin embargo, una cápsula de habilidad no puede cambiar un Pokémon de su habilidad normal a su habilidad oculta y viceversa. Para cambiar a la Habilidadl Oculta se usa parche de habilidad. 
+_La capsula habilidad y el parche habilidad se pueden obtener en botin de Jefes/Boss Pokemon, Raids Dinamax o Misiones_.
 
 ## Movimientos
-Una vez hecho todo lo anterior, esta es la parte más sencilla, tan sólo tenemos que seleccionar los movimientos que le convengan a nuestro Pokémon de entre todos los que puede aprender tanto por nivel, por MT, MO, tutor de movimientos o movimiento huevo. Ya sean entre ataques especiales, ataques físicos o movimientos de estado.
 
-Por ejemplo, a Shuckle, que está hecho para aguantar turnos y turnos en combate, convendría ponerle ataques que provoquen envenenamiento (como Gas venenoso) o quemadura (como Ascuas, teniendo en cuenta que tiene 10% de probabilidades de quemar) (véase Problemas de estado). A otro como Crobat que es muy rápido, ataques potentes, como Bola sombra.
+Una vez hecho todo lo anterior, tan sólo tenemos que seleccionar los movimientos que le convengan a nuestro Pokémon de entre todos los que puede aprender tanto por nivel, por MT, DT, tutor de movimientos, tutor de transferencia o movimiento huevo. Ya sean entre ataques especiales, ataques físicos o movimientos de estado.
 
-También podría dárseles ataques que sean eficaces en Pokémon que sean fuertes contra ellos, pero deben de tener grande la cantidad de tipo de ataque, por ejemplo un Umbreon (tipo Siniestro), que aprenda Psíquico (Tipo psíquico) contra un tipo lucha, y así eliminar sus debilidades.
+Un movimiento o ataque (Move en inglés) es una técnica que los Pokémon son capaces de aprender y que usan en los combates con el fin de debilitar a sus oponentes. Solo puenden aprender 4 Movimientos a la vez y usar solo 1 por turno.
+
+* Los movimientos de la clase **físico** provocan daño directo. Este daño depende de las características de ataque del Pokémon que los usa, y cuya cantidad de daño producido varía en función de las características de defensa del Pokémon objetivo del movimiento.
+* Los movimientos de la clase **especial** provocan daño directo. Este daño depende de las características de ataque especial del Pokémon que los usa, y cuya cantidad de daño producido varía función de las características de defensa especial del Pokémon objetivo del movimiento.
+* Los movimientos de la clase de **estado** por lo general, no provocan daño o solamente provocan daño indirecto y tienen efectos de apoyo en combate. Algunos de estos movimientos pueden ser protectores (como protección), curativos (como recuperación), subir o bajar características del Pokémon que los usa o las del oponente (como maquinacion o chirrido), provocar problemas de estado (como paralizador) o incluso afectar al campo de combate (como día soleado o púas), pero hay muchos más con efectos variados.
+
+En Mundo Pixelnet podemos enseñar movimientos facilmente en `/warp tutores` con Tutores de Movimiento divididos por tipo y un Recordador de Movimientos ademas en `/warp tiendas` hay un Comenciarte de MTs, sin embargo, los tutores de Trasferencia solo los puedes encontrar en el mundo survival y hay MTs que no e venden pero pueden ser "enseñados".
+
+Este contenido proviene de wikidex.net y pokemon.fandom.com
