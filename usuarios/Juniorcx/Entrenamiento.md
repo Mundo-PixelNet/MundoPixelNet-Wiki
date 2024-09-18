@@ -110,7 +110,7 @@ Los Puntos de Esfuerzo (también conocidos como PE o EVs por su sigla en inglés
 
 Los Pokémon pueden ganar seis tipos diferentes de EVs, uno por cada una de las seis estadísticas (PS, Ataque, Defensa, Ataque Especial, Defensa Especial y Velocidad), y cada Pokémon individualmente puede ganar hasta un máximo de 510 EVs, con un límite adicional de 252 EVs por estadística. Al ganar EVs en una cierta estadística, ésta aumentará gradualmente, con una razón final de 4 EVs, equivaliendo a 1 punto en la estadística al nivel 100. Un Pokémon puede tener un máximo de 63 puntos extra en una determinada estadística, y un máximo total de 127 puntos de forma transversal en todas sus estadísticas, dados los efectos de los EVs. Los efectos de los EVs se aplican inmediatamente, por lo que no es necesario subir de nivel para visualizar sus efectos.
 
-Continuando con el ejemplo de Volcarona, sería bueno entrenarle los EVs así: Ataque especial= 252, velocidad= 252 y Defensa=6; de esta manera aprobechamos su altísimo ataque especial.
+Continuando con el ejemplo de Volcarona, sería bueno entrenarle los EVs así: Ataque especial= 252, velocidad= 252 y Defensa=6; de esta manera aprovechamos su altísimo ataque especial.
 
 Hay varias maneras de entrenar EVs dentro de Mundo Pixelnet:
 
@@ -132,6 +132,7 @@ Ciertos objetos equipados permiten a quien los porta ganar EVs adicionales siemp
 | Defensa Especial | Banda recia | Zinc | Baya Uvav |
 | Velocidad | Franja recia | Carburante | Baya Tamate |
 <br>
+
 | Stat | Power item | Vitamin | Berry |
 | ---- | ---------- | ------- | ----- |
 | HP | Power Weight | HP Up | Pomeg Berry |
@@ -176,7 +177,9 @@ En Mundo Pixelnet están todas las mecánicas mencionadas y existen 2 `/warp` de
 Las habilidades son efectos pasivos que cada Pokémon tiene para usar en combate. Un Pokémon sólo puede tener una habilidad a la vez, la cual no puede ser cambiada. La habilidad de un Pokémon se decide en el momento en que es generado, siendo escogida de un conjunto de hasta tres posibles habilidades que el Pokémon puede tener, dependiendo de su especie. Del conjunto de posibles habilidades que un Pokémon puede tener, una o dos habilidades normales y, posiblemente, una habilidad oculta. Si un Pokémon tiene dos habilidades normales posibles, existe la misma probabilidad para que cualquiera de ellas sea la habilidad de ese Pokémon. Las habilidades ocultas son significativamente más raras que las habilidades normales; un Pokémon tiene, por defecto, una probabilidad de 1/150 de tener su habilidad oculta. La combinación de tipos de habilidades que un Pokémon puede tener incluye:
 
 *  Una habilidad normal.
+
 *  Una habilidad normal y una habilidad oculta.
+
 *  Dos habilidades normales y una habilidad oculta.
 
 *Las habilidades, incluyendo las ocultas, pueden ser heredadas a través de la crianza.*
