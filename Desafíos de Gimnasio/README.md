@@ -1,4 +1,4 @@
-# 🏵️ Desafíos de Gimnasio
+k# 🏵️ Desafíos de Gimnasio
 
 ## ¿Qué es un desafío de gimnasio?
 
@@ -16,3 +16,9 @@ Los Desafíos de gimnasios son como pruebas que los entrenadores deben superar p
 | [muy pronto] | **???** | **???** | **???** |
 | [muy pronto] | **???** | **???** | **???** |
 | [muy pronto] | **???** | **???** | **???** |
+
+## 🎁 Recompensas
+
+Después de vencer uno de los desafíos, el jugador recibirá su respectiva insignia, un cristal Z para cada tipo que representa el gimnasio, además de algunos caramelos raros y un bono de 15,000 pokédolares.
+
+Y una vez que se completen todos los desafíos, el jugador recibirá una recompensa extremadamente valiosa, además de la autorización para continuar hacia la liga Pokémon.
