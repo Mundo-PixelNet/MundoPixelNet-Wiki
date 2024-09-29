@@ -2,7 +2,7 @@
 
 ## Información
 
-**Gardewile** es un [Pokémon híbrido](../../funciones/hibridos.md) de tipo [lucha](https://www.wikidex.net/wiki/Tipo_lucha)/[roca](https://www.wikidex.net/wiki/Tipo_roca) introducido en la [Temporada Mística (1)](./). Es la fusión de Lucario y Lycanroc.
+**Lycario** es un [Pokémon híbrido](../../funciones/hibridos.md) de tipo [lucha](https://www.wikidex.net/wiki/Tipo_lucha)/[roca](https://www.wikidex.net/wiki/Tipo_roca) introducido en la [Temporada Mística (1)](./). Es la fusión de Lucario y Lycanroc.
 
 |                     **Artwork** | ![Artwork de Lycario](../../images/pokemon/temporada-1/Lycario.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
