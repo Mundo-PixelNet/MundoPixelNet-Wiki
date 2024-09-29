@@ -6,11 +6,11 @@ Los Desafíos de gimnasios son como pruebas que los entrenadores deben superar p
 
 | Desafío | Tipo 1 | Tipo 2 |
 |:-------:|:------:|:------:|
-| [Armonía Mística] |||
-| [Corazón de Piedra] |||
-| [] | *???* | *???* |
-| [] | *???* | *???* |
-| [] | *???* | *???* |
-| [] | *???* | *???* |
-| [] | *???* | *???* |
-| [] | *???* | *???* |
+| [Armonía Mística] | [Tipo Hada](../../images/pokemon/tipos/tipo_hada.png) | [Tipo Psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Corazón de Piedra] | [Tipo Roca]() | [Tipo Lucha]() |
+| [muy pronto] | **???** | **???** |
+| [muy pronto] | **???** | **???** |
+| [muy pronto] | **???** | **???** |
+| [muy pronto] | **???** | **???** |
+| [muy pronto] | **???** | **???** |
+| [muy pronto] | **???** | **???** |
