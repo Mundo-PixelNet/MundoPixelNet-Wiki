@@ -268,7 +268,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | [Terremoto](https://www.wikidex.net/wiki/Terremoto) | ![tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) |
 | [Psíquico](https://www.wikidex.net/wiki/Ps%C3%ADquico) | ![tipo psíquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 | [Bola Sombra](https://www.wikidex.net/wiki/Bola_Sombra) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| [Golpe Bajo](https://www.wikidex.net/wiki/Golpe_Bajo) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| [Golpe Bajo](https://www.wikidex.net/wiki/Golpe_Bajo) | ![tipo siniestro](../../images/pokemon/tipos/tipo_lucha.png) |
 | [Onda Certera](https://www.wikidex.net/wiki/Onda_Certera) | ![tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
 | [Lanzamiento](https://www.wikidex.net/wiki/Lanzamiento) | ![tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 | [Garra Umbría](https://www.wikidex.net/wiki/Garra_Umbr%C3%ADa) | ![tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
