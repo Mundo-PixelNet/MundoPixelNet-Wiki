@@ -23,6 +23,10 @@
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
 
+## GUÍAS
+
+* [💘 Crianza](usuarios/Juniorcx/crianza.md)
+
 ## POKÉMON
 
 * [📲 Pokédex](pokemon/README.md)

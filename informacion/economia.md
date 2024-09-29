@@ -325,6 +325,7 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 
 
 
+
 # Otros (por unidad)
 
 |Icono   |Nombre  |Precio   |
@@ -380,6 +381,7 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 |![Carameloraro](../images/iconos/otros/REDAPRICORN.png)    |Bonguris (por stack)   |5K    |
 |![Carameloraro](../images/iconos/otros/ELYTRA.png)    |Elitras   |10K   |
 |![Carameloraro](../images/iconos/otros/MAXSOUP.png)    |Maxisopa   |30K   |
+|![Diamansfera](../images/iconos/otros/MAXMUSHROOM.png)   |Maxiseta  |6K  |   |
 
 
 # Mentas
@@ -617,6 +619,10 @@ Si el Pokémon Legendario/Singular es **Shiny de forma natural**, se le suma 75K
 |![Uxie](../images/iconos/pokemonlegendarios/ENAMORUS.png)   |Enamorus   |650K   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/CHIENPAO.png)   |Chien-Pao   |800K   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/CHIYU.png)   |Chi-Yu   |800K   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/KORAIDON.png)   |Koraidon  |1.2M   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/MIRAIDON.png)   |Miraidon  |1.2M   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/TINGLU.png)   |Ting-Lu  |800K   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/WOCHIEN.png)   |Wo-Chien  |800K   |   |
 
 
 
@@ -630,6 +636,8 @@ Si el Pokémon Paradoja es **Shiny de forma natural**, se le suma 75K al precio.
 |![Uxie](../images/iconos/pokemonlegendarios/IRONMOTH.png)    |Ferropolilla   |750K   |   |
 |![Uxie](../images/iconos/pokemonlegendarios/IRONTHORNS.png)    |Ferropúas   |750K    |   |
 |![Uxie](../images/iconos/pokemonlegendarios/WALKINGWAKE.png)    |Ondulagua   |1.1M   |   |
+|![Uxie](../images/iconos/pokemonlegendarios/ROAMINGSUN.png)    |Bramaluna   |750K    |   |
+|![Uxie](../images/iconos/pokemonlegendarios/IRONVALIANT.png)    |Ferropaladín   |750K    |   |
 
 
 
