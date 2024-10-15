@@ -26,6 +26,7 @@
 ## GUÍAS
 
 * [💘 Crianza](usuarios/Juniorcx/crianza.md)
+* [🏋️‍♂️ Entrenamiento](usuarios/Juniorcx/Entrenamiento.md)
 
 ## POKÉMON
 
