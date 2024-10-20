@@ -18,13 +18,10 @@ Antes de empezar, es importante entender que en VGC los combates son mucho más 
 
 ## Choice Band 
 ![Dragapult](../../images/usuarios/silver988766/2157.gif)![Dragonite](../../images/usuarios/silver988766/149.gif) ![Palafin](../../images/usuarios/silver988766/2342.gif)
-
 ## Choice Specs
 ![Zoroark-hisui](../../images/usuarios/silver988766/2261.gif) ![Gholdengo](../../images/usuarios/silver988766/2378.gif)
-
 ## Choice Scarf 
 ![Annihilape](../../images/usuarios/silver988766/2357.gif) ![Charizard](../../images/usuarios/silver988766/6.gif) ![Gholdengo](../../images/usuarios/silver988766/2378.gif)
-
 ## Trick Room Sweepers
 ![ursaluna](../../images/usuarios/silver988766/2262.gif) ![Primarina](../../images/usuarios/silver988766/909.gif) ![Hatterene](../../images/usuarios/silver988766/2115.gif)
 ## Setup Sweepers 
@@ -47,21 +44,16 @@ Antes de empezar, es importante entender que en VGC los combates son mucho más 
 ![Rillaboom](../../images/usuarios/silver988766/2069.gif) ![Indeedee](../../images/usuarios/silver988766/2231.gif)
 ## Trick room 
 ![Hatterene](../../images/usuarios/silver988766/2115.gif) ![Indeedee](../../images/usuarios/silver988766/2231.gif)
-
 ## Tailwind 
-![Murkrow](../..images/usuarios/silver988766/198.gif) ![Pelipper](../..images/usuarios/silver988766/279.gif)
-
+![Murkrow](../../images/usuarios/silver988766/198.gif) ![Pelipper](../../images/usuarios/silver988766/279.gif)
 ## Fake Out 
- ![Rillaboom](../..images/usuarios/silver988766/2069.gif) ![incineroar](../..images/usuarios/silver988766/906.gif)
-
+ ![Rillaboom](../../images/usuarios/silver988766/2069.gif) ![incineroar](../../images/usuarios/silver988766/906.gif)
  ## intimidate 
- ![incineroar](../..images/usuarios/silver988766/906.gif) ![Arcanine-hisui](../..images/usuarios/silver988766/2259.gif)
-
+ ![incineroar](../../images/usuarios/silver988766/906.gif) ![Arcanine-hisui](../../images/usuarios/silver988766/2259.gif)
 ## Sleep 
-![Amoonguss](../..images/usuarios/silver988766/595.gif)
-
+![Amoonguss](../../images/usuarios/silver988766/595.gif)
 ## Haze / Clear Smog
-![Amoonguss](../..images/usuarios/silver988766/595.gif)  ![Murkrow](../..images/usuarios/silver988766/198.gif) ![Primarina](../..images/usuarios/silver988766/909.gif)
+![Amoonguss](../../images/usuarios/silver988766/595.gif)  ![Murkrow](../../images/usuarios/silver988766/198.gif) ![Primarina](../../images/usuarios/silver988766/909.gif)
 
 # TEAMS 
 
