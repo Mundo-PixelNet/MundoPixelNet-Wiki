@@ -2,7 +2,7 @@
 
 ## Información
 
-**Primarina Pixelween** es una Skin exclusiva del servidor introducida en la [Temporada Mística (1)](./).
+**Primarina Pixelween** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
 |                     **Artwork** | ![Artwork de Primarina Pixelween](../../images/pokemon/temporada-1/primarina-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
