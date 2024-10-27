@@ -21,7 +21,7 @@ Para reclamar una recompensa, debes ir a la página del álbum correspondiente y
 
 <div style="text-align: center">
 <img src="../images/funciones/album/tutorial/album1.png"
-alt="Verificar album">
+alt="Reclamar album">
 </div>
 
 ## 📋 Álbumes disponibles
