@@ -11,12 +11,12 @@ El álbum de Mimikyu llegó en la actualización de Pixelween 2024 y se basa en 
 | Sneasel |![Sneasel](../../images/funciones/album/mimikyu/mimisneasel_sp.png)|
 | Sableye |![Sableye](../../images/funciones/album/mimikyu/mimisableye_sp.png)|
 | Poochyena |![Poochyena](../../images/funciones/album/mimikyu/mimipoochyena_sp.png)|
-| Mismapeon |![Mismapeon](../../images/funciones/album/mimikyu/mimimismapeon_sp.png)|
+| Mismapeon |![Mismapeon](../../images/funciones/album/mimikyu/mimismapeon_sp.png)|
 | Eevee |![Eevee](../../images/funciones/album/mimikyu/mimieevee_sp.png)|
 | Wooper |![Wooper](../../images/funciones/album/mimikyu/mimiwooper_sp.png)|
 | Marshadow |![Marshadow](../../images/funciones/album/mimikyu/mimimarshadow_sp.png)|
 | Mew |![Mew](../../images/funciones/album/mimikyu/mimimew_sp.png)|
-| Unveilia |![Unveilia](../../images/funciones/album/mimikyu/mimiunveilia_sp.png)|
+| Unveilia |![Unveilia](../../images/funciones/album/mimikyu/mimiunveilia-sp.png)|
 
 <div style="text-align: center">
 <img src="../images/funciones/album/mimikyu/modelos.png"
