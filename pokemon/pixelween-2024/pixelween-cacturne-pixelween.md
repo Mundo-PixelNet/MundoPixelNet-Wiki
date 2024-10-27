@@ -4,7 +4,7 @@
 
 **Cacturne Pixelween** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Cacturne Pixelween](../../images/pokemon/temporada-1/cacturne-artwork.png)                                                                                    |
+|||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Cacturne Pixelween](../../images/pokemon/pixelween/cacturne-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
