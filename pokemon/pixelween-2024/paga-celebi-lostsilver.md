@@ -4,7 +4,7 @@
 
 **Celebi Lost Silver** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Celebi Lost Silver](../../images/pokemon/temporada-1/celebi-artwork.png)                                                                                    |
+|||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Celebi Lost Silver](../../images/pokemon/pixelween/ls4-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
