@@ -26,7 +26,8 @@
 
 ## Desafíos de Gimnasio
 * [🏵️ Gimnasios](desafiosdegimnasio/README.md)
-  *[test]()
+ *[![armoniamisticaicon](images/gimnasios/gym_1.png)Armonía Mística](desafiosdegimnasio/armoniamistica.md)
+  *[![corazondepiedraicon](images/gimnasios/gym_2.png)Corazón de Piedra](desafiodegimnasio/corazondepiedra.md)
 
 ## GUÍAS
 
