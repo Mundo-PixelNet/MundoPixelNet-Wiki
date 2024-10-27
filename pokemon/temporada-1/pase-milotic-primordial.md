@@ -24,6 +24,7 @@ La creación de esta skin se basa en la energía primordial de la creación, hac
 | **53** | Primordial Coral | ![Sprite de Milotic Primordial Coral](../../images/pokemon/temporada-1/Primordial3-sprite.png) |
 | **85** | Primordial Arrecife | ![Sprite de Milotic Primordial Arrecife](../../images/pokemon/temporada-1/Primordial4-sprite.png) |
 | **96** | Primordial Esmeralda | ![Sprite de Milotic Primordial Esmeralda](../../images/pokemon/temporada-1/Primordial5-sprite.png) |
+| **115** | Supremo | ![Sprite de Milotic Supremo](../../images/pokemon/temporada-1/supremo1-sprite.png) |
 
 ![Formas de Milotic Primordial](../../images/pokemon/temporada-1/Primordial-formas.png)
 
