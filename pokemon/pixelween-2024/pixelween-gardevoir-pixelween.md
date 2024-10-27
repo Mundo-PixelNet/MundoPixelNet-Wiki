@@ -2,7 +2,7 @@
 
 ## Información
 
-**Gardevoir Pixelween** es una Skin exclusiva del servidor introducida en la [Temporada Mística (1)](./).
+**Gardevoir Pixelween** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
 |                     **Artwork** | ![Artwork de Gardevoir Pixelween](../../images/pokemon/temporada-1/gardevoir-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
