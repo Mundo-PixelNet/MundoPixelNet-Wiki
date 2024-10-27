@@ -4,7 +4,7 @@
 
 **Gardevoir Pixelween** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Gardevoir Pixelween](../../images/pokemon/temporada-1/gardevoir-artwork.png)                                                                                    |
+|||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoir-sprite.png) ![Sprite de Mega Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoirmega-sprite.png)                                                         |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
