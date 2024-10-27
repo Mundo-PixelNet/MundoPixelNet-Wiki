@@ -1,4 +1,4 @@
-k# 🏵️ Desafíos de Gimnasio
+# 🏵️ Desafíos de Gimnasio
 
 ## ¿Qué es un desafío de gimnasio?
 
