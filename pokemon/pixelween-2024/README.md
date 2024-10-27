@@ -12,9 +12,9 @@ Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que
 
 | 👻 Pixelween |
 | :------: |
-| [👻 Cacturne Pixelween](pixelween-cacturne-pixelween.md) ![Sprite de Cacturne Pixelween](../../images/pokemon/pixelween/Cacturne-sprite.png)|
-| [👻 Primarina Pixelween](pixelween-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/Primarina-sprite.png)|
-| [👻 Gardevoir Pixelween](pixelween-gardevoir-pixelween.md) ![Sprite de Gardevoir Pixelween](../../images/pokemon/pixelween/Gardevoir-sprite.png)|
+| [👻 Cacturne Pixelween](pixelween-cacturne-pixelween.md) ![Sprite de Cacturne Pixelween](../../images/pokemon/pixelween/cacturne-sprite.png)|
+| [👻 Primarina Pixelween](pixelween-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
+| [👻 Gardevoir Pixelween](pixelween-gardevoir-pixelween.md) ![Sprite de Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoir-sprite.png)|
 
 ### 📕 Misión
 
