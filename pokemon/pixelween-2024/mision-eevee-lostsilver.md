@@ -2,7 +2,7 @@
 
 ## Información
 
-**Eevee Lost Silver** es una Skin exclusiva del servidor introducida en la [Temporada Mística (1)](./).
+**Eevee Lost Silver** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
 |                     **Artwork** | ![Artwork de Eevee Lost Silver](../../images/pokemon/temporada-1/eevee-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
