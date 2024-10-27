@@ -19,6 +19,7 @@
 ## FUNCIONES
 
 * [🧬 Híbridos](funciones/hibridos.md)
+* [⭐ Álbum](funciones/Album.md)
 * [👔 Estilos](funciones/estilos.md)
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
