@@ -6,7 +6,7 @@
 
 |                     **Artwork** | ![Artwork de Gengar Oogie Booogie](../../images/pokemon/temporada-1/gengar-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Gengar Oogie Booogie](../../images/pokemon/pixelween/oogieboogie-sprite.png)                                                          |                                                                                                             |
+|                      **Sprite** | ![Sprite de Gengar Oogie Booogie](../../images/pokemon/pixelween/oogieboogie-sprite.png) ![Sprite de Mega Gengar Oogie Booogie](../../images/pokemon/pixelween/oogieboogiemega-sprite.png) ![Sprite de GMax Gengar Oogie Booogie](../../images/pokemon/pixelween/oogieboogiegmax-sprite.png)                                                       |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
