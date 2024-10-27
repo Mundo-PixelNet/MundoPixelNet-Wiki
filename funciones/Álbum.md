@@ -28,5 +28,5 @@ alt="Verificar album">
 
 |Álbum|Icono|
 |:---:|:---:|
-|[Mimikyu](../pokemon/album/mimikyu/album_mimikyu.md)|[Mimikyu Sprite](../imagees/pokemon/album/mimikyu/mimigengar.png)|
+|[Mimikyu](../pokemon/album/mimikyu/album_mimikyu.md)|[Mimikyu Sprite](../imagees/pokemon/album/mimikyu/mimigengar_sp.png)|
 |???|???|
