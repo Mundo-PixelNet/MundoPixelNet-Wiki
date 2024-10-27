@@ -2,7 +2,7 @@
 
 ## Información
 
-**Cacturne Pixelween** es una Skin exclusiva del servidor introducida en la [Temporada Mística (1)](./).
+**Cacturne Pixelween** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
 |                     **Artwork** | ![Artwork de Cacturne Pixelween](../../images/pokemon/temporada-1/cacturne-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
