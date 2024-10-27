@@ -4,7 +4,6 @@
 
 **MR. Mime Pennywise** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de MR. Mime Pennywise](../../images/pokemon/pixelween/pennywise-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de MR. Mime Pennywise](../../images/pokemon/pixelween/pennywise-sprite.png)                                           |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
