@@ -13,7 +13,7 @@
 ### Comentario del desarrollador
 La creación de esta skin hace referencia a la Creepypasta Lost Silver
 
-![Vistazo en el juego a Celebi Lost Silver](../../images/pokemon/pixelween/celebi-preview.png)
+![Vistazo en el juego a Celebi Lost Silver](../../images/pokemon/pixelween/lostsilver-preview.png)
 
 ## Obtención
 
