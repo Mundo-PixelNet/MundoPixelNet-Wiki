@@ -4,7 +4,7 @@
 
 **Pikachu Lost Silver** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Pikachu Lost Silver](../../images/pokemon/temporada-1/pikachu-artwork.png)                                                                                    |
+|||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Pikachu Lost Silver](../../images/pokemon/pixelween/ls1-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
