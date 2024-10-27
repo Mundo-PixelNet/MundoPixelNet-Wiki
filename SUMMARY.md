@@ -48,6 +48,7 @@
   * [🗝️ Magikarp & Gyarados Leviathan](pokemon/temporada-1/gatcha-magikarp-gyarados-leviathan.md)
   * [🗝️ Kingambit Titan](pokemon/temporada-1/gatcha-kingambit-titan.md)
   * [🗝️ Nihilego Luminarie](pokemon/temporada-1/gatcha-nihilego-luminarie.md)
+* [🎃 Pixelween 2024](pokemon/pixelween-2024/README.md) 
  
 ## ÁLBUMES
 *[🎃 Álbum de Mimikyu](funciones/album/album_mimikyu.md)
