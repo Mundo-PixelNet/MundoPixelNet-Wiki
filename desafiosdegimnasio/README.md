@@ -8,8 +8,8 @@ Los Desafíos de gimnasios son como pruebas que los entrenadores deben superar p
 
 | Desafío | Medalla | Tipo Primario | Tipo Secundario |
 |:-------:|:-------:|:-------------:|:---------------:|
-| [Armonía Mística]() | ![Medalla Armonía Mística](../images/gimnasios/gym_1.png) | ![Tipo Hada](../images/pokemon/tipos/tipo_hada.png) | ![Tipo Psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
-| [Corazón de Piedra]() | ![Medalla Corazón de Piedra](../images/gimnasios/gym_2.png) | ![Tipo Roca](../images/pokemon/tipos/tipo_roca.png) | ![Tipo Lucha](../images/pokemon/tipos/tipo_lucha.png) |
+| [Armonía Mística](../desafiosdegimnasio/armoniamistica.md) | ![Medalla Armonía Mística](../images/gimnasios/gym_1.png) | ![Tipo Hada](../images/pokemon/tipos/tipo_hada.png) | ![Tipo Psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
+| [Corazón de Piedra](../desafiosdegimnasio/corazndepiedra.md) | ![Medalla Corazón de Piedra](../images/gimnasios/gym_2.png) | ![Tipo Roca](../images/pokemon/tipos/tipo_roca.png) | ![Tipo Lucha](../images/pokemon/tipos/tipo_lucha.png) |
 | [muy pronto] | **???** | **???** | **???** |
 | [muy pronto] | **???** | **???** | **???** |
 | [muy pronto] | **???** | **???** | **???** |
