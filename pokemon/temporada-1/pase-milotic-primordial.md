@@ -26,7 +26,7 @@ La creación de esta skin se basa en la energía primordial de la creación, hac
 | **96** | Primordial Esmeralda | ![Sprite de Milotic Primordial Esmeralda](../../images/pokemon/temporada-1/Primordial5-sprite.png) |
 | **115** | Primordial Supremo | ![Sprite de Milotic Supremo](../../images/pokemon/temporada-1/supremo1-sprite.png) |
 
-![Formas de Milotic Primordial](../../images/pokemon/temporada-1/Primordial-formasv2.png)
+![Formas de Milotic Primordial](../../images/pokemon/temporada-1/Primordial-formasv3.png)
 
 ## Obtención
 
