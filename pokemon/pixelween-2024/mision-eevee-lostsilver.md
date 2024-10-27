@@ -4,7 +4,7 @@
 
 **Eevee Lost Silver** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Eevee Lost Silver](../../images/pokemon/temporada-1/eevee-artwork.png)                                                                                    |
+|||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Eevee Lost Silver](../../images/pokemon/pixelween/ls2-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
