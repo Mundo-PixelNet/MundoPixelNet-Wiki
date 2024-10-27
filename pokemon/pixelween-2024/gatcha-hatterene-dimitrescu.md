@@ -4,7 +4,7 @@
 
 **Hatterene Dimitrescu** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Hatterene Dimitrescu](../../images/pokemon/temporada-1/dimitrescu-artwork.png)                                                                                    |
+|                     **Artwork** | ![Artwork de Hatterene Dimitrescu](../../images/pokemon/pixelween/dimitrescu-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Hatterene Dimitrescu](../../images/pokemon/pixelween/dimitrescu-sprite.png)                                           |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
