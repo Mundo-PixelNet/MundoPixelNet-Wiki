@@ -13,136 +13,136 @@ El propósito de esta parte  de la wiki  es proporcionar una lista visual organi
 - Defensive roles (muros)
 - Clima (lluvia y sol) y Trick Room
 
-
 La mayoria de los roles estan en inglés para buscarlos de una mejor manera (algunos de estos pokes pueden ser inusables en Pixelmon actualmente hasta que se les agregue ataques y tambien pueden a llegar ser removidos de su tier).
-
 
 # Utility
 
-Entry Hazards
+## Entry Hazards
 
 **- Ceaseless Edge -**
 
-![alt text ](../../images/usuarios/silver988766/2271.gif)
+![Samurott de Hisui ](../../images/usuarios/silver988766/2271.gif)
 
 **- Stealth Rock -**
 
-![PKMN IMAGE](../../images/usuarios/silver988766/36.gif)![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 691](../../images/usuarios/silver988766/691.gif) 
+![Clefable](../../images/usuarios/silver988766/36.gif)![Mega diance](../../images/usuarios/silver988766/100835.gif)![Ferrothorn](../../images/usuarios/silver988766/691.gif)
 
 **- Spikes -**
 
-![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
+![Mega diance](../../images/usuarios/silver988766/100835.gif)![Ferrothorn](../../images/usuarios/silver988766/691.gif)  ![Clodsire](../../images/usuarios/silver988766/2358.gif)
 
 **- Toxic Spikes -**
 
- ![pkmn 932](../../images/usuarios/silver988766/932.gif) 
+ ![Toxapex](../../images/usuarios/silver988766/932.gif)
 
 **- Hazard Setters -**
 
-![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
+![Mega diance](../../images/usuarios/silver988766/100835.gif)![Clodsire](../../images/usuarios/silver988766/2358.gif)
 
 **- Screen Setters -**
  
-![Alt Text](../../images/usuarios/silver988766/2118.gif) 
+![Grimmsnarl](../../images/usuarios/silver988766/2118.gif)
 
 **- Hazard Control -**
 
-![pkmn 2080](../../images/usuarios/silver988766/2080.gif)
+![Corviknight](../../images/usuarios/silver988766/2080.gif)
 
 **- Magic Bounce -**
 
-![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 2115](../../images/usuarios/silver988766/2115.gif)
+![Mega diance](../../images/usuarios/silver988766/100835.gif)![Hatterene](../../images/usuarios/silver988766/2115.gif)
 
 **- Toxic -**
 
-![pkmn 932](../../images/usuarios/silver988766/932.gif) ![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
+![Toxapex](../../images/usuarios/silver988766/932.gif) ![Clodsire](../../images/usuarios/silver988766/2358.gif)
 
 # Offensive Roles
 
-Wallbreakers
+## Wallbreakers
 
-**- Physical -** 
+**- Physical -**
 
-![pkmn 149](../../images/usuarios/silver988766/149.gif)![pkmn 2237](../../images/usuarios/silver988766/2237.gif) 
+![Dragonite](../../images/usuarios/silver988766/149.gif)![Urshifu](../../images/usuarios/silver988766/2237.gif)
 
-**- Special -** 
+**- Special -**
 
-![PKMN Image](../../images/usuarios/silver988766/100835.gif)![pkmn 976](../../images/usuarios/silver988766/976.gif) ![pkmn 885](../../images/usuarios/silver988766/885.gif) ![pkmn 2115](../../images/usuarios/silver988766/2115.gif)
+![Mega diance](../../images/usuarios/silver988766/100835.gif)![Tapu Koko](../../images/usuarios/silver988766/976.gif) ![Rotom-wash](../../images/usuarios/silver988766/885.gif) ![Hatterene](../../images/usuarios/silver988766/2115.gif)
 
-**- Mixed -** 
+**- Mixed -**
 
-![PKMN Image](../../images/usuarios/silver988766/100835.gif)
+![Mega diance](../../images/usuarios/silver988766/100835.gif)
 
-Priority 
+## Priority
 
 **- Aqua Jet -**
 
- ![pkmn 2237](../../images/usuarios/silver988766/2237.gif)
+ ![Urshifu](../../images/usuarios/silver988766/2237.gif)
 
-**- Extreme speed -**
+**-Extreme speed-**
 
-![pkmn 149](../../images/usuarios/silver988766/149.gif)
+![Dragonite](../../images/usuarios/silver988766/149.gif)
 
-Pivoting-
+## Pivoting
 
 **- U-turn -**
 
- ![pkmn 2080](../../images/usuarios/silver988766/2080.gif) ![pkmn 976](../../images/usuarios/silver988766/976.gif) ![pkmn 2237](../../images/usuarios/silver988766/2237.gif)
+ ![Corviknight](../../images/usuarios/silver988766/2080.gif) ![Urshifu](../../images/usuarios/silver988766/2237.gif)
 
 **- Volt Switch -**
 
-![pkmn 885](../../images/usuarios/silver988766/885.gif)![pkmn 976](../../images/usuarios/silver988766/976.gif) ![pkmn 145](../../images/usuarios/silver988766/145.gif)
+![Rotom-wash](../../images/usuarios/silver988766/885.gif)![Tapu koko](../../images/usuarios/silver988766/976.gif) ![Zapdos](../../images/usuarios/silver988766/145.gif)
 
 # Defensive Roles
 
-Walls
+## Walls
 
 **- Physically Defensive -**
 
- ![pkmn 2080](../../images/usuarios/silver988766/2080.gif) ![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 932](../../images/usuarios/silver988766/932.gif) 
+ ![Corviknight](../../images/usuarios/silver988766/2080.gif) ![Ferrothorn](../../images/usuarios/silver988766/691.gif)  ![Toxapex](../../images/usuarios/silver988766/932.gif) 
 
 **- Specially Defensive -**
 
- ![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 932](../../images/usuarios/silver988766/932.gif) ![pkmn 2358](../../images/usuarios/silver988766/2358.gif)
+ ![Ferrothorn](../../images/usuarios/silver988766/691.gif)  ![Toxapex](../../images/usuarios/silver988766/932.gif) ![Clodsire](../../images/usuarios/silver988766/2358.gif)
 
 **- Mixed -**
-![pkmn 2080](../../images/usuarios/silver988766/2080.gif)![pkmn 691](../../images/usuarios/silver988766/691.gif)  ![pkmn 932](../../images/usuarios/silver988766/932.gif)  ![pkmn 885](../../images/usuarios/silver988766/885.gif)
+![Corviknight](../../images/usuarios/silver988766/2080.gif)![Ferrothorn](../../images/usuarios/silver988766/691.gif)  ![Toxapex](../../images/usuarios/silver988766/932.gif)  ![pkmn 885](../../images/usuarios/silver988766/885.gif)
+
 
 
 
 # Weather and Trick Room
 
-**- Drizzle -** 
+## Weather
 
-![Image of Pokémon #279](../../images/usuarios/silver988766/279.gif)
+**- Drizzle -**
+
+![Pelipper](../../images/usuarios/silver988766/279.gif)
 
 **- Swift Swim -**
 
- ![Alt Text](../../images/usuarios/silver988766/100260.gif) 
+ ![Mega Swammpert](../../images/usuarios/silver988766/100260.gif) 
 
 **- Abusers -**
 
-![pkmn 145](../../images/usuarios/silver988766/145.gif)
+![Zapdos](../../images/usuarios/silver988766/145.gif)
 
-Trick Room
+## Trick Room
 
 **- Setters -**
 
-![pkmn 2115](../../images/usuarios/silver988766/2115.gif)  
+![Hatterene](../../images/usuarios/silver988766/2115.gif)  
 
 **- Abusers -**
 
-![Alt Text](../../images/usuarios/silver988766/2262.gif)
-
+![Ursaluna](../../images/usuarios/silver988766/2262.gif)
 
 Esto es una pequeña lista de los roles que hay en pokemon hay  muchos mas y con muchas mas diferentes estrategias si no esta aqui no es que el pokemon sea malo.
 
 En esta playlist pueden ver otro monton de cosas mucho mas detallado (es bastante vieja)
 
-{% embed url="https://youtube.com/playlist?list=PLSyJtwV1139XKFsg4BsSxNc-_7vPqOBfo " %}
+{% embed url="https://youtube.com/playlist?list=PLSyJtwV1139XKFsg4BsSxNc-_7vPqOBfo" %}
 
-### TEAM BUILDING
- 
+# TEAM BUILDING
+
 Ahora que ya entendemos los roles de cada Pokémon, podemos usarlos para formar un equipo. En el siguiente enlace, puedes ver un equipo básico que hemos diseñado:
 
 Equipo Básico: [https://pokepast.es/9da62adc2f9bcda5](https://pokepast.es/9da62adc2f9bcda5)
@@ -153,7 +153,7 @@ Clodsire: Actúa como Hazard Setter (colocador de trampas) y como muro especial.
 
 Tapu Koko: Funciona como Special Sweeper (barredor especial).
 
-Corviknight: Sirve como otro muro defensivo y se encarga de eliminar las trampas 
+Corviknight: Sirve como otro muro defensivo y se encarga de eliminar las trampas.
 
 Rotom: Desempeña el rol de Bulky Pivot (pivote resistente).
 
