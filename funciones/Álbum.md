@@ -11,7 +11,7 @@ Para capturar un Pokémon para el álbum, primero debes encontrarlo y capturarlo
 Para verificar tu progreso en los álbumes activos, usa el comando /album y luego haz clic en el álbum que deseas verificar.
 
 <div style="text-align: center">
-<img src="../images/funciones/album/album1.png"
+<img src="../images/funciones/album/tutorial/album1.png"
 alt="Verificar album">
 </div>
 
@@ -20,7 +20,7 @@ alt="Verificar album">
 Para reclamar una recompensa, debes ir a la página del álbum correspondiente y hacer clic en la skin que capturaste. Para la recompensa final, debes hacer clic en el ícono del cofre.
 
 <div style="text-align: center">
-<img src="../images/funciones/album/album1.png"
+<img src="../images/funciones/album/tutorial/album1.png"
 alt="Verificar album">
 </div>
 
