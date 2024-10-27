@@ -26,7 +26,7 @@
 
 ## Desafíos de Gimnasio
 * [🏵️ Gimnasios](desafiosdegimnasio/README.md)
-  *test
+  *[test]()
 
 ## GUÍAS
 
