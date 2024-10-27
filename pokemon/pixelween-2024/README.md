@@ -6,7 +6,7 @@ El Evento Pixelween _(2024)_ de Mundo PixelNet trae el verdadero clima de terror
 
 {% embed url="[https://youtu.be/yCJR9pt7QKY?si=3gwyDbOSb7cBmYZX](https://www.youtube.com/watch?v=KWm3f_-tlD4)" %}
 
-Este Evento introduce los [**Álbumes **](../../funciones/Album.md). Al igual que varios Pokémon nuevos, un nuevo Gatchas, Mision y más.
+Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que varios Pokémon nuevos, un nuevo Gatchas, Mision y más.
 
 ### 🎃 Skins
 
