@@ -24,7 +24,7 @@ La creación de esta skin se basa en hadas estacionales, haciendo referencia tan
 | **49** | Estacional Verano | ![Sprite de Tsareena Estacional Verano](../../images/pokemon/temporada-1/Estacional3-sprite.png) |
 | **75** | Estacional Invierno | ![Sprite de Tsareena Estacional Invierno](../../images/pokemon/temporada-1/Estacional4-sprite.png) |
 | **99** | Estacional Blossom | ![Sprite de Tsareena Estacional Blossom](../../images/pokemon/temporada-1/Estacional5-sprite.png) |
-| **110** | Estacional Supremo | ![Sprite de Tsareena Estacional Blossom](../../images/pokemon/temporada-1/Estacional5-sprite.png) |
+| **110** | Estacional Supremo | ![Sprite de Tsareena Estacional Supremo](../../images/pokemon/temporada-1/supremo2-sprite.png) |
 
 ![Formas de Tsareena Estacional](../../images/pokemon/temporada-1/Estacional-formas.png)
 
