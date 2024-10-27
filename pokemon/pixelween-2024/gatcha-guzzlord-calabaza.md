@@ -4,7 +4,7 @@
 
 **Guzzlord Calabaza** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Guzzlord Calabaza](../../images/pokemon/temporada-1/calabaza-artwork.png)                                                                                    |
+|                     **Artwork** | ![Artwork de Guzzlord Calabaza](../../images/pokemon/pixelween/calabaza-artwork.png)                                                                                    |
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Guzzlord Calabaza](../../images/pokemon/pixelween/calabaza-sprite.png)                                           |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
