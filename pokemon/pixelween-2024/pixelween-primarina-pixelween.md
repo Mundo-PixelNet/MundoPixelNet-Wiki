@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia a Sally de la pelicula "the nightmare before christmas"
+La creación de esta skin hace referencia a Sally de la pelicula "the nightmare before christmas (1993)"
 
 ![Vistazo en el juego a Primarina Pixelween](../../images/pokemon/pixelween/primarina-preview.png)
 
