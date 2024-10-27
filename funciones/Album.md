@@ -1,4 +1,4 @@
-# ⭐ Album
+# ⭐ Álbum
 
 Álbumes de Pokémon son una lista de coleccionista donde el entrenador debe capturar cierto tipo de Pokémon para ganar recompensas. Cada parte del álbum completada otorga una recompensa, y al completar el 100% de este álbum se desbloquea una recompensa aún mayor.
 
