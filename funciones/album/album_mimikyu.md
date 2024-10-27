@@ -5,6 +5,7 @@ El álbum de Mimikyu llegó en la actualización de Pixelween 2024 y se basa en 
 ## 👻 Formas
 
 |Pokemon|Sprite|
+|:-----:|:----:|
 | Gengar |../../images/funciones/album/mimikyu/mimigengar_sp.png|
 | Umbreon |../../images/funciones/album/mimikyu/mimiumbreon_sp.png|
 | Sneasel |../../images/funciones/album/mimikyu/mimisneasel_sp.png|
