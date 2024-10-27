@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia a Jack Skellington de la pelicula "the nightmare before christmas"
+La creación de esta skin hace referencia a Jack Skellington de la pelicula "the nightmare before christmas (1993)"
 
 ![Vistazo en el juego a Cacturne Pixelween](../../images/pokemon/pixelween/cacturne-preview.png)
 
