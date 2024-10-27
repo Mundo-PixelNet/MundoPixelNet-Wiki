@@ -24,6 +24,11 @@
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
 
+## Desafíos de Gimnasio
+* [🏵️ Gimnasios](desafiosdegimnasio/README.md)
+  *[![armoniamisticaicon](images/gimnasios/gym_1.png)Armonía Mística](desafiosdegimnasio/armoniamistica.md)
+  *[![corazondepiedraicon](images/gimnasios/gym_2.png)Corazón de Piedra](desafiodegimnasio/corazondepiedra.md)
+
 ## GUÍAS
 
 * [💘 Crianza](usuarios/Juniorcx/crianza.md)
@@ -48,8 +53,19 @@
   * [🗝️ Magikarp & Gyarados Leviathan](pokemon/temporada-1/gatcha-magikarp-gyarados-leviathan.md)
   * [🗝️ Kingambit Titan](pokemon/temporada-1/gatcha-kingambit-titan.md)
   * [🗝️ Nihilego Luminarie](pokemon/temporada-1/gatcha-nihilego-luminarie.md)
-* [🎃 Pixelween 2024](pokemon/pixelween-2024/README.md) 
- 
+* [🎃 Pixelween 2024](pokemon/pixelween-2024/README.md)
+  * [🥇 Cacturne Pixelween](pokemon/pixelween-2024/gatcha-cacturne-pixelween.md)
+  * [🥇 Primarina Pixelween](pokemon/pixelween-2024/gatcha-primarina-pixelween.md)
+  * [🥇 Gardevoir Pixelween](pokemon/pixelween-2024/gatcha-gardevoir-pixelween.md)
+  * [📕 Pikachu Lost Silver](pokemon/pixelween-2024/gatcha-pikachu-lostsilver.md)
+  * [📕 Eevee Lost Silver](pokemon/pixelween-2024/gatcha-eevee-lostsilver.md)
+  * [📕 Typhlosion Lost Silver](pokemon/pixelween-2024/gatcha-typhlosion-lostsilver.md)
+  * [📕 Unown Lost Silver](pokemon/pixelween-2024/gatcha-unown-lostsilver.md)
+  * [🗝️ Mr. Mime Pennywise](pokemon/pixelween-2024/gatcha-mrmime-pennywise.md) 
+  * [🗝️ Hatterene Dimitrescu](pokemon/pixelween-2024/gatcha-hatterene-dimitrescu.md) 
+  * [🗝️ Guzzlord Calabaza](pokemon/pixelween-2024/gatcha-guzzlord-calabaza.md)
+  * [💰 Celebi Lost Silver](pokemon/pixelween-2024/paga-celebi-lostsilver.md)
+  * [💰 Gengar Oogie Boogie](pokemon/pixelween-2024/paga-gengar-oogieboogie.md) 
 ## ÁLBUMES
 *[🎃 Álbum de Mimikyu](funciones/album/album_mimikyu.md)
 
