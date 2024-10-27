@@ -4,7 +4,7 @@
 
 **Unown Lost Silver** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|                     **Artwork** | ![Artwork de Unown Lost Silver](../../images/pokemon/temporada-1/unown-artwork.png)                                                                                    |
+|||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Unown S Lost Silver](../../images/pokemon/pixelween/ls-s-sprite.png) ![Sprite de Unown I Lost Silver](../../images/pokemon/pixelween/ls-i-sprite.png) ![Sprite de Unown L Lost Silver](../../images/pokemon/pixelween/ls-l-sprite.png) ![Sprite de Unown V Lost Silver](../../images/pokemon/pixelween/ls-v-sprite.png) ![Sprite de Unown E Lost Silver](../../images/pokemon/pixelween/ls-e-sprite.png) ![Sprite de Unown R Lost Silver](../../images/pokemon/pixelween/ls-r-sprite.png)                                                     |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
