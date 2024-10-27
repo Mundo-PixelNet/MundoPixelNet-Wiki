@@ -13,7 +13,7 @@
 ### Comentario del desarrollador
 La creación de esta skin hace referencia a Alcina Dimitrescu del juego "Resident Evil Village (2021)"
 
-![Vistazo en el juego a Hatterene Dimitrescu](../../images/pokemon/pixelween/dimitrescu-preview.png)
+![Vistazo en el juego a Hatterene Dimitrescu](../../images/pokemon/pixelween/hatterene-preview.png)
 
 ## Obtención
 
