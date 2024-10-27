@@ -17,4 +17,4 @@ La creación de esta skin hace referencia a la Creepypasta Lost Silver
 
 ## Obtención
 
-???
+Esta skin suele aparecer en el mapa y es la clave para iniciar la misión Lost Silver.
