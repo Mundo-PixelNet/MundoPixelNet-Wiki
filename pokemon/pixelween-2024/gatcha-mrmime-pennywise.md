@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia a Alcina Dimitrescu del juego "Resident Evil Village (2021)"
+La creación de esta skin hace referencia a Pennywise de la pelicula "IT (2017)"
 
 ![Vistazo en el juego a MR. Mime Pennywise](../../images/pokemon/pixelween/pennywise-preview.png)
 
