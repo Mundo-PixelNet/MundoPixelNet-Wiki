@@ -28,5 +28,5 @@ alt="Verificar album">
 
 |Álbum|Icono|
 |:---:|:---:|
-|[Mimikyu](../funciones/album/mimikyu/album_mimikyu.md)|![Mimikyu Sprite](../images/funciones/album/mimikyu/mimigengar_sp.png)|
+|[Mimikyu](../funciones/album/album_mimikyu.md)|![Mimikyu Sprite](../images/funciones/album/mimikyu/mimigengar_sp.png)|
 |???|???|
