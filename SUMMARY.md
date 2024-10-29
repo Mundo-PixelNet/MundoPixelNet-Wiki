@@ -20,6 +20,7 @@
 
 * [🧬 Híbridos](funciones/hibridos.md)
 * [⭐ Álbum](funciones/Album.md)
+  * [🎃 Álbum de Mimikyu](funciones/album/album_mimikyu.md)
 * [👔 Estilos](funciones/estilos.md)
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
@@ -66,8 +67,6 @@
   * [🗝️ Guzzlord Calabaza](pokemon/pixelween-2024/gatcha-guzzlord-calabaza.md)
   * [💰 Celebi Lost Silver](pokemon/pixelween-2024/paga-celebi-lostsilver.md)
   * [💰 Gengar Oogie Boogie](pokemon/pixelween-2024/paga-gengar-oogieboogie.md) 
-## ÁLBUMES
-*[🎃 Álbum de Mimikyu](funciones/album/album_mimikyu.md)
 
 ## POR USUARIOS
 
