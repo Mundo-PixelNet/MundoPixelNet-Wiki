@@ -71,4 +71,5 @@
 ## POR USUARIOS
 
 * **silver988766**:
-  * [💥 Guía Competitiva de Pokémon](usuarios/silver988766/competitivo.md)
+  * [💥 Guía Competitiva de Pokémon - P1](usuarios/silver988766/competitivo.md)
+  * [💥 Guía Competitiva de Pokémon - P2](usuarios/silver988766/VGC%20REG%20H.md)

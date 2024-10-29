@@ -20,7 +20,7 @@ alt="Verificar album">
 Para reclamar una recompensa, debes ir a la página del álbum correspondiente y hacer clic en la skin que capturaste. Para la recompensa final, debes hacer clic en el ícono del cofre.
 
 <div style="text-align: center">
-<img src="../images/funciones/album/tutorial/album1.png"
+<img src="../images/funciones/album/tutorial/album2.png"
 alt="Reclamar album">
 </div>
 
@@ -28,5 +28,5 @@ alt="Reclamar album">
 
 |Álbum|Icono|
 |:---:|:---:|
-|[Mimikyu](../funciones/album/album_mimikyu.md)|![Mimikyu Sprite](../images/funciones/album/mimikyu/mimigengar_sp.png)|
+|[Mimikyu](album/album_mimikyu.md)|![Mimikyu Sprite](../images/funciones/album/mimikyu/mimigengar_sp.png)|
 |???|???|
