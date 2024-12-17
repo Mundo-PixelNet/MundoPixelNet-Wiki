@@ -1,18 +1,11 @@
 ---
-- - -
 
 description: >-
 
-  Creado por: Juniorcx
-  
+  Creado por: Juniorcx 
   Descripción: Guía, consejos y recopilación sobre la crianza dentro de Mundo Pixelnet.
   
 ---
-Creado por: Juniorcx
-
-Descripción: Guía, consejos y recopilación sobre la crianza dentro de Mundo Pixelnet.
-
-- - -
 
 # 💘 Guía de Crianza
 
@@ -120,27 +113,27 @@ En Mundo Pixelnet los requisitos fueron alterados del original aca se deja una t
 | ------ | ---- | ----- |
 | ![Normal](../../images/pokemon/tipos/tipo_normal.png) | ![Hada](../../images/pokemon/tipos/tipo_hada.png) | ![Bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | 10x Leather/Cuero ![](../../images/usuarios/Juniorcx/Leather.webp)<br>3x Hay Bale/Heno ![](../../images/usuarios/Juniorcx/Hay_Bale.webp)<br>3x White Wool/Lana Blanca ![](../../images/usuarios/Juniorcx/White_Wool.webp) | 1x Cake/Pasteñ ![](../../images/usuarios/Juniorcx/Cake.webp)<br>3x Lily of the Valley/Lirio del Valle ![](../../images/usuarios/Juniorcx/Lily_of_the_Valley.webp)<br>3x Chorus Fruit/Fruta Chorus ![](../../images/usuarios/Juniorcx/Chorus_Fruit.webp) | 2x Dandelion/Diente de Leon ![](../../images/usuarios/Juniorcx/Dandelion.webp)<br>3x Cobweb/Telaraña ![](../../images/usuarios/Juniorcx/Cobweb.webp)<br>3x Spider Eye/Ojo de Araña ![](../../images/usuarios/Juniorcx/Spider_Eye.webp) |
-<br>
+
 | Acero | Planta | Fantasma |
 | ----- | ------ | -------- |
 | ![Acero](../../images/pokemon/tipos/tipo_acero.png) | ![Planta](../../images/pokemon/tipos/tipo_planta.png) | ![Fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
 | 3x Block of Iron/Bloque de Hiero ![](../../images/usuarios/Juniorcx/Iron_Block.webp)<br>3x Iron Bars/Barras de Hierro ![](../../images/usuarios/Juniorcx/Iron_Bars_New.webp)<br>2x Silver Block/Bloque de Plata ![](../../images/usuarios/Juniorcx/Silver_Block.webp) | 5x Grass/Hierba ![](../../images/usuarios/Juniorcx/Grass.webp)<br>3x Oak Leaves/Hojas de Roble ![](../../images/usuarios/Juniorcx/Oak_Leaves.webp)<br>3x Grass Block/Cespe ![](../../images/usuarios/Juniorcx/Grass_Block.webp) | 10x Ghast Tear/Lagrima de Ghast ![](../../images/usuarios/Juniorcx/Ghast_Tear.webp)<br>3x Soul Torch/Antorcha de Almas ![](../../images/usuarios/Juniorcx/Soul_Torch.webp)<br>3x Soul Sand/Arena de almas ![](../../images/usuarios/Juniorcx/Soul_Sand.webp) |
-<br>
+
 | Tierra | Roca | Veneno |
 | ------ | ---- | ------ |
 | ![Tierra](../../images/pokemon/tipos/tipo_tierra.png) | ![Roca](../../images/pokemon/tipos/tipo_roca.png) | ![Veneno](../../images/pokemon/tipos/tipo_veneno.png) |
 | 3x Clay/Arcilla ![](../../images/usuarios/Juniorcx/Clay.webp)<br>3x Brown Terracotta/Terracota Marron ![](../../images/usuarios/Juniorcx/Brown_Hardened_Clay.webp)<br>3x Soul Soil/Tierra de almas ![](../../images/usuarios/Juniorcx/Soul_Soil.webp) | 15x Blackstone/Piedranegra ![](../../images/usuarios/Juniorcx/Blackstone.webp)<br>5x Granite/Granito ![](../../images/usuarios/Juniorcx/Granite.webp)<br>10x Stone/Piedra ![](../../images/usuarios/Juniorcx/Stone.webp) | 1x Brewing Stand/Soporte de pociones ![](../../images/usuarios/Juniorcx/Brewing_Stand.webp)<br>3x Mycelium/Micelio ![](../../images/usuarios/Juniorcx/Mycelium.webp)<br>3x Slime Block/Bloque de Slime ![](../../images/usuarios/Juniorcx/Slime_Block.webp) |
-<br>
+
 | Volador | Siniestro | Agua |
 | ------- | --------- | ---- |
 | ![Volador](../../images/pokemon/tipos/tipo_volador.png) | ![Siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | ![Agua](../../images/pokemon/tipos/tipo_agua.png) |
 | 10x Feather/Pluma ![](../../images/usuarios/Juniorcx/Feather.webp)<br>3x Glass/Cristal ![](../../images/usuarios/Juniorcx/Glass.webp)<br>3x Target/Diana ![](../../images/usuarios/Juniorcx/Target.webp) | 2x Block of Coal/Bloque de Carbon ![](../../images/usuarios/Juniorcx/Block_of_Coal.webp)<br>5x Blackstone/Piedranegra ![](../../images/usuarios/Juniorcx/Blackstone.webp)<br>1x Obsidian/Obsidiana ![](../../images/usuarios/Juniorcx/Obsidian.webp) | 3x Scute/Escama de Tortuga ![](../../images/usuarios/Juniorcx/Scute.webp)<br>2x Water Bucket/Cubo de Agua ![](../../images/usuarios/Juniorcx/Water_Bucket.webp)<br>5x Fresh Water/ Agua Fresca ![](../../images/usuarios/Juniorcx/Fresh_Water.webp) |
-<br>
+
 | Fuego | Dagon | Electrico |
 | ----- | ----- | --------- |
 | ![Fuego](../../images/pokemon/tipos/tipo_fuego.png) | ![Dagon](../../images/pokemon/tipos/tipo_dragon.png) | ![Electrico](../../images/pokemon/tipos/tipo_electrico.png) |
 | 5x Flint and Steel/Mechero ![](../../images/usuarios/Juniorcx/Fint_and_Steel.webp)<br>2x Lava Bucket/Cubo de Lava ![](../../images/usuarios/Juniorcx/Lava_Bucket.webp)<br>2x Blaze Rod/Bara de Blaze ![](../../images/usuarios/Juniorcx/Blaze_Rod.webp) | 3x Diamond/Diamente ![](../../images/usuarios/Juniorcx/diamond.webp)<br>1x Block of Gold/Bloque de Oro ![](../../images/usuarios/Juniorcx/Gold_Block.webp)<br>10x Nether Wart Block/Bloque de Berrugas del Nether ![](../../images/usuarios/Juniorcx/Nether_Wart_Block.webp) | 2x Block of Redstone/Bloque de Redstone ![](../../images/usuarios/Juniorcx/Block_of_Redstone.webp)<br>3x Glowstone&Piedra Luminosa ![](../../images/usuarios/Juniorcx/Glowstone.webp)<br>2x Redstone Lamp/Lampara de Redstone ![](../../images/usuarios/Juniorcx/Redstone_Lamp.webp) |
-<br>
+
 | Hielo | Psiquico | Lucha |
 | ----- | -------- | ----- |
 | ![Hielo](../../images/pokemon/tipos/tipo_hielo.png) | ![Psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | ![Lucha](../../images/pokemon/tipos/tipo_lucha.png) |
@@ -168,9 +161,9 @@ Después de reclamar un Huevo ![huevo](../../images/usuarios/Juniorcx/egg1.png),
 
 Después de una cantidad suficiente de pasos, el Huevo eclosionará. Un "paso" en lo que respecta a la eclosión de un Huevo equivale al tiempo que se tarda en recorrer la longitud total de dos bloques a velocidad normal. Los métodos para aumentar la velocidad de desplazamiento, como montar un Pokémon, aumentarán la velocidad a la que se deducen los pasos del Huevo. La cantidad de pasos necesarios para que un Huevo eclosione depende de la especie de Pokémon que se encuentre dentro del Huevo.
 
-Con el comando `/eggstep usuari (slot)` puedes ver los pasos que faltan para la eclosión.
+Con el comando `/eggstep usuario (slot)` puedes ver los pasos que faltan para la eclosión.
 
-> *Si en el Equipo del jugador hay un Pokémon con Flame Body/Cuerpo Llama o Magma Armor/Escudo Magma o Steam Engine/Combustible , los Huevos del grupo del jugador eclosionarán el doble de rápido. Este efecto no se acumula si varios Pokémon del equipo tienen Flame Body o Magma Armor.*
+> *__Si en el Equipo del jugador hay un Pokémon con Flame Body/Cuerpo Llama o Magma Armor/Escudo Magma o Steam Engine/Combustible , los Huevos del grupo del jugador eclosionarán el doble de rápido. Este efecto no se acumula si varios Pokémon del equipo tienen Flame Body o Magma Armor.__*
 
 # 💚 Criar desde 0
 
@@ -269,14 +262,13 @@ Continuando con el ejemplo de Bidoof, criaremos un Eevee ya que ambos comparten 
 
 * **Con un pokemon 6x31 y un 5x31.**
 El Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) va en el pokemon 5x31 y el pokemon 6x31 debe llevar el Recio del IV que falla el 5x31.
-<img src="../../images/usuarios/Juniorcx/140.png">
-
 <p align="center">
+<img src="../../images/usuarios/Juniorcx/140.png">
+  
 * **Con 2 pokemones 6x31.**
 El Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) va en un pokemon y el otro pokemon debe llevar un Recio del IV que quieras heredar o una Piedra Eterna ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png) para pasar naturaleza y/o forma regional.
-<img src="../../images/usuarios/Juniorcx/141.png">
 <p align="center">
-
+<img src="../../images/usuarios/Juniorcx/141.png">
 
 # 💜 Crianza con Ditto ![Ditto](../../images/usuarios/Juniorcx/ditto.png)
 
@@ -308,7 +300,7 @@ Para criar con este método, suponiendo que son 6 Dittos 1x31 y uno de cada IVs:
 Este es por mucho el método más eficaz para criar pokemones.
 Para conseguir un Ditto 6x31 hay dos maneras, ya sea capturándolo salvaje (con mucha suerte) o comprándolo junto con el paquete de crianza de la tienda de [Mundo Pixelnet](../README.md) en [Tienda MundoPixelnet](https://tienda.mundopixelnet.com/).
 Para criar con este método basta con cruzar el Ditto 6x31 con otro pokemon y después cruzarle con esa cría, teniendo en cuenta las consideraciones expuestas en el apartado anterior.
-
+<p align="center">
 <img src="../../images/usuarios/Juniorcx/130.png">
 
 1. Si solo quieres subir IVs es recomendable que el Ditto tenga equipado el Recio del IV que quieras heredar. Si no es así, equipar la Piedra Eterna ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png) si quieres pasar la Naturaleza del Ditto o el Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) si quieres pasar la Naturaleza del otro pokemon con una Piedra Eterna equipada.
