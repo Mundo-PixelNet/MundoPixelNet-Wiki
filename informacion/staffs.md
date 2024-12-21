@@ -25,8 +25,6 @@ El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para ma
 El rango Helper tiene la función de ayudar con dudas y responder preguntas para mantener la mejor jugabilidad del usuario.
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de Anne](../images/Rangos/Helper/Anne.png)|**Anne**|
-| ![Skin de Valtolomeo](../images/Rangos/Helper/Valtolomeo.png)|**Valtolomeo**|
 | ![Skin de Juank_16](../images/Rangos/Helper/Juank_16.png)|**Juank_16**|
 
 # ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
