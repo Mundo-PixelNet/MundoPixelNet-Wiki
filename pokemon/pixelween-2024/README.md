@@ -39,4 +39,4 @@ Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que
 | :---: |
 | [💰 Celebi Lost Silver](paga-celebi-lostsilver.md) ![Sprite de Celebi Lost Silver](../../images/pokemon/pixelween/ls4-sprite.png)|
 | [💰 Gengar Oogie Boogie](paga-gengar-oogieboogie.md) ![Sprite de Gengar Oogie Boogie](../../images/pokemon/pixelween/oogieboogie-sprite.png)|
-| [💰 Primarina Pixelween](pixelween-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
+| [💰 Primarina Pixelween](paga-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
