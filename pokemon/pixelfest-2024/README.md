@@ -4,7 +4,7 @@ El Evento Pixelfest _(2024)_ de Mundo PixelNet trae el ambiente festivo de fin d
 
 Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que varios Pokémon nuevos, un nuevo Gatchas, y más.
 
-### [🔖 Adviento](../../funciones/album/adviento.md)
+### 🔖 Adviento
 
 | 🔖 Adviento |
 | :---: |
