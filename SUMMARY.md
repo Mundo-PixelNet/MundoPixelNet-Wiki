@@ -75,9 +75,9 @@
   * [🗝️ Stantler Rodolfo](pokemon/pixelfest-2024/gatcha-stantler-rodolfo.md)
   * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-2024/gatcha-sudowoodo-navideño.md)
   * [🔖 Pikachu Navideño](pokemon/pixelfest-2024/album-pikachu-navideño.md)
-  * [🔖 Eevee Reno](pokemon/pixelfest-2024/gatcha-eevee-reno.md)
-  * [🔖 Sylveon Navideño](pokemon/pixelfest-2024/gatcha-sylveon-navideño.md)
-  * [💰 Umbreon Año Nuevo](pokemon/pixelfest-2024/gatcha-umbreon-añonuevo.md)
+  * [🔖 Eevee Reno](pokemon/pixelfest-2024/album-eevee-reno.md)
+  * [🔖 Sylveon Navideño](pokemon/pixelfest-2024/album-sylveon-navideño.md)
+  * [💰 Umbreon Año Nuevo](pokemon/pixelfest-2024/paga-umbreon-añonuevo.md)
 
 ## POR USUARIOS
 
