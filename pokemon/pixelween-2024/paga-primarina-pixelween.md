@@ -1,4 +1,4 @@
-# 👻 Primarina Pixelween
+# 💰 Primarina Pixelween
 
 ## Información
 
