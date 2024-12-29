@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Meloetta Creación](../../images/pokemon/pixelween/dimitrescu-sprite.png)                                           |
+|                      **Sprite** | ![Sprite de Meloetta Creación](../../images/pokemon/pixelfest/meloetta_planta_sprite.png)                                           |
 |                           Tipos | ![Tipo planta](../../images/pokemon/tipos/tipo_planta.png) ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png)        |
 |                      Creado por | FuriadaNoite                                                                                                          |
 
