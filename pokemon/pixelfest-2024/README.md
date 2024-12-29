@@ -24,8 +24,6 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 
 | 🔖 Album |
 | :---: |
-| [🔖 Pikachu Navideño](album-pikachu-navideño.md) ![Sprite de Pikachu Navideño](../../images/pokemon/pixelween/pikachu_santa.png)|
-| [🔖 Eevee Reno](album-eevee-reno.md) ![Sprite de Eevee Reno](../../images/pokemon/pixelween/eevee_rodolfo.png)|
 | [🔖 Sylveon Navideño](album-sylveon-navideño.md) ![Sprite de Sylveon Navideño](../../images/pokemon/pixelween/sylveon_pixelfest_sprite.png)|
 
 ### 💰 Skins de paga
