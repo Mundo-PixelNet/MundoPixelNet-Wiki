@@ -2,7 +2,7 @@
 
 ## Información
 
-**Mimikyu Unveilia** es una Skin exclusiva del servidor introducida en [Pixelfest](./).
+**Mimikyu Unveilia** es una Skin exclusiva del servidor introducida en [Pixelween](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
