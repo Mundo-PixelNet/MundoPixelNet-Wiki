@@ -27,4 +27,4 @@ alt="Verificar album">
 
 "Como recompensa, cada Mimikyu otorgará **1000 XP del pase, 6000 Pokédólares y 1 llave del [gacha de Pixelween](../../pokemon/pixelween-2024/README.md)**.
 
-Y como recompensa final, se otorgarán **2 niveles del pase actual, 20,000 Pokédólares, la Etiqueta "Corazón Unveilia" ![Corazón Unveilia](../../images/tags/corazonunveilia.png), 2 kits de modificadores, 40 fragmentos de skin, 1 llave celestial y el derecho a realizar la misión "Visita a la Isla Misteriosa"**.
+Y como recompensa final, se otorgarán **2 niveles del pase actual, 20,000 Pokédólares, la Etiqueta "Corazón Unveilia" ![Corazón Unveilia](../../images/tags/corazonunveilia.png), 2 kits de modificadores, 40 fragmentos de skin, 1 llave celestial y el derecho a realizar la misión "Visita a la Isla Misteriosa", donde se puede conseguir [Mimikyu Unveilia](../../pokemon/pixelween/pixelween-2024/album-mimikyu-unveilia.md)**.
