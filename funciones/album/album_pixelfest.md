@@ -25,4 +25,4 @@ alt="Compañeros Navideños">
 
 "Como recompensa, cada Compañero otorgará **1500 XP del pase y 6000 Pokédólares**.
 
-Y como recompensa final, se otorgarán **2 niveles del pase actual, 20,000 Pokédólares, la Etiqueta "Copo de Nieve" ![Copo de Nieve](../../images/tags/copodenieve.png), 2 kits de modificadores, 40 fragmentos de skin, 1 llave celestial y el derecho a realizar la misión "El Regalo debajo del Árbol", donde se puede conseguir [Sylveon Navideño](../../pokemon/pixelween/pixelfest-2024/album-sylveon-navideño.md)**.
+Y como recompensa final, se otorgarán **2 niveles del pase actual, 20,000 Pokédólares, la Etiqueta "Copo de Nieve" ![Copo de Nieve](../../images/tags/copodenieve.png), 2 kits de modificadores, 40 fragmentos de skin, 1 llave celestial y el derecho a realizar la misión "El Regalo debajo del Árbol", donde se puede conseguir [Sylveon Navideño](../../pokemon/pixelfest-2024/album-sylveon-navideño.md)**.
