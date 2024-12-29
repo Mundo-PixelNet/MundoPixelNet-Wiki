@@ -13,7 +13,7 @@
 | Eevee Juguetón|![Eevee Juguetón](../../images/pokemon/pixelfest/eevee_danzarin_sprite.png)| Suele aparecer en [Tundras](https://pixelmonmod.com/wiki/Tundra). |
 | Eevee Traviesa|![Eevee Traviesa](../../images/pokemon/pixelfest/eevee_jugueton_sprite.png)| Suele aparecer en [Taigas](https://pixelmonmod.com/wiki/Taiga) durante el amanecer. |
 | Eevee Trueno|![Eevee Trueno](../../images/pokemon/pixelfest/eevee_traviesa_sprite.png)| Suele aparecer en el [pantano](https://pixelmonmod.com/wiki/Swampland) durante el Día. |
-| Eevee Danzarín |![Eevee Danzarín](../../images/pokemon/pixelfest/eevee_trueno_sprite.png| Suele aparecer usando [Dulce Aroma](https://www.wikidex.net/wiki/Dulce_aroma) en [Biomas florales](https://pixelmonmod.com/wiki/Flower_Forest) durante el Día. |
+| Eevee Danzarín |![Eevee Danzarín](../../images/pokemon/pixelfest/eevee_trueno_sprite.png)| Suele aparecer usando [Dulce Aroma](https://www.wikidex.net/wiki/Dulce_aroma) en [Biomas florales](https://pixelmonmod.com/wiki/Flower_Forest) durante el Día. |
 | Sylveon Navideño |![Sylveon Navideño](../../images/pokemon/pixelfest/sylveon_pixelfest_sprite.png)| Se obtiene en la misión "El Regalo debajo del Árbol". |
 
 <div style="text-align: center">
