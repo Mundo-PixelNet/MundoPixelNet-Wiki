@@ -70,14 +70,14 @@
   * [💰 Gengar Oogie Boogie](pokemon/pixelween-2024/paga-gengar-oogieboogie.md)
   * [💰 Primarina Pixelween](pokemon/pixelween-2024/paga-primarina-pixelween.md)
 * [🎄 Pixelfest 2024](pokemon/pixelfest-2024/README.md)
-  * [🔖 Meloetta Creación](pokemon/pixelfest-202/adviento-meloetta-creacion.md)
-  * [🗝️ Seviper Año Nuevo](pokemon/pixelfest-202/gatcha-seviper-añonuevo.md)
-  * [🗝️ Stantler Rodolfo](pokemon/pixelfest-202/gatcha-stantler-rodolfo.md)
-  * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-202/gatcha-sudowoodo-navideño.md)
-  * [🔖 Pikachu Navideño](pokemon/pixelfest-202/album-pikachu-navideño.md)
-  * [🔖 Eevee Reno](pokemon/pixelfest-202/gatcha-eevee-reno.md)
-  * [🔖 Sylveon Navideño](pokemon/pixelfest-202/gatcha-sylveon-navideño.md)
-  * [💰 Umbreon Año Nuevo](pokemon/pixelfest-202/gatcha-umbreon-añonuevo.md)
+  * [🔖 Meloetta Creación](pokemon/pixelfest-2024/adviento-meloetta-creacion.md)
+  * [🗝️ Seviper Año Nuevo](pokemon/pixelfest-2024/gatcha-seviper-añonuevo.md)
+  * [🗝️ Stantler Rodolfo](pokemon/pixelfest-2024/gatcha-stantler-rodolfo.md)
+  * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-2024/gatcha-sudowoodo-navideño.md)
+  * [🔖 Pikachu Navideño](pokemon/pixelfest-2024/album-pikachu-navideño.md)
+  * [🔖 Eevee Reno](pokemon/pixelfest-2024/gatcha-eevee-reno.md)
+  * [🔖 Sylveon Navideño](pokemon/pixelfest-2024/gatcha-sylveon-navideño.md)
+  * [💰 Umbreon Año Nuevo](pokemon/pixelfest-2024/gatcha-umbreon-añonuevo.md)
 
 ## POR USUARIOS
 
