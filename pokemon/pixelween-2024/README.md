@@ -13,7 +13,6 @@ Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que
 | 👻 Pixelween |
 | :------: |
 | [👻 Cacturne Pixelween](pixelween-cacturne-pixelween.md) ![Sprite de Cacturne Pixelween](../../images/pokemon/pixelween/cacturne-sprite.png)|
-| [👻 Primarina Pixelween](pixelween-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
 | [👻 Gardevoir Pixelween](pixelween-gardevoir-pixelween.md) ![Sprite de Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoir-sprite.png)|
 
 ### 📕 Misión
@@ -46,3 +45,4 @@ Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que
 | :---: |
 | [💰 Celebi Lost Silver](paga-celebi-lostsilver.md) ![Sprite de Celebi Lost Silver](../../images/pokemon/pixelween/ls4-sprite.png)|
 | [💰 Gengar Oogie Boogie](paga-gengar-oogieboogie.md) ![Sprite de Gengar Oogie Boogie](../../images/pokemon/pixelween/oogieboogie-sprite.png)|
+| [💰 Primarina Pixelween](pixelween-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
