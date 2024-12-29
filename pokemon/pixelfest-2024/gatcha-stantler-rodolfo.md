@@ -6,7 +6,7 @@
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Stantler Rodolfo](../../images/pokemon/pixelfest/stantler_rodolfo_sprite.png)                                           |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
+|                      Creado por | RivalSilver97                                                                                                                 |
 
 
 ### Comentario del desarrollador
