@@ -25,7 +25,7 @@ La idea detrás de esta forma de Meloetta es que ella es una hada protectora de 
 
 ## Obtención
 
-Este pokémon se obtiene en el Adviento de [Pixelfest 2024](./)
+Este pokémon se obtiene en el dia **Dia 7** del Adviento de [Pixelfest 2024](./)
 La skin Remix se regaló a quienes jugaron en el servidor Pixelgor antes de que cerrara.
 
 ### Cambios de Stats y Movimientos
