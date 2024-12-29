@@ -16,7 +16,7 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 
 | 🗝️ Gatcha |
 | :---: |
-| [🗝️ Seviper Año Nuevo](gatcha-seviper-añonuevo.md) ![Sprite de Seviper Año Nuevo](../../images/pokemon/pixelfest/seviper_anonuevo_sprite.png)|
+| [🗝️ Seviper Año Nuevo](gatcha-seviper-añonuevo.md) ![Sprite de Seviper Año Nuevo](../../images/pokemon/pixelfest/seviper_pixelfest_sprite.png)|
 | [🗝️ Stantler Rodolfo](gatcha-stantler-rodolfo.md) ![Sprite de Stantler Rodolfo](../../images/pokemon/pixelfest/stantler_rodolfo_sprite.png)|
 | [🗝️ Sudowoodo Navideño](gatcha-sudowoodo-navideño.md) ![Sprite de Sudowoodo Navideño](../../images/pokemon/pixelfest/sudowoodo_pixelfest_sprite.png)|
 
@@ -30,4 +30,4 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 
 | 💰 Tienda |
 | :---: |
-| [💰 Umbreon Año Nuevo](paga-umbreon-añonuevo.md) ![Sprite de Umbreon Año Nuevo](../../images/pokemon/pixelfest/umbreon_anonuevo_sprite.png)|
+| [💰 Umbreon Año Nuevo](paga-umbreon-añonuevo.md) ![Sprite de Umbreon Año Nuevo](../../images/pokemon/pixelfest/umbreon_pixelfest_sprite.png)|
