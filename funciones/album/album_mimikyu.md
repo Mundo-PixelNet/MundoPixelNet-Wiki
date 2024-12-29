@@ -4,8 +4,8 @@ El álbum de Mimikyu llegó en la actualización de Pixelween 2024 y se basa en 
 
 ## 👻 Formas
 
-|Pokemon|Sprite|
-|:-----:|:----:|
+|Pokemon|Sprite|Info|
+|:-----:|:----:|:--:|
 | Gengar |![Gengar](../../images/funciones/album/mimikyu/mimigengar_sp.png)| Suele aparecer en el [Nether](https://pixelmonmod.com/wiki/Nether). |
 | Umbreon |![Umbreon](../../images/funciones/album/mimikyu/mimiumbreon_sp.png)| Suele aparecer bajo tierra (capa máxima: 60). |
 | Sneasel |![Sneasel](../../images/funciones/album/mimikyu/mimisneasel_sp.png)| Suele aparecer en biomas [Evil](https://pixelmonmod.com/wiki/Evil) (como Dead Forest) durante la noche. |
