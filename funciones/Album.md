@@ -29,5 +29,5 @@ alt="Reclamar album">
 |Álbum|Icono|
 |:---:|:---:|
 |[Mimikyu](album/album_mimikyu.md)|![Mimikyu Sprite](../images/funciones/album/mimikyu/mimigengar_sp.png)|
-|[Compañeros Navideños](album/album_pixelfest.md)|![Sylveon Sprite](../../images/pokemon/pixelfest/sylveon_pixelfest_sprite.png)|
+|[Compañeros Navideños](album/album_pixelfest.md)|![Sylveon Sprite](../images/pokemon/pixelfest/sylveon_pixelfest_sprite.png)|
 |???|???|
