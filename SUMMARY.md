@@ -64,7 +64,6 @@
   * [🗝️ Guzzlord Calabaza](pokemon/pixelween-2024/gatcha-guzzlord-calabaza.md)
   * [🗝️ Cacturne Pixelween](pokemon/pixelween-2024/gatcha-cacturne-pixelween.md)
   * [🗝️ Gardevoir Pixelween](pokemon/pixelween-2024/gatcha-gardevoir-pixelween.md)
-  * [🔖 Mimikyu Disfrazado](pokemon/pixelween-2024/album-mimikyu-disfrazado.md)
   * [🔖 Mimikyu Unveilia](pokemon/pixelween-2024/album-mimikyu-unveilia.md)
   * [💰 Celebi Lost Silver](pokemon/pixelween-2024/paga-celebi-lostsilver.md)
   * [💰 Gengar Oogie Boogie](pokemon/pixelween-2024/paga-gengar-oogieboogie.md)
@@ -74,8 +73,6 @@
   * [🗝️ Seviper Año Nuevo](pokemon/pixelfest-2024/gatcha-seviper-añonuevo.md)
   * [🗝️ Stantler Rodolfo](pokemon/pixelfest-2024/gatcha-stantler-rodolfo.md)
   * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-2024/gatcha-sudowoodo-navideño.md)
-  * [🔖 Pikachu Navideño](pokemon/pixelfest-2024/album-pikachu-navideño.md)
-  * [🔖 Eevee Reno](pokemon/pixelfest-2024/album-eevee-reno.md)
   * [🔖 Sylveon Navideño](pokemon/pixelfest-2024/album-sylveon-navideño.md)
   * [💰 Umbreon Año Nuevo](pokemon/pixelfest-2024/paga-umbreon-añonuevo.md)
 
