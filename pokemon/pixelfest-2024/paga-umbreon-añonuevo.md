@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Umbreon Año Nuevo](../../images/pokemon/pixelween/umbreon_anonuevo_sprite.png)                                                          |                                                                                                             |
+|                      **Sprite** | ![Sprite de Umbreon Año Nuevo](../../images/pokemon/pixelfest/umbreon_anonuevo_sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
