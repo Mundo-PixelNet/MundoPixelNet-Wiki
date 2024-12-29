@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Sylveon Navideño](../../images/pokemon/pixelween/sylveon_pixelfest_sprite.png)                                                          |                                                                                                             |
+|                      **Sprite** | ![Sprite de Sylveon Navideño](../../images/pokemon/pixelfest/sylveon_pixelfest_sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
