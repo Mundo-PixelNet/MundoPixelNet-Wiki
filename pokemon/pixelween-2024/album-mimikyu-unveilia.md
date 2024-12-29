@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencias a las coronas de navidad.
+La creación de esta skin hace referencias al concepto original de Mimikyu sin su disfraz con detalles de otras fan-arts.
 
 ![Vistazo en el juego a Mimikyu Unveilia](../../images/pokemon/pixelween/unveilia-preview.png)
 
