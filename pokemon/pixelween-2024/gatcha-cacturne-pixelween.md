@@ -17,4 +17,4 @@ La creación de esta skin hace referencia a Jack Skellington de la pelicula "the
 
 ## Obtención
 
-???
+Esta skin se puede obtener en el gatcha de pixelween (2024) con un 5,3% de posibilidades de conseguir esta skin.

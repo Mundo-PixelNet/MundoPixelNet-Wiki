@@ -1,4 +1,4 @@
-# 👻 Primarina Pixelween
+# 💰 Primarina Pixelween
 
 ## Información
 
@@ -17,4 +17,4 @@ La creación de esta skin hace referencia a Sally de la pelicula "the nightmare 
 
 ## Obtención
 
-???
+¡Con la compra de cualquier **paquete con descuento de Pixelween 2024** recibirás Primarina Pixelween en la [Tienda Oficial del servidor](https://tienda.mundopixelnet.com/category/servidor-escarlata-1)!
