@@ -33,6 +33,13 @@ Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que
 | [🗝️ Hatterene Dimitrescu](gatcha-hatterene-dimitrescu.md) ![Sprite de Hatterene Dimitrescu](../../images/pokemon/pixelween/dimitrescu-sprite.png)|
 | [🗝️ Guzzlord Calabaza](gatcha-guzzlord-calabaza.md) ![Sprite de Guzzlord Calabaza](../../images/pokemon/pixelween/calabaza-sprite.png)|
 
+### [🔖 Album ](../../funciones/album/album_pixelfest.md)
+
+| 🔖 Album |
+| :---: |
+| [🔖 Mimikyu Disfrazado](gatcha-pikachu-navideño.md) ![Sprite de Pikachu Navideño](../../images/funciones/album/mimikyu/mimigengar_sp.png)|
+| [🔖 Mimikyu Unveilia](gatcha-eevee-reno.md) ![Sprite de Eevee Reno](../../images/funciones/album/mimikyu/mimiunveilia-sp.png)|
+
 ### 💰 Skins de paga
 
 | 💰 Tienda |
