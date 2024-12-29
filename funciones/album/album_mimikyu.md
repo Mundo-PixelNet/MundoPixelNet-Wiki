@@ -20,7 +20,7 @@ El álbum de Mimikyu llegó en la actualización de Pixelween 2024 y se basa en 
 
 <div style="text-align: center">
 <img src="../../images/funciones/album/mimikyu/modelos.png"
-alt="Verificar album">
+alt="Mimikyu">
 </div>
 
 ## 💰 Recompensas
