@@ -21,7 +21,7 @@ La idea detrás de esta forma de Meloetta es que ella es una hada protectora de 
 | Normal |        ![Sprite de Meloetta Creación](../../images/pokemon/pixelfest/meloetta_planta_sprite.png)        |
 | Remix |  ![Sprite de Meloetta Creación Remix](../../images/pokemon/pixelfest/meloetta_remix_sprite.png)  |
 
-![Vistazo en el juego a Meloetta Creación](../../images/pokemon/pixelfest/meloetta.png)
+![Vistazo en el juego a Meloetta Creación](../../images/pokemon/pixelfest/meloetta-preview.png)
 
 ## Obtención
 
