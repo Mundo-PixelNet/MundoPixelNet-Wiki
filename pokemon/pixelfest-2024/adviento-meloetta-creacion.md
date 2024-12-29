@@ -40,4 +40,4 @@ Las estadísticas básicas de este Pokémon siguen siendo las mismas, pero los p
 | 1 | [Rayo Solar](https://www.wikidex.net/wiki/Rayo_Solar) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
 | 1 | [Represión Metal](https://www.wikidex.net/wiki/Represión_Metal) | ![tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
 | 1 | [Espora](https://www.wikidex.net/wiki/Espora) | ![tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
-
+{% endtab %}
