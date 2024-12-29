@@ -31,8 +31,8 @@ Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que
 
 | 🔖 Album |
 | :---: |
-| [🔖 Mimikyu Disfrazado](gatcha-mimikyu-disfrazado.md) ![Sprite de Pikachu Navideño](../../images/funciones/album/mimikyu/mimigengar_sp.png)|
-| [🔖 Mimikyu Unveilia](gatcha-mimikyu-unveilia.md) ![Sprite de Eevee Reno](../../images/funciones/album/mimikyu/mimiunveilia-sp.png)|
+| [🔖 Mimikyu Disfrazado](album-mimikyu-disfrazado.md) ![Sprite de Pikachu Navideño](../../images/funciones/album/mimikyu/mimigengar_sp.png)|
+| [🔖 Mimikyu Unveilia](album-mimikyu-unveilia.md) ![Sprite de Eevee Reno](../../images/funciones/album/mimikyu/mimiunveilia-sp.png)|
 
 ### 💰 Skins de paga
 
