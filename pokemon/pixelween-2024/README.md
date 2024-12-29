@@ -4,7 +4,7 @@ El Evento Pixelween _(2024)_ de Mundo PixelNet trae el verdadero clima de terror
 
 ### 📺 Tráiler de pixelween
 
-{% embed url="[https://youtu.be/yCJR9pt7QKY?si=3gwyDbOSb7cBmYZX](https://www.youtube.com/watch?v=KWm3f_-tlD4)" %}
+{% embed url="https://youtu.be/KWm3f_-tlD4?si=v7lVGXLus1_duGeg" %}
 
 Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que varios Pokémon nuevos, un nuevo Gatchas, Mision y más.
 
@@ -39,4 +39,4 @@ Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que
 | :---: |
 | [💰 Celebi Lost Silver](paga-celebi-lostsilver.md) ![Sprite de Celebi Lost Silver](../../images/pokemon/pixelween/ls4-sprite.png)|
 | [💰 Gengar Oogie Boogie](paga-gengar-oogieboogie.md) ![Sprite de Gengar Oogie Boogie](../../images/pokemon/pixelween/oogieboogie-sprite.png)|
-| [💰 Primarina Pixelween](pixelween-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
+| [💰 Primarina Pixelween](paga-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
