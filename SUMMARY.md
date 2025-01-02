@@ -70,6 +70,7 @@
   * [💰 Primarina Pixelween](pokemon/pixelween-2024/paga-primarina-pixelween.md)
 * [🎄 Pixelfest 2024](pokemon/pixelfest-2024/README.md)
   * [🔖 Meloetta Creación](pokemon/pixelfest-2024/adviento-meloetta-creacion.md)
+  * [🔖 Skibidi Wiglett](pokemon/pixelfest-2024/adviento-wiglett-skibidi.md)
   * [🗝️ Seviper Año Nuevo](pokemon/pixelfest-2024/gatcha-seviper-añonuevo.md)
   * [🗝️ Stantler Rodolfo](pokemon/pixelfest-2024/gatcha-stantler-rodolfo.md)
   * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-2024/gatcha-sudowoodo-navideño.md)
