@@ -71,6 +71,7 @@
 * [🎄 Pixelfest 2024](pokemon/pixelfest-2024/README.md)
   * [🔖 Meloetta Creación](pokemon/pixelfest-2024/adviento-meloetta-creacion.md)
   * [🔖 Skibidi Wiglett](pokemon/pixelfest-2024/adviento-wiglett-skibidi.md)
+  * [🔖 Gholdengo Año Nuevo](pokemon/pixelfest-2024/adviento-gholdengo-añonuevo.md)
   * [🗝️ Seviper Año Nuevo](pokemon/pixelfest-2024/gatcha-seviper-añonuevo.md)
   * [🗝️ Stantler Rodolfo](pokemon/pixelfest-2024/gatcha-stantler-rodolfo.md)
   * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-2024/gatcha-sudowoodo-navideño.md)
