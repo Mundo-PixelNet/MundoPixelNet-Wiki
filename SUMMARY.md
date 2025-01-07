@@ -2,7 +2,6 @@
 
 * [👋 ¡Bienvenido a la Wiki!](README.md)
 * [🔧 Instalación](instalacion/README.md)
-  * [🔥 Pixelmon 1.12.2](instalacion/pixelmon-12.md)
   * [🍊 Pixelmon 1.16.5](instalacion/pixelmon-16.md)
 * [✍️ Contribuir](contribuir.md)
 
@@ -19,13 +18,22 @@
 ## FUNCIONES
 
 * [🧬 Híbridos](funciones/hibridos.md)
+* [⭐ Álbum](funciones/Album.md)
+  * [🎃 Álbum de Mimikyu](funciones/album/album_mimikyu.md)
+  * [🎄 Album de Compañeros Navideños](funciones/album/album_pixelfest.md)
 * [👔 Estilos](funciones/estilos.md)
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
 
+## Desafíos de Gimnasio
+* [🏵️ Gimnasios](desafiosdegimnasio/README.md)
+  * [![armoniamisticaicon](images/gimnasios/gym_1.png)Armonía Mística](desafiosdegimnasio/armoniamistica.md)
+  * [![corazondepiedraicon](images/gimnasios/gym_2.png)Corazón de Piedra](desafiosdegimnasio/corazondepiedra.md)
+
 ## GUÍAS
 
 * [💘 Crianza](usuarios/Juniorcx/crianza.md)
+* [🏋️‍♂️ Entrenamiento](usuarios/Juniorcx/Entrenamiento.md)
 
 ## POKÉMON
 
@@ -46,8 +54,32 @@
   * [🗝️ Magikarp & Gyarados Leviathan](pokemon/temporada-1/gatcha-magikarp-gyarados-leviathan.md)
   * [🗝️ Kingambit Titan](pokemon/temporada-1/gatcha-kingambit-titan.md)
   * [🗝️ Nihilego Luminarie](pokemon/temporada-1/gatcha-nihilego-luminarie.md)
+* [🎃 Pixelween 2024](pokemon/pixelween-2024/README.md)
+  * [📕 Pikachu Lost Silver](pokemon/pixelween-2024/mision-pikachu-lostsilver.md)
+  * [📕 Eevee Lost Silver](pokemon/pixelween-2024/mision-eevee-lostsilver.md)
+  * [📕 Typhlosion Lost Silver](pokemon/pixelween-2024/mision-typhlosion-lostsilver.md)
+  * [📕 Unown Lost Silver](pokemon/pixelween-2024/mision-unown-lostsilver.md)
+  * [🗝️ Mr. Mime Pennywise](pokemon/pixelween-2024/gatcha-mrmime-pennywise.md) 
+  * [🗝️ Hatterene Dimitrescu](pokemon/pixelween-2024/gatcha-hatterene-dimitrescu.md) 
+  * [🗝️ Guzzlord Calabaza](pokemon/pixelween-2024/gatcha-guzzlord-calabaza.md)
+  * [🗝️ Cacturne Pixelween](pokemon/pixelween-2024/gatcha-cacturne-pixelween.md)
+  * [🗝️ Gardevoir Pixelween](pokemon/pixelween-2024/gatcha-gardevoir-pixelween.md)
+  * [🔖 Mimikyu Unveilia](pokemon/pixelween-2024/album-mimikyu-unveilia.md)
+  * [💰 Celebi Lost Silver](pokemon/pixelween-2024/paga-celebi-lostsilver.md)
+  * [💰 Gengar Oogie Boogie](pokemon/pixelween-2024/paga-gengar-oogieboogie.md)
+  * [💰 Primarina Pixelween](pokemon/pixelween-2024/paga-primarina-pixelween.md)
+* [🎄 Pixelfest 2024](pokemon/pixelfest-2024/README.md)
+  * [🔖 Meloetta Creación](pokemon/pixelfest-2024/adviento-meloetta-creacion.md)
+  * [🔖 Skibidi Wiglett](pokemon/pixelfest-2024/adviento-wiglett-skibidi.md)
+  * [🔖 Gholdengo Año Nuevo](pokemon/pixelfest-2024/adviento-gholdengo-añonuevo.md)
+  * [🗝️ Seviper Año Nuevo](pokemon/pixelfest-2024/gatcha-seviper-añonuevo.md)
+  * [🗝️ Stantler Rodolfo](pokemon/pixelfest-2024/gatcha-stantler-rodolfo.md)
+  * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-2024/gatcha-sudowoodo-navideño.md)
+  * [🔖 Sylveon Navideño](pokemon/pixelfest-2024/album-sylveon-navideño.md)
+  * [💰 Umbreon Año Nuevo](pokemon/pixelfest-2024/paga-umbreon-añonuevo.md)
 
 ## POR USUARIOS
 
 * **silver988766**:
-  * [💥 Guía Competitiva de Pokémon](usuarios/silver988766/competitivo.md)
+  * [💥 Guía Competitiva de Pokémon - P1](usuarios/silver988766/competitivo.md)
+  * [💥 Guía Competitiva de Pokémon - P2](usuarios/silver988766/VGC%20REG%20H.md)

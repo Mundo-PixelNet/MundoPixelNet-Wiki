@@ -25,8 +25,6 @@ El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para ma
 El rango Helper tiene la función de ayudar con dudas y responder preguntas para mantener la mejor jugabilidad del usuario.
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de Anne](../images/Rangos/Helper/Anne.png)|**Anne**|
-| ![Skin de Valtolomeo](../images/Rangos/Helper/Valtolomeo.png)|**Valtolomeo**|
 | ![Skin de Juank_16](../images/Rangos/Helper/Juank_16.png)|**Juank_16**|
 
 # ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
@@ -43,5 +41,4 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
 | ![Skin de BonMurci](../images/Rangos/Mod/BonMurci.png)|**BonMurci**|
 | ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**JuniorCX**|
-| ![Skin de Anne](../images/Rangos/Helper/Anne.png)|**Anne**|
 | ![Skin de Trolendo](../images/Rangos/Helper/Steve.png)|**Trolendo**|
