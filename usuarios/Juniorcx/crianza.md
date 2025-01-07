@@ -171,7 +171,7 @@ Con el comando `/eggstep usuario (slot)` puedes ver los pasos que faltan para la
 
 El paso 1 es conseguir los Pokemones con buenos IVs (los IVs son los valores individuales con los que nace el pokemon y no pueden ser entrenados; van desde 0 a 31). ¿Cómo lo hacemos? Fácil! Mediante la Cadena de captura pokemon.
 
-### 🔗 Cadena de Captura
+### 🔗 Cadena de Captura o Racha de Captura
 
 Esto consiste en atrapar una misma especie de pokemon una y otra vez, es decir, capturar Rattata una y otra vez (*OJO SOLO RATTATA*) y así la cadena va aumentando. El objetivo es conseguir Pokemones con 3 o más IVs perfectos (31 puntos).
 
@@ -189,6 +189,11 @@ En [Mundo Pixelnet](../README.md) la Cadena de Captura funciona asi:
 | 51+ | 3 |
 
 > *Estos son IVs asegurados, pueden salir con más de 3x31 IVs*
+
+> [!NOTE]
+> La Cadena de captura solo funciona/aplica con pokemones generados naturalmente, no se aplica a generados por Spawners como en los Safaris o Spawners de mundo Survival, sin embargo, estos pokemones generados por spawners si cuentan al subir la racha.
+> Se pueden usar estos pokemones para empezar la racha y continuarla con pokemones generados naturalmente.
+
 
 Para ver los IVs de un Pokemon en [Mundo Pixelnet](../README.md) hay dos maneras:
 
