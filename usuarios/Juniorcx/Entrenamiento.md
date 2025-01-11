@@ -48,7 +48,11 @@ En [Mundo Pixelnet](../README.md) la Cadena de Captura funciona asi:
 | 21-50 | 2 |
 | 51+ | 3 |
 
-*Estos son IVs asegurados, pueden salir con más de 3x31 IVs.*
+> ***Estos son IVs asegurados, pueden salir con más de 3x31 IVs.***
+
+> [!NOTE]
+> La Cadena de captura solo funciona/aplica con pokemones generados naturalmente, no se aplica a generados por Spawners como en los Safaris o Spawners de mundo Survival, sin embargo, estos pokemones generados por spawners si cuentan al subir la racha.
+> Se pueden usar estos pokemones para empezar la racha y continuarla con pokemones generados naturalmente.
 
 ### 🍥Chapas
 
