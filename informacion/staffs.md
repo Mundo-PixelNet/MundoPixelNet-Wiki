@@ -26,6 +26,9 @@ El rango Helper tiene la función de ayudar con dudas y responder preguntas para
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de Juank_16](../images/Rangos/Helper/Juank_16.png)|**Juank_16**|
+| ![Skin de thedarkzi_](../images/Rangos/Helper/thedarkzi_.png)|**thedarkzi_**|
+| ![Skin de Ikaros_YT](../images/Rangos/Helper/Ikaros_YT.png)|**Ikaros_YT**|
+| ![Skin de ITSFrankoGG](../images/Rangos/Helper/ITSFrankoGG.png)|**ITSFrankoGG**|
 
 # ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
 El rango Developer tiene la función de programar los complementos y bots del servidor, haciéndolo aún más único y original.
