@@ -164,6 +164,23 @@ Al preparar jugos EV, las bayas se pueden dividir en seis colores y tres grupos.
 
 Los jugos EV se elaboran mezclando dos bayas del mismo color. Esto funciona de forma ligeramente diferente si las dos bayas utilizadas son iguales que si son diferentes. La siguiente tabla describe el aumento de EV que se obtendrá al mezclar dos bayas del mismo color para elaborar un jugo EV. Lo puedes ver en <b>[EV Juice](https://pixelmonmod.com/wiki/EV_Juices)</b>.
 
+#### Aca se deja una lista de las bayas que pueden usar.
+
+ Stat/Estadistica | Juice/Jugo |Baya |
+| ---------------- | ---------- | ----- |
+| HP/PS | ![morado](../../images/usuarios/Juniorcx/Purple_Juice.webp) | Baya Enigma ![Enigma](../../images/usuarios/Juniorcx/Enigma_Berry.webp) |
+| Ataque/Attack | ![rojo](../../images/usuarios/Juniorcx/Red_Juice.webp) | Baya Tamate/Tomato ![Tamate](../../images/usuarios/Juniorcx/Tamato_Berry.webp) |
+| Defensa/Defense | ![amarillo](../../images/usuarios/Juniorcx/Yellow_Juice.webp) | Baya Ispero/Qualot ![Ispero](../../images/usuarios/Juniorcx/Qualot_Berry.webp) |
+|Ataque Especial/Special Attack| ![azul](../../images/usuarios/Juniorcx/Blue_Juice.webp) | Baya Algama/Kelpsy ![kelpsy](../../images/usuarios/Juniorcx/Kelpsy_Berry.webp) |
+| Defensa Espacial/Special Defense | ![verde](../../images/usuarios/Juniorcx/Green_Juice.webp) | Baya Meluce/Hondew ![Meluce](../../images/usuarios/Juniorcx/Hondew_Berry.webp) |
+| Velocidad/Speed | ![rosa](../../images/usuarios/Juniorcx/Pink_Juice.webp) | Baya Hibis/Roseli ![roseli](../../images/usuarios/Juniorcx/Grid_Roseli_Berry.webp) |
+
+Debes colocar la misma baya en ambos slots de infusor, asi:
+
+<b>![Ejemplo](../../images/usuarios/Juniorcx/infusorbaya.png)<b>
+
+**ESTA COMBINACION DA 32 PUNTOS DE EVS POR JUGO**
+
 ### Pokerus
 
 Pokérus ![pokerus](../../images/usuarios/Juniorcx/Pokerus.webp) es un virus beneficioso que puede aparecer aleatoriamente como un estado en un Pokémon, con un 1/12888 de probabilidad y una tasa de propagación de 1/5. Por defecto, un Pokémon salvaje también puede contraer esta enfermedad, pero no se puede detectar hasta que se captura el Pokémon.
