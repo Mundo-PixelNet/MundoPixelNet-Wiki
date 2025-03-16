@@ -22,7 +22,7 @@ Cada Pokémon, según su especie y tipo, tiene unas estadísticas base cuando el
 
 A partir de esta información podemos ir creando la estrategia para entrenar al pokemon. En el caso de Volcarona debes aprobechar al máximo su altisimo Ataque esp. junto con su velocidad o defensa esp. y enseñarle ataques de tipo especial.
 
-En Mundo Pixelnet está habilitado el comando `/wiki (Stol o Pokemon)` con el que podrás ver información sobre los Pokémon, incluidas las estadísticas base de cada uno.
+En Mundo Pixelnet está habilitado el comando `/wiki (Slot o Pokemon)` con el que podrás ver información sobre los Pokémon, incluidas las estadísticas base de cada uno.
 
 <img src="../../images/usuarios/Juniorcx/wiki1.png">
 
