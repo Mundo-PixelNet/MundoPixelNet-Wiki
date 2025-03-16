@@ -18,42 +18,42 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 
 |  Imagen |Nombre  |  Precio  | Descripción |
 | - | - | - | - |
-|![Poke Ball](../images/iconos/balls/POKEBALL.png)   |Poké Ball  | 5K   |Ratio de captura x1. |
-|![Great Ball](../images/iconos/balls/GREATBALL.png) | Super Ball |10K |Ratio de captura x2.   |
-|![Ultra Ball](../images/iconos/balls/ULTRABALL.png)   |Ultra Ball |20K  |Ratio de captura x3.  |
-|![Dive Ball](../images/iconos/balls/DIVEBALL.png)   |Buceo Ball |10K |Ratio x3.5 si el Pokémon está en el agua.   |
-|![Dusk Ball](../images/iconos/balls/DUSKBALL.png)   |Ocaso Ball |20K   |Ratio x3.0 en lugares de poca luz. |
-|![Fast Ball](../images/iconos/balls/FASTBALL.png)   |Rapid Ball |10K |El ratio aumenta hasta x4 con los Pokémon de mayor velocidad base de 100.   |
-|![Friend Ball](../images/iconos/balls/FRIENDBALL.png)   |Amigo Ball |10K |Aumenta la felicidad de los Pokémon capturados. |
-|![Heal Ball](../images/iconos/balls/HEALBALL.png)  |Sana Ball |10K |Sana a los Pokémon capturados.    |
-|![Heavy Ball](../images/iconos/balls/HEAVYBALL.png)   |Peso Ball |10K |Aumenta el ratio con los Pokémon pesados.    |
+|![Poke Ball](../images/iconos/balls/POKEBALL.png)   |Poké Ball  |15K   |Ratio de captura x1. |
+|![Great Ball](../images/iconos/balls/GREATBALL.png) | Super Ball |20K |Ratio de captura x2.   |
+|![Ultra Ball](../images/iconos/balls/ULTRABALL.png)   |Ultra Ball |25K  |Ratio de captura x3.  |
+|![Dive Ball](../images/iconos/balls/DIVEBALL.png)   |Buceo Ball |20K |Ratio x3.5 si el Pokémon está en el agua.   |
+|![Dusk Ball](../images/iconos/balls/DUSKBALL.png)   |Ocaso Ball |25K   |Ratio x3.0 en lugares de poca luz. |
+|![Fast Ball](../images/iconos/balls/FASTBALL.png)   |Rapid Ball |20K |El ratio aumenta hasta x4 con los Pokémon de mayor velocidad base de 100.   |
+|![Friend Ball](../images/iconos/balls/FRIENDBALL.png)   |Amigo Ball |15K |Aumenta la felicidad de los Pokémon capturados. |
+|![Heal Ball](../images/iconos/balls/HEALBALL.png)  |Sana Ball |15K |Sana a los Pokémon capturados.    |
+|![Heavy Ball](../images/iconos/balls/HEAVYBALL.png)   |Peso Ball |20K |Aumenta el ratio con los Pokémon pesados.    |
 |![Level Ball](../images/iconos/balls/LEVELBALL.png)   |Nivel Ball|20K |Ratio más alto si el nivel del Pokémon es bajo.    |
-|![Love Ball](../images/iconos/balls/LOVEBALL.png)   |Amor Ball |10k   |El ratio aumenta si los Pokémon son de distinto género.   |
+|![Love Ball](../images/iconos/balls/LOVEBALL.png)   |Amor Ball |20k   |El ratio aumenta si los Pokémon son de distinto género.   |
 |![Lure Ball](../images/iconos/balls/LUREBALL.png)   |Cebo Ball  |20K | Ratio x5 en los encuentros por pesca.  |
-|![Luxury Ball](../images/iconos/balls/LUXURYBALL.png)   |Lujo Ball  |15K |El Pokémon capturado gana felicidad rápidamente.     |
-|![Moon Ball](../images/iconos/balls/MOONBALL.png)   |Luna Ball  |10K |Ratio x4 si el Pokémon se evoluciona con Piedra Lunar.   |
-|![Nest Ball](../images/iconos/balls/NESTBALL.png)   |Nido Ball |15K |Aumenta el ratio con Pokémon bajo nivel.   |
-|![Net Ball](../images/iconos/balls/NETBALL.png)   |Malla Ball| 10K |Ratio x3 con Pokémon tipo bicho y agua.    |
-|![Premier Ball](../images/iconos/balls/PREMIERBALL.png)   |Honor Ball |8K  |Da efecto de partículas al sacarlos de la Ball. |
-|![Quick Ball](../images/iconos/balls/QUICKBALL.png)   |Veloz Ball |20K |Ratio x5 si se usa en el primer turno.    |
-|![Repeat Ball](../images/iconos/balls/REPEATBALL.png)   |Acopio Ball |15K   |Ratio x3 si ya capturaste esa especie.|
-|![Safari Ball](../images/iconos/balls/SAFARIBALL.png)   |Safari Ball |10K |Ratio x1.5 en planicies.   |
-|![Sport Ball](../images/iconos/balls/SPORTBALL.png)   |Competi Ball |10K | Ratio x1.5 Pokémon tipo bicho.  |
-|![Timer Ball](../images/iconos/balls/TIMERBALL.png)   |Turno Ball |15K   |Mientras más dura el combate más alto es el ratio.|
-|![Dream Ball](../images/iconos/balls/DREAMBALL.png)   |Ensueño Ball  |20K   |Ratio x4 en Pokémon dormidos. |
+|![Luxury Ball](../images/iconos/balls/LUXURYBALL.png)   |Lujo Ball  |25K |El Pokémon capturado gana felicidad rápidamente.     |
+|![Moon Ball](../images/iconos/balls/MOONBALL.png)   |Luna Ball  |15K |Ratio x4 si el Pokémon se evoluciona con Piedra Lunar.   |
+|![Nest Ball](../images/iconos/balls/NESTBALL.png)   |Nido Ball |20K |Aumenta el ratio con Pokémon bajo nivel.   |
+|![Net Ball](../images/iconos/balls/NETBALL.png)   |Malla Ball| 20K |Ratio x3 con Pokémon tipo bicho y agua.    |
+|![Premier Ball](../images/iconos/balls/PREMIERBALL.png)   |Honor Ball |15K  |Da efecto de partículas al sacarlos de la Ball. |
+|![Quick Ball](../images/iconos/balls/QUICKBALL.png)   |Veloz Ball |25K |Ratio x5 si se usa en el primer turno.    |
+|![Repeat Ball](../images/iconos/balls/REPEATBALL.png)   |Acopio Ball |25K   |Ratio x3 si ya capturaste esa especie.|
+|![Safari Ball](../images/iconos/balls/SAFARIBALL.png)   |Safari Ball |15K |Ratio x1.5 en planicies.   |
+|![Sport Ball](../images/iconos/balls/SPORTBALL.png)   |Competi Ball |15K | Ratio x1.5 Pokémon tipo bicho.  |
+|![Timer Ball](../images/iconos/balls/TIMERBALL.png)   |Turno Ball |25K   |Mientras más dura el combate más alto es el ratio.|
+|![Dream Ball](../images/iconos/balls/DREAMBALL.png)   |Ensueño Ball  |30K   |Ratio x4 en Pokémon dormidos. |
 
 # Balls x Unidad
 
 |Imagen   | Nombre  | Precio  |Descripción |
 | - | - | - | - |
-|![Cherish Ball](../images/iconos/balls/CHERISHBALL.png)  | Gloria Ball |5K|Poké Ball de evento.    |
+|![Cherish Ball](../images/iconos/balls/CHERISHBALL.png)  | Gloria Ball |15K|Poké Ball de evento.    |
 |![Master Ball](../images/iconos/balls/MASTERBALL.png)   | Master Ball |80K |Nunca falla.   |
 |![Park Ball](../images/iconos/balls/PARKBALL.png)   | Parque Ball |80K |Nunca falla.   |
 |![Beast Ball](../images/iconos/balls/BEASTBALL.png)   |Ente Ball |100k |Ratio x5 en Ultraentes.    |
-|![GS Ball](../images/iconos/balls/GSBALL.png)   |GS Ball   |50K  |Se usa para invocar a Celebi.   |
-|![Origin Ball](../images/iconos/balls/ORIGINBALL.png)   |Origen Ball  |50K |Poké Ball de evento.   |
-|![Strange Ball](../images/iconos/balls/STRANGEBALL.png)   |Extraña Ball  |10K |Poké Ball especial. Ratio de captura x1.    |
-|![Christmas Ball](../images/iconos/balls/CHRISTMASBALL.png)   |Navidad Ball  |25K |Poké Ball especial. Ratio de captura x1.   |
+|![GS Ball](../images/iconos/balls/GSBALL.png)   |GS Ball   |500K  |Se usa para invocar a Celebi.   |
+|![Origin Ball](../images/iconos/balls/ORIGINBALL.png)   |Origen Ball  |100K |Poké Ball de evento.   |
+|![Strange Ball](../images/iconos/balls/STRANGEBALL.png)   |Extraña Ball  |100K |Poké Ball especial. Ratio de captura x1.    |
+|![Christmas Ball](../images/iconos/balls/CHRISTMASBALL.png)   |Navidad Ball  |25K |Poké Ball especial. Ratio de captura x1. Da Skin exclusiva al capturarse con esta Ball.   |
 
 # Mineral x Stack
 
