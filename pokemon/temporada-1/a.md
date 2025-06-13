@@ -40,4 +40,4 @@ furro el de abajo
 ### Por Nivel (mín 0)
 | Nivel | Movimiento | Tipo |
 |:---:|:---:|:---:|
-| 0 | [A](https://www.wikidex.net/wiki/A) |  |
+| 0 | [A](https://www.wikidex.net/wiki/A) | ![Tipo bug](../../images/pokemon/tipos/tipo_bicho.png) |
