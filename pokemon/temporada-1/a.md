@@ -1,20 +1,20 @@
 # 🧬 a
 
-## Información Global del Pokémon
+## Global Pokémon Information
 
-**a** es un Pokémon de tipo normal.
+**a** is a Pokémon of type normal.
 
 | **Artwork** | ![Artwork de a](../../images/pokemon/temporada-1/a.png) |
 |---:|---|
 | **Sprite** | ![Sprite de a](../../images/pokemon/temporada-1/a-sprite.png) |
-|  Tipos * | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-|  Habilidades * | [A](https://www.wikidex.net/wiki/A) |
-| Nombre del Creador | Puto el que lo lea |
+|  Types * | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+|  Abilities * | [A](https://www.wikidex.net/wiki/A) |
+| Creator Name | xx |
 
-### Curiosidad del Desarrollador
-furro el de abajo
+### Developer Curiosity
+xxx
 
-## Formas
+## Forms
 
 | Forma | Sprite |
 |:---:|:---:|
@@ -25,19 +25,19 @@ furro el de abajo
 
 ## Características base
 
-| Estadística | Valor |
+| Statistic | Value |
 |:---:|:---:|
 | PS | 1 |
-| Ataque | 1 |
-| Defensa | 1 |
-| At. Especial | 1 |
-| Def. Especial | 1 |
-| Velocidad | 1 |
+| Attack | 1 |
+| Defense | 1 |
+| Sp. Attack | 1 |
+| Sp. Defense | 1 |
+| Speed | 1 |
 | **Total** | **6** |
 
-## Movimientos *
+## Moves *
 
-### Por Nivel (mín 0)
-| Nivel | Movimiento | Tipo |
+### Level-Up
+| Level | Move | Type |
 |:---:|:---:|:---:|
-| 0 | [A](https://www.wikidex.net/wiki/A) | ![Tipo bug](../../images/pokemon/tipos/tipo_bicho.png) |
+| 0 | [A](https://www.wikidex.net/wiki/A) | ![Tipo dark](../../images/pokemon/tipos/tipo_siniestro.png) |
