@@ -9,6 +9,11 @@
 | **Sprite** | ![Sprite de a](../../images/pokemon/temporada-1/a-sprite.png) |
 |  Tipos * | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 |  Habilidades * | [A](https://www.wikidex.net/wiki/A) |
+| Nombre del Creador | Puto el que lo lea |
+
+### Curiosidad del Desarrollador
+furro el de abajo
+
 ## Formas
 
 | Forma | Sprite |
