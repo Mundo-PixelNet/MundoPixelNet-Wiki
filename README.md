@@ -20,13 +20,12 @@ Todos los tutoriales de instalaciones que encuentres aquí están orientados a l
 {% content-ref url="instalacion/README.md" %} [README.md](instalacion/README.md) {% endcontent-ref %}
 {% content-ref url="contribuir.md" %} [contribuir.md](contribuir.md) {% endcontent-ref %}
 
-## 💻 IP: `play.mundopixelnet.com`
+## 💻 IP: `play.universopokenet.com`
 
 ### 🔗 Enlaces
 
-- [Discord](https://discord.gg/mundopixelnet)
-- [Tienda Web](https://tienda.mundopixelnet.com/)
-- [Twitter / X](https://twitter.com/MundoPixelNet)
+- [Discord](https://discord.com/invite/p4wryDdutf)
+- [Tienda Web](https://tienda.universopokenet.com/)
+- [Twitter / X](https://twitter.com/UniversoPokeNet)
 - [YouTube](https://www.youtube.com/@mundopixelnet2802/)
-- [Instagram](https://www.instagram.com/mundopixelnet/)
-- [Facebook](https://facebook.com/mundopixelnet)
+- [Instagram](https://www.instagram.com/universopokenet/)
