@@ -1,13 +1,13 @@
 ---
 description: >-
-  ¿Quieres colaborar con tu contenido en la Wiki de Mundo PixelNet? Sigue estos pasos...
+  ¿Quieres colaborar con tu contenido en la Wiki de Universo PokéNet? Sigue estos pasos...
 ---
 
 # ✍️ Contribuir
 
-Esta Wiki de Mundo PixelNet es pública, **¡cualquiera puede contribuir a ella para mejorarla!** ¿Quieres ayudar a explicar cómo funciona algo? ¿Información que falte sobre cierta función? ¿Corregir fallos ortográficos? ¡Estamos abiertos a cualquier tipo de ayuda! 🤗
+Esta Wiki de Universo PokéNet es pública, **¡cualquiera puede contribuir a ella para mejorarla!** ¿Quieres ayudar a explicar cómo funciona algo? ¿Información que falte sobre cierta función? ¿Corregir fallos ortográficos? ¡Estamos abiertos a cualquier tipo de ayuda! 🤗
 
-Aquellos usuarios que contribuyan con muy buen contenido y regularmente aporten algo a la Wiki, podrán recibir un rango en Discord y recompensas en Mundo PixelNet.
+Aquellos usuarios que contribuyan con muy buen contenido y regularmente aporten algo a la Wiki, podrán recibir un rango en Discord y recompensas en Universo PokéNet.
 
 <div style="text-align: center">
 <img src="images/contribuir/colaborador-discord.png">

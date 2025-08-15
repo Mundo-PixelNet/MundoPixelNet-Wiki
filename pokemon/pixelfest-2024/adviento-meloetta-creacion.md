@@ -2,7 +2,7 @@
 
 ## Información
 
-**Meloetta Creación** es una forma de Meloetta originaria de Pixelgor, pero con su final fue llevada a Mundo Pixelnet como homenaje
+**Meloetta Creación** es una forma de Meloetta originaria de Pixelgor, pero con su final fue llevada a Universo PokéNet como homenaje
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |

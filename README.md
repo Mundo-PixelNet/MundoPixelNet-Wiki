@@ -1,16 +1,16 @@
 ---
 description: >-
-  La wiki de Mundo PixelNet recopilará toda la información de interés sobre el
+  La wiki de Universo PokéNet recopilará toda la información de interés sobre el
   servidor. Tutoriales, funciones, y más.
 ---
 
 # 👋 ¡Bienvenido a la Wiki!
 
 <div style="text-align:center;">
-<img src="images/logos/MPN-fullLogo.png">
+<img src="images/logos/UPN-fullLogo.png">
 </div>
 
-**¡Bienvenido a la Wiki de Mundo PixelNet!** Esta wiki exclusiva del servidor recopilará información como funciones, Pokémon únicos, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido. 
+**¡Bienvenido a la Wiki de Universo PokéNet!** Esta wiki exclusiva del servidor recopilará información como funciones, Pokémon únicos, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido. 
 
 {% hint style="warning" %}
 Todos los tutoriales de instalaciones que encuentres aquí están orientados a launchers originales (premium). No solemos dar soporte a launchers no oficiales.

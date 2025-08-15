@@ -1,6 +1,6 @@
 ---
 description: >-
-  Lista de tutoriales y descargas para Mundo PixelNet en la versión 1.16.5 de Minecraft
+  Lista de tutoriales y descargas para el Mundo de Pixelmon de Universo PokéNet en la versión 1.16.5 de Minecraft
 ---
 
 # ⚙️ Tutorial de instalación de Pixelmon para la 1.16.5
@@ -8,7 +8,7 @@ description: >-
 {% embed url="https://youtu.be/HuhFqKQB7Og?si=foKeA9JhkUfuVTqd" %}
 
 # ⬇️ Descargas
-Aquí te vamos a dar una lista de mods que son recomendados para tener una buena experiencia en Mundo PixelNet.
+Aquí te vamos a dar una lista de mods que son recomendados para tener una buena experiencia en Universo PokéNet.
 
 - **OBLIGATORIO:** [Pixelmon Reforged 9.1.13](https://adfoc.us/serve/?id=249378107479093)
 - **OBLIGATORIO:** [Biomes O' Plenty 1.16.5-13.1.0.488](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3913914)
@@ -18,7 +18,7 @@ Aquí te vamos a dar una lista de mods que son recomendados para tener una buena
 # 📂 Pack de Texturas 1.16.5
 > <img src="../images/logos/MPN-logoPackEscarlata-v3dot0.png" height="35em" align="center"> Versión actual: **v3.0.1**
 
-Descarga el pack de texturas de Mundo PixelNet (1.16.5). **Es casi obligatorio** usar este pack de texturas. Si no, perderás mucha información del chat, Pokémon, etc. Incluso menús pueden no funcionar si no tienes el pack en uso.
+Descarga el pack de texturas de Universo PokéNet (1.16.5). **Es casi obligatorio** usar este pack de texturas. Si no, perderás mucha información del chat, Pokémon, etc. Incluso menús pueden no funcionar si no tienes el pack en uso.
 
 - [Google Drive](https://drive.google.com/file/d/104_oqq-EBOwkAEi1qoOvkziSHfRpHrj3/view?usp=sharing)
 - [Mediafire](https://www.mediafire.com/file/mnwpwg7rryge42p/Mundo+PixelNet+1.16.5+[v3.0.1].zip/file)
