@@ -105,7 +105,7 @@ Para que dos Pokémon compatibles puedan reproducirse, deben contar con los elem
 <p align="center">
 <img src="../../images/usuarios/Juniorcx/144.png">
 
-En Mundo Pixelnet los requisitos fueron alterados del original aca se deja una tabla actualizada.
+En Universo PokéNet los requisitos fueron alterados del original aca se deja una tabla actualizada.
 
 **Tabla de Requerimientos por Tipo**
 
@@ -178,7 +178,7 @@ Esto consiste en atrapar una misma especie de pokemon una y otra vez, es decir, 
 <p align="center">
 <img src="../../images/usuarios/Juniorcx/146.png">
 
-En [Mundo Pixelnet](../README.md) la Cadena de Captura funciona asi:
+En [Universo PokéNet](../README.md) la Cadena de Captura funciona asi:
 
 | Cadena de Captura | IVs Perfectos |
 | :---------------: | :-----------: |
@@ -195,7 +195,7 @@ En [Mundo Pixelnet](../README.md) la Cadena de Captura funciona asi:
 > Se pueden usar estos pokemones para empezar la racha y continuarla con pokemones generados naturalmente.
 
 
-Para ver los IVs de un Pokemon en [Mundo Pixelnet](../README.md) hay dos maneras:
+Para ver los IVs de un Pokemon en [Universo PokéNet](../README.md) hay dos maneras:
 
 * Con el comando Mostrar: `/mostrar` y eliges el pokemon, verás sus atributos colocando el puntero sobre el chat en el nombre del pokemon.
 * Con el comando IVS: `/ivs <slot>` Slot es el número que ocupa el pokemon en tu equipo (*funciona con los huevos* ![huevo](../../images/usuarios/Juniorcx/egg1.png)).
@@ -303,7 +303,7 @@ Para criar con este método, suponiendo que son 6 Dittos 1x31 y uno de cada IVs:
 ## Con Ditto 6x31
 
 Este es por mucho el método más eficaz para criar pokemones.
-Para conseguir un Ditto 6x31 hay dos maneras, ya sea capturándolo salvaje (con mucha suerte) o comprándolo junto con el paquete de crianza de la tienda de [Mundo Pixelnet](../README.md) en [Tienda MundoPixelnet](https://tienda.mundopixelnet.com/).
+Para conseguir un Ditto 6x31 hay dos maneras, ya sea capturándolo salvaje (con mucha suerte) o comprándolo junto con el paquete de crianza de la tienda de [Universo PokéNet](../README.md) en [Tienda MundoPixelnet](https://tienda.mundopixelnet.com/).
 Para criar con este método basta con cruzar el Ditto 6x31 con otro pokemon y después cruzarle con esa cría, teniendo en cuenta las consideraciones expuestas en el apartado anterior.
 <p align="center">
 <img src="../../images/usuarios/Juniorcx/130.png">
@@ -336,7 +336,7 @@ El punto es ir obteniendo crías con más IVs perfectos y la forma deseada para 
 
 # 🔰 Consideraciones
 
-* En [Mundo Pixelnet](../README.md) al comprar ciertos [Rangos](https://tienda.mundopixelnet.com/category/ranks) te dan acceso a comandos que facilitan el proceso de crianza. Son:
+* En [Universo PokéNet](../README.md) al comprar ciertos [Rangos](https://tienda.mundopixelnet.com/category/ranks) te dan acceso a comandos que facilitan el proceso de crianza. Son:
     * El /hatch: `/hatch usuario (slot)` con este comando podemos abrir directamente un huevo sin necesidad de caminar.
     * El /breed: `/breed usuario (slot) (slot)` con este comando podemos criar sin necesidad de una guardería y nos da el huevo al instante.
 * Algunos Pokémon, como Snorlax , no producirán sus formas base a menos que la madre ![Female](../../images/usuarios/Juniorcx/female.png) tenga equipado un incienso determinado . Sin el incienso, estos Pokémon producirán las formas evolutivas inmediatamente posteriores a sus formas base (por ejemplo, criar un Snorlax sin un Incienso Lento producirá un Huevo que contenga otro Snorlax en lugar de un Munchlax ). Estos Pokémon y sus inciensos necesarios se enumeran a continuación.

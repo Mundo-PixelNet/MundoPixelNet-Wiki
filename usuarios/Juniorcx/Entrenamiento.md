@@ -2,14 +2,14 @@
 description: >-
   Creado por: Juniorcx
 
-  Descripción: Formas para entrenar a tu pokemon en Mundo PixelNet
+  Descripción: Formas para entrenar a tu pokemon en Universo PokéNet
 ---
 
 # 🏋️‍♂️ Entrenamiento Pokemon
 
 El entrenamiento pokemon consiste en llevar a tu pokemon a su máximo potencial o hacerlo encajar en tu estrategia de combate. Los Pokémon tienen una serie de estadísticas: **PS**, **ataque**, **defensa**, **ataque especial**, **defensa especial** y **velocidad**; el punto de entrenarlo es mejorar sus estadísticas, ya sea por entrenar sus EVs o Naturaleza y enseñarles Movimientos que favorezcan o aprovechen las estadísticas del pokemon.
 
-En este apartado exploraremos las facilidades que ofrece Mundo Pixelnet en cuanto al entrenamiento pokemon y un pequeño ejemplo de ello.
+En este apartado exploraremos las facilidades que ofrece Universo PokéNet en cuanto al entrenamiento pokemon y un pequeño ejemplo de ello.
 
 ## 🔬Estadisticas Base
 
@@ -22,7 +22,7 @@ Cada Pokémon, según su especie y tipo, tiene unas estadísticas base cuando el
 
 A partir de esta información podemos ir creando la estrategia para entrenar al pokemon. En el caso de Volcarona debes aprobechar al máximo su altisimo Ataque esp. junto con su velocidad o defensa esp. y enseñarle ataques de tipo especial.
 
-En Mundo Pixelnet está habilitado el comando `/wiki (Slot o Pokemon)` con el que podrás ver información sobre los Pokémon, incluidas las estadísticas base de cada uno.
+En Universo PokéNet está habilitado el comando `/wiki (Slot o Pokemon)` con el que podrás ver información sobre los Pokémon, incluidas las estadísticas base de cada uno.
 
 <img src="../../images/usuarios/Juniorcx/wiki1.png">
 
@@ -38,7 +38,7 @@ Los IVs en sí no son "entrenables", pero hay maneras de conseguir pokemones con
 
 Esto consiste en atrapar un mismo pokemon una y otra vez, es decir, capturar Rattata's una y otra vez (*OJO SOLO RATTATA*) y así la cadena va aumentando. El objetivo es conseguir Pokemones con 3 o más IVs perfectos (31 puntos).
 
-En [Mundo Pixelnet](../README.md) la Cadena de Captura funciona asi:
+En [Universo PokéNet](../README.md) la Cadena de Captura funciona asi:
 
 | Cadena de Captura | IVs Perfectos |
 | :---------------: | :-----------: |
@@ -106,7 +106,7 @@ Por ejemplo, estamos entrenando a un Pokémon de ataques físicos y sin ataques 
 
 Antes de capturarlos, se puede cambiar la Naturaleza de un Pokémon al tener la habilidad Sincronizar en el primer Pokémon de tu grupo, configurando la Naturaleza para que sea la misma que la del Pokémon con la habilidad. Esta habilidad la tienen Abra y Ralts.
 
-En Mundo Pixelnet después de atraparlo, la naturaleza solo se puede cambiar con un Modificador Naturalez que los puedes odtener como renconpensa de eventos, Gatchas o misiones y al ir completando la Dex, los encuentras en `/modificadores`; pero también se puede cambiar de manera efectiva al usar un Mint/Menta ![menta](../../images/iconos/mentas/MINT.png) en él, que cambia las estadísticas potenciadas y reducidas para reflejar otra Naturaleza en su lugar.
+En Universo PokéNet después de atraparlo, la naturaleza solo se puede cambiar con un Modificador Naturalez que los puedes odtener como renconpensa de eventos, Gatchas o misiones y al ir completando la Dex, los encuentras en `/modificadores`; pero también se puede cambiar de manera efectiva al usar un Mint/Menta ![menta](../../images/iconos/mentas/MINT.png) en él, que cambia las estadísticas potenciadas y reducidas para reflejar otra Naturaleza en su lugar.
 
 ## ⚔EVs o Puntos de esfuerzo
 
@@ -116,7 +116,7 @@ Los Pokémon pueden ganar seis tipos diferentes de EVs, uno por cada una de las 
 
 Continuando con el ejemplo de Volcarona, sería bueno entrenarle los EVs así: Ataque especial= 252, velocidad= 252 y Defensa=6; de esta manera aprovechamos su altísimo ataque especial.
 
-Hay varias maneras de entrenar EVs dentro de Mundo Pixelnet:
+Hay varias maneras de entrenar EVs dentro de Universo PokéNet:
 
 ### Objetos
 
@@ -191,7 +191,7 @@ El virus caduca automáticamente después de un período de tiempo de entre 1 y 
 
 ### Entrenamiento
 
-En Mundo Pixelnet están todas las mecánicas mencionadas y existen 2 `/warp` dedicados a este entrenamiento: uno es `/warp evs` donde encontrarás entrenadores con pokemones nivel 1 de cada una de las estadísticas, y `/warp entrenamientovip` para los usuarios con [Rango](https://tienda.mundopixelnet.com/) igual al otro pero con mejores pokemones. Las bayas las puedes encontrar salvajes o comprarlas en `/warp tiendas`.
+En Universo PokéNet están todas las mecánicas mencionadas y existen 2 `/warp` dedicados a este entrenamiento: uno es `/warp evs` donde encontrarás entrenadores con pokemones nivel 1 de cada una de las estadísticas, y `/warp entrenamientovip` para los usuarios con [Rango](https://tienda.mundopixelnet.com/) igual al otro pero con mejores pokemones. Las bayas las puedes encontrar salvajes o comprarlas en `/warp tiendas`.
 
 ## 💫Habilidades
 
@@ -221,7 +221,7 @@ Un movimiento o ataque (Move en inglés) es una técnica que los Pokémon son ca
 
 *  Los movimientos de la clase de **estado**, por lo general, no provocan daño o solamente provocan daño indirecto y tienen efectos de apoyo en combate. Algunos de estos movimientos pueden ser protectores (como Protección), curativos (como Pecuperación), subir o bajar características del Pokémon que los usa o las del oponente (como Maquinación o Chirrido), provocar problemas de estado (como Toxico) o incluso afectar al campo de combate (como Día Soleado o Púas), pero hay muchos más con efectos variados.
 
-En Mundo Pixelnet podemos enseñar movimientos fácilmente en `/warp tutores` con Tutores de Movimiento divididos por tipo y un Recordador de Movimientos. Además, en `/warp tiendas` hay un comerciante de MTs, sin embargo, los Tutores de Transferencia solo los puedes encontrar en el mundo survival y hay MTs que no se venden pero pueden ser "enseñados" de la misma manera que los DTs.
+En Universo PokéNet podemos enseñar movimientos fácilmente en `/warp tutores` con Tutores de Movimiento divididos por tipo y un Recordador de Movimientos. Además, en `/warp tiendas` hay un comerciante de MTs, sin embargo, los Tutores de Transferencia solo los puedes encontrar en el mundo survival y hay MTs que no se venden pero pueden ser "enseñados" de la misma manera que los DTs.
 
 Para Volcarona es recomendable enseñarle Movimientos de clase Especial como Danza Llamas o Zumbido y, gracias a que puede aprender Danza Aleto, podemos potenciarle.
 
@@ -231,7 +231,7 @@ Un nivel o level es la fuerza del Pokémon registrada en un número del 1 al 100
 
 Para subir de nivel, los Pokémon necesitan acumular experiencia obtenida en los combates Pokémon u objetos como los Caramelos Raros o Caramelos de Experiencia.
 
-En Mundo Pixelnet, los usuarios disponen de una zona espacial para aumentar de nivel fácilmente en `/warp niveles` o `/warp entrenamientovip` donde se enfrentará a Entrenadores con pokemones que no hacen daño, permitiendo ser derrotados más fácilmente, ganando experiencia de forma sensilla y equipamos al pokemon con un huevo de suerte y ganara el doble de experiencia o un repartir Exp y no tendría necesidad de combatir al pokemon.
+En Universo PokéNet, los usuarios disponen de una zona espacial para aumentar de nivel fácilmente en `/warp niveles` o `/warp entrenamientovip` donde se enfrentará a Entrenadores con pokemones que no hacen daño, permitiendo ser derrotados más fácilmente, ganando experiencia de forma sensilla y equipamos al pokemon con un huevo de suerte y ganara el doble de experiencia o un repartir Exp y no tendría necesidad de combatir al pokemon.
 
 ## 🎁Objetos de Utilidad
 

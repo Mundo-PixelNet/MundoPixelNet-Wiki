@@ -1,1 +1,1 @@
-# 🔧 Instalación
+# 🔧 Instalaciones

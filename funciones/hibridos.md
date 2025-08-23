@@ -1,11 +1,11 @@
 ---
 description: >-
-  Los Híbridos son Pokémon únicos de Mundo PixelNet. Aprende a crearlos.
+  Los Híbridos son Pokémon únicos de Universo PokéNet. Aprende a crearlos.
 ---
 
 # 🧬 Híbridos
 
-Los **Pokémon Híbridos son Pokémon creados por nosotros** que solo funcionan en Mundo PixelNet. Son Pokémon "fusionados" de otros dos, con sus estadísticas propias, ataques propios y formas propias. 
+Los **Pokémon Híbridos son Pokémon creados por nosotros** que solo funcionan en Universo PokéNet. Son Pokémon "fusionados" de otros dos, con sus estadísticas propias, ataques propios y formas propias. 
 
 A través de este sistema que hemos creado puedes conseguir tus propios Híbridos, que por ahora son unos pocos.
 

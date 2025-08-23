@@ -1,6 +1,6 @@
 # 🛠️ Staffs
 
-En [Mundo Pixelnet](../README.md) tenemos algunos rangos específicos para cada tarea, en la lista a continuación tendremos qué hace cada uno y quién ocupa actualmente ese rango.
+En [Universo PokéNet](../README.md) tenemos algunos rangos específicos para cada tarea, en la lista a continuación tendremos qué hace cada uno y quién ocupa actualmente ese rango.
 
 # ![Admin](../images/Rangos/Admin/adminArc.png) **Admin**
 El rango Admin tiene la máxima autoridad sobre el servidor, pudiendo tomar decisiones importantes.
