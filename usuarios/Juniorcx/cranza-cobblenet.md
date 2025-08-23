@@ -81,6 +81,57 @@ La Hierba Copia se activará cada vez que el Bloque de Pastura intente generar u
 La forma regional se hereda directamente de la madre sin necesidad de una Piedra Eterna.
 Esto también aplica a aspectos como las variantes de salto de Magikarp, el color de la flor de Flabébé, los Pokémon Valencianos, Mooshtank, etc.(por ver aun)
 
+### Naturaleza
+
+Si un progenitor posee la **Piedra Eterna** ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png), la **Naturaleza** de los descendientes siempre coincidirán con la naturaleza del progenitor que tiene equipada la Piedra Eterna. Si ambos progenitores poseen Piedras Eternas, los descendientes heredarán aleatoriamente una de las Naturalezas de los progenitores.
+
+
 ### Caza de shiny
 por ver aun
+
+# Crianza desde 0
+
+## Paso 1
+
+El primer paso es conseguir los Pokemones con buenos IVs (los IVs son los valores individuales con los que nace el pokemon y no pueden ser entrenados; van desde 0 a 31).
+
+Con el comando `/mostrar` y eligiendo el pokemon, verás sus atributos colocando el puntero sobre el nombre del pokemon en el chat, o directamente desde el menu de party con `M`.
+
+El objetivo es conseguir Pokemones con 3 o más IVs perfectos (31 puntos). Una vez tengamos nuestros Pokemones 3X31 IVs o más y género diferentes, iremos a la Boque de Pastura.
+
+> **NOTA IMPORTANTE:** Los Ivs **no** perfectos de uno de los pokemones deben coinsidir con los IVs perfectos del otro, así de esta manera están los 6 IVs perfectos entre ambos pokemones.
+
+## Paso 2
+
+Una vez tengamos a los dos Pokemones 3x31, con los 6 IVs perfectos entre ambos, macho y hembra, procedemos a equipar los objetos necesarios.
+
+1- Si o si es necesario equipar a un pokemon el Lazo Destino para que la cría herede 5 IVs, al otro le equipamos un Objeto Recio de la estadística que él tenga perfecta y el otro no.
+
+2- El objetivo es ir obteniendo crías con más IVs perfectos y cruzarles con uno de los padres o entre ellas, dependiendo del caso, hasta obtener dos crías 5x31 que fallen en diferentes IVs.
+
+3- Al tener los 2 Pokemons 5x31, procedemos a criarlos (como se explica en el punto 1) una y otra vez hasta obtener un Pokemon 6x31/**Perfecto** (*Preferiblemente macho macho*).
+
+Te preguntarás cómo se obtiene un pokemon 6x31 IVs si el Lazo Destino permite heredar solo 5, pues con suerte, ya que el Sexto IV es totalmente aleatorio, pude ser entre 0 y 31. Si se tiene la suficiente suerte, ese IV aleatorio puede ser un 31.
+
+> **Nota:** Una cría puede salir 6x31 de cualquier combinación de cría (mientras tengan entre ambos padres las 6 IVs). Ya sea dos 3x31 o un 1x31 y un 5x31, todo es cuestión de suerte.
+
+# 💙 Crianza a Partir de un Padre Perfecto (6X31 IVs)
+
+Esto es un poco más fácil basta con tener un Macho ![macho](../../images/usuarios/Juniorcx/male.png) 6x31 del mismo grupo huevo del pokemon que quieres criar, pero tiene algunas restricciones:
+
+1. Solo aplica a Pokemones que tengan **Género**, ![macho](../../images/usuarios/Juniorcx/male.png) o ![hembra](../../images/usuarios/Juniorcx/female.png).
+
+2. Solo aplica a Pokemones que puedan ser **Hembra** ![Female](../../images/usuarios/Juniorcx/female.png).
+
+3. Solo aplica a Pokemones que compartan un [**Grupo de Huevos**](https://bulbapedia.bulbagarden.net/wiki/Egg_Group).
+
+4- Los Grupos Huevo **Ditto** y **Undiscovered** no pueden criar por este método.
+
+En este método es que no es necesario tener una hembra Female 3x31 o más (es más rápido sí, pero no es estrictamente necesario). Basta con tener una hembra del pokemon que quieras criar y un macho 6x31 con un grupo huevo en comun.
+
+- Equipar a la hembra el Lazo Destino para que la cría herede 5 IVs y a macho le equipamos un Objero Recio de la estadística que te interese heredar a la cría o una Piedra Eterna si quieres pasar la naturaleza.
+
+- El punto aquí es ir obteniendo crías Hembras con más IVs perfectos y cruzarles con el Macho perfecto hasta obtener crías 5x31 o 6x31.
+
+*El lazo destino debe llevarlo siempre el pokemon con menos IVs*
 
