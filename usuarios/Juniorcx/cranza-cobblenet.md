@@ -1,7 +1,9 @@
 ---
 
 description: >-
+
   Creado por: Juniorcx 
+  
   Descripción: Guía, consejos y recopilación sobre la crianza dentro del servidor Venus/Cobblemon de Universo PixelNet gracias a Cobbreeding.
 ---
 
@@ -68,12 +70,14 @@ Si la madre posee una habilidad normal, la probabilidad de que la descendencia o
 ### Movimientos huevo
 
 Al criar se revisará todos los movimientos de ambos padres para transmitir todos los movimientos huevo que encuentren para al Pokémon en el huevo. Esto incluye el conjunto de movimientos actual, así como los movimientos en banca/guardados.
+
 ⚠️ *Si, por alguna razón, un movimiento de los padres no se transmite correctamente, intenta incluirlo en los movimientos en banca del Pokémon.*
 
 ##### Hierba Copia
 
 Si un Pokémon en pastoreo lleva una Hierba Copia, aprenderá movimientos de huevo del Pokémon con el que está en pastoreo. El Pokémon que enseña y el que recibe el movimiento no necesitan pertenecer al mismo grupo de huevos para que se transfiera.
 La Hierba Copia se activará cada vez que el Bloque de Pastura intente generar un huevo, incluso si no lo consigue.
+
 ⚠️ *Si, por alguna razón, un movimiento del conjunto de movimientos de los Pokémon padres no se transmite correctamente, intenta incluirlo en los movimientos de banca del Pokémon.*
 
 ### Formas y Aspectos
