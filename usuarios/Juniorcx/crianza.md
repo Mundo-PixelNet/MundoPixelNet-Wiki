@@ -3,7 +3,7 @@
 description: >-
 
   Creado por: Juniorcx 
-  Descripción: Guía, consejos y recopilación sobre la crianza dentro de Mundo Pixelnet.
+  Descripción: Guía, consejos y recopilación sobre la crianza dentro del servidor Escarlata/Pixelmon de Universo PixelNet.
   
 ---
 
