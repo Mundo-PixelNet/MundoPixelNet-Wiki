@@ -34,7 +34,7 @@ Primero expliquemos como funciona la crianza en Cobblemon.
 
 El Bloque de Pastura de Cobblemon te permite seleccionar Pokémon de tu PC para que deambulen por el área. Si colocas Pokémon compatibles dentro, podrían poner un huevo que aparecerá en la parte inferior del bloque. Puedes recogerlo haciendo clic derecho en el huevo o colocando una tolva debajo del Bloque de Pastura(por ver aun).
 
-Por defecto, hay un 50 % de probabilidad cada 10 minutos de que aparezca un huevo en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse.(por ver aun)
+Hay un 50 % de probabilidad cada 10 minutos de que aparezca un huevo en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse.(por ver aun)
 
 Recibirás el Huevo del Pokémon como objeto. Eclosionará con el tiempo si lo dejas en tu inventario. Puedes acelerar este proceso si tienes en tu equipo un Pokémon con la habilidad Cuerpo Llama, Armadura Magma o Motor de Vapor.
 
