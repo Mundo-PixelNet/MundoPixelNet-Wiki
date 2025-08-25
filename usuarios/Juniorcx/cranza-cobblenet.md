@@ -42,7 +42,7 @@ Recibirás el Huevo del Pokémon como objeto. Eclosionará con el tiempo si lo d
 
 Los padres pueden transmitir varios rasgos que poseen a su descendencia.
 
-### 🧬 IV
+###  IV
 
 En conjunto, los dos progenitores transmitirán tres de los seis IVs aleatorios a su descendencia. Estos IVs no se superpondrán entre sí (es decir, la madre y el padre no pueden transmitir ambos el mismo IV). Ciertos objetos equipados pueden influir en los IVs heredados.
 
@@ -121,7 +121,7 @@ Te preguntarás cómo se obtiene un pokemon 6x31 IVs si el Lazo Destino permite 
 
 > **Nota:** Una cría puede salir 6x31 de cualquier combinación de cría (mientras tengan entre ambos padres las 6 IVs). Ya sea dos 3x31 o un 1x31 y un 5x31, todo es cuestión de suerte.
 
-# 💙 Crianza a Partir de un Padre Perfecto (6X31 IVs)
+#  Crianza a Partir de un Padre Perfecto (6X31 IVs)
 
 Esto es un poco más fácil basta con tener un Macho ![macho](../../images/usuarios/Juniorcx/male.png) 6x31 del mismo grupo huevo del pokemon que quieres criar, pero tiene algunas restricciones:
 
@@ -188,7 +188,16 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro pokemon y de
 
 - Las Habilidades ocultas se pueden obtener con un Parche Habilidad ![ParcheHabilidad](../../images/iconos/pokemoncrianza/ABILITYPATCH.png) y si un pokemon tiene mas de una Habilidad normal puedes usar una Capsula Habilidad para cambiar entre ellas ![CapsulaHabilidad](../../images/iconos/pokemoncrianza/ABILITYCAPSULE.png). *NOTA: Si un pokemon tiene habilidad oculta no puede cambiar con objetos.*
 
+- Cobblemon impedirá que un Pokémon aparezca si el área es demasiado pequeña. Asegúrate de que haya suficiente espacio detrás Cobblemon impedirá que un Pokémon aparezca si el área es demasiado pequeña. Asegúrate de que haya suficiente espacio detrás del bloque de pastura.
 
-# 📂 Referencias
+- Los Pokémon en pastoreo aún pueden desmayarse debido a peligros. Trátalos como niños pequeños y mantén tu zona de pastoreo completamente a salvo de cualquier daño.
+
+- Si tus Pokémon en pastoreo desaparecen y vuelven al PC, puede deberse a que se alejan demasiado del Bloque de Pasto.
+
+- Si el bloque de pasto no está cargado, no funcionará y, por lo tanto, no intentará poner huevos. Asi que mantente cerca de este cuando estes criando.
+
+- El temporizador del huevo se puede desincronizar entre el servidor y el cliente. Sin embargo, el servidor es quien decide cuándo el huevo está listo para eclosionar. El huevo simplemente eclosionará cuando el temporizador del servidor llegue a 0.
+
+# 📂 Referencias 
 
 [Guía de Cobbrending](https://docs.google.com/document/d/1Hk5Iqnzm2NqkXGwzUIvPVFKhAwVHSEM3hyP3Qdhl5g4/edit?tab=t.0#heading=h.qwag8bhw3vol) por Ludichat. *Se tradujo y adapto al servidor*
