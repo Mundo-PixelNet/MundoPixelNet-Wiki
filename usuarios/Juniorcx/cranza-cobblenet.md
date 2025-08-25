@@ -141,3 +141,54 @@ En este método es que no es necesario tener una hembra Female 3x31 o más (es m
 
 *El lazo destino debe llevarlo siempre el pokemon con menos IVs*
 
+## 5x31 Asegurado
+
+* **Con un pokemon 6x31 y un 5x31.**
+El Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) va en el pokemon 5x31 y el pokemon 6x31 debe llevar el Recio del IV que le falla al 5x31.
+
+* **Con 2 pokemones 6x31.**
+El Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) va en un pokemon y el otro pokemon debe llevar un Recio del IV que quieras heredar o una Piedra Eterna ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png) para pasar naturaleza.
+
+# Crianza con Ditto ![Ditto](../../images/usuarios/Juniorcx/ditto.png)
+
+La crianza con Ditto es el método más efectivo para criar, ya que Ditto puede criar con casi todos los pokemones con cualquier género o sin genero ![macho](../../images/usuarios/Juniorcx/male.png) ![Female](../../images/usuarios/Juniorcx/female.png).
+Consideraciones:
+
+1. Aplica para todos los Grupos Huevos menos **Grupo Ditto** y **Grupo Undiscovered**.
+
+2. No puedes criar ditto con ditto.
+
+3. Aplica a pokemones que tengan género ![macho](../../images/usuarios/Juniorcx/male.png) ![Female](../../images/usuarios/Juniorcx/female.png) o no. *Mientras cumpla el punto 1 y 2.*
+
+## Con Dittos no 6x31
+
+Es un poco engorroso porque Ditto no puede aumentar sus IVs base, ya que solo es obtenible por captura. Lo mejor será capturar dittos lo más perfecto posible y cubrir entre todos ellos los 6 IVs.
+
+Para criar con este método, suponiendo que son 6 Dittos 1x31 y uno de cada IVs:
+
+1. Equipar a cada Ditto con el recio correspondiente a su IVs 31 y el Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) al pokemon que queremos criar.
+
+2. Una vez que las crías vayan heredando los IVs ir rotando los Dittos y las crías, es decir, si en la primera cría heredo el IV de Velocidad, a esa le equipamos el Lazo destino y lo criamos con otro Ditto por ejemplo el Ditto de Ataque, hasta que una cría herede ambos IVs.
+
+3. Seguir así sucesivamente hasta obtener una cría 5x31 o 6x31.
+
+> ***Es el mismo procedimiento para Dittos 2x31, 3x31, 4x31 y 5x31***
+
+## Con Ditto 6x31
+
+Este es por mucho el método más eficaz para criar pokemones.
+Para conseguir un Ditto 6x31 hay dos maneras, ya sea capturándolo salvaje (con mucha suerte) o comprándolo junto con el paquete de crianza de la tienda de [Universo PokéNet](../README.md) en [Tienda UniversoPixelnet](https://tienda.mundopixelnet.com/).
+Para criar con este método basta con cruzar el Ditto 6x31 con otro pokemon y después cruzarle con esa cría, teniendo en cuenta las consideraciones expuestas en el apartado anterior.
+
+1. Si solo quieres subir IVs es recomendable que el Ditto tenga equipado el Recio del IV que quieras heredar. Si no es así, equipar la Piedra Eterna ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png) si quieres pasar la Naturaleza del Ditto o el Lazo Destino ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) si quieres pasar la Naturaleza del otro pokemon con una Piedra Eterna equipada.
+
+2. Al ir engendrando crías con mejores IVs cruzar esas crias con el Ditto e ir rotando los recios de Ditto hasta obtener una cría 5x31 o 6x31.
+
+# 💌 Consejos
+
+- Las Habilidades ocultas se pueden obtener con un Parche Habilidad ![ParcheHabilidad](../../images/iconos/pokemoncrianza/ABILITYPATCH.png) y si un pokemon tiene mas de una Habilidad normal puedes usar una Capsula Habilidad para cambiar entre ellas ![CapsulaHabilidad](../../images/iconos/pokemoncrianza/ABILITYCAPSULE.png). *NOTA: Si un pokemon tiene habilidad oculta no puede cambiar con objetos.*
+
+
+# 📂 Referencias
+
+[Guía de Cobbrending](https://docs.google.com/document/d/1Hk5Iqnzm2NqkXGwzUIvPVFKhAwVHSEM3hyP3Qdhl5g4/edit?tab=t.0#heading=h.qwag8bhw3vol) por Ludichat. *Se tradujo y adapto al servidor*
