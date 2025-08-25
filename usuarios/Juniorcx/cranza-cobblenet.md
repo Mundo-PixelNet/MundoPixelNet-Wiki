@@ -85,6 +85,8 @@ La Hierba Copia se activará cada vez que el Bloque de Pastura intente generar u
 La forma regional se hereda directamente de la madre sin necesidad de una Piedra Eterna.
 Esto también aplica a aspectos como las variantes de salto de Magikarp, el color de la flor de Flabébé, los Pokémon Valencianos, Mooshtank, etc.(por ver aun)
 
+> **NOTA:** *Para los Pokemon Bebes no son necesarios los inciensos ya que al criar pokemon de esa especie el huevo resultante sera el pokemon bebe y no su forma base*
+
 ### Naturaleza
 
 Si un progenitor posee la **Piedra Eterna** ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png), la **Naturaleza** de los descendientes siempre coincidirán con la naturaleza del progenitor que tiene equipada la Piedra Eterna. Si ambos progenitores poseen Piedras Eternas, los descendientes heredarán aleatoriamente una de las Naturalezas de los progenitores.
@@ -123,13 +125,13 @@ Te preguntarás cómo se obtiene un pokemon 6x31 IVs si el Lazo Destino permite 
 
 Esto es un poco más fácil basta con tener un Macho ![macho](../../images/usuarios/Juniorcx/male.png) 6x31 del mismo grupo huevo del pokemon que quieres criar, pero tiene algunas restricciones:
 
-1. Solo aplica a Pokemones que tengan **Género**, ![macho](../../images/usuarios/Juniorcx/male.png) o ![hembra](../../images/usuarios/Juniorcx/female.png).
+- Solo aplica a Pokemones que tengan **Género**, ![macho](../../images/usuarios/Juniorcx/male.png) o ![hembra](../../images/usuarios/Juniorcx/female.png).
 
-2. Solo aplica a Pokemones que puedan ser **Hembra** ![Female](../../images/usuarios/Juniorcx/female.png).
+- Solo aplica a Pokemones que puedan ser **Hembra** ![Female](../../images/usuarios/Juniorcx/female.png).
 
-3. Solo aplica a Pokemones que compartan un [**Grupo de Huevos**](https://bulbapedia.bulbagarden.net/wiki/Egg_Group).
+- Solo aplica a Pokemones que compartan un [**Grupo de Huevos**](https://bulbapedia.bulbagarden.net/wiki/Egg_Group).
 
-4- Los Grupos Huevo **Ditto** y **Undiscovered** no pueden criar por este método.
+- Los Grupos Huevo **Ditto** y **Undiscovered** no pueden criar por este método.
 
 En este método es que no es necesario tener una hembra Female 3x31 o más (es más rápido sí, pero no es estrictamente necesario). Basta con tener una hembra del pokemon que quieras criar y un macho 6x31 con un grupo huevo en comun.
 
