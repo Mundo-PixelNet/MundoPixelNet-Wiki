@@ -17,7 +17,7 @@ Todos los tutoriales de instalaciones que encuentres aquí están orientados a l
 {% endhint %}
 
 ## 💨 Enlaces de utilidad
-{% content-ref url="instalacion/launcher.md" %} [launcher.md](instalacion/launcher.md) {% endcontent-ref %}
+{% content-ref url="instalacion/launcher.md" %} [instalacion/launcher.md](instalacion/launcher.md) {% endcontent-ref %}
 {% content-ref url="contribuir.md" %} [contribuir.md](contribuir.md) {% endcontent-ref %}
 
 ## 💻 IP: `play.universopokenet.com`
