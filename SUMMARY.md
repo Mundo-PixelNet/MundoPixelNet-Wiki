@@ -1,9 +1,14 @@
 # Table of contents
 
 * [👋 ¡Bienvenido a la Wiki!](README.md)
-* [🔧 Instalación](instalacion/README.md)
-  * [🍊 Pixelmon 1.16.5](instalacion/pixelmon-16.md)
 * [✍️ Contribuir](contribuir.md)
+
+# INSTALACIÓN
+* [⚙️ Launcher Universo PokéNet](instalacion/cobblemon/launcher.md)
+* [🌍 Cobblemon 1.21.1](instalacion/cobblemon/README.md)
+  * [CurseForge](instalacion/cobblemon/curseforge.md)
+  * [Modrinth](instalacion/cobblemon/modrinth.md)
+* [🍊 Pixelmon 1.16.5](instalacion/pixelmon-16.md)
 
 ## INFORMACIÓN
 
@@ -15,7 +20,7 @@
 * [🔒 Claims](informacion/claims.md)
 * [🔗 Vincular](informacion/vincular.md)
 
-## FUNCIONES
+## PIXELMON
 
 * [🧬 Híbridos](funciones/hibridos.md)
 * [⭐ Álbum](funciones/Album.md)
@@ -24,18 +29,13 @@
 * [👔 Estilos](funciones/estilos.md)
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
-
-## Desafíos de Gimnasio
 * [🏵️ Gimnasios](desafiosdegimnasio/README.md)
   * [![armoniamisticaicon](images/gimnasios/gym_1.png)Armonía Mística](desafiosdegimnasio/armoniamistica.md)
   * [![corazondepiedraicon](images/gimnasios/gym_2.png)Corazón de Piedra](desafiosdegimnasio/corazondepiedra.md)
-
-## GUÍAS
-
 * [💘 Crianza](usuarios/Juniorcx/crianza.md)
 * [🏋️‍♂️ Entrenamiento](usuarios/Juniorcx/Entrenamiento.md)
 
-## POKÉMON
+## POKÉMON DE PIXELMON
 
 * [📲 Pokédex](pokemon/README.md)
 * [🪄 Temporada 1](pokemon/temporada-1/README.md)
