@@ -4,7 +4,7 @@ description: >-
 ---
 
 # ⚙️ Launcher Universo PokéNet
-Con el Launcher de Universo PokéNet tendrás una experiencia de usuario mucho más cómoda **tanto para Cobblemon como Pixelmon**. Y las **actualizaciones del modpack se descargarán automáticamente** sin que tengas que hacer nada más. ¡Totalmente **recomendado usar nuestro Launcher**! Aunque si lo deseas, tenemos el modpack también disponible en [CurseForge](cobblemon/curseforge.md) y [Modrinth](cobblemon/modrinth.md).
+Con el Launcher de Universo PokéNet tendrás una experiencia de usuario mucho más cómoda **tanto para Cobblemon como Pixelmon**. Y las **actualizaciones del modpack se descargarán automáticamente** sin que tengas que hacer nada más. ¡Totalmente **recomendado usar nuestro Launcher**!
 
 <div style="text-align: center">
 <img src="../images/instalaciones/launcher/launcher1.png">
@@ -13,6 +13,10 @@ Con el Launcher de Universo PokéNet tendrás una experiencia de usuario mucho m
 Con nuestro Launcher podrás **iniciar sesión con tu cuenta de Microsoft** *(premium)* o con un nick *(no-premium)*. Pero <u>recomendamos encarecidamente usar una cuenta con Minecraft comprado</u>.
 
 **Usar este Launcher es totalmente seguro**. Incluso el código está [disponible en nuestro GitHub](https://github.com/Universo-PokeNet/UPN-Launcher) por si quieres echarle un vistazo.
+
+{% hint style="info" %}
+Si lo deseas, tenemos el modpack también disponible para los launchers de [CurseForge](cobblemon/curseforge.md) y [Modrinth](cobblemon/modrinth.md).
+{% endhint %}
 
 # 📝 Instalación
 La instalación del Launcher es bastante sencilla, y con instalarlo ya todos los modpacks se descargarán al iniciar el juego.
@@ -59,17 +63,25 @@ Con el modpack seleccionado también puedes ir a **Ajustes > Mods** y comprobar 
 <img src="../images/instalaciones/launcher/launcher8.png">
 </div>
 
-Por último, **puedes soltar los archivos .jar de mods que tú quieras**. Por ejemplo, algún mod de optimización que no está incluido en el modpack y prefieras usarlo
+Por último, **puedes soltar los archivos .jar de mods que tú quieras**. Por ejemplo, algún mod de optimización que no está incluido en el modpack y prefieras usarlo.
+
+{% hint style="danger" %}
+El modpack ya está hecho de esta forma para que funcione correctamente. No recomendamos añadir nada más para prevenir errores.
+{% endhint %}
 
 <div style="text-align: center">
 <img src="../images/instalaciones/launcher/launcher9.png">
 </div>
 
-El Launcher ofrece aún más opciones extras, como añadir más cuentas, configuraciones de Java o **asignación de RAM**. Puedes echarle un vistazo a todas las opciones disponibles y ver que mejor se adapta a tí.
+El Launcher ofrece aún más opciones extras, como añadir más cuentas, configuraciones de Java o **asignación de RAM**.
 
 <div style="text-align: center">
 <img src="../images/instalaciones/launcher/launcher10.png">
 </div>
+
+{% hint style="danger" %}
+No toques opciones que desconozcas para no romper la ejecución de Minecraft. Si tienes alguna duda, consúltala con el Staff.
+{% endhint %}
 
 # ⚠️ Reporte de fallos
 En caso de que tengas problemas o encuentres fallos con el Launcher puedes reportarlo vía Ticket en [nuestro servidor de Discord](https://discord.com/invite/p4wryDdutf).

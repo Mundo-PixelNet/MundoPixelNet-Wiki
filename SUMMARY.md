@@ -13,12 +13,11 @@
 ## INFORMACIÓN
 
 * [🎮 Normas](informacion/normas.md)
-* [🛒 Lista de Precios](informacion/economia.md)
-* [🛠️ Staffs](informacion/staffs.md)
 * [📩 Tickets](informacion/tickets.md)
 * [📥 Sugerencias](informacion/sugerencias.md)
 * [🔒 Claims](informacion/claims.md)
 * [🔗 Vincular](informacion/vincular.md)
+* [🛠️ Staffs](informacion/staffs.md)
 
 ## PIXELMON
 
@@ -27,6 +26,7 @@
   * [🎃 Álbum de Mimikyu](funciones/album/album_mimikyu.md)
   * [🎄 Album de Compañeros Navideños](funciones/album/album_pixelfest.md)
 * [👔 Estilos](funciones/estilos.md)
+* [🛒 Lista de Precios](informacion/economia.md)
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
 * [🏵️ Gimnasios](desafiosdegimnasio/README.md)
