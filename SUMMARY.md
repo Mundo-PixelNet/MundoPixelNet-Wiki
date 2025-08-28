@@ -4,7 +4,7 @@
 * [✍️ Contribuir](contribuir.md)
 
 # INSTALACIÓN
-* [⚙️ Launcher Universo PokéNet](instalacion/cobblemon/launcher.md)
+* [⚙️ Launcher Universo PokéNet](instalacion/launcher.md)
 * [🌍 Cobblemon 1.21.1](instalacion/cobblemon/README.md)
   * [CurseForge](instalacion/cobblemon/curseforge.md)
   * [Modrinth](instalacion/cobblemon/modrinth.md)
