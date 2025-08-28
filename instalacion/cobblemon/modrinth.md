@@ -6,7 +6,7 @@ description: >-
 # ⚙️ Launcher Universo PokéNet
 **Recomendamos usar nuestro Launcher** personalizado para la experiencia más cómoda y rápida. Tienes la guía de instalación aquí:
 
-{% content-ref url="instalacion/launcher.md" %} [instalacion/launcher.md](../launcher.md) {% endcontent-ref %}
+{% content-ref url="../launcher.md" %} [../launcher.md](../launcher.md) {% endcontent-ref %}
 
 # 📥 Descarga manual de Modrinth
 Si quieres descargar el archivo `.mrpack` directamente puedes hacerlo desde la [Web del Modpack en Modrinth](https://modrinth.com/modpack/servidor-universo-pokenet-cobblemon).
