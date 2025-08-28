@@ -21,7 +21,7 @@ Si lo deseas, tenemos el modpack también disponible para los launchers de [Curs
 # 📝 Instalación
 La instalación del Launcher es bastante sencilla, y con instalarlo ya todos los modpacks se descargarán al iniciar el juego.
 
-1. Dirígete a la [Web de Universo PokéNet]() y haz clic en el botón de **Launcher** para descargar la última versión *(en el GitHub anterior también tienes todas las descargas)*.
+1. Dirígete a la [Web de Universo PokéNet](https://universopokenet.com/) y haz clic en el botón de **Launcher** para descargar la última versión *(en el GitHub anterior también tienes todas las descargas)*.
 
 <div style="text-align: center">
 <img src="../images/instalaciones/launcher/launcher2.png">
