@@ -10,14 +10,10 @@ description: >-
 <img src="images/logos/UPN-fullLogo.png">
 </div>
 
-**¡Bienvenido a la Wiki de Universo PokéNet!** Esta wiki exclusiva del servidor recopilará información como funciones, Pokémon únicos, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido. 
-
-{% hint style="warning" %}
-Todos los tutoriales de instalaciones que encuentres aquí están orientados a launchers originales (premium). No solemos dar soporte a launchers no oficiales.
-{% endhint %}
+**¡Bienvenido a la Wiki de Universo PokéNet!** Esta wiki exclusiva del servidor recopilará información como funciones, Pokémon únicos, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido.
 
 ## 💨 Enlaces de utilidad
-{% content-ref url="instalacion/README.md" %} [README.md](instalacion/README.md) {% endcontent-ref %}
+{% content-ref url="instalacion/launcher.md" %} [instalacion/launcher.md](instalacion/launcher.md) {% endcontent-ref %}
 {% content-ref url="contribuir.md" %} [contribuir.md](contribuir.md) {% endcontent-ref %}
 
 ## 💻 IP: `play.universopokenet.com`
