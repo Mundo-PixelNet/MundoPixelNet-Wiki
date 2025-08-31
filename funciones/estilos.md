@@ -1,12 +1,12 @@
 # 👔 Estilos
 
-Los **Pokémon Pokémon con estilos son skins creadas por nosotros** que solo funcionan en Mundo PixelNet. Los estilos pueden tener su propio modelo además de una textura personalizada.
+Los **Pokémon Pokémon con estilos son skins creadas por nosotros** que solo funcionan en Universo PokéNet. Los estilos pueden tener su propio modelo además de una textura personalizada.
 
 A través de este sistema que hemos creado puedes elegir el estilo de tus pokémon.
 
 **Formas de conseguir Pokémon con estilo extra**:
 - Pase gratis o [premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3).
-- [Tienda oficial de Mundo Pixelnet](https://tienda.mundopixelnet.com/category/servidor-escarlata-1).
+- [Tienda oficial de Universo PokéNet](https://tienda.mundopixelnet.com/category/servidor-escarlata-1).
 - Misiones exclusivas del servidor.
 - Eventos especiales.
 

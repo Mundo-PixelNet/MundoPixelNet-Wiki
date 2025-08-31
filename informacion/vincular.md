@@ -1,6 +1,6 @@
 # 🔗 Vincular
 
-Vincular tu cuenta de Minecraft con Mundo Pixelnet ofrece varios beneficios que te serán útiles durante tu juego.
+Vincular tu cuenta de Minecraft con Universo PokéNet ofrece varios beneficios que te serán útiles durante tu juego.
 
 ## ¿Qué beneficios ofrece?
 
@@ -13,7 +13,7 @@ Vincular tu cuenta de Minecraft con Discord propocionará:
 
 ## ¿Cómo puedo vincular?
 
-1- Manda un mensaje privado al bot @Mundo PixelNet con el comando /vincular.
+1- Manda un mensaje privado al bot @Universo PokéNet con el comando /vincular.
 
 <div style="text-align: center">
 <img src="../images/informacion/vincular/vincular1.png">

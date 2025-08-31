@@ -1,6 +1,6 @@
 # 🎃 Pixelween 2024
 
-El Evento Pixelween _(2024)_ de Mundo PixelNet trae el verdadero clima de terror y suspense, al mismo tiempo que juega con la ternura de Mimikyu.
+El Evento Pixelween _(2024)_ de Universo PokéNet trae el verdadero clima de terror y suspense, al mismo tiempo que juega con la ternura de Mimikyu.
 
 ### 📺 Tráiler de pixelween
 

@@ -1,6 +1,6 @@
 # 🪄 Temporada 1
 
-La Temporada Mística _(Temporada 1)_ de Mundo PixelNet trae una temática de magia, relatos míticos, fantasía.
+La Temporada Mística _(Temporada 1)_ de Universo PokéNet trae una temática de magia, relatos míticos, fantasía.
 
 ### 📺 Tráiler de la temporada mística
 

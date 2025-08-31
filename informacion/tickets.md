@@ -5,7 +5,7 @@ Los tickets son la mejor forma de comunicarte con el [Staff](staffs.md) en caso 
 
 ## ¿Como abrir un ticket?
 
-Para abrir un ticket primero debes estar en el [servidor de Discord exclusivo de Mundo Pixelnet](https://discord.com/invite/mundopixelnet), luego busca el canal llamado [📩︙tickets
+Para abrir un ticket primero debes estar en el [servidor de Discord exclusivo de Universo PokéNet](https://discord.com/invite/mundopixelnet), luego busca el canal llamado [📩︙tickets
 ](https://discord.com/channels/978703875961921556/1127948019090858015) y haz clic en “Crear Ticket”.
 
 <div style="text-align: center">

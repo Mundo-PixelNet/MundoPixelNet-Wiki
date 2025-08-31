@@ -1,6 +1,6 @@
 # 🎄 Pixelfest 2024
 
-El Evento Pixelfest _(2024)_ de Mundo PixelNet trae el ambiente festivo de fin de año para el servidor.
+El Evento Pixelfest _(2024)_ de Universo PokéNet trae el ambiente festivo de fin de año para el servidor.
 
 Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que varios Pokémon nuevos, un nuevo Gatchas, y más.
 

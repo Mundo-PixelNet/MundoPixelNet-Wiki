@@ -71,7 +71,7 @@ Recuerda que si ves a un usuario sospechoso, debes reportarlo en [⁠📩︙tick
 
 ## 14. Negocios
 
-Mundo PixelNet está abierto a negocios/trueques entre usuarios siempre y cuando el contenido negociado sea del servidor y no externo. Por ende, **no se puede negociar con dinero real** (esto incluye compras en la tienda del servidor).
+Universo PokéNet está abierto a negocios/trueques entre usuarios siempre y cuando el contenido negociado sea del servidor y no externo. Por ende, **no se puede negociar con dinero real** (esto incluye compras en la tienda del servidor).
 
 ## 15. Tickets
 
