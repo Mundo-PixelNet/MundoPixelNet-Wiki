@@ -8,6 +8,9 @@ description: >-
 
 {% content-ref url="../launcher.md" %} [../launcher.md](../launcher.md) {% endcontent-ref %}
 
+# 🎥 Vídeo de Instalación
+{% embed url="https://youtu.be/iF8hoiRrA00?si=uZ9IYz04SSej8anX&t=109" %}
+
 # 📥 Descarga manual de CurseForge
 Si quieres descargar el archivo `.zip` directamente puedes hacerlo desde la [Web del Modpack en CurseForge](https://www.curseforge.com/minecraft/modpacks/servidor-universo-pokenet-cobblemon).
 

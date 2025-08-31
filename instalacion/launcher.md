@@ -18,6 +18,9 @@ Con nuestro Launcher podrás **iniciar sesión con tu cuenta de Microsoft** *(pr
 Si lo deseas, tenemos el modpack también disponible para los launchers de [CurseForge](cobblemon/curseforge.md) y [Modrinth](cobblemon/modrinth.md).
 {% endhint %}
 
+# 🎥 Vídeo de Instalación
+{% embed url="https://youtu.be/iF8hoiRrA00?si=yiIeiSUd1hSUYo8e" %}
+
 # 📝 Instalación
 La instalación del Launcher es bastante sencilla, y con instalarlo ya todos los modpacks se descargarán al iniciar el juego.
 

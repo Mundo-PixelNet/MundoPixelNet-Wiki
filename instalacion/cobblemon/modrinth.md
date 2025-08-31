@@ -8,6 +8,9 @@ description: >-
 
 {% content-ref url="../launcher.md" %} [../launcher.md](../launcher.md) {% endcontent-ref %}
 
+# 🎥 Vídeo de Instalación
+{% embed url="https://youtu.be/iF8hoiRrA00?si=Rff3fp9OccNd-Zek&t=181" %}
+
 # 📥 Descarga manual de Modrinth
 Si quieres descargar el archivo `.mrpack` directamente puedes hacerlo desde la [Web del Modpack en Modrinth](https://modrinth.com/modpack/servidor-universo-pokenet-cobblemon).
 
