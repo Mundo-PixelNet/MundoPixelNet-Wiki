@@ -1,11 +1,8 @@
-- - -
-
+---
 description: >-
-
 Creado por: Juniorcx
-
-## Descripción: Guía, consejos y recopilación sobre la crianza dentro del servidor Venus/Cobblemon de Universo PixelNet gracias a Cobbreeding.
-
+Descripción: Guía, consejos y recopilación sobre la crianza dentro del servidor Venus/Cobblemon de Universo PixelNet gracias a Cobbreeding.
+---
 # 💘 Guía de Crianza
 
 En esta guía aprenderás a criar desde 0, criar con naturaleza, pasar movimientos huevo y más...
@@ -23,23 +20,23 @@ En general, se necesitan dos Pokémon de sexos opuestos para reproducirse ![male
 | **Cinto Recio/Power Belt** | ![Cinto Recio](../../images/iconos/pokemoncrianza/POWERBELT.png) | **Lente Recia/Power Lens** | ![Lente Recia](../../images/iconos/pokemoncrianza/POWERLENS.png) |
 | **Banda Recia/Power Band** | ![Banda Recia](../../images/iconos/pokemoncrianza/POWERBAND.png) | **Franja Recia/Power Anklet** | ![Franja Recia](../../images/iconos/pokemoncrianza/POWERANKLET.png) |
 
-# Crianza en Cobbreeding/Cobblemon
+# 🎎 Crianza en Cobbreeding/Cobblemon
 
 Primero expliquemos cómo funciona la crianza en Cobblemon.
 
 ## ¿Cómo funciona?
-
+ 
 El Bloque de Pastura de Cobblemon te permite seleccionar Pokémon de tu PC para que deambulen por el área. Si colocas Pokémon compatibles dentro, podrían poner un huevo que aparecerá en la parte inferior del bloque. Puedes recogerlo haciendo clic derecho en el huevo o colocando una tolva debajo del Bloque de Pastura para que los huevos se recojan automáticamente.
 
 Hay un 30 % de probabilidad cada 20 minutos de que aparezca un huevo en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse.
 
 Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo dejas en tu inventario. Puedes acelerar este proceso si tienes en tu equipo un Pokémon con la habilidad **Cuerpo Llama**, **Armadura Magma** o **Motor de Vapor**.
 
-## Herencia
+## 🎭 Herencia
 
 Los padres pueden transmitir varios rasgos que poseen a su descendencia.
 
-### IV
+### 🧬 IV
 
 En conjunto, los dos progenitores transmitirán tres de los seis IVs aleatorios a su descendencia. Estos IVs no se superpondrán entre sí (es decir, la madre y el padre no pueden transmitir ambos el mismo IV). Ciertos objetos equipados pueden influir en los IVs heredados.
 
@@ -57,7 +54,7 @@ En conjunto, los dos progenitores transmitirán tres de los seis IVs aleatorios 
 | Banda Recia/Power Band ![Banda Recia](../../images/iconos/pokemoncrianza/POWERBAND.png) | Defensa Especial/Special Defense |
 | Franja Recia/Power Anklet ![Franja Recia](../../images/iconos/pokemoncrianza/POWERANKLET.png) | Velocidad/Speed |
 
-### Habilidad
+### 💫 Habilidad
 
 La crianza cruzada añade una pequeña probabilidad de obtener la **habilidad oculta** del Pokémon mediante la reproducción. Si la madre ya posee su habilidad oculta, la probabilidad de transmitirla será del 60%.  
 Si la madre posee una habilidad normal, la probabilidad de que la descendencia obtenga la habilidad oculta será:
@@ -65,37 +62,37 @@ Si la madre posee una habilidad normal, la probabilidad de que la descendencia o
 * 10% si el Pokémon tiene 3 habilidades posibles.
 * 20% si el Pokémon tiene 2 habilidades posibles.
 
-### Movimientos huevo
+### ![](../../images/usuarios/Juniorcx/egg1.png) Movimientos huevo
 
 Al criar, se revisarán todos los movimientos de ambos padres para transmitir los movimientos huevo que correspondan al Pokémon en el huevo. Esto incluye el conjunto de movimientos actual, así como los movimientos en banca/guardados.
 
 ⚠️ *Si, por alguna razón, un movimiento de los padres no se transmite correctamente, intenta incluirlo en los movimientos en banca del Pokémon.*
 
-#### Hierba Copia
+### ![](../../images/usuarios/Juniorcx/mirrorherb.png) Hierba Copia
 
 Si un Pokémon en pastoreo lleva una **Hierba Copia**, aprenderá movimientos de huevo del Pokémon con el que está en pastoreo. El Pokémon que enseña y el que recibe el movimiento no necesitan pertenecer al mismo grupo de huevos para que se transfiera.  
 La Hierba Copia se activará cada vez que el Bloque de Pastura intente generar un huevo, incluso si no lo consigue.
 
 ⚠️ *Si, por alguna razón, un movimiento del conjunto de movimientos de los Pokémon padres no se transmite correctamente, intenta incluirlo en los movimientos de banca del Pokémon.*
 
-### Formas y Aspectos
+### 🎨 Formas y Aspectos
 
 La forma regional se hereda directamente de la madre sin necesidad de una Piedra Eterna.  
-Esto también aplica a aspectos como las variantes de salto de Magikarp, el color de la flor de Flabébé, los Pokémon Valencianos, Mooshtank, etc. *(por confirmar aún)*.
+Esto también aplica a aspectos como las variantes de salto de Magikarp, el color de la flor de Flabébé, los Pokémon Valencianos, Mooshtank, etc.
 
 > **NOTA:** *Para los Pokémon bebés no son necesarios los inciensos, ya que al criar Pokémon de esa especie, el huevo resultante será el Pokémon bebé y no su forma base.*
 
-### Naturaleza
+### 🍀 Naturaleza
 
 Si un progenitor posee la **Piedra Eterna** ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png), la **Naturaleza** de los descendientes siempre coincidirá con la naturaleza del progenitor que tiene equipada la Piedra Eterna. Si ambos progenitores poseen Piedras Eternas, los descendientes heredarán aleatoriamente una de las naturalezas de los progenitores.
 
-### Caza de shiny
+### ✨ Caza de shiny
 
 El método de caza shiny es el **Masuda**. Este método aumentará las probabilidades en X4 si los padres tienen un Entrenador Original (OT) diferente.
 
-# Crianza desde 0
+# 💚 Crianza desde 0
 
-## Paso 1
+## 🔹 Paso 1
 
 El primer paso es conseguir los Pokémon con buenos IVs (los IVs son los valores individuales con los que nace el Pokémon y no pueden ser entrenados; van desde 0 a 31).
 
@@ -105,7 +102,7 @@ El objetivo es conseguir Pokémon con 3 o más IVs perfectos (31 puntos). Una ve
 
 > **NOTA IMPORTANTE:** Los IVs **no** perfectos de uno de los Pokémon deben coincidir con los IVs perfectos del otro, para que entre ambos estén los 6 IVs perfectos.
 
-## Paso 2
+## 🔹 Paso 2
 
 Una vez tengamos a los dos Pokémon 3x31, con los 6 IVs perfectos entre ambos, macho y hembra, procedemos a equipar los objetos necesarios.
 
@@ -117,7 +114,7 @@ Te preguntarás cómo se obtiene un Pokémon 6x31 IVs si el Lazo Destino permite
 
 > **Nota:** Una cría puede salir 6x31 de cualquier combinación de cría (mientras tengan entre ambos padres los 6 IVs). Ya sea dos 3x31 o un 1x31 y un 5x31, todo es cuestión de suerte.
 
-# Crianza a Partir de un Padre Perfecto (6X31 IVs)
+# 💙 Crianza a Partir de un Padre Perfecto (6X31 IVs)
 
 Esto es un poco más fácil, basta con tener un macho ![macho](../../images/usuarios/Juniorcx/male.png) 6x31 del mismo grupo huevo del Pokémon que quieres criar, pero tiene algunas restricciones:
 
@@ -133,14 +130,14 @@ En este método no es necesario tener una hembra 3x31 o más (es más rápido s�
 
 *El Lazo Destino debe llevarlo siempre el Pokémon con menos IVs.*
 
-## 5x31 Asegurado
+## 💛 5x31 Asegurado
 
-* **Con un Pokémon 6x31 y un 5x31:**  
+* 🟡 **Con un Pokémon 6x31 y un 5x31:**  
 El **Lazo Destino** ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) va en el Pokémon 5x31 y el Pokémon 6x31 debe llevar el **Recio** del IV que le falta al 5x31.
-* **Con 2 Pokémon 6x31:**  
+* 🟡 **Con 2 Pokémon 6x31:**  
 El **Lazo Destino** ![Lazo Destino](../../images/iconos/pokemoncrianza/DESTINYKNOT.png) va en un Pokémon y el otro Pokémon debe llevar un **Recio** del IV que quieras heredar o una **Piedra Eterna** ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png) para pasar naturaleza.
 
-# Crianza con Ditto ![Ditto](../../images/usuarios/Juniorcx/ditto.png)
+# 💜 Crianza con Ditto ![Ditto](../../images/usuarios/Juniorcx/ditto.png)
 
 La crianza con Ditto es el método más efectivo para criar, ya que Ditto puede criar con casi todos los Pokémon con cualquier género o sin género ![macho](../../images/usuarios/Juniorcx/male.png) ![Female](../../images/usuarios/Juniorcx/female.png).
 
@@ -150,7 +147,7 @@ La crianza con Ditto es el método más efectivo para criar, ya que Ditto puede 
 2. No puedes criar Ditto con Ditto.
 3. Aplica a Pokémon que tengan género ![macho](../../images/usuarios/Juniorcx/male.png) ![Female](../../images/usuarios/Juniorcx/female.png) o no, *mientras cumpla el punto 1 y 2.*
 
-## Con Dittos no 6x31
+## 🟣 Con Dittos no 6x31
 
 Es un poco engorroso porque Ditto no puede aumentar sus IVs base, ya que solo es obtenible por captura. Lo mejor será capturar Dittos lo más perfectos posible y cubrir entre todos ellos los 6 IVs.
 
@@ -162,10 +159,10 @@ Para criar con este método, suponiendo que son 6 Dittos 1x31 y uno de cada IV:
 
 > ***Es el mismo procedimiento para Dittos 2x31, 3x31, 4x31 y 5x31.***
 
-## Con Ditto 6x31
+## 🟣 Con Ditto 6x31
 
 Este es por mucho el método más eficaz para criar Pokémon.  
-Para conseguir un Ditto 6x31 hay dos maneras: capturándolo salvaje (con mucha suerte) o comprándolo junto con el paquete de crianza de la tienda de [Universo PokéNet](../README.md) en [Tienda UniversoPixelnet](https://tienda.mundopixelnet.com/).
+Para conseguir un Ditto 6x31 hay dos maneras: capturándolo salvaje (con mucha suerte) o comprándolo junto con el paquete de crianza de la tienda de [Universo PokéNet](../README.md) en [Tienda UniversoPixelnet](https://tienda.mundopixelnet.com/)***(Proximamente)***.
 
 Para criar con este método basta con cruzar el Ditto 6x31 con otro Pokémon y después cruzarlo con esa cría, teniendo en cuenta las consideraciones expuestas en el apartado anterior.
 
@@ -174,8 +171,6 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro Pokémon y d
 
 # 💌 Consejos
 
-* Las habilidades ocultas se pueden obtener con un **Parche Habilidad** ![ParcheHabilidad](../../images/iconos/pokemoncrianza/ABILITYPATCH.png). Si un Pokémon tiene más de una habilidad normal, puedes usar una **Cápsula Habilidad** para cambiar entre ellas ![CapsulaHabilidad](../../images/iconos/pokemoncrianza/ABILITYCAPSULE.png).  
-  *NOTA: Si un Pokémon tiene habilidad oculta, no puede cambiar con objetos.*
 * Cobblemon impedirá que un Pokémon aparezca si el área es demasiado pequeña. Asegúrate de que haya suficiente espacio detrás del Bloque de Pastura.
 * Los Pokémon en pastoreo aún pueden desmayarse debido a peligros. Mantén tu zona de pastoreo completamente a salvo de cualquier daño.
 * Si tus Pokémon en pastoreo desaparecen y vuelven al PC, puede deberse a que se alejan demasiado del Bloque de Pastura.
