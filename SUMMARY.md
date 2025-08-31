@@ -19,7 +19,7 @@
 * [🔗 Vincular](informacion/vincular.md)
 * [🛠️ Staffs](informacion/staffs.md)
 
-# COBBLEMON
+## COBBLEMON
 * [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
 
 ## PIXELMON
