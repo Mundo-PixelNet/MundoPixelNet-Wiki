@@ -1,7 +1,7 @@
 # 🛡️ Sets de Equipamiento
-En Cobblemon de Universo PokéNet **tienes la capacidad de construir armaduras y herramientas de materiales que Minecraft no ofrece.**
+En Cobblemon de Universo PokéNet **tienes la capacidad de construir armaduras y herramientas de materiales que Minecraft no ofrece.**.
 
-Con el tiempo se irán añadiendo más Sets, comprueba esta entrada de la Wiki periódicamente, por si se ha añadido otro Set de Equipamiento.
+**Cada Set de Armadura tiene un efecto especial permanente.** Con el tiempo se irán añadiendo más Sets, comprueba esta entrada de la Wiki periódicamente, por si se ha añadido otro Set de Equipamiento.
 
 ## 📚 Sets
 | Set | Entrada |
