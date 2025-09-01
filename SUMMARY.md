@@ -21,6 +21,7 @@
 
 ## COBBLEMON
 * [🛡️ Sets de Equipamiento](cobblemon/equipamiento/equipamiento.md)
+  * [Amatista](cobblemon/equipamiento/amethyst.md)
 * [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
 
 ## PIXELMON
