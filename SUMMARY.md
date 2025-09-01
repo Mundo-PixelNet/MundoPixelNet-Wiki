@@ -20,6 +20,7 @@
 * [🛠️ Staffs](informacion/staffs.md)
 
 ## COBBLEMON
+* [🛡️ Sets de Equipamiento](cobblemon/equipamiento/equipamiento.md)
 * [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
 
 ## PIXELMON
