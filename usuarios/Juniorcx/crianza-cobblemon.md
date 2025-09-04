@@ -1,6 +1,7 @@
 ---
 description: >-
     Creado por: Juniorcx
+    
     Guía, consejos y recopilación sobre la crianza dentro del servidor Venus/Cobblemon de Universo PixelNet gracias a Cobbreeding.
 ---
 # 💘 Guía de Crianza
