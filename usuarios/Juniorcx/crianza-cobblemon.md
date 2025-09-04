@@ -1,6 +1,7 @@
 ---
 description: >-
     Creado por: Juniorcx
+    
     Guía, consejos y recopilación sobre la crianza dentro del servidor Venus/Cobblemon de Universo PixelNet gracias a Cobbreeding.
 ---
 # 💘 Guía de Crianza
@@ -28,7 +29,7 @@ Primero expliquemos cómo funciona la crianza en Cobblemon.
  
 El Bloque de Pastura de Cobblemon te permite seleccionar Pokémon de tu PC para que deambulen por el área. Si colocas Pokémon compatibles dentro, podrían poner un huevo que aparecerá en la parte inferior del bloque. Puedes recogerlo haciendo clic derecho en el huevo o colocando una tolva debajo del Bloque de Pastura para que los huevos se recojan automáticamente.
 
-Hay un 30 % de probabilidad cada 20 minutos de que aparezca un huevo en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse.
+Hay un 40 % de probabilidad cada 10 minutos de que aparezca un huevo en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse.
 
 Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo dejas en tu inventario. Puedes acelerar este proceso si tienes en tu equipo un Pokémon con la habilidad **Cuerpo Llama**, **Armadura Magma** o **Motor de Vapor**.
 
@@ -68,7 +69,7 @@ Al criar, se revisarán todos los movimientos de ambos padres para transmitir lo
 
 ⚠️ *Si, por alguna razón, un movimiento de los padres no se transmite correctamente, intenta incluirlo en los movimientos en banca del Pokémon.*
 
-### ![](../../images/usuarios/Juniorcx/mirrorherb.png) Hierba Copia
+#### ![](../../images/usuarios/Juniorcx/mirrorherb.png) Hierba Copia
 
 Si un Pokémon en pastoreo lleva una **Hierba Copia**, aprenderá movimientos de huevo del Pokémon con el que está en pastoreo. El Pokémon que enseña y el que recibe el movimiento no necesitan pertenecer al mismo grupo de huevos para que se transfiera.  
 La Hierba Copia se activará cada vez que el Bloque de Pastura intente generar un huevo, incluso si no lo consigue.
@@ -86,7 +87,7 @@ Esto también aplica a aspectos como las variantes de salto de Magikarp, el colo
 
 Si un progenitor posee la **Piedra Eterna** ![Piedra Eterna](../../images/iconos/pokemoncrianza/EVERSTONE.png), la **Naturaleza** de los descendientes siempre coincidirá con la naturaleza del progenitor que tiene equipada la Piedra Eterna. Si ambos progenitores poseen Piedras Eternas, los descendientes heredarán aleatoriamente una de las naturalezas de los progenitores.
 
-### ✨ Caza de shiny
+## ✨ Caza de shiny
 
 El método de caza shiny es el **Masuda**. Este método aumentará las probabilidades en X4 si los padres tienen un Entrenador Original (OT) diferente.
 
@@ -176,6 +177,7 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro Pokémon y d
 * Si tus Pokémon en pastoreo desaparecen y vuelven al PC, puede deberse a que se alejan demasiado del Bloque de Pastura.
 * Si el Bloque de Pastura no está cargado, no funcionará y, por lo tanto, no intentará poner huevos. Mantente cerca de este cuando estés criando.
 * El temporizador del huevo se puede desincronizar entre el servidor y el cliente. Sin embargo, el servidor es quien decide cuándo el huevo está listo para eclosionar. El huevo simplemente eclosionará cuando el temporizador del servidor llegue a 0.
+* Puedes colocar varias parejas compatibles o un padre y dos madres compatibles pero solo se colocara un huevo cada ciclo alternando entre las especies que esten pastando.
 
 # 📂 Referencias
 
