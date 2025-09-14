@@ -5,7 +5,7 @@ Fabricar el Set de Armadura de Prismarina da el siguiente efecto al equiparse el
 
 | Objeto | Fabricación del objeto | Extras |
 | - | - | - |
-| ![Prismarina](../../images/cobblemon/equipamientos/prismarine/prismarine_upgrade.png) **Mejora de Prismarina** | ![Crafteo](../../images/cobblemon/equipamientos/prismarine/crafteo_upgrade.png) | ![Mejora vacía](../../images/cobblemon/equipamientos/blank_upgrade.png) [Mejora vacía](equipamiento.md)
+| ![Prismarina](../../images/cobblemon/equipamientos/prismarine/prismarine_upgrade.png) **Mejora de Prismarina** | Cómpralo en `/warp esencias` por **150 Esencias** y **10 Fragmentos de Prismarina** | |
 | ![Prismarina](../../images/cobblemon/equipamientos/prismarine/prismarine_helmet.png) **Casco de Prismarina** | ![Crafteo](../../images/cobblemon/equipamientos/prismarine/crafteo_casco.png) | El Casco se fabrica con el encantamiento ya aplicado de **Protección IV** |
 | ![Prismarina](../../images/cobblemon/equipamientos/prismarine/prismarine_chestplate.png) **Peto de Prismarina** | ![Crafteo](../../images/cobblemon/equipamientos/prismarine/crafteo_peto.png) | Esta pieza es irrompible |
 | ![Prismarina](../../images/cobblemon/equipamientos/prismarine/prismarine_leggings.png) **Grebas de Prismarina** | ![Crafteo](../../images/cobblemon/equipamientos/prismarine/crafteo_grebas.png) | Esta pieza es irrompible |
