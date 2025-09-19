@@ -55,6 +55,8 @@ En conjunto, los dos progenitores transmitirán tres de los seis IVs aleatorios 
 | Banda Recia/Power Band ![Banda Recia](../../images/iconos/pokemoncrianza/POWERBAND.png) | Defensa Especial/Special Defense |
 | Franja Recia/Power Anklet ![Franja Recia](../../images/iconos/pokemoncrianza/POWERANKLET.png) | Velocidad/Speed |
 
+> **Si ambos padres poseen un objeto recio se heredará solo 1 aleatoriamente**
+
 ### 💫 Habilidad
 
 La crianza cruzada añade una pequeña probabilidad de obtener la **habilidad oculta** del Pokémon mediante la reproducción. Si la madre ya posee su habilidad oculta, la probabilidad de transmitirla será del 60%.  
@@ -99,16 +101,18 @@ El primer paso es conseguir los Pokémon con buenos IVs (los IVs son los valores
 
 Con el comando `/mostrar` y eligiendo el Pokémon, verás sus atributos colocando el puntero sobre el nombre del Pokémon en el chat, o directamente desde el menú de party con `M`.
 
-El objetivo es conseguir Pokémon con 3 o más IVs perfectos (31 puntos). Una vez tengamos nuestros Pokémon 3X31 IVs o más y de géneros diferentes, iremos al Bloque de Pastura.
+Una vez tengamos nuestros Pokémon un 31 IVs o más y de géneros diferentes, iremos al Bloque de Pastura.
 
 > **NOTA IMPORTANTE:** Los IVs **no** perfectos de uno de los Pokémon deben coincidir con los IVs perfectos del otro, para que entre ambos estén los 6 IVs perfectos.
 
 ## 🔹 Paso 2
 
-Una vez tengamos a los dos Pokémon 3x31, con los 6 IVs perfectos entre ambos, macho y hembra, procedemos a equipar los objetos necesarios.
+Una vez tengamos a los dos Pokémon 1x31, 2x31 o 3x31, con los 6 IVs perfectos entre ambos, macho y hembra, procedemos a equipar los objetos necesarios.
 
 1. Es necesario equipar a un Pokémon el **Lazo Destino** para que la cría herede 5 IVs. Al otro le equipamos un **Objeto Recio** de la estadística que él tenga perfecta y el otro no.
+
 2. El objetivo es ir obteniendo crías con más IVs perfectos y cruzarlas con uno de los padres o entre ellas, dependiendo del caso, hasta obtener dos crías 5x31 que fallen en diferentes IVs.
+
 3. Al tener los 2 Pokémon 5x31, procedemos a criarlos (como se explica en el punto 1) una y otra vez hasta obtener un Pokémon 6x31/**Perfecto** (*preferiblemente macho*).
 
 Te preguntarás cómo se obtiene un Pokémon 6x31 IVs si el Lazo Destino permite heredar solo 5. Esto se logra con suerte, ya que el sexto IV es totalmente aleatorio y puede ser entre 0 y 31. Si se tiene la suficiente suerte, ese IV aleatorio puede ser un 31.
