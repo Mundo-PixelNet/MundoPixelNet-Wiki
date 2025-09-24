@@ -35,7 +35,9 @@ Primero expliquemos cómo funciona la crianza en Cobblemon.
 
 El **Bloque de Pastura** de Cobblemon te permite seleccionar Pokémon de tu PC para que deambulen por el área. Al colocar 2 Pokémon compatibles dentro y **haciendo click derecho con la Azada de Oro** ![](../../images/usuarios/Juniorcx/golden_hoe.png) para activar el **Modo de Crianza**, podrían poner un huevo que aparecerá en la parte inferior del bloque. Puedes recogerlo haciendo clic derecho en el huevo o colocando una tolva debajo del Bloque de Pastura para que los huevos se recojan automáticamente.
 
-Hay un 40 % de probabilidad cada 10 minutos de que aparezca un **Huevo** en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse. Hay un límite de los Bloques de pastura que puedes activar el Modo Crianza simultáneamente, atualmente es **5 Bloques de Pastura por Jugador**.
+video 1
+
+Hay un 40 % de probabilidad cada 10 minutos de que aparezca un **Huevo** en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse. Hay un límite de los Bloques de pastura que puedes activar el Modo Crianza simultáneamente, atualmente es **12 Bloques de Pastura por Jugador**.
 
 Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo dejas en tu inventario. Puedes acelerar este proceso si tienes en tu equipo un Pokémon con la habilidad **Cuerpo Llama**, **Armadura Magma** o **Motor de Vapor**.
 
@@ -46,7 +48,7 @@ Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo d
     * Modo Crianza, el cual permite a los Pokemon que esten Pastando poner Huevos siempre y cuando cumplan los requisitos y sean compatibles.
     Estos Modos se alternan/activan haciendo click derecho con una Azada de Oro.
 * Solo pueden tener activado 5 Bloques de Pastura en Modo Crianza por Jugador.
-* Todos los Pokemon que vendas deben estar castrados con `/castrar`, esto para evitar que el comprador lo pueda reproducir. De incumplir esto puedes ser sancionado por el Staff del servidor.
+* Todos los Pokemon que vendas deben estar castrados con `/neutr`, esto para evitar que el comprador lo pueda reproducir. De incumplir esto puedes ser sancionado por el Staff del servidor.
 
 ### Para los Rangos
 
