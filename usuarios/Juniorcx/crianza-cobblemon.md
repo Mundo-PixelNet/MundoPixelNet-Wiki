@@ -54,9 +54,9 @@ Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo d
 
 Algunos rangos comprados en la tienda tienen acceso a comandos que facilitan la crianza estos son:
 
-El /hatch: Al usar `/forcehatch` con el Huevo en la mabo podemos abrir directamente un huevo sin necesidad de caminar.
+El /forcehatch: Al usar `/forcehatch` con el Huevo en la mabo podemos abrir directamente un huevo sin necesidad de esperar el tiempo.
 
-El /breed: Al usar `/forcebreed (slot) (slot)` podemos criar sin necesidad de un Bloque de Pastura y da el huevo directamente. Slot es la posición en tu equipo de los Pokemon que quieres criar.
+El /forcebreed: Al usar `/forcebreed (slot) (slot)` podemos criar sin necesidad de un Bloque de Pastura y da el huevo directamente. Slot es la posición en tu equipo de los Pokemon que quieres criar.
 
 ![Ejemplo](../../images/usuarios/Juniorcx/comandos.gif)
 
