@@ -35,11 +35,13 @@ Primero expliquemos cómo funciona la crianza en Cobblemon.
 
 El **Bloque de Pastura** de Cobblemon te permite seleccionar Pokémon de tu PC para que deambulen por el área. Al colocar 2 Pokémon compatibles dentro y **haciendo click derecho con la Azada de Oro** ![](../../images/usuarios/Juniorcx/golden_hoe.png) para activar el **Modo de Crianza**, podrían poner un huevo que aparecerá en la parte inferior del bloque. Puedes recogerlo haciendo clic derecho en el huevo o colocando una tolva debajo del Bloque de Pastura para que los huevos se recojan automáticamente.
 
-video 1
+![Ejemplo](../../images/usuarios/Juniorcx/azada.gif)
 
 Hay un 40 % de probabilidad cada 10 minutos de que aparezca un **Huevo** en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse. Hay un límite de los Bloques de pastura que puedes activar el Modo Crianza simultáneamente, atualmente es **12 Bloques de Pastura por Jugador**.
 
 Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo dejas en tu inventario. Puedes acelerar este proceso si tienes en tu equipo un Pokémon con la habilidad **Cuerpo Llama**, **Armadura Magma** o **Motor de Vapor**.
+
+![Ejemplo](../../images/usuarios/Juniorcx/huevo-cobble.png)
 
 ### Datos Importantes
 
@@ -49,14 +51,17 @@ Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo d
     Estos Modos se alternan/activan haciendo click derecho con una Azada de Oro.
 * Solo pueden tener activado 5 Bloques de Pastura en Modo Crianza por Jugador.
 * Todos los Pokemon que vendas deben estar castrados con `/neuter (slot)`, esto para evitar que el comprador lo pueda reproducir. De incumplir esto puedes ser sancionado por el Staff del servidor.
+* Para comprobar si un Pokemon esta castrado usa el comando `/checkbreedable (slot)`.
 
 ### Para los Rangos
 
 Algunos rangos comprados en la tienda tienen acceso a comandos que facilitan la crianza estos son:
 
-El /hatch: Al usar `/hatch` con el Huevo en la mabo podemos abrir directamente un huevo sin necesidad de caminar.
+El /hatch: Al usar `/forcehatch` con el Huevo en la mabo podemos abrir directamente un huevo sin necesidad de caminar.
 
-El /breed: Al usar `/breed (slot) (slot)` podemos criar sin necesidad de un Bloque de Pastura y da el huevo directamente. Slot es la posición en tu equipo de los Pokemon que quieres criar.
+El /breed: Al usar `/forcebreed (slot) (slot)` podemos criar sin necesidad de un Bloque de Pastura y da el huevo directamente. Slot es la posición en tu equipo de los Pokemon que quieres criar.
+
+![Ejemplo](../../images/usuarios/Juniorcx/comandos.gif)
 
 > **NOTA: Estos comandos tiene un cooldown/tiempo de espera asociado a cada rango**
 
