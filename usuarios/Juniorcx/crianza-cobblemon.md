@@ -32,7 +32,7 @@ Primero expliquemos cómo funciona la crianza en Cobblemon.
 
 El **Bloque de Pastura** de Cobblemon te permite seleccionar Pokémon de tu PC para que deambulen por el área. Al colocar 2 Pokémon compatibles dentro y **haciendo click derecho con la Azada de Oro** ![](../../images/usuarios/Juniorcx/golden_hoe.png) para activar el **Modo de Crianza**, podrían poner un huevo que aparecerá en la parte inferior del bloque. Puedes recogerlo haciendo clic derecho en el huevo o colocando una tolva debajo del Bloque de Pastura para que los huevos se recojan automáticamente.
 
-![Ejemplo](../../images/usuarios/Juniorcx/azada.gif)
+![Ejemplo](../../images/usuarios/Juniorcx/azada1.gif)
 
 Hay un 40 % de probabilidad cada 10 minutos de que aparezca un **Huevo** en el Bloque de Pastura si los Pokémon que contiene pueden reproducirse. Hay un límite de los Bloques de pastura que puedes activar el Modo Crianza simultáneamente, atualmente es **12 Bloques de Pastura por Jugador**.
 
