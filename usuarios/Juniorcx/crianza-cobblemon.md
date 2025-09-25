@@ -54,13 +54,19 @@ Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo d
 
 Algunos rangos comprados en la tienda tienen acceso a comandos que facilitan la crianza estos son:
 
-El /forcehatch: Al usar `/forcehatch` con el Huevo en la mabo podemos abrir directamente un huevo sin necesidad de esperar el tiempo.
+El /forcehatch: Al usar `/forcehatch` con el Huevo en la mano podemos abrir directamente un huevo sin necesidad de esperar el tiempo.
 
 El /forcebreed: Al usar `/forcebreed (slot) (slot)` podemos criar sin necesidad de un Bloque de Pastura y da el huevo directamente. Slot es la posición en tu equipo de los Pokemon que quieres criar.
 
 ![Ejemplo](../../images/usuarios/Juniorcx/comandos.gif)
 
 > **NOTA: Estos comandos tiene un cooldown/tiempo de espera asociado a cada rango**
+
+### Video
+
+**Como Funciona**
+
+{% embed url="https://www.youtube.com/watch?v=RKzWINgLCo8" %}
 
 ## 🎭 Herencia
 
@@ -209,6 +215,10 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro Pokémon y d
 * Si el Bloque de Pastura no está cargado, no funcionará y, por lo tanto, no intentará poner huevos. Mantente cerca de este cuando estés criando.
 * El temporizador del huevo se puede desincronizar entre el servidor y el cliente. Sin embargo, el servidor es quien decide cuándo el huevo está listo para eclosionar. El huevo simplemente eclosionará cuando el temporizador del servidor llegue a 0.
 * Puedes colocar varias parejas compatibles o un padre y dos madres compatibles pero solo se colocara un huevo cada ciclo alternando entre las especies que esten pastando.
+
+# 🎞 Videos
+
+* **[Como Funciona](https://www.youtube.com/watch?v=RKzWINgLCo8)**
 
 # 📂 Referencias
 
