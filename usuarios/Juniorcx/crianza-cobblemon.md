@@ -62,6 +62,8 @@ El /forcebreed: Al usar `/forcebreed (slot) (slot)` podemos criar sin necesidad 
 
 > **NOTA: Estos comandos tiene un cooldown/tiempo de espera asociado a cada rango**
 
+En nuestro canal de YouTube encontraras un video explicativo con ejemplos, [Link aqui.](https://www.youtube.com/watch?v=RKzWINgLCo8) 
+
 ## 🎭 Herencia
 
 Los padres pueden transmitir varios rasgos que poseen a su descendencia.
@@ -209,6 +211,10 @@ Para criar con este método basta con cruzar el Ditto 6x31 con otro Pokémon y d
 * Si el Bloque de Pastura no está cargado, no funcionará y, por lo tanto, no intentará poner huevos. Mantente cerca de este cuando estés criando.
 * El temporizador del huevo se puede desincronizar entre el servidor y el cliente. Sin embargo, el servidor es quien decide cuándo el huevo está listo para eclosionar. El huevo simplemente eclosionará cuando el temporizador del servidor llegue a 0.
 * Puedes colocar varias parejas compatibles o un padre y dos madres compatibles pero solo se colocara un huevo cada ciclo alternando entre las especies que esten pastando.
+
+# 🎞 Videos
+
+* **[Como Funciona](https://www.youtube.com/watch?v=RKzWINgLCo8)**
 
 # 📂 Referencias
 
