@@ -46,7 +46,7 @@ Recibirás el huevo del Pokémon como objeto. Eclosionará con el tiempo si lo d
     * Modo Pastoreo, donde los Pokemon pueden pasear libremente.
     * Modo Crianza, el cual permite a los Pokemon que esten Pastando poner Huevos siempre y cuando cumplan los requisitos y sean compatibles.
     Estos Modos se alternan/activan haciendo click derecho con una Azada de Oro.
-* Solo pueden tener activado 5 Bloques de Pastura en Modo Crianza por Jugador.
+* Solo pueden tener activado 12 Bloques de Pastura en Modo Crianza por Jugador.
 * Todos los Pokemon que vendas deben estar castrados con `/neuter (slot)`, esto para evitar que el comprador lo pueda reproducir. De incumplir esto puedes ser sancionado por el Staff del servidor.
 * Para comprobar si un Pokemon esta castrado usa el comando `/checkbreedable (slot)`.
 
