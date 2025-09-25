@@ -62,7 +62,9 @@ El /forcebreed: Al usar `/forcebreed (slot) (slot)` podemos criar sin necesidad 
 
 > **NOTA: Estos comandos tiene un cooldown/tiempo de espera asociado a cada rango**
 
-En nuestro canal de YouTube encontraras un video explicativo con ejemplos, [Link aqui.](https://www.youtube.com/watch?v=RKzWINgLCo8) 
+En nuestro canal de YouTube encontraras un video explicativo con ejemplos.
+
+{% embed url="https://www.youtube.com/watch?v=RKzWINgLCo8" %}
 
 ## 🎭 Herencia
 
