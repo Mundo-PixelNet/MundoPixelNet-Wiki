@@ -151,7 +151,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 32 | [Ominous Wind](https://www.wikidex.net/wiki/Viento_Aciago) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | 52 | [Dark Pulse](https://www.wikidex.net/wiki/Pulso_Umbrio) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) |
 | 36 | [Giga Drain](https://www.wikidex.net/wiki/Giga_Drenado) | ![Tipo planta](../images/pokemon/tipos/tipo_planta.png) | 56 | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) |
-| 40 | [Pollen Puff](https://www.wikidex.net/wiki/Ráfaga_de_polen) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | 60 | [Psychic](https://www.wikidex.net/wiki/Psíquico) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 40 | [Pollen Puff](https://www.wikidex.net/wiki/Ráfaga_de_polen) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | 60 | [Psychic](https://www.wikidex.net/wiki/Psíquico) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
 | 44 | [Destiny Bond](https://www.wikidex.net/wiki/Vínculo_Destino) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | 68 | [Calm Mind](https://www.wikidex.net/wiki/Paz_Mental) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
 | 48 | [Shadow Ball](https://www.wikidex.net/wiki/Bola_Sombra) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | 72 | [Bug Buzz](https://www.wikidex.net/wiki/Zumbido) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
 {% endtab %}
@@ -169,7 +169,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Rage Powder](https://www.wikidex.net/wiki/Polvo_Ira) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Sticky Web](https://www.wikidex.net/wiki/Red_Pegajosa) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Energy Ball](https://www.wikidex.net/wiki/Energibola) | ![Tipo planta](../images/pokemon/tipos/tipo_planta.png) |
 | [Shadow Claw](https://www.wikidex.net/wiki/Garra_Umbría) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | [Dazzling Gleam](https://www.wikidex.net/wiki/Brillo_Mágico) | ![Tipo hada](../images/pokemon/tipos/tipo_hada.png) | [Mystical Fire](https://www.wikidex.net/wiki/Llama_Mística) | ![Tipo fuego](../images/pokemon/tipos/tipo_fuego.png) |
-| [Pain Split](https://www.wikidex.net/wiki/Divide_Dolor) *(Tutor)* | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) | [Trick](https://www.wikidex.net/wiki/Truco) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) | [Ally Switch](https://www.wikidex.net/wiki/Cambia_Fuerza) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
+| [Pain Split](https://www.wikidex.net/wiki/Divide_Dolor) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) | [Trick](https://www.wikidex.net/wiki/Truco) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) | [Ally Switch](https://www.wikidex.net/wiki/Cambia_Fuerza) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
 {% endtab %}
 {% endtabs %}
 
@@ -179,7 +179,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 
 ### Información
 
-**Silkorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Inicial]. Es la bifurcación femenina, especializada en Ataque Físico y Velocidad.
+**Silkorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Inicial]. Es la bifurcación femenina, especializada en Ataque Físico.
 
 | **Artwork** | ![Artwork de Silkorn](../images/pokemon/hollownest/3.png) |
 | :---: | :--- |
