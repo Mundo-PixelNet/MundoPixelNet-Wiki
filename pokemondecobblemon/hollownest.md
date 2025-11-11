@@ -40,7 +40,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 {% tab title="Por nivel" %}
 | Nivel | Movimiento | Tipo |
 | :---: | :---: | :---: |
-| 1 | [Astonish](https://www.wikidex.net/wiki/Impresionar) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| 1 | [Astonish](https://www.wikidex.net/wiki/Impresionar) | ![Tipo fantasma](images/pokemon/tipos/tipo_fantasma.png) |
 | 1 | [Tackle](https://www.wikidex.net/wiki/Placaje) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | 2 | [String Shot](https://www.wikidex.net/wiki/Disparo_demora) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | 5 | [Leech Life](https://www.wikidex.net/wiki/Chupavidas) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
