@@ -1,4 +1,4 @@
-# 🐛 Línea Evolutiva: Glowmite
+# 🐛 Línea Evolutiva: Silkorn y verskorn
 
 ---
 
