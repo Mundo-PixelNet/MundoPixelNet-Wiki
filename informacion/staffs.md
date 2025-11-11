@@ -32,7 +32,7 @@ El rango Developer tiene la función de programar los complementos y bots del se
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
-| ![Skin de Cheminsky](../images/Rangos/Helper/Steve.png)|**Cheminsky**|
+| ![Skin de Cheminsky](../images/Rangos/Dev/Steve.png)|**Cheminsky**|
 
 # 🧱 **Builder**
 El rango Builder tiene la función de construir los mapas del servidor, ya sea para una misión o cualquier cosa nueva que implique construcción
@@ -46,5 +46,5 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | ![Skin de ITSFrankoGG](../images/Rangos/Helper/ITSFrankoGG.png)|**ITSFrankoGG**|
 | ![Skin de Alowgamer05](../images/Rangos/Builder/Alowgamer05.png)|**Alowgamer05**|
 | ![Skin de KIEV1245](../images/Rangos/Builder/KIEV1215.png)|**KIEV1245**|
-| ![Skin de Mai_075](../images/Rangos/Builder/KIEV1215.png)|**Mai_075**|
+| ![Skin de Mai_075](../images/Rangos/Builder/Mai_075.png)|**Mai_075**|
 
