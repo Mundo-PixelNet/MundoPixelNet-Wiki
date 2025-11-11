@@ -6,15 +6,17 @@
 
 ![Glowmite](../images/pokemon/hollownest/image.png)
 
+### ℹ️ Información Básica
+
 | Detalle | Información |
 | :--- | :--- |
 | **Tipo Primario** | Bicho (Bug) |
 | **Habilidades** | Shield Dust, Unnerve. **Oculta (H):** Run Away. |
 | **Evoluciona a** | **Chryseil** (Nivel 12) |
 
-#### ✨ Estadísticas Base y EVs
+### ✨ Estadísticas Base y EVs
 
-| Stat | Valor Base | EV Yield |
+| Stat | Valor Base | EV Yield (Puntos de Esfuerzo) |
 | :--- | :--- | :--- |
 | HP | 45 | 0 |
 | Ataque (Attack) | 30 | 1 |
@@ -30,15 +32,17 @@
 
 ![Chryseil](../images/pokemon/hollownest/2.png)
 
+### ℹ️ Información Básica
+
 | Detalle | Información |
 | :--- | :--- |
 | **Tipo Primario** | Bicho (Bug) |
 | **Habilidades** | Shed Skin. **Oculta (H):** Rock Head. |
 | **Evoluciona a** | **Silkorn** (Hembra, Nivel 32) / **Veskorn** (Macho, Nivel 32) |
 
-#### ✨ Estadísticas Base y EVs
+### ✨ Estadísticas Base y EVs
 
-| Stat | Valor Base | EV Yield |
+| Stat | Valor Base | EV Yield (Puntos de Esfuerzo) |
 | :--- | :--- | :--- |
 | HP | 50 | 0 |
 | Ataque (Attack) | 35 | 0 |
@@ -54,15 +58,17 @@
 
 ![Veskorn](../images/pokemon/hollownest/4.png)
 
+### ℹ️ Información Básica y Especialidad
+
 | Detalle | Información |
 | :--- | :--- |
 | **Tipos** | Bicho (Bug) / Fantasma (Ghost) |
 | **Habilidades** | Pressure, Swarm. **Oculta (H):** Mold Breaker. |
 | **Especialidad** | Atacante Especial. |
 
-#### ✨ Estadísticas Base y EVs
+### ✨ Estadísticas Base y EVs
 
-| Stat | Valor Base | EV Yield |
+| Stat | Valor Base | EV Yield (Puntos de Esfuerzo) |
 | :--- | :--- | :--- |
 | HP | 90 | 0 |
 | Ataque (Attack) | 75 | 0 |
@@ -72,7 +78,7 @@
 | Velocidad (Speed) | 90 | 0 |
 | **Total** | **540** | **2** |
 
-#### 👻 Movimientos Destacados por Nivel
+### 👻 Movimientos Destacados por Nivel
 
 | Nivel | Movimiento |
 | :--- | :--- |
@@ -87,15 +93,17 @@
 
 ![Silkorn](..images/pokemon/hollownest/3.png)
 
+### ℹ️ Información Básica y Especialidad
+
 | Detalle | Información |
 | :--- | :--- |
 | **Tipos** | Bicho (Bug) / Lucha (Fighting) |
 | **Habilidades** | Sharpness, Swarm. **Oculta (H):** Speed Boost. |
 | **Especialidad** | Atacante Físico y Velocidad. |
 
-#### ✨ Estadísticas Base y EVs
+### ✨ Estadísticas Base y EVs
 
-| Stat | Valor Base | EV Yield |
+| Stat | Valor Base | EV Yield (Puntos de Esfuerzo) |
 | :--- | :--- | :--- |
 | HP | 80 | 0 |
 | **Ataque (Attack)** | **125** | **2** |
@@ -105,7 +113,14 @@
 | **Velocidad (Speed)** | **101** | 0 |
 | **Total** | **541** | **2** |
 
-#### 🥋 Movimientos Destacados por Nivel
+### 🥋 Movimientos Destacados por Nivel
+
+| Nivel | Movimiento |
+| :--- | :--- |
+| 32 | Pin Missile |
+| 36 | Bulk Up |
+| 40 | X-Scissor |
+| 72 | Close Combat |
 
 | Nivel | Movimiento |
 | :--- | :--- |
