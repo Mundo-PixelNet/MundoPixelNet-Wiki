@@ -19,7 +19,7 @@ El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para ma
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/BonMurci.png)|**ITSFrankoGG**|
 | ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
 | ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
-| ![Skin de YamatoDust](../images/Rangos/Mod/Y4MAT0sama.png)|**YamatoDust**|
+| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
 
 # ![Helper](../images/Rangos/Helper/helperarc.png) **Helper**
 El rango Helper tiene la función de ayudar con dudas y responder preguntas para mantener la mejor jugabilidad del usuario.
