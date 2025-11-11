@@ -11,7 +11,7 @@
 | **Artwork** | ![Artwork de Glowmite](../images/pokemon/hollownest/image.png) |
 | :---: | :--- |
 | **Tipo Primario** | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
-| **Habilidades** | [Dust Shield](https://www.wikidex.net/wiki/Escudo_polvo)<br>[Unnerve]([https://www.wikidex.net/wiki/Intimidación](https://www.wikidex.net/wiki/Nerviosismo)) |
+| **Habilidades** | [Dust Shield](https://www.wikidex.net/wiki/Escudo_polvo)<br>[Unnerve](https://www.wikidex.net/wiki/Nerviosismo)) |
 | **Hab. oculta** | [Run Away](https://www.wikidex.net/wiki/Fuga) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
 | **Evoluciona a** | Chryseil (Nivel 12) |
