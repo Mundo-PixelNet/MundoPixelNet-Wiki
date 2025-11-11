@@ -53,7 +53,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | :---: | :---: | :---: | :---: |
 | [Snore](https://www.wikidex.net/wiki/Ronquido) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) | [Electro Web](https://www.wikidex.net/wiki/Electrotela) | ![Tipo eléctrico](../images/pokemon/tipos/tipo_electrico.png) |
 | [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Tera Blast](https://www.wikidex.net/wiki/Teraexplosión) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
-| [Hex](https://www.wikidex.net/wiki/Infortunio) *(Tutor)* | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | | |
+| [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | | |
 {% endtab %}
 {% endtabs %}
 
