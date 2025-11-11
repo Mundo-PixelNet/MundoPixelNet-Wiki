@@ -25,7 +25,7 @@ El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para ma
 El rango Helper tiene la función de ayudar con dudas y responder preguntas para mantener la mejor jugabilidad del usuario.
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de Teyu_31](../images/Rangos/Helper/Locaru.png)|**Teyu_31**|
+| ![Skin de teyu_31](../images/Rangos/Helper/Teyu_31.png)|**teyu_31**|
 
 # ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
 El rango Developer tiene la función de programar los complementos y bots del servidor, haciéndolo aún más único y original.
