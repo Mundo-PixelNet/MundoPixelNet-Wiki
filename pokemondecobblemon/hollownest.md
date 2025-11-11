@@ -53,7 +53,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | :---: | :---: | :---: | :---: |
 | [Snore](https://www.wikidex.net/wiki/Ronquido) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Electro Web](https://www.wikidex.net/wiki/Electrotela) | ![Tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png) |
 | [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Tera Blast](https://www.wikidex.net/wiki/Teraexplosión) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| [Hex](https://www.wikidex.net/wiki/Infortunio) *(Tutor)* | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | | |
+| [Hex](https://www.wikidex.net/wiki/Infortunio) *(Tutor)* | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | | |
 {% endtab %}
 {% endtabs %}
 
@@ -95,11 +95,11 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 {% tab title="Por nivel (Adicionales)" %}
 | Nivel | Movimiento | Tipo |
 | :---: | :---: | :---: |
-| 15 | [Iron Defense](https://www.wikidex.net/wiki/Defensa_férrea) | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
-| 18 | [Body Slam](https://www.wikidex.net/wiki/Golpe_cuerpo) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 25 | [Confuse Ray](https://www.wikidex.net/wiki/Rayo_confuso) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 27 | [Counter](https://www.wikidex.net/wiki/Contador) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 30 | [U-Turn](https://www.wikidex.net/wiki/Ida_y_vuelta) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| 15 | [Iron Defense](https://www.wikidex.net/wiki/Defensa_férrea) | ![Tipo acero](../images/pokemon/tipos/tipo_acero.png) |
+| 18 | [Body Slam](https://www.wikidex.net/wiki/Golpe_cuerpo) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
+| 25 | [Confuse Ray](https://www.wikidex.net/wiki/Rayo_confuso) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) |
+| 27 | [Counter](https://www.wikidex.net/wiki/Contador) | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) |
+| 30 | [U-Turn](https://www.wikidex.net/wiki/Ida_y_vuelta) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
 {% endtab %}
 
 {% tab title="MTs y Tutor (Selección)" %}
