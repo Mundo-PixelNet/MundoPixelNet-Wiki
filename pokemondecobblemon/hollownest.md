@@ -41,18 +41,18 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Nivel | Movimiento | Tipo |
 | :---: | :---: | :---: |
 | 1 | [Astonish](https://www.wikidex.net/wiki/Impresionar) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) |
-| 1 | [Tackle](https://www.wikidex.net/wiki/Placaje) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 2 | [String Shot](https://www.wikidex.net/wiki/Disparo_demora) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| 5 | [Leech Life](https://www.wikidex.net/wiki/Chupavidas) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| 7 | [Harden](https://www.wikidex.net/wiki/Fortaleza) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 10 | [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| 1 | [Tackle](https://www.wikidex.net/wiki/Placaje) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
+| 2 | [String Shot](https://www.wikidex.net/wiki/Disparo_demora) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
+| 5 | [Leech Life](https://www.wikidex.net/wiki/Chupavidas) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
+| 7 | [Harden](https://www.wikidex.net/wiki/Fortaleza) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
+| 10 | [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
 {% endtab %}
 
 {% tab title="MTs y Tutor" %}
 | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: |
-| [Snore](https://www.wikidex.net/wiki/Ronquido) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Electro Web](https://www.wikidex.net/wiki/Electrotela) | ![Tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png) |
-| [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Tera Blast](https://www.wikidex.net/wiki/Teraexplosión) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Snore](https://www.wikidex.net/wiki/Ronquido) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) | [Electro Web](https://www.wikidex.net/wiki/Electrotela) | ![Tipo eléctrico](../images/pokemon/tipos/tipo_electrico.png) |
+| [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Tera Blast](https://www.wikidex.net/wiki/Teraexplosión) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
 | [Hex](https://www.wikidex.net/wiki/Infortunio) *(Tutor)* | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | | |
 {% endtab %}
 {% endtabs %}
@@ -63,11 +63,11 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 ### Información
 
-**Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada X (1)](./). Es la fase crisálida y de transición.
+**Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Inicial]. Es la fase crisálida y de transición.
 
 | **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
 | :---: | :--- |
-| **Tipo Primario** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| **Tipo Primario** | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidad** | [Shed Skin](https://www.wikidex.net/wiki/Mudar) |
 | **Hab. oculta** | [Rock Head](https://www.wikidex.net/wiki/Cabeza_roca) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
@@ -105,9 +105,9 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 {% tab title="MTs y Tutor (Selección)" %}
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Swords Dance](https://www.wikidex.net/wiki/Danza_espada) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Toxic](https://www.wikidex.net/wiki/Tóxico) | ![Tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) | [Pin Missile](https://www.wikidex.net/wiki/Pin_misil) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| [Earthquake](https://www.wikidex.net/wiki/Terremoto) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Earth Power](https://www.wikidex.net/wiki/Tierra_viva) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Protect](https://www.wikidex.net/wiki/Protección) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| [Reflect](https://www.wikidex.net/wiki/Reflejo) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Light Screen](https://www.wikidex.net/wiki/Pantalla_luz) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| [Swords Dance](https://www.wikidex.net/wiki/Danza_espada) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) | [Toxic](https://www.wikidex.net/wiki/Tóxico) | ![Tipo veneno](../images/pokemon/tipos/tipo_veneno.png) | [Pin Missile](https://www.wikidex.net/wiki/Pin_misil) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
+| [Earthquake](https://www.wikidex.net/wiki/Terremoto) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Earth Power](https://www.wikidex.net/wiki/Tierra_viva) | ![Tipo tierra](../images/pokemon/tipos/tipo_tierra.png) | [Protect](https://www.wikidex.net/wiki/Protección) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
+| [Reflect](https://www.wikidex.net/wiki/Reflejo) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) | [Light Screen](https://www.wikidex.net/wiki/Pantalla_luz) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) |
 {% endtab %}
 {% endtabs %}
 
@@ -117,11 +117,11 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 
 ### Información
 
-**Veskorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada X (1)](./). Es la bifurcación masculina, especializada en Ataque Especial.
+**Veskorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
 
 | **Artwork** | ![Artwork de Veskorn](../../images/pokemon/hollownest/4.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) |
 | **Habilidades** | [Pressure](https://www.wikidex.net/wiki/Presión)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
 | **Hab. oculta** | [Mold Breaker](https://www.wikidex.net/wiki/Rompemoldes) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
@@ -149,27 +149,27 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 {% tab title="Por nivel" %}
 | Nivel | Movimiento | Tipo | Nivel | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 32 | [Ominous Wind](https://www.wikidex.net/wiki/Viento_Aciago) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | 52 | [Dark Pulse](https://www.wikidex.net/wiki/Pulso_Umbrio) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 36 | [Giga Drain](https://www.wikidex.net/wiki/Giga_Drenado) | ![Tipo planta](../../images/pokemon/tipos/tipo_planta.png) | 56 | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 40 | [Pollen Puff](https://www.wikidex.net/wiki/Ráfaga_de_polen) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | 60 | [Psychic](https://www.wikidex.net/wiki/Psíquico) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 44 | [Destiny Bond](https://www.wikidex.net/wiki/Vínculo_Destino) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | 68 | [Calm Mind](https://www.wikidex.net/wiki/Paz_Mental) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 48 | [Shadow Ball](https://www.wikidex.net/wiki/Bola_Sombra) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | 72 | [Bug Buzz](https://www.wikidex.net/wiki/Zumbido) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| 32 | [Ominous Wind](https://www.wikidex.net/wiki/Viento_Aciago) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | 52 | [Dark Pulse](https://www.wikidex.net/wiki/Pulso_Umbrio) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) |
+| 36 | [Giga Drain](https://www.wikidex.net/wiki/Giga_Drenado) | ![Tipo planta](../images/pokemon/tipos/tipo_planta.png) | 56 | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| 40 | [Pollen Puff](https://www.wikidex.net/wiki/Ráfaga_de_polen) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | 60 | [Psychic](https://www.wikidex.net/wiki/Psíquico) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| 44 | [Destiny Bond](https://www.wikidex.net/wiki/Vínculo_Destino) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | 68 | [Calm Mind](https://www.wikidex.net/wiki/Paz_Mental) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
+| 48 | [Shadow Ball](https://www.wikidex.net/wiki/Bola_Sombra) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | 72 | [Bug Buzz](https://www.wikidex.net/wiki/Zumbido) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
 {% endtab %}
 
 {% tab title="Movimientos Huevo" %}
 | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: |
-| [Shadow Sneak](https://www.wikidex.net/wiki/Sombra_Vil) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Sacred Sword](https://www.wikidex.net/wiki/Espada_Santa) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| [Will-O-Wisp](https://www.wikidex.net/wiki/Fuego_Fatuo) | ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) | [Night Shade](https://www.wikidex.net/wiki/Tinieblas) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| [Memento](https://www.wikidex.net/wiki/Legado) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | | |
+| [Shadow Sneak](https://www.wikidex.net/wiki/Sombra_Vil) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | [Sacred Sword](https://www.wikidex.net/wiki/Espada_Santa) | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) |
+| [Will-O-Wisp](https://www.wikidex.net/wiki/Fuego_Fatuo) | ![Tipo fuego](../images/pokemon/tipos/tipo_fuego.png) | [Night Shade](https://www.wikidex.net/wiki/Tinieblas) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) |
+| [Memento](https://www.wikidex.net/wiki/Legado) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) | | |
 {% endtab %}
 
 {% tab title="MTs y Tutor (Selección)" %}
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Rage Powder](https://www.wikidex.net/wiki/Polvo_Ira) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Sticky Web](https://www.wikidex.net/wiki/Red_Pegajosa) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Energy Ball](https://www.wikidex.net/wiki/Energibola) | ![Tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
-| [Shadow Claw](https://www.wikidex.net/wiki/Garra_Umbría) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Dazzling Gleam](https://www.wikidex.net/wiki/Brillo_Mágico) | ![Tipo hada](../../images/pokemon/tipos/tipo_hada.png) | [Mystical Fire](https://www.wikidex.net/wiki/Llama_Mística) | ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| [Pain Split](https://www.wikidex.net/wiki/Divide_Dolor) *(Tutor)* | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Trick](https://www.wikidex.net/wiki/Truco) *(Tutor)* | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Ally Switch](https://www.wikidex.net/wiki/Cambia_Fuerza) *(Tutor)* | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Rage Powder](https://www.wikidex.net/wiki/Polvo_Ira) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Sticky Web](https://www.wikidex.net/wiki/Red_Pegajosa) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Energy Ball](https://www.wikidex.net/wiki/Energibola) | ![Tipo planta](../images/pokemon/tipos/tipo_planta.png) |
+| [Shadow Claw](https://www.wikidex.net/wiki/Garra_Umbría) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | [Dazzling Gleam](https://www.wikidex.net/wiki/Brillo_Mágico) | ![Tipo hada](../images/pokemon/tipos/tipo_hada.png) | [Mystical Fire](https://www.wikidex.net/wiki/Llama_Mística) | ![Tipo fuego](../images/pokemon/tipos/tipo_fuego.png) |
+| [Pain Split](https://www.wikidex.net/wiki/Divide_Dolor) *(Tutor)* | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) | [Trick](https://www.wikidex.net/wiki/Truco) *(Tutor)* | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) | [Ally Switch](https://www.wikidex.net/wiki/Cambia_Fuerza) *(Tutor)* | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
 {% endtab %}
 {% endtabs %}
 
@@ -183,7 +183,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 
 | **Artwork** | ![Artwork de Silkorn](../../images/pokemon/hollownest/3.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) |
 | **Habilidades** | [Sharpness](https://www.wikidex.net/wiki/Cortante)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
 | **Hab. oculta** | [Speed Boost](https://www.wikidex.net/wiki/Impulso) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
@@ -211,12 +211,12 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 {% tab title="Por nivel" %}
 | Nivel | Movimiento | Tipo | Nivel | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 32 | [Pin Missile](https://www.wikidex.net/wiki/Pin_Misil) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | 56 | [Slash](https://www.wikidex.net/wiki/Cuchillada) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 36 | [Bulk Up](https://www.wikidex.net/wiki/Corpulencia) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) | 64 | [Night Slash](https://www.wikidex.net/wiki/Tajo_Noche) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 40 | [X-Scissor](https://www.wikidex.net/wiki/Tijera_X) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | 68 | [Fury Cutter](https://www.wikidex.net/wiki/Corte_Furia) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| 44 | [Aerial Ace](https://www.wikidex.net/wiki/Acróbata) | ![Tipo volador](../../images/pokemon/tipos/tipo_volador.png) | 72 | [Close Combat](https://www.wikidex.net/wiki/A_Bocajarro) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 48 | [Cross Poison](https://www.wikidex.net/wiki/Veneno_X) | ![Tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) | | | |
-| 52 | [Tidy Up](https://www.wikidex.net/wiki/Limpieza) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | | | |
+| 32 | [Pin Missile](https://www.wikidex.net/wiki/Pin_Misil) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | 56 | [Slash](https://www.wikidex.net/wiki/Cuchillada) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
+| 36 | [Bulk Up](https://www.wikidex.net/wiki/Corpulencia) | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) | 64 | [Night Slash](https://www.wikidex.net/wiki/Tajo_Noche) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) |
+| 40 | [X-Scissor](https://www.wikidex.net/wiki/Tijera_X) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | 68 | [Fury Cutter](https://www.wikidex.net/wiki/Corte_Furia) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
+| 44 | [Aerial Ace](https://www.wikidex.net/wiki/Acróbata) | ![Tipo volador](../images/pokemon/tipos/tipo_volador.png) | 72 | [Close Combat](https://www.wikidex.net/wiki/A_Bocajarro) | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) |
+| 48 | [Cross Poison](https://www.wikidex.net/wiki/Veneno_X) | ![Tipo veneno](../images/pokemon/tipos/tipo_veneno.png) | | | |
+| 52 | [Tidy Up](https://www.wikidex.net/wiki/Limpieza) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) | | | |
 {% endtab %}
 
 {% tab title="Movimientos Huevo" %}
@@ -231,8 +231,8 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 {% tab title="MTs y Tutor (Selección)" %}
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [First Impression](https://www.wikidex.net/wiki/A_Primeras) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Mega Horn](https://www.wikidex.net/wiki/Megacuerno) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| [Drill Run](https://www.wikidex.net/wiki/Taladradora) *(Tutor)* | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Superpower](https://www.wikidex.net/wiki/Superfuerza) *(Tutor)* | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) | [Zen Headbutt](https://www.wikidex.net/wiki/Cabezazo_Zen) *(Tutor)* | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) *(Tutor)* | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) *(Tutor)* | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) *(Tutor)* | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) | [First Impression](https://www.wikidex.net/wiki/A_Primeras) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Mega Horn](https://www.wikidex.net/wiki/Megacuerno) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
+| [Drill Run](https://www.wikidex.net/wiki/Taladradora) *(Tutor)* | ![Tipo tierra](../images/pokemon/tipos/tipo_tierra.png) | [Superpower](https://www.wikidex.net/wiki/Superfuerza) *(Tutor)* | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) | [Zen Headbutt](https://www.wikidex.net/wiki/Cabezazo_Zen) *(Tutor)* | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
+| [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) *(Tutor)* | ![Tipo acero](../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) *(Tutor)* | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) *(Tutor)* | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
 {% endtab %}
 {% endtabs %}
