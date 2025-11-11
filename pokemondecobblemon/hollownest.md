@@ -65,7 +65,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 **Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Inicial]. Es la fase crisálida y de transición.
 
-| **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
+| **Artwork** | ![Artwork de Chryseil](../images/pokemon/hollownest/2.png) |
 | :---: | :--- |
 | **Tipo Primario** | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidad** | [Shed Skin](https://www.wikidex.net/wiki/Mudar) |
@@ -119,7 +119,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 
 **Veskorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
 
-| **Artwork** | ![Artwork de Veskorn](../../images/pokemon/hollownest/4.png) |
+| **Artwork** | ![Artwork de Veskorn](../images/pokemon/hollownest/4.png) |
 | :---: | :--- |
 | **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) |
 | **Habilidades** | [Pressure](https://www.wikidex.net/wiki/Presión)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
