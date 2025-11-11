@@ -4,7 +4,7 @@
 
 ## 1. Glowmite (Nº Pokédex 2001)
 
-![Glowmite Sprite](images/pokemon/hollownest/image.png)
+![Glowmite](images/pokemon/hollownest/image.png)
 
 | Detalle | Información |
 | :--- | :--- |
