@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Glowmite (Nº 2001) - La Cría
+## 1. Glowmite (Nº 2001)
 
 ![Glowmite Sprite](../images/pokemon/hollownest/image.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 2. Chryseil (Nº 2002) - La Crisálida
+## 2. Chryseil (Nº 2002) 
 
 ![Chryseil Sprite](../images/pokemon/hollownest/2.png)
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 3. Veskorn (Nº 2003) - Forma Macho (Especialista)
+## 3. Veskorn (Nº 2003) - Forma Especial
 
 ![Veskorn Sprite](../images/pokemon/hollownest/4.png)
 
@@ -111,7 +111,7 @@
 
 ---
 
-## 4. Silkorn (Nº 2004) - Forma Hembra (Física/Veloz)
+## 4. Silkorn (Nº 2004) - Forma Física
 
 ![Silkorn Sprite](../images/pokemon/hollownest/3.png)
 
