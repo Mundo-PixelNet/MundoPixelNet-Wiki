@@ -16,19 +16,16 @@ El rango Admin tiene la máxima autoridad sobre el servidor, pudiendo tomar deci
 El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para mantener el correcto funcionamiento del servidor.
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de BonMurci](../images/Rangos/Mod/BonMurci.png)|**BonMurci**|
-| ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gametito**|
-| ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**JuniorCX**|
-| ![Skin de Y4MAT0sama](../images/Rangos/Mod/Y4MAT0sama.png)|**Y4MAT0sama**|
+| ![Skin de ITSFrankoGG](../images/Rangos/Mod/BonMurci.png)|**ITSFrankoGG**|
+| ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
+| ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
+| ![Skin de YamatoDust](../images/Rangos/Mod/Y4MAT0sama.png)|**YamatoDust**|
 
 # ![Helper](../images/Rangos/Helper/helperarc.png) **Helper**
 El rango Helper tiene la función de ayudar con dudas y responder preguntas para mantener la mejor jugabilidad del usuario.
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de Juank_16](../images/Rangos/Helper/Juank_16.png)|**Juank_16**|
-| ![Skin de Ikaros_YT](../images/Rangos/Helper/Ikaros_YT.png)|**Ikaros_YT**|
-| ![Skin de ITSFrankoGG](../images/Rangos/Helper/ITSFrankoGG.png)|**ITSFrankoGG**|
-| ![Skin de Locaru](../images/Rangos/Helper/Locaru.png)|**Locaru**|
+| ![Skin de Teyu_31](../images/Rangos/Helper/Locaru.png)|**Teyu_31**|
 
 # ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
 El rango Developer tiene la función de programar los complementos y bots del servidor, haciéndolo aún más único y original.
@@ -43,9 +40,11 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | :--: | :-----: |
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
 | ![Skin de BonMurci](../images/Rangos/Mod/BonMurci.png)|**BonMurci**|
-| ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**JuniorCX**|
+| ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
 | ![Skin de Trolendo](../images/Rangos/Helper/Steve.png)|**Trolendo**|
 | ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gametito**|
 | ![Skin de ITSFrankoGG](../images/Rangos/Helper/ITSFrankoGG.png)|**ITSFrankoGG**|
 | ![Skin de Alowgamer05](../images/Rangos/Builder/Alowgamer05.png)|**Alowgamer05**|
 | ![Skin de KIEV1245](../images/Rangos/Builder/KIEV1215.png)|**KIEV1245**|
+| ![Skin de Mai_075](../images/Rangos/Builder/KIEV1215.png)|**Mai_075**|
+
