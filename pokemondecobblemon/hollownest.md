@@ -179,11 +179,11 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 
 ### Información
 
-**Silkorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada X (1)](./). Es la bifurcación femenina, especializada en Ataque Físico y Velocidad.
+**Silkorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Inicial]. Es la bifurcación femenina, especializada en Ataque Físico y Velocidad.
 
-| **Artwork** | ![Artwork de Silkorn](../../images/pokemon/hollownest/3.png) |
+| **Artwork** | ![Artwork de Silkorn](../images/pokemon/hollownest/3.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) |
+| **Tipos** | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) |
 | **Habilidades** | [Sharpness](https://www.wikidex.net/wiki/Cortante)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
 | **Hab. oculta** | [Speed Boost](https://www.wikidex.net/wiki/Impulso) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
