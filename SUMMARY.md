@@ -27,7 +27,7 @@
 * [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
 
 ## POKÉMON DE COBBLEMON
-* [🐛Hollownest](pokemondecobblemon/Hollownest.md)
+* [🐛Hollownest](pokemondecobblemon/Hollownest.nd)
 
 ## PIXELMON
 
