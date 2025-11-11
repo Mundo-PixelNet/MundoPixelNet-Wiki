@@ -222,17 +222,17 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 {% tab title="Movimientos Huevo" %}
 | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: |
-| [Shadow Sneak](https://www.wikidex.net/wiki/Sombra_Vil) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Sacred Sword](https://www.wikidex.net/wiki/Espada_Santa) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Bug Buzz](https://www.wikidex.net/wiki/Zumbido) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| [Shadow Ball](https://www.wikidex.net/wiki/Bola_Sombra) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Will-O-Wisp](https://www.wikidex.net/wiki/Fuego_Fatuo) | ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| [Night Shade](https://www.wikidex.net/wiki/Tinieblas) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | | |
+| [Shadow Sneak](https://www.wikidex.net/wiki/Sombra_Vil) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | [Sacred Sword](https://www.wikidex.net/wiki/Espada_Santa) | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) |
+| [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) | [Bug Buzz](https://www.wikidex.net/wiki/Zumbido) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
+| [Shadow Ball](https://www.wikidex.net/wiki/Bola_Sombra) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | [Will-O-Wisp](https://www.wikidex.net/wiki/Fuego_Fatuo) | ![Tipo fuego](../images/pokemon/tipos/tipo_fuego.png) |
+| [Night Shade](https://www.wikidex.net/wiki/Tinieblas) | ![Tipo fantasma](../images/pokemon/tipos/tipo_fantasma.png) | | |
 {% endtab %}
 
 {% tab title="MTs y Tutor (Selección)" %}
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) | [First Impression](https://www.wikidex.net/wiki/A_Primeras) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) | [Mega Horn](https://www.wikidex.net/wiki/Megacuerno) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
-| [Drill Run](https://www.wikidex.net/wiki/Taladradora) *(Tutor)* | ![Tipo tierra](../images/pokemon/tipos/tipo_tierra.png) | [Superpower](https://www.wikidex.net/wiki/Superfuerza) *(Tutor)* | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) | [Zen Headbutt](https://www.wikidex.net/wiki/Cabezazo_Zen) *(Tutor)* | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
-| [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) *(Tutor)* | ![Tipo acero](../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) *(Tutor)* | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) *(Tutor)* | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
+| [Drill Run](https://www.wikidex.net/wiki/Taladradora) *(Tutor)* | ![Tipo tierra](../images/pokemon/tipos/tipo_tierra.png) | [Superpower](https://www.wikidex.net/wiki/Superfuerza) | ![Tipo lucha](../images/pokemon/tipos/tipo_lucha.png) | [Zen Headbutt](https://www.wikidex.net/wiki/Cabezazo_Zen) | ![Tipo psiquico](../images/pokemon/tipos/tipo_psiquico.png) |
+| [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) | ![Tipo acero](../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) | ![Tipo siniestro](../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) | ![Tipo normal](../images/pokemon/tipos/tipo_normal.png) |
 {% endtab %}
 {% endtabs %}
