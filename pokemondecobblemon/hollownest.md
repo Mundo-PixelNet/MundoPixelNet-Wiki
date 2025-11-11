@@ -26,6 +26,24 @@
 | Velocidad (Speed) | 45 | 0 |
 | **Total** | **202** | **2** |
 
+### 📚 Movimientos (MT y Huevo)
+
+#### Movimientos por MT (Máquina Técnica)
+
+| MT | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[MT-XX]** | [Ej: Sticky Web] | [Ej: Bicho] |
+| **[MT-XX]** | [Ej: Substitute] | [Ej: Normal] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
+
+#### Movimientos por Grupo Huevo
+
+| Grupo Huevo | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[Grupo]** | [Ej: Agility] | [Ej: Psíquico] |
+| **[Grupo]** | [Ej: String Shot] | [Ej: Bicho] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
+
 ---
 
 ## 2. Chryseil (Nº Pokédex 2002) - Pre-Evolución
@@ -51,6 +69,24 @@
 | Defensa Especial (Sp. Def) | 20 | 0 |
 | Velocidad (Speed) | 40 | 0 |
 | **Total** | **220** | **2** |
+
+### 📚 Movimientos (MT y Huevo)
+
+#### Movimientos por MT (Máquina Técnica)
+
+| MT | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[MT-XX]** | [Ej: Protect] | [Ej: Normal] |
+| **[MT-XX]** | [Ej: Harden] | [Ej: Normal] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
+
+#### Movimientos por Grupo Huevo (Transferidos de Glowmite)
+
+| Grupo Huevo | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[Grupo]** | [Ej: Agility] | [Ej: Psíquico] |
+| **[Grupo]** | [Ej: String Shot] | [Ej: Bicho] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
 
 ---
 
@@ -78,7 +114,7 @@
 | Velocidad (Speed) | 90 | 0 |
 | **Total** | **540** | **2** |
 
-### 👻 Movimientos Destacados por Nivel
+### 👻 Movimientos por Nivel (Destacados)
 
 | Nivel | Movimiento |
 | :--- | :--- |
@@ -86,6 +122,24 @@
 | 48 | Shadow Ball |
 | 52 | Dark Pulse |
 | 72 | Bug Buzz |
+
+### 📚 Movimientos (MT y Huevo)
+
+#### Movimientos por MT (Máquina Técnica)
+
+| MT | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[MT-XX]** | [Ej: Thunderbolt] | [Ej: Eléctrico] |
+| **[MT-XX]** | [Ej: Psychic] | [Ej: Psíquico] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
+
+#### Movimientos por Grupo Huevo (Heredados)
+
+| Grupo Huevo | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[Grupo]** | [Ej: Bug Bite] | [Ej: Bicho] |
+| **[Grupo]** | [Ej: Will-O-Wisp] | [Ej: Fuego] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
 
 ---
 
@@ -113,7 +167,7 @@
 | **Velocidad (Speed)** | **101** | 0 |
 | **Total** | **541** | **2** |
 
-### 🥋 Movimientos Destacados por Nivel
+### 🥋 Movimientos por Nivel (Destacados)
 
 | Nivel | Movimiento |
 | :--- | :--- |
@@ -122,9 +176,20 @@
 | 40 | X-Scissor |
 | 72 | Close Combat |
 
-| Nivel | Movimiento |
-| :--- | :--- |
-| 32 | Pin Missile |
-| 36 | Bulk Up |
-| 40 | X-Scissor |
-| 72 | Close Combat |
+### 📚 Movimientos (MT y Huevo)
+
+#### Movimientos por MT (Máquina Técnica)
+
+| MT | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[MT-XX]** | [Ej: Swords Dance] | [Ej: Normal] |
+| **[MT-XX]** | [Ej: Close Combat] | [Ej: Lucha] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
+
+#### Movimientos por Grupo Huevo (Heredados)
+
+| Grupo Huevo | Movimiento | Tipo |
+| :--- | :--- | :--- |
+| **[Grupo]** | [Ej: Feint] | [Ej: Normal] |
+| **[Grupo]** | [Ej: Quick Guard] | [Ej: Lucha] |
+| **[Añadir más]** | [Según JSON] | [Según JSON] |
