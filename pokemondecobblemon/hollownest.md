@@ -46,7 +46,7 @@
 
 ---
 
-## 2. Chryseil (Nº Pokédex 2002) - Pre-Evolución
+## 2. Chryseil (Nº Pokédex 2002) 
 
 ![Chryseil](../images/pokemon/hollownest/2.png)
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 3. Veskorn (Nº Pokédex 2003) - Forma Macho (Especial)
+## 3. Veskorn (Nº Pokédex 2003) - Forma Especial
 
 ![Veskorn](../images/pokemon/hollownest/4.png)
 
@@ -143,7 +143,7 @@
 
 ---
 
-## 4. Silkorn (Nº Pokédex 2004) - Forma Hembra (Físico)
+## 4. Silkorn (Nº Pokédex 2004) - Forma Físico
 
 ![Silkorn](..images/pokemon/hollownest/3.png)
 
