@@ -1,1 +1,95 @@
+# 🪶 Línea Evolutiva – Glowmite Family
 
+> **Región:** Universo PokéNet  
+> **Mods:** Pixelmon / Cobblemon  
+> **Línea evolutiva especial** con ramificación por género en su última etapa.
+
+---
+
+## 🌱 Etapas evolutivas
+
+| Etapa | Pokémon | Tipo | Condición de evolución |
+|:------|:---------|:------|:-----------------------|
+| ① Base | **Glowmite** | 🐛 Bicho | — |
+| ② Segunda | **Chryseil** | 🐛 Bicho | Sube de nivel al **12** |
+| ③ Tercera (♀) | **Silkorn** | 🐛 Bicho / 🥋 Lucha | Sube de nivel al **32** siendo **hembra** |
+| ③ Tercera (♂) | **Veskorn** | 🐛 Bicho / 👻 Fantasma | Sube de nivel al **32** siendo **macho** |
+
+---
+
+## 🐛 **Glowmite**
+
+![Glowmite](URL_DE_LA_IMAGEN_GLOWMITE)
+
+- **Pokédex #2001**  
+- **Tipo:** 🐛 Bicho  
+- **Habilidad:** Shield Dust / Unnerve  
+- **Habilidad oculta:** Run Away  
+- **Altura:** 3 m  
+- **Peso:** 29 kg  
+- **Descripción:**  
+  > Un pequeño Pokémon bicho que emite una débil luz desde su abdomen para comunicarse con otros de su especie. Es rápido y vive en bosques oscuros.
+
+➡️ [Ver ficha completa de Glowmite](./glowmite.md)
+
+---
+
+## 🪶 **Chryseil**
+
+![Chryseil](URL_DE_LA_IMAGEN_CHRYSEIL)
+
+- **Pokédex #2002**  
+- **Tipo:** 🐛 Bicho  
+- **Habilidad:** Shed Skin  
+- **Habilidad oculta:** Rock Head  
+- **Altura:** 6 m  
+- **Peso:** 100 kg  
+- **Descripción:**  
+  > Un Pokémon cubierto por una seda dorada endurecida. Se entierra bajo tierra mientras acumula energía vital para su próxima evolución.
+
+- **Evoluciona a:**  
+  - **Silkorn** (♀ al nivel 32)  
+  - **Veskorn** (♂ al nivel 32)
+
+➡️ [Ver ficha completa de Chryseil](./chryseil.md)
+
+---
+
+## 🥋 **Silkorn** *(Forma hembra)*
+
+![Silkorn](URL_DE_LA_IMAGEN_SILKORN)
+
+- **Pokédex #2003**  
+- **Tipo:** 🐛 Bicho / 🥋 Lucha  
+- **Habilidad:** Enjambre  
+- **Habilidad oculta:** Presión  
+- **Descripción:**  
+  > La evolución femenina de Chryseil. Refuerza su cuerpo con seda de batalla, alcanzando una fuerza física abrumadora. Su seda puede cortar el acero.
+
+➡️ [Ver ficha completa de Silkorn](./silkorn.md)
+
+---
+
+## 👻 **Veskorn** *(Forma macho)*
+
+![Veskorn](URL_DE_LA_IMAGEN_VESKORN)
+
+- **Pokédex #2004**  
+- **Tipo:** 🐛 Bicho / 👻 Fantasma  
+- **Habilidad:** Enjambre  
+- **Habilidad oculta:** Presión  
+- **Descripción:**  
+  > La evolución masculina de Chryseil. Al romper su capullo, su cuerpo se vuelve etéreo. La seda que lo envuelve ahora brilla con un resplandor fantasmal.
+
+➡️ [Ver ficha completa de Veskorn](./veskorn.md)
+
+---
+
+## 🧩 Créditos
+
+| Rol | Miembro |
+|------|----------|
+| **Creador del concepto** | Universo PokéNet Team |
+| **Diseñadores** | *(añadir artistas)* |
+| **Implementación técnica (Cobblemon/Pixelmon)** | *(añadir responsables)* |
+| **Última actualización** | *(fecha del parche)* |
