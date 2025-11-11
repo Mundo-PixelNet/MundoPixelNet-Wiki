@@ -16,7 +16,7 @@ El rango Admin tiene la máxima autoridad sobre el servidor, pudiendo tomar deci
 El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para mantener el correcto funcionamiento del servidor.
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de ITSFrankoGG](../images/Rangos/Mod/BonMurci.png)|**ITSFrankoGG**|
+| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
 | ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
 | ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
 | ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
