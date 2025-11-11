@@ -52,7 +52,7 @@
 
 ## 3. Veskorn (Nº Pokédex 2003) - Forma Macho (Especial)
 
-![Veskorn](..images/pokemon/hollownest/4.png)
+![Veskorn](../images/pokemon/hollownest/4.png)
 
 | Detalle | Información |
 | :--- | :--- |
