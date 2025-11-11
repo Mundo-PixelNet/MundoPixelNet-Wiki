@@ -15,7 +15,7 @@
 | **Hab. oculta** | [Run Away](https://www.wikidex.net/wiki/Fuga) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) |
 | **Evoluciona a** | Chryseil (Nivel 12) |
-| **Creado por** | FuriadaNoitex |
+| **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
 Glowmite: La primera y más elemental de estas manifestaciones, se cree que es una fase larval o una forma rudimentaria del Vacío. Su brillo tenue en la oscuridad, lejos de ser una guía, parece ser una pulsación de su propia esencia, una llamada silenciosa desde las profundidades.
@@ -72,7 +72,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Hab. oculta** | [Rock Head](https://www.wikidex.net/wiki/Cabeza_roca) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
 | **Evoluciona a** | Veskorn (Macho, Nv 32) / Silkorn (Hembra, Nv 32) |
-| **Creado por** | FuriadaNoitex |
+| **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
 Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa, un capullo donde ocurre un proceso imposible: la criatura fusona la seda primigenia recolectada de la oscuridad con la esencia pura del Vacío del Abismo. El resultado es una armadura natural, una 'Seda-Quitina' forjada de hebra y nada, que sirve como protección perfecta mientras evoluciona.
@@ -126,7 +126,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 | **Hab. oculta** | [Mold Breaker](https://www.wikidex.net/wiki/Rompemoldes) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
 | **Evoluciona de** | Chryseil (Nivel 32, Macho) |
-| **Creado por** | FuriadaNoitex |
+| **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
 Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que sacrifica su tamaño por un poder espectral. Su armadura de Seda-Quitina se oscurece, volviéndose quebradiza pero ligera. Armado con un 'aguijón' afilado—una extensión de su propia voluntad solidificada—, Veskorn es un cazador implacable que encarna la tenacidad y el silencio del Abismo. Se mueve sin sonido, un guardián de secretos oscuros.
@@ -188,7 +188,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 | **Hab. oculta** | [Speed Boost](https://www.wikidex.net/wiki/Impulso) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
 | **Evoluciona de** | Chryseil (Nivel 32, Hembra) |
-| **Creado por** | FuriadaNoitex |
+| **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
 Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más alta y esbelta, Silkorn ha refinado la fusión, utilizando el Vacío solo como núcleo de poder mientras teje la Seda en una armadura ligera y flexible que permite una agilidad acrobática. Armada con una 'aguja' quitinosa, Silkorn no solo usa la seda; la comanda, lanzando hilos para moverse y atacar. No es un espectro silencioso, sino una bailarina orgullosa, una protectora de su territorio que danza en la oscuridad.
