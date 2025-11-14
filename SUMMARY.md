@@ -26,6 +26,9 @@
   * [Prismarina](cobblemon/equipamiento/prismarine.md)
 * [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
 
+## POKÉMON DE COBBLEMON
+* [🐛Hollownest](pokemondecobblemon/hollownest.md)
+
 ## PIXELMON
 
 * [🧬 Híbridos](funciones/hibridos.md)
