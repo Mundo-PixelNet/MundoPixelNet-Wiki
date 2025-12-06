@@ -20,6 +20,7 @@
 * [🛠️ Staffs](informacion/staffs.md)
 
 ## COBBLEMON
+* [👾 Raids](cobblemon/raids/raids.md)
 * [🛡️ Sets de Equipamiento](cobblemon/equipamiento/equipamiento.md)
   * [Amatista](cobblemon/equipamiento/amethyst.md)
   * [Esmeralda](cobblemon/equipamiento/emerald.md)
