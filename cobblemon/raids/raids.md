@@ -95,8 +95,17 @@ Completar una Raid Normal haciendo algo de daño al Jefe tiene varias recompensa
 {% tabs %}
 
 {% tab title="Eléctrico" %}
-| Recompensa | Porcentaje |
-| - | - |
-| Tabla Trueno | - |
+
+| Recompensa | Cantidad | Porcentaje de obtención |
+| - | - | - |
+| ![Item](../../images/cobblemon/raids/items/zap_plate.png) **Tabla Trueno** | 1 | 4% |
+| ![Item](../../images/cobblemon/raids/items/cell_battery.png) **Pila** | 1 | 16% |
+| ![Item](../../images/cobblemon/raids/items/electric_gem.png) **Gema eléctrico** | 3-6 | 16% |
+| ![Item](../../images/cobblemon/raids/items/electric_tera_shard.png) **Teralito Eléctrico** | 3-10 | 16% |
+| ![Item](../../images/cobblemon/raids/items/stellar_tera_shard.gif) **Teralito Astral** | 3-6 | 8% |
+| ![Item](../../images/cobblemon/raids/items/silver_bottlecap.png) **Chapa plateada** | 1 | 8% |
+| ![Item](../../images/cobblemon/raids/items/redstone.png) **Redstone** | 20-64 | 16% |
+| ![Item](../../images/cobblemon/raids/items/quick_ball.png) **Veloz Ball** | 10-20 | 16% |
+
 {% endtab %}
 {% endtabs %}
