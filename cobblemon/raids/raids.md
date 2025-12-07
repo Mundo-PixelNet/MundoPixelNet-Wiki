@@ -26,10 +26,10 @@ El combate finaliza cuando el HP total baja a 0. Y **al finalizar, se mostrará 
 <img src="../../images/cobblemon/raids/RaidCombate_3.png">
 </div>
 
-## 🛡️ Raid Normal
+## 🛡️ Raid Semanal
 
-### ⚔️ Cómo entrar a una Raid Normal
-Cuando llega la hora de inicio de una Raid Normal, aparecerá en el chat que una Raid ha aparecido.
+### ⚔️ Cómo entrar a una Raid Semanal
+Cuando llega la hora de inicio de una Raid Semanal, aparecerá en el chat que una Raid ha aparecido.
 
 <div style="text-align: center">
 <img src="../../images/cobblemon/raids/RaidNormal_1.png">
@@ -46,7 +46,7 @@ Usa el comando `/raid list` para ver un **menú con el icono del Pokémon**. Al 
 
 Si quisieras salirte de la Raid, usa el comando `/raid leave`. Recuerda que no recibirás ningún tipo de recompensa al salir. Y **si la Raid ya ha empezado, no podrás volver a entrar.**
 
-### ⌛ Horario de Raid Normal
+### ⌛ Horario de Raid Semanal
 Las Raids tienen una hora de ejecución. Es decir, **hasta que no sea la hora indicada no aparecerá la Raid en el servidor.**
 
 Cuando llega la hora de la Raid, **tendrás unos 5 minutos para entrar a la Raid** y ahí empezará el combate. Una vez empiece, no podrás entrar.
@@ -62,17 +62,19 @@ Las horas indicadas están en formato **UTC+1**. Si haces clic en la hora, verá
 
 También puedes ver cuántas horas quedan para la siguiente Raid desde el propio servidor.
 
-### 🐲 Pokémon de Raid Normal
-En las Raids Normales **puede salir uno de los 5 Pokémon de la rotación semanal**. Esto es completamente aleatorio.
+### 🐲 Pokémon de Raid Semanal
+En las Raids Semanales **puede salir uno de los 5 Pokémon de la rotación semanal**. Esto es completamente aleatorio.
 
 **La rotación es anunciada cada Domingo**, y se activa tras la última Raid del Domingo. Este anuncio se hace através del canal `👾︙raids-venus` del [Discord de Universo PokéNet](https://discord.com/invite/p4wryDdutf).
 
-> FALTA IMAGEN
+<div style="text-align: center">
+<img src="../../images/cobblemon/raids/RaidNormal_4.png">
+</div>
 
 Este anuncio tendrá toda la información de utilidad, como por ejemplo los Sets de Recompensa de cada Pokémon.
 
 ### 🎁 Recompensas
-Completar una Raid Normal haciendo algo de daño al Jefe tiene varias recompensas.
+Completar una Raid Semanal haciendo algo de daño al Jefe tiene varias recompensas.
 
 ---
 
