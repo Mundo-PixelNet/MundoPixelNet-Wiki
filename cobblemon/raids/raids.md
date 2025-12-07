@@ -98,5 +98,5 @@ Completar una Raid Normal haciendo algo de daño al Jefe tiene varias recompensa
 | Recompensa | Porcentaje |
 | - | - |
 | Tabla Trueno | - |
-
+{% endtab %}
 {% endtabs %}
