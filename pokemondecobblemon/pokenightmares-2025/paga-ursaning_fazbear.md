@@ -17,4 +17,5 @@ La creación de esta skin hace referencia a uno de los famosos animatrónicos de
 
 ## Obtención
 
-Esta skin se consigue en la Tienda temporal de **PokéNightmares 2025**
+
+Esta skin se puede obtener en la [Tienda Oficial del servidor](https://tienda.universopokenet.com/category/pok%C3%A9mon-cobblemon)
