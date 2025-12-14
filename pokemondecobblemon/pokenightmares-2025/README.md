@@ -6,14 +6,14 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 ### 📕 Misión
 
-| 🎪 Reino Pesadilla |
+| 📕 Reino Pesadilla |
 | :---: |
 | [ Grimm](mision-grimm.md) 
 
 
 ### 🗝️ Skins del Gatcha
 
-| Gatcha PokéNightmares |
+| 🗝️ Gatcha PokéNightmares |
 | :---: |
 | [💀 Buzzwole Warden](gatcha-buzzwole_warden.md)
 | [💖 Ariados Hazbin](gatcha-ariados_hazbin.md)
@@ -21,6 +21,6 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 ### 💰 Skins de paga
 
-|  Tienda |
+| 💰 Tienda |
 | :---: |
 | [ 🐻 Ursaning Fazbear](paga-ursaning_fazbear.md)
