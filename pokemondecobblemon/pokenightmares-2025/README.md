@@ -1,12 +1,8 @@
 # 🎃 PokéNightmares 2025
 
-El Evento halloween _(2025)_ de Universo PokéNet vuelve en la nueva modalidad **Cobblemon** trayendo nuevos pokémon de distintas sagas de videojuegos y un creado desde 0.
+El Evento halloween _(2025)_ de Universo PokéNet vuelve en la nueva modalidad **Cobblemon** trayendo nuevos pokémon de distintas sagas de videojuegos.
 
-### 📺 Tráiler de pixelween
-
-![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pokenightmares/TeaserGrimm_Logo.png)
-
-Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que varios Pokémon nuevos, un nuevo Gatchas, Mision y más.
+Este Evento se introduce al nuevo pokémon especial **Grimm** **[Álbumes](../../funciones/Album.md)**. Al igual que varios Pokémon nuevos, un nuevo Gatchas, Mision y más.
 
 ### 📕 Misión
 
