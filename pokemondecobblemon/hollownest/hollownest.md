@@ -8,7 +8,7 @@
 
 **Glowmite** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Inicial]. Es la fase larval de la línea evolutiva.
 
-| **Artwork** | ![Artwork de Glowmite](../images/pokemon/hollownest/image.png) |
+| **Artwork** | ![Artwork de Glowmite](../../images/pokemon/hollownest/image.png) |
 | :---: | :--- |
 | **Tipo Primario** | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidades** | [Dust Shield](https://www.wikidex.net/wiki/Escudo_polvo)<br>[Unnerve](https://www.wikidex.net/wiki/Nerviosismo) |
