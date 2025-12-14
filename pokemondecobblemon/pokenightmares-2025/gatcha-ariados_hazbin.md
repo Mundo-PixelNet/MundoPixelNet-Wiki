@@ -4,6 +4,7 @@
 
 **Ariados Hazbin** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
+|||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![artwork Ariados](../../images/pokemon/pokenightmares/Ariados_Hazbin.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
