@@ -4,7 +4,7 @@ En [Universo PokéNet](**/README.md) tenemos Pokémon originales con sus propios
 
 | Número |  Pokémon | 
 | :---: | :-------: | 
-| **1** | [Cerullade](../pokemon/temporada-1/hibrido-cerullade.md) |       
+| **1** | [Cerullade](../pokemondecobblemon/hollownest/hollownest(1).md) |       
 | **2** | [Gardewile](../pokemon/temporada-1/hibrido-gardewile.md) |  
 | **3** | [Lycario](../pokemon/temporada-1/hibrido-lycario.md) | 
 | **4** | [Mismapeon](../pokemon/temporada-1/hibrido-mismapeon.md) 
