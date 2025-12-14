@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Eevee Lost Silver](../../images/pokemon/pixelween/ls2-sprite.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![Sprite de Eevee Lost Silver](../../images/pokemon/pixelween/ls2-sprite.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
