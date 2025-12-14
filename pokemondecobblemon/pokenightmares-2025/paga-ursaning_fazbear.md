@@ -13,7 +13,7 @@
 ### Comentario del desarrollador
 La creación de esta skin hace referencia a uno de los famosos animatrónicos del videojuego **Five Nights at Freddy's 1**
 
-![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pokenightmares/ursaning-ingame.png)
+![Vistazo en el juego a Ursaning Fazbear](../../images/pokemon/pokenightmares/ursaning-ingame.png)
 
 ## Obtención
 
