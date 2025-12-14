@@ -1,6 +1,6 @@
-# 🎃 Pixelween 2024
+# 🎃 PokéNightmares 2025
 
-El Evento Pixelween _(2024)_ de Universo PokéNet trae el verdadero clima de terror y suspense, al mismo tiempo que juega con la ternura de Mimikyu.
+El Evento halloween _(2025)_ de Universo PokéNet vuelve en la nueva modalidad **Cobblemon** trayendo nuevos pokémon de distintas sagas de videojuegos y un creado desde 0.
 
 ### 📺 Tráiler de pixelween
 
