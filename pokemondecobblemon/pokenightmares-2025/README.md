@@ -21,6 +21,6 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 ### 💰 Skins de paga
 
-| 💰 Tienda |
+|  Tienda |
 | :---: |
-| [💰 Celebi Lost Silver](paga-celebi-lostsilver.md) ![Sprite de Celebi Lost Silver](../../images/pokemon/pixelween/ls4-sprite.png)|
+| [ 🐻 Ursaning Fazbear](paga-ursaning_fazbear.md)
