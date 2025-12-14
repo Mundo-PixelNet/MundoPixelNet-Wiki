@@ -65,7 +65,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 **Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Inicial]. Es la fase crisálida y de transición.
 
-| **Artwork** | ![Artwork de Chryseil](..././images/pokemon/hollownest/2.png) |
+| **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
 | :---: | :--- |
 | **Tipo Primario** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidad** | [Shed Skin](https://www.wikidex.net/wiki/Mudar) |
