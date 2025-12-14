@@ -13,7 +13,7 @@
 ### Comentario del desarrollador
 La creación de esta skin hace referencia a la Creepypasta Lost Silver
 
-![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pixelween/lostsilver-preview.png)
+![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pokenightmares/TeaserGrimm_Logo.png)
 
 ## Obtención
 
