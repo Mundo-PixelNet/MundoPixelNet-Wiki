@@ -167,7 +167,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 {% tab title="MTs y Tutor (Selección)" %}
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Rage Powder](https://www.wikidex.net/wiki/Polvo_Ira) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Sticky Web](https://www.wikidex.net/wiki/Red_Pegajosa) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Energy Ball](https://www.wikidex.net/wiki/Energibola) | ![Tipo planta](../images/pokemon/tipos/tipo_planta.png) |
+| [Rage Powder](https://www.wikidex.net/wiki/Polvo_Ira) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Sticky Web](https://www.wikidex.net/wiki/Red_Pegajosa) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Energy Ball](https://www.wikidex.net/wiki/Energibola) | ![Tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
 | [Shadow Claw](https://www.wikidex.net/wiki/Garra_Umbría) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Dazzling Gleam](https://www.wikidex.net/wiki/Brillo_Mágico) | ![Tipo hada](../../images/pokemon/tipos/tipo_hada.png) | [Mystical Fire](https://www.wikidex.net/wiki/Llama_Mística) | ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
 | [Pain Split](https://www.wikidex.net/wiki/Divide_Dolor) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Trick](https://www.wikidex.net/wiki/Truco) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Ally Switch](https://www.wikidex.net/wiki/Cambia_Fuerza) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 {% endtab %}
