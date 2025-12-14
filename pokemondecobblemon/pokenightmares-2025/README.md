@@ -17,9 +17,7 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 | :---: |
 | [💀 Buzzwole Warden](buzzwole-warden.md)
 | [💖 Ariados Hazbin](ariados-hazbin.md)
-| [🗝️ Guzzlord Calabaza](gatcha-guzzlord-calabaza.md) ![Sprite de Guzzlord Calabaza](../../images/pokemon/pixelween/calabaza-sprite.png)|
-| [🗝️ Cacturne Pixelween](gatcha-cacturne-pixelween.md) ![Sprite de Cacturne Pixelween](../../images/pokemon/pixelween/cacturne-sprite.png)|
-| [🗝️ Gardevoir Pixelween](gatcha-gardevoir-pixelween.md) ![Sprite de Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoir-sprite.png)|
+
 
 ### [🔖 Album ](../../funciones/album/album_mimikyu.md)
 
