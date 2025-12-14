@@ -1,8 +1,8 @@
-# 📕 Eevee Lost Silver
+# 📕 GRIMM
 
 ## Información
 
-**Eevee Lost Silver** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
+**Grimm** es una Skin exclusiva del servidor Cobblemon introducida en la [Pixelween](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
