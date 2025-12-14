@@ -11,10 +11,10 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al famoso DLC del videojuego **Hollow Knight**
+La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft**
 
 ![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pokenightmares/TeaserGrimm_Logo.png)
 
 ## Obtención
 
-Esta skin se consigue en la mision temporal de **Reino Pesadilla**
+Esta skin se consigue en el Gatcha temporal de **PokéNightmares 2025**
