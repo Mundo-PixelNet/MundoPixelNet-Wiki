@@ -19,16 +19,8 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 | [💖 Ariados Hazbin](gatcha-ariados_hazbin.md)
 
 
-### [🔖 Album ](../../funciones/album/album_mimikyu.md)
-
-| 🔖 Album |
-| :---: |
-| [🔖 Mimikyu Unveilia](album-mimikyu-unveilia.md) ![Sprite de Eevee Reno](../../images/funciones/album/mimikyu/mimiunveilia-sp.png)|
-
 ### 💰 Skins de paga
 
 | 💰 Tienda |
 | :---: |
 | [💰 Celebi Lost Silver](paga-celebi-lostsilver.md) ![Sprite de Celebi Lost Silver](../../images/pokemon/pixelween/ls4-sprite.png)|
-| [💰 Gengar Oogie Boogie](paga-gengar-oogieboogie.md) ![Sprite de Gengar Oogie Boogie](../../images/pokemon/pixelween/oogieboogie-sprite.png)|
-| [💰 Primarina Pixelween](paga-primarina-pixelween.md) ![Sprite de Primarina Pixelween](../../images/pokemon/pixelween/primarina-sprite.png)|
