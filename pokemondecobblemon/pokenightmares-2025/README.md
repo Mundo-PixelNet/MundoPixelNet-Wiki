@@ -6,7 +6,7 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 ### 📕 Misión
 
-| 📕 Misión: Reino Pesadilla |
+| 📕 Reino Pesadilla |
 | :---: |
 | [📕 Grimm](grimm.md) 
 
