@@ -105,7 +105,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 {% tab title="MTs y Tutor (Selección)" %}
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Swords Dance](https://www.wikidex.net/wiki/Danza_espada) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Toxic](https://www.wikidex.net/wiki/Tóxico) | ![Tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) | [Pin Missile](https://www.wikidex.net/wiki/Pin_misil) | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) |
+| [Swords Dance](https://www.wikidex.net/wiki/Danza_espada) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Toxic](https://www.wikidex.net/wiki/Tóxico) | ![Tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) | [Pin Missile](https://www.wikidex.net/wiki/Pin_misil) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | [Earthquake](https://www.wikidex.net/wiki/Terremoto) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Earth Power](https://www.wikidex.net/wiki/Tierra_viva) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Protect](https://www.wikidex.net/wiki/Protección) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 | [Reflect](https://www.wikidex.net/wiki/Reflejo) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Light Screen](https://www.wikidex.net/wiki/Pantalla_luz) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
 {% endtab %}
@@ -183,7 +183,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 
 | **Artwork** | ![Artwork de Silkorn](../../images/pokemon/hollownest/3.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo bicho](../images/pokemon/tipos/tipo_bicho.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
 | **Habilidades** | [Sharpness](https://www.wikidex.net/wiki/Cortante)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
 | **Hab. oculta** | [Speed Boost](https://www.wikidex.net/wiki/Impulso) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
