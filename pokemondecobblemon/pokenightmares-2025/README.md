@@ -8,15 +8,15 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 | 🎪 Reino Pesadilla |
 | :---: |
-| [ Grimm](grimm.md) 
+| [ Grimm](mision-grimm.md) 
 
 
 ### 🗝️ Skins del Gatcha
 
 | Gatcha PokéNightmares |
 | :---: |
-| [💀 Buzzwole Warden](buzzwole-warden.md)
-| [💖 Ariados Hazbin](ariados-hazbin.md)
+| [💀 Buzzwole Warden](gatcha-buzzwole_warden.md)
+| [💖 Ariados Hazbin](gatcha-ariados_hazbin.md)
 
 
 ### [🔖 Album ](../../funciones/album/album_mimikyu.md)
