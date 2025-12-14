@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork Ariados](../../images/pokemon/pokenightmares/Buzzwole_warden.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork Ariados](../../images/pokemon/pokenightmares/Ariados_Hazbin.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
