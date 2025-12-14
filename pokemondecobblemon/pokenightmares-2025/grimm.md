@@ -2,7 +2,7 @@
 
 ## Información
 
-**Grimm** es una Skin exclusiva del servidor Cobblemon introducida en la [Pixelween](./).
+**Grimm** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
