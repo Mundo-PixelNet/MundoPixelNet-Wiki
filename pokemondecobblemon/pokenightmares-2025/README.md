@@ -13,9 +13,9 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 ### 🗝️ Skins del Gatcha
 
-| 🗝️ Gatcha |
+| Gatcha PokéNightmares |
 | :---: |
-| [🗝️ MR. Mime Pennywise](gatcha-mrmime-pennywise.md) ![Sprite de MR. Mime Pennywise](../../images/pokemon/pixelween/pennywise-sprite.png)|
+| [🗝️ Buzzwole Warden](gatcha-mrmime-pennywise.md)
 | [🗝️ Hatterene Dimitrescu](gatcha-hatterene-dimitrescu.md) ![Sprite de Hatterene Dimitrescu](../../images/pokemon/pixelween/dimitrescu-sprite.png)|
 | [🗝️ Guzzlord Calabaza](gatcha-guzzlord-calabaza.md) ![Sprite de Guzzlord Calabaza](../../images/pokemon/pixelween/calabaza-sprite.png)|
 | [🗝️ Cacturne Pixelween](gatcha-cacturne-pixelween.md) ![Sprite de Cacturne Pixelween](../../images/pokemon/pixelween/cacturne-sprite.png)|
