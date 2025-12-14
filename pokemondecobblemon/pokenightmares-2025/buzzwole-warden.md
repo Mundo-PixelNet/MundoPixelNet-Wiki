@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork grimm](../../images/pokemon/pokenightmares/Grimm.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork Buzzwole](../../images/pokemon/pokenightmares/Buzzwole_warden.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
