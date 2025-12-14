@@ -13,7 +13,7 @@
 ### Comentario del desarrollador
 La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft**
 
-![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pokenightmares/TeaserGrimm_Logo.png)
+![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pokenightmares/ariados_hazbin-ingame.png)
 
 ## Obtención
 
