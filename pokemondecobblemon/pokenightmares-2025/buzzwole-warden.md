@@ -7,7 +7,7 @@
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![artwork Buzzwole](../../images/pokemon/pokenightmares/Buzzwole_warden.png)                                                          |                                                                                                             |
-|                      Creado por | YamatoDuts                                                                                                                 |
+|                      Creado por | YamatoDust                                                                                                                 |
 
 
 ### Comentario del desarrollador
