@@ -4,7 +4,7 @@ El Evento halloween _(2025)_ de Universo PokéNet vuelve en la nueva modalidad *
 
 ### 📺 Tráiler de pixelween
 
-{% embed url="https://youtu.be/KWm3f_-tlD4?si=v7lVGXLus1_duGeg" %}
+(../../images/pokemon/pokenightmares/TeaserGrimm_Logo.png)
 
 Este Evento introduce los **[Álbumes](../../funciones/Album.md)**. Al igual que varios Pokémon nuevos, un nuevo Gatchas, Mision y más.
 
