@@ -12,8 +12,7 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 | 📕 Reino Pesadilla |
 | :---: |
 | [🎪 Grimm](mision-grimm.md) 
-| :---: |
-| [🎪 Grimm](mision-grimm.md) 
+| [💀 Noivern](mision-grimm.md) 
 
 ### 🗝️ Skins del Gatcha
 
