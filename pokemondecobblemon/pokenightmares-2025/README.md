@@ -2,6 +2,9 @@
 
 El Evento halloween _(2025)_ de Universo PokéNet vuelve en la nueva modalidad **Cobblemon** trayendo nuevos pokémon de distintas sagas de videojuegos.
 
+
+![Vistazo al pokénigtmares](../../images/pokemon/pixelween/pennywise-preview.png)
+
 Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../../pokemondecobblemon/pokedex.md)**. Al igual que varias Skins nuevas, un nuevo Gatchas, Mision y más.
 
 ### 📕 Misión
