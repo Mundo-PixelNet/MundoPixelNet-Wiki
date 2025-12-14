@@ -8,7 +8,7 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 | 📕 Misión |
 | :---: |
-| [📕 Grimm](grimm.md) ![Sprite de Eevee Pennywise](../../images/pokemon/pixelween/ls2-sprite.png)|
+| [📕 Grimm](grimm.md) 
 | [📕 Pikachu Lost Silver](mision-pikachu-lostsilver.md) ![Sprite de Pikachu Dimitrescu](../../images/pokemon/pixelween/ls1-sprite.png)|
 | [📕 Typhlosion Lost Silver](mision-typhlosion-lostsilver.md) ![Sprite de Typhlosion Calabaza](../../images/pokemon/pixelween/ls3-sprite.png)|
 | [📕 Unown Lost Silver](mision-unown-lostsilver.md) ![Sprite de Unown Calabaza](../../images/pokemon/pixelween/ls-v-sprite.png)|
