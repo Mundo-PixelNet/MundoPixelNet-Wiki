@@ -18,4 +18,3 @@ La creación de esta skin hace referencia al personaje famoso **freddy krueger**
 
 
 Esta skin se puede obtener en en pase **PokéNightmares 2025**
-
