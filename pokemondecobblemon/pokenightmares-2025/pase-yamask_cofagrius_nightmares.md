@@ -1,4 +1,4 @@
-# 🔪 Yamask & Cofagrius PokéNightmares
+# 🎫 Yamask & Cofagrius PokéNightmares
 
 ## Información
 
