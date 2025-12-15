@@ -6,8 +6,8 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Gardevoir Pixelween](../../images/pokemon/pokenightmares/Yamask_Pokénightmares.png) ![Sprite de Mega Gardevoir Pixelween](../../images/pokemon/pokenightmares/Cofagrigus_Pokénightmares.png)                                                         |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
+|                      **Artwork** | ![artwork ursaning](../../images/pokemon/pokenightmares/Ursaning_Fazbear.png)                                                          |                                                                                                             |
+|                      Creado por | YamatoDust                                                                                                                 |
 
 
 ### Comentario del desarrollador
