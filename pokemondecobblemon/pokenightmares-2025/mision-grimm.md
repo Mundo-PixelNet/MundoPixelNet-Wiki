@@ -17,4 +17,4 @@ La creación de esta skin hace referencia al famoso personaje *Grimm* del videoj
 
 ## Obtención
 
-Esta skin se consigue en la mision temporal de **PokéNightmares 2025**
+Esta skin se consigue en la mision temporal de **PokéNightmares 2025**.
