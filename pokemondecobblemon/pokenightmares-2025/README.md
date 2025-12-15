@@ -29,14 +29,6 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
   | 🥈 Gratis | 🥇 Premium |
   | :----: | :----: |
   | [🥈 Yamask & cofagrius PokéNightmares](pase-yamask_cofagrius_nightmares.md)  | [🥇 Sneasler PokéNightmares](pase-sneasler_nightmares.md) |
- 
-
-### 🎫 Skins del Pase
-
-| 🎫 Gatcha PokéNightmares |
-| :---: |
-| [🎫 Sneasler PokéNightmares](pase-sneasler_nightmares.md)
-| [🎫 Yamask & cofagrius PokéNightmares](pase-yamask_cofagrius_nightmares.md)
 
 ### 💰 Skins de paga
 
