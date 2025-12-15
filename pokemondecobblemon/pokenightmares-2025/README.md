@@ -29,7 +29,7 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 | 🎫 Gatcha PokéNightmares |
 | :---: |
 | [🎫 Sneasler PokéNightmares](gatcha-buzzwole_warden.md)
-| [🎫 Yamask & cofagrius PokéNightmares](mision-yamask_cofagrius_nightmares.md)
+| [🎫 Yamask & cofagrius PokéNightmares](pase-yamask_cofagrius_nightmares.md)
 
 ### 💰 Skins de paga
 
