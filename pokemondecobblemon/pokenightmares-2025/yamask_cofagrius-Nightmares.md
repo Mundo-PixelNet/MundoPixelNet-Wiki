@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork ursaning](../../images/pokemon/pokenightmares/Ursaning_Fazbear.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork yamask-cofagrius](../../images/pokemon/pokenightmares/Yamask_cofagrius.png)                                                          |                                                                                                             |
 |                      Creado por | YamatoDust                                                                                                                 |
 
 
