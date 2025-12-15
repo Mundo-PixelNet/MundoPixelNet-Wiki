@@ -24,6 +24,13 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 | [🗝️ Buzzwole Warden](gatcha-buzzwole_warden.md)
 | [🗝️ Ariados Hazbin](gatcha-ariados_hazbin.md)
 
+### 🥇 Skins del Pase
+
+  | 🥈 Gratis | 🥇 Premium |
+  | :----: | :----: |
+  | [🥈 Yamask & cofagrius PokéNightmares](pase-yamask_cofagrius_nightmares.md)  | [🥇 Sneasler PokéNightmares](pase-sneasler_nightmares.md) |
+ 
+
 ### 🎫 Skins del Pase
 
 | 🎫 Gatcha PokéNightmares |
