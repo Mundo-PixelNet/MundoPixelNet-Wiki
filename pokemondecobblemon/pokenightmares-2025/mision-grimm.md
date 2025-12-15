@@ -17,4 +17,4 @@ La creación de esta skin hace referencia al famoso DLC del videojuego **Hollow 
 
 ## Obtención
 
-Esta skin se consigue en la mision temporal de **Reino Pesadilla**
+Esta skin se consigue en la mision temporal de **PokéNightmares 2025**
