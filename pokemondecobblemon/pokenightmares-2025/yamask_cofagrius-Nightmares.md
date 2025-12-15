@@ -11,8 +11,8 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al personaje famoso **freddy krueger**
-![Vistazo en el juego a sneasler pokenightmares](../../images/pokemon/pokenightmares/ingame-yamask_cofra.png)
+La creación de esta skin hace referencia al personaje famoso **Jason Voorhees**
+![Vistazo en el juego a yamask y cofagrius](../../images/pokemon/pokenightmares/ingame-yamask_cofra.png)
 
 ## Obtención
 
