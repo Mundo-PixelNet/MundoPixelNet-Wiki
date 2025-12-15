@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft**
+La creación de esta skin hace referencia a uno de los personajes famoso *Angel Dust* de la serie **Hazbin Hotel**
 
 ![Vistazo en el juego a Ariados Hazbin](../../images/pokemon/pokenightmares/ariados_hazbin-ingame.png)
 
