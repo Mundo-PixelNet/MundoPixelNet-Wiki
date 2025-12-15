@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork sneasler](../../images/pokemon/pokenightmares/S.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork sneasler](../../images/pokemon/pokenightmares/Sneasler_Pokénightmares.png)                                                          |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
