@@ -17,4 +17,4 @@ La creación de esta skin hace referencia a la Creepypasta Lost Silver
 
 ## Obtención
 
-Esta skin se puede obtener en la [Tienda Oficial del servidor](https://tienda.mundopixelnet.com/category/servidor-escarlata-1)
+Esta skin se puede obtener en la [Tienda Oficial del servidor]([https://tienda.mundopixelnet.com/category/servidor-escarlata-1](https://tienda.universopokenet.com/category/pok%C3%A9mon-y-dittos))
