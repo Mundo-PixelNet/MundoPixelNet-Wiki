@@ -7,7 +7,7 @@
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![artwork yamask-cofagrius](../../images/pokemon/pokenightmares/Yamask_cofagrius.png)                                                          |                                                                                                             |
-|                    Creado por | YamatoDust                                                                                                                 |
+|                    Creado por | FuriadaNoitex                                                                                                                 |
 
 
 ### Comentario del desarrollador
