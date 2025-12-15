@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al famoso DLC del videojuego **Hollow Knight**
+La creación de esta skin hace referencia al famoso personaje *Grimm* del videojuegos DLC **Hollow Knight**.
 
 ![Vistazo en el juego a Grimm](../../images/pokemon/pokenightmares/grimm-ingame.png)
 
