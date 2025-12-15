@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft** pero con la paleta de colores de la skin Grimm 
+La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft** pero con la paleta de colores de la skin *Grimm* 
 
 ![Vistazo en el juego a noivern](../../images/pokemon/pokenightmares/TeaserGrimm_Logo.png)
 
