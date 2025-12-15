@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia a uno de los personaje famoso *Angel Dust* de la serie **Hazbin Hotel**
+La creación de esta skin hace referencia a uno personaje famoso *Angel Dust* de la serie **Hazbin Hotel**
 
 ![Vistazo en el juego a Ariados Hazbin](../../images/pokemon/pokenightmares/ariados_hazbin-ingame.png)
 
