@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Gardevoir Pixelween](../../images/pokemon/pokenightmares/Yamask_Pokénightmares.png) ![Sprite de Mega Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoirmega-sprite.png)                                                         |                                                                                                             |
+|                      **Sprite** | ![Sprite de Gardevoir Pixelween](../../images/pokemon/pokenightmares/Yamask_Pokénightmares.png) ![Sprite de Mega Gardevoir Pixelween](../../images/pokemon/pokenightmares/Cofagrigus_Pokénightmares.png)                                                         |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
