@@ -1,4 +1,4 @@
-# 💀 Noivern Warden x Grimm
+# 📕 Noivern Warden x Grimm
 
 ## Información
 
