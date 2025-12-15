@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork sneasler](../../images/pokemon/pokenightmares/Sneasler_Pokénightmares.png)                                                          |                                                                                                             |
+|                      **Sprite** | ![Sprite de Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoir-sprite.png) ![Sprite de Mega Gardevoir Pixelween](../../images/pokemon/pixelween/gardevoirmega-sprite.png)                                                         |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
