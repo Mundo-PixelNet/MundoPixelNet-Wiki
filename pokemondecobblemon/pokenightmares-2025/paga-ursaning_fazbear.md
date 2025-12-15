@@ -11,11 +11,11 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al famosos animatrónico *Freddy Fazbear* del videojuego **Five Nights at Freddy's 1**
+La creación de esta skin hace referencia al famosos animatrónico *Freddy Fazbear* del videojuego **Five Nights at Freddy's 1**.
 
 ![Vistazo en el juego a Ursaning Fazbear](../../images/pokemon/pokenightmares/ursaning-ingame.png)
 
 ## Obtención
 
 
-Esta skin se puede obtener en la [Tienda Oficial del servidor](https://tienda.universopokenet.com/category/pok%C3%A9mon-cobblemon)
+Esta skin se puede obtener en la [Tienda Oficial del servidor](https://tienda.universopokenet.com/category/pok%C3%A9mon-cobblemon).
