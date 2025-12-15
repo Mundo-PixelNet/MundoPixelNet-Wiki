@@ -12,7 +12,7 @@
 
 ### Comentario del desarrollador
 La creación de esta skin hace referencia al personaje famoso **freddy krueger**
-![Vistazo en el juego a sneasler pokenightmares](../../images/pokemon/pokenightmares/ingame-sneasler.png)
+![Vistazo en el juego a sneasler pokenightmares](../../images/pokemon/pokenightmares/ingame-yamask_cofra.png)
 
 ## Obtención
 
