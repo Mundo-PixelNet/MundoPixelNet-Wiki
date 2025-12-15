@@ -1,4 +1,4 @@
-# 🎃 Sneasler PokéNightmares
+# 🎫 Sneasler PokéNightmares
 
 ## Información
 
