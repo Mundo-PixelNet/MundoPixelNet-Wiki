@@ -12,7 +12,7 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 | 📕 Reino Pesadilla |
 | :---: |
 | [🎪 Grimm](mision-grimm.md) 
-| [💀 Noivern Warden](mision-grimm.md) 
+| [💀 Noivern Warden](mision-noivern.md) 
 | [💀 Jigglypuff Warden](mision-grimm.md) 
 | [💀 Kommo-o Warden](mision-grimm.md) 
 | [💀 Toxtricity Warden](mision-grimm.md) 
