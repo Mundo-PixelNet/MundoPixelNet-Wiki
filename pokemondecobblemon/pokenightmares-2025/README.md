@@ -11,28 +11,28 @@ Este Evento se introduce al nuevo pokémon especial **Grimm** **[Pokédex](../..
 
 | 📕 Reino Pesadilla |
 | :---: |
-| [🎪 Grimm](mision-grimm.md) 
-| [💀 Noivern Warden](mision-noivern.md) 
-| [💀 Jigglypuff Warden](mision-grimm.md) 
-| [💀 Kommo-o Warden](mision-grimm.md) 
-| [💀 Toxtricity Warden](mision-grimm.md) 
+| [📕 Grimm](mision-grimm.md) 
+| [📕 Noivern Warden](mision-noivern.md) 
+| [📕 Jigglypuff Warden](mision-grimm.md) 
+| [📕 Kommo-o Warden](mision-grimm.md) 
+| [📕 Toxtricity Warden](mision-grimm.md) 
 
 ### 🗝️ Skins del Gatcha
 
 | 🗝️ Gatcha PokéNightmares |
 | :---: |
-| [💀 Buzzwole Warden](gatcha-buzzwole_warden.md)
-| [💖 Ariados Hazbin](gatcha-ariados_hazbin.md)
+| [🗝️ Buzzwole Warden](gatcha-buzzwole_warden.md)
+| [🗝️ Ariados Hazbin](gatcha-ariados_hazbin.md)
 
 ### 🎫 Skins del Pase
 
 | 🎫 Gatcha PokéNightmares |
 | :---: |
-| [💀 Buzzwole Warden](gatcha-buzzwole_warden.md)
-| [💖 Ariados Hazbin](gatcha-ariados_hazbin.md)
+| [🎫 Buzzwole Warden](gatcha-buzzwole_warden.md)
+| [🎫 Ariados Hazbin](gatcha-ariados_hazbin.md)
 
 ### 💰 Skins de paga
 
 | 💰 Tienda |
 | :---: |
-| [ 🐻 Ursaning Fazbear](paga-ursaning_fazbear.md)
+| [💰 Ursaning Fazbear](paga-ursaning_fazbear.md)
