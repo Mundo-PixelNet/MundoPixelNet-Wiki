@@ -10,24 +10,18 @@ Para capturar un Pokémon para el álbum, primero debes encontrarlo y capturarlo
 
 Para verificar tu progreso en los álbumes activos, usa el comando /album y luego haz clic en el álbum que deseas verificar.
 
-<div style="text-align: center">
-<img src="../images/funciones/album/tutorial/album1.png"
-alt="Verificar album">
-</div>
+![Verificar album](../.gitbook/assets/album1.png)
 
 ## 💰 Reclamar recompensa
 
 Para reclamar una recompensa, debes ir a la página del álbum correspondiente y hacer clic en la skin que capturaste. Para la recompensa final, debes hacer clic en el ícono del cofre.
 
-<div style="text-align: center">
-<img src="../images/funciones/album/tutorial/album2.png"
-alt="Reclamar album">
-</div>
+![Reclamar album](../.gitbook/assets/album2.png)
 
 ## 📋 Álbumes disponibles
 
-|Álbum|Icono|
-|:---:|:---:|
-|[Mimikyu](album/album_mimikyu.md)|![Mimikyu Sprite](../images/funciones/album/mimikyu/mimigengar_sp.png)|
-|[Compañeros Navideños](album/album_pixelfest.md)|![Sylveon Sprite](../images/pokemon/pixelfest/sylveon_pixelfest_sprite.png)|
-|???|???|
+|                       Álbum                      |                                Icono                               |
+| :----------------------------------------------: | :----------------------------------------------------------------: |
+|         [Mimikyu](album/album_mimikyu.md)        |       ![Mimikyu Sprite](../.gitbook/assets/mimigengar_sp.png)      |
+| [Compañeros Navideños](album/album_pixelfest.md) | ![Sylveon Sprite](../.gitbook/assets/sylveon_pixelfest_sprite.png) |
+|                        ???                       |                                 ???                                |

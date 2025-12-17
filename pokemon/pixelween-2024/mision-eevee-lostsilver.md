@@ -4,16 +4,16 @@
 
 **Eevee Lost Silver** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Eevee Lost Silver](../../images/pokemon/pixelween/ls2-sprite.png)                                                          |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
-
+|            |                                                                      |
+| ---------: | -------------------------------------------------------------------- |
+| **Sprite** | ![Sprite de Eevee Lost Silver](../../.gitbook/assets/ls2-sprite.png) |
+| Creado por | FuriadaNoite                                                         |
 
 ### Comentario del desarrollador
+
 La creación de esta skin hace referencia a la Creepypasta Lost Silver
 
-![Vistazo en el juego a Eevee Lost Silver](../../images/pokemon/pixelween/lostsilver-preview.png)
+![Vistazo en el juego a Eevee Lost Silver](../../.gitbook/assets/lostsilver-preview.png)
 
 ## Obtención
 

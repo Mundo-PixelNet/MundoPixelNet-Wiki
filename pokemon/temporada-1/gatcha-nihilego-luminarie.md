@@ -1,18 +1,19 @@
 # 🗝️ Nihilego Luminarie
+
 ## Información
 
 **Nihilego Luminarie** es una skin exclusiva del servidor introducida en la [Temporada Mística (1)](./).
 
-|                     **Artwork** | ![Artwork de Nihilego Luminarie](../../images/pokemon/temporada-1/Luminarie.png)                                                                                    |
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                  **Sprite** | ![Sprite de Nihilego Luminarie](../../images/pokemon/temporada-1/luminarie-sprite.png)                                                        |                                                                                                             |
-|                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
-
+| **Artwork** | ![Artwork de Nihilego Luminarie](../../.gitbook/assets/Luminarie.png)       |
+| ----------: | --------------------------------------------------------------------------- |
+|  **Sprite** | ![Sprite de Nihilego Luminarie](../../.gitbook/assets/luminarie-sprite.png) |
+|  Creado por | FuriadaNoite y BonMurci                                                     |
 
 ### Comentario del desarrollador
+
 La creación de esta piel se basa en el misticismo que rodea a la luna y al espacio en general.
 
-![Vistazo en el juego a Nihilego Luminarie](../../images/pokemon/temporada-1/luminarie-formas.png)
+![Vistazo en el juego a Nihilego Luminarie](../../.gitbook/assets/luminarie-formas.png)
 
 ## Obtención
 

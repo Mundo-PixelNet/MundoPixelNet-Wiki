@@ -4,16 +4,16 @@
 
 **Guzzlord Calabaza** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Guzzlord Calabaza](../../images/pokemon/pixelween/calabaza-sprite.png)                                           |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
-
+|            |                                                                           |
+| ---------: | ------------------------------------------------------------------------- |
+| **Sprite** | ![Sprite de Guzzlord Calabaza](../../.gitbook/assets/calabaza-sprite.png) |
+| Creado por | FuriadaNoite                                                              |
 
 ### Comentario del desarrollador
+
 La creación de esta skin hace referencia a las calabazas "Jack o' Lantern" que se hacen en Halloween.
 
-![Vistazo en el juego a Guzzlord Calabaza](../../images/pokemon/pixelween/calabaza-preview.png)
+![Vistazo en el juego a Guzzlord Calabaza](../../.gitbook/assets/calabaza-preview.png)
 
 ## Obtención
 

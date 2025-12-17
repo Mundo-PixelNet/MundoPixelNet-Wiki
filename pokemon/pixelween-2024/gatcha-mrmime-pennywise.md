@@ -1,18 +1,19 @@
-# 🗝️ MR. Mime Pennywise
+# 🗝️ Mr. Mime Pennywise
 
 ## Información
 
 **MR. Mime Pennywise** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de MR. Mime Pennywise](../../images/pokemon/pixelween/pennywise-sprite.png)                                           |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
 
+|            |                                                                             |
+| ---------: | --------------------------------------------------------------------------- |
+| **Sprite** | ![Sprite de MR. Mime Pennywise](../../.gitbook/assets/pennywise-sprite.png) |
+| Creado por | FuriadaNoite                                                                |
 
 ### Comentario del desarrollador
+
 La creación de esta skin hace referencia a Pennywise de la pelicula "IT (2017)"
 
-![Vistazo en el juego a MR. Mime Pennywise](../../images/pokemon/pixelween/pennywise-preview.png)
+![Vistazo en el juego a MR. Mime Pennywise](../../.gitbook/assets/pennywise-preview.png)
 
 ## Obtención
 

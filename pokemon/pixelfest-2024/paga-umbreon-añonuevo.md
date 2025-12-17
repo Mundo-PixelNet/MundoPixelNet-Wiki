@@ -4,16 +4,16 @@
 
 **Umbreon Año Nuevo** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Umbreon Año Nuevo](../../images/pokemon/pixelfest/umbreon_pixelfest_sprite.png)                                                          |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
-
+|            |                                                                                    |
+| ---------: | ---------------------------------------------------------------------------------- |
+| **Sprite** | ![Sprite de Umbreon Año Nuevo](../../.gitbook/assets/umbreon_pixelfest_sprite.png) |
+| Creado por | FuriadaNoite                                                                       |
 
 ### Comentario del desarrollador
+
 La creación de esta skin hace referencia al cielo luminoso del año nuevo, con fuegos artificiales
 
-![Vistazo en el juego a Umbreon Año Nuevo](../../images/pokemon/pixelfest/umbreon-preview.png)
+![Vistazo en el juego a Umbreon Año Nuevo](../../.gitbook/assets/umbreon-preview.png)
 
 ## Obtención
 

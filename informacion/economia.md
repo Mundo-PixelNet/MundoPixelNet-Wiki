@@ -1,9 +1,11 @@
 ---
-description: >-
-  Consulta la lista de precios para la compra venta de objetos en el servidor.
+description: Consulta la lista de precios para la compra venta de objetos en el servidor.
 ---
 
-# 🛒 Introducción
+# 🛒 Lista de Precios
+
+## 🛒 Introducción
+
 ¡Bievenidos al apartado de "listado de precios"! Aquí encontrarás un listado de precios mínimos a los cuales vender tus Pokémon/objetos en el servidor.
 
 Dicha lista de precios es meramente orientativa y sirve para tener una idea de a qué precios mínimos vender, pudiendo así vender a más, pero no a menos de lo permitido, la lista es **oficial** aunque puede estar sujeta a cambios según como vaya la economía en el servidor.
@@ -14,680 +16,650 @@ Está separado en diferfentes categorías: **Balls**, **Minerales**, **Crianza**
 
 Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dudes en escribirla en [nuestro servidor de Discord](https://wiki.mundopixelnet.com/)!
 
-# Balls x Stack
+## Balls x Stack
 
-|  Imagen |Nombre  |  Precio  | Descripción |
-| - | - | - | - |
-|![Poke Ball](../images/iconos/balls/POKEBALL.png)   |Poké Ball  |15K   |Ratio de captura x1. |
-|![Great Ball](../images/iconos/balls/GREATBALL.png) | Super Ball |20K |Ratio de captura x2.   |
-|![Ultra Ball](../images/iconos/balls/ULTRABALL.png)   |Ultra Ball |25K  |Ratio de captura x3.  |
-|![Dive Ball](../images/iconos/balls/DIVEBALL.png)   |Buceo Ball |20K |Ratio x3.5 si el Pokémon está en el agua.   |
-|![Dusk Ball](../images/iconos/balls/DUSKBALL.png)   |Ocaso Ball |25K   |Ratio x3.0 en lugares de poca luz. |
-|![Fast Ball](../images/iconos/balls/FASTBALL.png)   |Rapid Ball |20K |El ratio aumenta hasta x4 con los Pokémon de mayor velocidad base de 100.   |
-|![Friend Ball](../images/iconos/balls/FRIENDBALL.png)   |Amigo Ball |15K |Aumenta la felicidad de los Pokémon capturados. |
-|![Heal Ball](../images/iconos/balls/HEALBALL.png)  |Sana Ball |15K |Sana a los Pokémon capturados.    |
-|![Heavy Ball](../images/iconos/balls/HEAVYBALL.png)   |Peso Ball |20K |Aumenta el ratio con los Pokémon pesados.    |
-|![Level Ball](../images/iconos/balls/LEVELBALL.png)   |Nivel Ball|20K |Ratio más alto si el nivel del Pokémon es bajo.    |
-|![Love Ball](../images/iconos/balls/LOVEBALL.png)   |Amor Ball |20k   |El ratio aumenta si los Pokémon son de distinto género.   |
-|![Lure Ball](../images/iconos/balls/LUREBALL.png)   |Cebo Ball  |20K | Ratio x5 en los encuentros por pesca.  |
-|![Luxury Ball](../images/iconos/balls/LUXURYBALL.png)   |Lujo Ball  |25K |El Pokémon capturado gana felicidad rápidamente.     |
-|![Moon Ball](../images/iconos/balls/MOONBALL.png)   |Luna Ball  |15K |Ratio x4 si el Pokémon se evoluciona con Piedra Lunar.   |
-|![Nest Ball](../images/iconos/balls/NESTBALL.png)   |Nido Ball |20K |Aumenta el ratio con Pokémon bajo nivel.   |
-|![Net Ball](../images/iconos/balls/NETBALL.png)   |Malla Ball| 20K |Ratio x3 con Pokémon tipo bicho y agua.    |
-|![Premier Ball](../images/iconos/balls/PREMIERBALL.png)   |Honor Ball |15K  |Da efecto de partículas al sacarlos de la Ball. |
-|![Quick Ball](../images/iconos/balls/QUICKBALL.png)   |Veloz Ball |25K |Ratio x5 si se usa en el primer turno.    |
-|![Repeat Ball](../images/iconos/balls/REPEATBALL.png)   |Acopio Ball |25K   |Ratio x3 si ya capturaste esa especie.|
-|![Safari Ball](../images/iconos/balls/SAFARIBALL.png)   |Safari Ball |15K |Ratio x1.5 en planicies.   |
-|![Sport Ball](../images/iconos/balls/SPORTBALL.png)   |Competi Ball |15K | Ratio x1.5 Pokémon tipo bicho.  |
-|![Timer Ball](../images/iconos/balls/TIMERBALL.png)   |Turno Ball |25K   |Mientras más dura el combate más alto es el ratio.|
-|![Dream Ball](../images/iconos/balls/DREAMBALL.png)   |Ensueño Ball  |30K   |Ratio x4 en Pokémon dormidos. |
+| Imagen                                              | Nombre       | Precio | Descripción                                                               |
+| --------------------------------------------------- | ------------ | ------ | ------------------------------------------------------------------------- |
+| ![Poke Ball](../.gitbook/assets/POKEBALL.png)       | Poké Ball    | 15K    | Ratio de captura x1.                                                      |
+| ![Great Ball](../.gitbook/assets/GREATBALL.png)     | Super Ball   | 20K    | Ratio de captura x2.                                                      |
+| ![Ultra Ball](../.gitbook/assets/ULTRABALL.png)     | Ultra Ball   | 25K    | Ratio de captura x3.                                                      |
+| ![Dive Ball](../.gitbook/assets/DIVEBALL.png)       | Buceo Ball   | 20K    | Ratio x3.5 si el Pokémon está en el agua.                                 |
+| ![Dusk Ball](../.gitbook/assets/DUSKBALL.png)       | Ocaso Ball   | 25K    | Ratio x3.0 en lugares de poca luz.                                        |
+| ![Fast Ball](../.gitbook/assets/FASTBALL.png)       | Rapid Ball   | 20K    | El ratio aumenta hasta x4 con los Pokémon de mayor velocidad base de 100. |
+| ![Friend Ball](../.gitbook/assets/FRIENDBALL.png)   | Amigo Ball   | 15K    | Aumenta la felicidad de los Pokémon capturados.                           |
+| ![Heal Ball](../.gitbook/assets/HEALBALL.png)       | Sana Ball    | 15K    | Sana a los Pokémon capturados.                                            |
+| ![Heavy Ball](../.gitbook/assets/HEAVYBALL.png)     | Peso Ball    | 20K    | Aumenta el ratio con los Pokémon pesados.                                 |
+| ![Level Ball](../.gitbook/assets/LEVELBALL.png)     | Nivel Ball   | 20K    | Ratio más alto si el nivel del Pokémon es bajo.                           |
+| ![Love Ball](../.gitbook/assets/LOVEBALL.png)       | Amor Ball    | 20k    | El ratio aumenta si los Pokémon son de distinto género.                   |
+| ![Lure Ball](../.gitbook/assets/LUREBALL.png)       | Cebo Ball    | 20K    | Ratio x5 en los encuentros por pesca.                                     |
+| ![Luxury Ball](../.gitbook/assets/LUXURYBALL.png)   | Lujo Ball    | 25K    | El Pokémon capturado gana felicidad rápidamente.                          |
+| ![Moon Ball](../.gitbook/assets/MOONBALL.png)       | Luna Ball    | 15K    | Ratio x4 si el Pokémon se evoluciona con Piedra Lunar.                    |
+| ![Nest Ball](../.gitbook/assets/NESTBALL.png)       | Nido Ball    | 20K    | Aumenta el ratio con Pokémon bajo nivel.                                  |
+| ![Net Ball](../.gitbook/assets/NETBALL.png)         | Malla Ball   | 20K    | Ratio x3 con Pokémon tipo bicho y agua.                                   |
+| ![Premier Ball](../.gitbook/assets/PREMIERBALL.png) | Honor Ball   | 15K    | Da efecto de partículas al sacarlos de la Ball.                           |
+| ![Quick Ball](../.gitbook/assets/QUICKBALL.png)     | Veloz Ball   | 25K    | Ratio x5 si se usa en el primer turno.                                    |
+| ![Repeat Ball](../.gitbook/assets/REPEATBALL.png)   | Acopio Ball  | 25K    | Ratio x3 si ya capturaste esa especie.                                    |
+| ![Safari Ball](../.gitbook/assets/SAFARIBALL.png)   | Safari Ball  | 15K    | Ratio x1.5 en planicies.                                                  |
+| ![Sport Ball](../.gitbook/assets/SPORTBALL.png)     | Competi Ball | 15K    | Ratio x1.5 Pokémon tipo bicho.                                            |
+| ![Timer Ball](../.gitbook/assets/TIMERBALL.png)     | Turno Ball   | 25K    | Mientras más dura el combate más alto es el ratio.                        |
+| ![Dream Ball](../.gitbook/assets/DREAMBALL.png)     | Ensueño Ball | 30K    | Ratio x4 en Pokémon dormidos.                                             |
 
-# Balls x Unidad
+## Balls x Unidad
 
-|Imagen   | Nombre  | Precio  |Descripción |
-| - | - | - | - |
-|![Cherish Ball](../images/iconos/balls/CHERISHBALL.png)  | Gloria Ball |15K|Poké Ball de evento.    |
-|![Master Ball](../images/iconos/balls/MASTERBALL.png)   | Master Ball |80K |Nunca falla.   |
-|![Park Ball](../images/iconos/balls/PARKBALL.png)   | Parque Ball |80K |Nunca falla.   |
-|![Beast Ball](../images/iconos/balls/BEASTBALL.png)   |Ente Ball |100k |Ratio x5 en Ultraentes.    |
-|![GS Ball](../images/iconos/balls/GSBALL.png)   |GS Ball   |500K  |Se usa para invocar a Celebi.   |
-|![Origin Ball](../images/iconos/balls/ORIGINBALL.png)   |Origen Ball  |100K |Poké Ball de evento.   |
-|![Strange Ball](../images/iconos/balls/STRANGEBALL.png)   |Extraña Ball  |100K |Poké Ball especial. Ratio de captura x1.    |
-|![Christmas Ball](../images/iconos/balls/CHRISTMASBALL.png)   |Navidad Ball  |25K |Poké Ball especial. Ratio de captura x1. Posible obtener Skins exclusivas al capturarse con esta Ball.   |
+| Imagen                                                  | Nombre       | Precio | Descripción                                                                                            |
+| ------------------------------------------------------- | ------------ | ------ | ------------------------------------------------------------------------------------------------------ |
+| ![Cherish Ball](../.gitbook/assets/CHERISHBALL.png)     | Gloria Ball  | 15K    | Poké Ball de evento.                                                                                   |
+| ![Master Ball](../.gitbook/assets/MASTERBALL.png)       | Master Ball  | 80K    | Nunca falla.                                                                                           |
+| ![Park Ball](../.gitbook/assets/PARKBALL.png)           | Parque Ball  | 80K    | Nunca falla.                                                                                           |
+| ![Beast Ball](../.gitbook/assets/BEASTBALL.png)         | Ente Ball    | 100k   | Ratio x5 en Ultraentes.                                                                                |
+| ![GS Ball](../.gitbook/assets/GSBALL.png)               | GS Ball      | 500K   | Se usa para invocar a Celebi.                                                                          |
+| ![Origin Ball](../.gitbook/assets/ORIGINBALL.png)       | Origen Ball  | 100K   | Poké Ball de evento.                                                                                   |
+| ![Strange Ball](../.gitbook/assets/STRANGEBALL.png)     | Extraña Ball | 100K   | Poké Ball especial. Ratio de captura x1.                                                               |
+| ![Christmas Ball](../.gitbook/assets/CHRISTMASBALL.png) | Navidad Ball | 25K    | Poké Ball especial. Ratio de captura x1. Posible obtener Skins exclusivas al capturarse con esta Ball. |
 
-# Mineral x Stack
+## Mineral x Stack
 
-|Mineral  |Precio   |
-| - | - |
-|Mena de hierro   |16K   |
-|Oro   |18K   |
-|Mena de Bauxita o Aluminio   |16K   |
-|Diamante   |20K   |
-|Redstone   |3K   |
-|Plata   |25K   |
-|Carbón   |7K   |
-|Cristal   |10K   |
-|Silicio   |10K   |
-|Rubí y Zafiro   |10K   |
-|Esmeralda   |20K   |
-|Platino   |30K   |
+| Mineral                    | Precio |
+| -------------------------- | ------ |
+| Mena de hierro             | 16K    |
+| Oro                        | 18K    |
+| Mena de Bauxita o Aluminio | 16K    |
+| Diamante                   | 20K    |
+| Redstone                   | 3K     |
+| Plata                      | 25K    |
+| Carbón                     | 7K     |
+| Cristal                    | 10K    |
+| Silicio                    | 10K    |
+| Rubí y Zafiro              | 10K    |
+| Esmeralda                  | 20K    |
+| Platino                    | 30K    |
 
-# Objetos de Crianza
+## Objetos de Crianza
 
-|Icono   |Nombre |Precio |
-| - | - | - |
-|![Inciensos](../images/iconos/pokemoncrianza/WAVEINCENSE.png)   |Inciensos |15K   | |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/ABILITYCAPSULE.png)   |Cápsula Habilidad|20K|Permite cambiar la habilidad a un Pokémon que tiene dos.    |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/ABILITYPATCH.png)   |Parche Habilidad|80K|Permite cambiar la habilidad a un Pokémon por su Habilidad Oculta    |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/EVERSTONE.png)   |Piedra eterna|10K |Impide la evolución del Pokémon que la lleve equipada. Y sirve para traspasar la Naturaleza en la crianza.   |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/DESTINYKNOT.png)   |Lazo destino|50K |Hace que si el portador se enamora de un Pokémon, dicho Pokémon se enamore también del portador. Y sirve para traspasar 5 IVs al azar en la crianza.    |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/POWERWEIGHT.png)   |Pesa Recia |40K    |El Pokémon que la lleve equipada recibe 4 puntos de esfuerzo (EVs) extra en PS al participar en la derrota de un Pokémon en un combate. Y sirve para traspasar el IV de los PS en la crianza. |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/POWERLENS.png)   |Lente Recia|40K   |Ataque Especial |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/POWERBRACER.png)   |Brazal Recio|40K   |Ataque |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/POWERBELT.png)   |Cinto Recio |40K   |Defensa |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/POWERBAND.png)   |Banda Recia|40K   |Defensa Especial |
-|![Cápsula Habilidad](../images/iconos/pokemoncrianza/POWERANKLET.png)   |Franja Recia|40K   |Velocidad |
+| Icono                                                       | Nombre            | Precio |
+| ----------------------------------------------------------- | ----------------- | ------ |
+| ![Inciensos](../.gitbook/assets/WAVEINCENSE.png)            | Inciensos         | 15K    |
+| ![Cápsula Habilidad](../.gitbook/assets/ABILITYCAPSULE.png) | Cápsula Habilidad | 20K    |
+| ![Cápsula Habilidad](../.gitbook/assets/ABILITYPATCH.png)   | Parche Habilidad  | 80K    |
+| ![Cápsula Habilidad](../.gitbook/assets/EVERSTONE.png)      | Piedra eterna     | 10K    |
+| ![Cápsula Habilidad](../.gitbook/assets/DESTINYKNOT.png)    | Lazo destino      | 50K    |
+| ![Cápsula Habilidad](../.gitbook/assets/POWERWEIGHT.png)    | Pesa Recia        | 40K    |
+| ![Cápsula Habilidad](../.gitbook/assets/POWERLENS.png)      | Lente Recia       | 40K    |
+| ![Cápsula Habilidad](../.gitbook/assets/POWERBRACER.png)    | Brazal Recio      | 40K    |
+| ![Cápsula Habilidad](../.gitbook/assets/POWERBELT.png)      | Cinto Recio       | 40K    |
+| ![Cápsula Habilidad](../.gitbook/assets/POWERBAND.png)      | Banda Recia       | 40K    |
+| ![Cápsula Habilidad](../.gitbook/assets/POWERANKLET.png)    | Franja Recia      | 40K    |
 
+## Tablas
 
+| Icono                                              | Nombre           | Precio |
+| -------------------------------------------------- | ---------------- | ------ |
+| ![Draco Plate](../.gitbook/assets/DRACOPLATE.png)  | Tabla Draco      | 25K    |
+| ![Draco Plate](../.gitbook/assets/DREADPLATE.png)  | Tabla Oscura     | 25K    |
+| ![Draco Plate](../.gitbook/assets/EARTHPLATE.png)  | Tabla Terrax     | 25K    |
+| ![Draco Plate](../.gitbook/assets/FISTPLATE.png)   | Tabla Fuerte     | 25K    |
+| ![Draco Plate](../.gitbook/assets/FLAMEPLATE.png)  | Tabla Llama      | 25K    |
+| ![Draco Plate](../.gitbook/assets/ICICLEPLATE.png) | Tabla Helada     | 25K    |
+| ![Draco Plate](../.gitbook/assets/INSECTPLATE.png) | Tabla Bicho      | 25K    |
+| ![Draco Plate](../.gitbook/assets/MEADOWPLATE.png) | Tabla Pradal     | 25K    |
+| ![Draco Plate](../.gitbook/assets/MINDPLATE.png)   | Tabla Mental     | 25K    |
+| ![Draco Plate](../.gitbook/assets/PIXIEPLATE.png)  | Tabla Duende     | 25K    |
+| ![Draco Plate](../.gitbook/assets/SKYPLATE.png)    | Tabla Cielo      | 25K    |
+| ![Draco Plate](../.gitbook/assets/SPLASHPLATE.png) | Tabla Linfa      | 25K    |
+| ![Draco Plate](../.gitbook/assets/SPOOKYPLATE.png) | Tabla Terror     | 25K    |
+| ![Draco Plate](../.gitbook/assets/STONEPLATE.png)  | Tabla Pétrea     | 25K    |
+| ![Draco Plate](../.gitbook/assets/TOXICPLATE.png)  | Tabla Tóxica     | 25K    |
+| ![Draco Plate](../.gitbook/assets/ZAPPLATE.png)    | Tabla Trueno     | 25K    |
+| ![Draco Plate](../.gitbook/assets/BLANKPLATE.png)  | Tabla Neutra     | 25K    |
+| ![Draco Plate](../.gitbook/assets/LEGENDPLATE.png) | Tabla Legendaria | 425K   |
 
-# Tablas
+## Máquinas
 
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![Draco Plate](../images/iconos/tablas/DRACOPLATE.png)   |Tabla Draco   |25K   | |
-|![Draco Plate](../images/iconos/tablas/DREADPLATE.png)   |Tabla Oscura   |25K    | |
-|![Draco Plate](../images/iconos/tablas/EARTHPLATE.png)   |Tabla Terrax   |25K    | |
-|![Draco Plate](../images/iconos/tablas/FISTPLATE.png)   |Tabla Fuerte   |25K    | |
-|![Draco Plate](../images/iconos/tablas/FLAMEPLATE.png)   |Tabla Llama   |25K    | |
-|![Draco Plate](../images/iconos/tablas/ICICLEPLATE.png)   |Tabla Helada   |25K    | |
-|![Draco Plate](../images/iconos/tablas/INSECTPLATE.png)   |Tabla Bicho  |25K    | |
-|![Draco Plate](../images/iconos/tablas/MEADOWPLATE.png)   |Tabla Pradal   |25K    | |
-|![Draco Plate](../images/iconos/tablas/MINDPLATE.png)   |Tabla Mental   |25K    | |
-|![Draco Plate](../images/iconos/tablas/PIXIEPLATE.png)   |Tabla Duende  |25K    | |
-|![Draco Plate](../images/iconos/tablas/SKYPLATE.png)   |Tabla Cielo   |25K    | |
-|![Draco Plate](../images/iconos/tablas/SPLASHPLATE.png)   |Tabla Linfa   |25K    | |
-|![Draco Plate](../images/iconos/tablas/SPOOKYPLATE.png)   |Tabla Terror   |25K    | |
-|![Draco Plate](../images/iconos/tablas/STONEPLATE.png)   |Tabla Pétrea   |25K    | |
-|![Draco Plate](../images/iconos/tablas/TOXICPLATE.png)   |Tabla Tóxica   |25K    | |
-|![Draco Plate](../images/iconos/tablas/ZAPPLATE.png)   |Tabla Trueno   |25K    | |
-|![Draco Plate](../images/iconos/tablas/BLANKPLATE.png)   |Tabla Neutra   |25K    | |
-|![Draco Plate](../images/iconos/tablas/LEGENDPLATE.png)   |Tabla Legendaria   |425K    | |
+| Icono                                              | Nombre                 | Precio |
+| -------------------------------------------------- | ---------------------- | ------ |
+| ![PC](../.gitbook/assets/PC.png)                   | PC                     | 5K     |
+| ![PC](../.gitbook/assets/Infusor.png)              | Infusor                | 5K     |
+| ![PC](../.gitbook/assets/Maquinacuracion.png)      | Máquina de curación    | 5K     |
+| ![PC](../.gitbook/assets/Limpiadordefosiles.png)   | Limpiador de fósiles   | 5K     |
+| ![PC](../.gitbook/assets/Maquinadefosiles.png)     | Máquina de fósiles     | 15K    |
+| ![PC](../.gitbook/assets/Maquinadeintercambio.png) | Máquina de Intercambio | 5K     |
+| ![PC](../.gitbook/assets/Placademovimiento.png)    | Placa de movimiento    | 2K     |
+| ![PC](../.gitbook/assets/Elevador.png)             | Elevador               | 1K     |
+| ![PC](../.gitbook/assets/Maquinadeclonacion.png)   | Máquina de Clonación   | 50K    |
+| ![PC](../.gitbook/assets/Guarderia.png)            | Guardería              | 27K    |
 
+## Megapiedras
 
+| Icono                                                   | Nombre         | Precio    | Descripción                                  |
+| ------------------------------------------------------- | -------------- | --------- | -------------------------------------------- |
+| ![Abomasnowita](../.gitbook/assets/ABOMASITE.png)       | Abomasnowita   | 20K-40K   | Megapiedra para Megaevolucionar a Abomasnow  |
+| ![Absolita](../.gitbook/assets/ABSOLITE.png)            | Absolita       | 50K-75K   | Megapiedra para Megaevolucionar a Absol      |
+| ![Aerodactylita](../.gitbook/assets/AERODACTYLITE.png)  | Aerodactylita  | 100K-120K | Megapiedra para Megaevolucionar a Aerodactyl |
+| ![Aggronita](../.gitbook/assets/AGGRONITE.png)          | Aggronita      | 25K-50K   | Megapiedra para Megaevolucionar a Aggro      |
+| ![Alakazamita](../.gitbook/assets/ALAKAZITE.png)        | Alakazamita    | 70K-80K   | Megapiedra para Megaevolucionar a Alakazam   |
+| ![Altarianita](../.gitbook/assets/ALTARIANITE.png)      | Altarianita    | 100K-120K | Megapiedra para Megaevolucionar a Altaria    |
+| ![Ampharosita](../.gitbook/assets/AMPHAROSITE.png)      | Ampharosita    | 30K-50K   | Megapiedra para Megaevolucionar a Ampharos   |
+| ![Audinita](../.gitbook/assets/AUDINITE.png)            | Audinita       | 40K-60K   | Megapiedra para Megaevolucionar a Audino     |
+| ![Banettita](../.gitbook/assets/BANETTITE.png)          | Banettita      | 50K-60K   | Megapiedra para Megaevolucionar a Banette    |
+| ![Beedrillita](../.gitbook/assets/BEEDRILLITE.png)      | Beedrillita    | 20K-30K   | Megapiedra para Megaevolucionar a Beedrill   |
+| ![Blastoisita](../.gitbook/assets/BLASTOISINITE.png)    | Blastoisita    | 100K-120K | Megapiedra para Megaevolucionar a Blastoise  |
+| ![BlaziKenita](../.gitbook/assets/BLAZIKENITE.png)      | Blazikenita    | 120K-140K | Megapiedra para Megaevolucionar a Blaziken   |
+| ![Cameruptita](../.gitbook/assets/CAMERUPTITE.png)      | Cameruptita    | 40K-50K   | Megapiedra para Megaevolucionar a Camerupt   |
+| ![Charizardita X](../.gitbook/assets/CHARIZARDITEX.png) | Charizardita X | 190K-200K | Megapiedra para Megaevolucionar a Charizard  |
+| ![Charizardita Y](../.gitbook/assets/CHARIZARDITEY.png) | Charizardita Y | 200K-220K | Megapiedra para Megaevolucionar a Charizard  |
+| ![Diancita](../.gitbook/assets/DIANCITE.png)            | Diancita       | 140K-150K | Megapiedra para Megaevolucionar a Diancie    |
+| ![Galladita](../.gitbook/assets/GALLADITE.png)          | Galladita      | 70K-90K   | Megapiedra para Megaevolucionar a Gallade    |
+| ![Garchompita](../.gitbook/assets/GARCHOMPITE.png)      | Garchompita    | 110K-130K | Megapiedra para Megaevolucionar a Garchomp   |
+| ![Gardevoirita](../.gitbook/assets/GARDEVOIRITE.png)    | Gardevoirita   | 120K-140K | Megapiedra para Megaevolucionar a Gardevoir  |
+| ![Gengarita](../.gitbook/assets/GENGARITE.png)          | Gengarita      | 90K-100K  | Megapiedra para Megaevolucionar a Gengar     |
+| ![Glalita](../.gitbook/assets/GLALITITE.png)            | Glalita        | 20K-30K   | Megapiedra para Megaevolucionar a Glalie     |
+| ![Sharpedonita](../.gitbook/assets/SHARPEDONITE.png)    | Sharpedonita   | 65K-80K   | Megapiedra para Megaevolucionar a Sharpedo   |
+| ![Steelixita](../.gitbook/assets/STEELIXITE.png)        | Steelixita     | 50K-60K   | Megapiedra para Megaevolucionar a Steelix    |
+| ![Tyranitarita](../.gitbook/assets/TYRANITARITE.png)    | Tyranitarita   | 115K-125K | Megapiedra para Megaevolucionar a Tyranitar  |
+| ![Gyaradosita](../.gitbook/assets/GYARADOSITE.png)      | Gyaradosita    | 100K-120K | Megapiedra para Megaevolucionar a Gyarados   |
+| ![Heracrossita](../.gitbook/assets/HERACRONITE.png)     | Heracrossita   | 20K-30K   | Megapiedra para Megaevolucionar a Heracross  |
+| ![Houndoomita](../.gitbook/assets/HOUNDOOMINITE.png)    | Houndoomita    | 50K-60K   | Megapiedra para Megaevolucionar a Houndoom   |
+| ![Kangaskhanita](../.gitbook/assets/KANGASKHANITE.png)  | Kangaskhanita  | 90K-100K  | Megapiedra para Megaevolucionar a Kangaskhan |
+| ![Latiasita](../.gitbook/assets/LATIASITE.png)          | Latiasita      | 170K-200K | Megapiedra para Megaevolucionar a Latias     |
+| ![Latiosita](../.gitbook/assets/LATIOSITE.png)          | Latiosita      | 150-180K  | Megapiedra para Megaevolucionar a Latios     |
+| ![Lopunnita](../.gitbook/assets/LOPUNNITE.png)          | Lopunnita      | 180K-200K | Megapiedra para Megaevolucionar a Lopunny    |
+| ![Lucarita](../.gitbook/assets/LUCARIONITE.png)         | Lucarita       | 170K-180K | Megapiedra para Megaevolucionar a Lucario    |
+| ![Manectricita](../.gitbook/assets/MANECTITE.png)       | Manectricita   | 30K-50K   | Megapiedra para Megaevolucionar a Manectric  |
+| ![Mawilita](../.gitbook/assets/MAWILITE.png)            | Mawilita       | 100K-110K | Megapiedra para Megaevolucionar a Mawile     |
+| ![Medichamita](../.gitbook/assets/MEDICHAMITE.png)      | Medichamita    | 60K-70K   | Megapiedra para Megaevolucionar a Medicham   |
+| ![Metagrossita](../.gitbook/assets/METAGROSSITE.png)    | Metagrossita   | 160K-170K | Megapiedra para Megaevolucionar a Metagross  |
+| ![Mewtwoita X](../.gitbook/assets/MEWTWONITEX.png)      | Mewtwoita X    | 220K-240K | Megapiedra para Megaevolucionar a Mewtwo     |
+| ![Mewtwoita Y](../.gitbook/assets/MEWTWONITEY.png)      | Mewtwoita Y    | 230K-250K | Megapiedra para Megaevolucionar a Mewtwo     |
+| ![Pidgeotita](../.gitbook/assets/PIDGEOTITE.png)        | Pidgeotita     | 30K-40K   | Megapiedra para Megaevolucionar a Pidgeot    |
+| ![Pinsirita](../.gitbook/assets/PINSIRITE.png)          | Pinsirita      | 40K-55K   | Megapiedra para Megaevolucionar a Pinsir     |
+| ![Sableynita](../.gitbook/assets/SABLENITE.png)         | Sableynita     | 30K-50K   | Megapiedra para Megaevolucionar a Sableye    |
+| ![Salamencita](../.gitbook/assets/SALAMENCITE.png)      | Salamencita    | 200K-210K | Megapiedra para Megaevolucionar a Salamence  |
+| ![Sceptilita](../.gitbook/assets/SCEPTILITE.png)        | Sceptilita     | 90K-100K  | Megapiedra para Megaevolucionar a Sceptile   |
+| ![Scizorita](../.gitbook/assets/SCIZORITE.png)          | Scizorita      | 90K-100K  | Megapiedra para Megaevolucionar a Scizor     |
+| ![Slowbronita](../.gitbook/assets/SLOWBRONITE.png)      | Slowbronita    | 40K-55K   | Megapiedra para Megaevolucionar a Slowbro    |
+| ![Swampertita](../.gitbook/assets/SWAMPERTITE.png)      | Swampertita    | 110K-130K | Megapiedra para Megaevolucionar a Swampert   |
+| ![Venusaurita](../.gitbook/assets/VENUSAURITE.png)      | Venusaurita    | 90K-100K  | Megapiedra para Megaevolucionar a Venusaur   |
 
-# Máquinas
+## Objetos de Evolución
 
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![PC](../images/iconos/maquinas/PC.png)   | PC  |5K   |   |
-|![PC](../images/iconos/maquinas/Infusor.png)   | Infusor   |5K   |   |
-|![PC](../images/iconos/maquinas/Maquinacuracion.png)   |Máquina de curación   |5K   |   |
-|![PC](../images/iconos/maquinas/Limpiadordefosiles.png)   |Limpiador de fósiles   |5K   |   |
-|![PC](../images/iconos/maquinas/Maquinadefosiles.png)   |Máquina de fósiles     |15K   |  |   |
-|![PC](../images/iconos/maquinas/Maquinadeintercambio.png)   |Máquina de Intercambio    |5K    |  |   |
-|![PC](../images/iconos/maquinas/Placademovimiento.png)   |Placa de movimiento    |2K   |   |   |
-|![PC](../images/iconos/maquinas/Elevador.png)   |Elevador   |1K   |   |
-|![PC](../images/iconos/maquinas/Maquinadeclonacion.png)   |Máquina de Clonación   |50K   |   |
-|![PC](../images/iconos/maquinas/Guarderia.png)   |Guardería   |27K   |   |
+| Icono                                                  | Nombre             | Precio |
+| ------------------------------------------------------ | ------------------ | ------ |
+| ![Piedra Hielo](../.gitbook/assets/ICESTONE.png)       | Piedra Hielo       | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/DAWNSTONE.png)      | Piedra Alba        | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/FIRESTONE.png)      | Piedra Fuego       | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/LEAFSTONE.png)      | Piedra Hoja        | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/MOONSTONE.png)      | Piedra Lunar       | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/SHINYSTONE.png)     | Piedra Día         | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/SUNSTONE.png)       | Piedra Solar       | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/THUNDERSTONE.png)   | Piedra Trueno      | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/DUSKSTONE.png)      | Piedra Noche       | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/WATERSTONE.png)     | Piedra Agua        | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/DEEPSEASCALE.png)   | Escama marina      | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/DEEPSEATOOTH.png)   | Diente marino      | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/DRAGONSCALE.png)    | Escamadragón       | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/DUBIOUSDISC.png)    | Discoextraño       | 25K    |
+| ![Piedra Hielo](../.gitbook/assets/ELECTIRIZER.png)    | Electrizador       | 30K    |
+| ![Piedra Hielo](../.gitbook/assets/MAGMARIZER.png)     | Magmatizador       | 30K    |
+| ![Piedra Hielo](../.gitbook/assets/OVALSTONE.png)      | Piedra Oval        | 10K    |
+| ![Piedra Hielo](../.gitbook/assets/PRISMSCALE.png)     | Escama bella       | 30K    |
+| ![Piedra Hielo](../.gitbook/assets/PROTECTOR.png)      | Protector          | 30K    |
+| ![Piedra Hielo](../.gitbook/assets/REAPERCLOTH.png)    | Telaterrible       | 20K    |
+| ![Piedra Hielo](../.gitbook/assets/SACHET.png)         | Saquito fragante   | 15K    |
+| ![Piedra Hielo](../.gitbook/assets/UPGRADE.png)        | Mejora             | 25K    |
+| ![Piedra Hielo](../.gitbook/assets/WHIPPEDDREAM.png)   | Dulce de nata      | 15K    |
+| ![Piedra Hielo](../.gitbook/assets/GALARICACUFF.png)   | Brazal galanuez    | 30K    |
+| ![Piedra Hielo](../.gitbook/assets/CRACKEDPOT.png)     | Tetera agrietada   | 20K    |
+| ![Piedra Hielo](../.gitbook/assets/TARTAPPLE.png)      | Manzana ácida      | 20K    |
+| ![Piedra Hielo](../.gitbook/assets/SWEETAPPLE.png)     | Manzana dulce      | 20K    |
+| ![Piedra Hielo](../.gitbook/assets/KINGSROCK.png)      | Roca del Rey       | 15K    |
+| ![Piedra Hielo](../.gitbook/assets/MALICIOUSARMOR.png) | Armadura Maliciosa | 50K    |
+| ![Piedra Hielo](../.gitbook/assets/RAZORFANG.png)      | Colmillo Agudo     | 15K    |
 
-# Megapiedras
+## Objetos Competitivos
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|![Abomasnowita](../images/iconos/megapiedras/ABOMASITE.png)   |Abomasnowita   |20K-40K   |Megapiedra para Megaevolucionar a Abomasnow   |
-|![Absolita](../images/iconos/megapiedras/ABSOLITE.png)   |Absolita   |50K-75K   |Megapiedra para Megaevolucionar a Absol   |
-|![Aerodactylita](../images/iconos/megapiedras/AERODACTYLITE.png)   |Aerodactylita   |100K-120K   |Megapiedra para Megaevolucionar a Aerodactyl   |
-|![Aggronita ](../images/iconos/megapiedras/AGGRONITE.png)   |Aggronita   |25K-50K   |Megapiedra para Megaevolucionar a Aggro  |
-|![Alakazamita](../images/iconos/megapiedras/ALAKAZITE.png)   |Alakazamita   |70K-80K   |Megapiedra para Megaevolucionar a Alakazam  |
-|![Altarianita ](../images/iconos/megapiedras/ALTARIANITE.png)   |Altarianita   |100K-120K   |Megapiedra para Megaevolucionar a Altaria  |
-|![Ampharosita](../images/iconos/megapiedras/AMPHAROSITE.png)   |Ampharosita   |30K-50K   |Megapiedra para Megaevolucionar a Ampharos  |
-|![Audinita](../images/iconos/megapiedras/AUDINITE.png)   |Audinita   |40K-60K   |Megapiedra para Megaevolucionar a Audino  |
-|![Banettita](../images/iconos/megapiedras/BANETTITE.png)   |Banettita   |50K-60K   |Megapiedra para Megaevolucionar a Banette  |
-|![Beedrillita](../images/iconos/megapiedras/BEEDRILLITE.png)   |Beedrillita   |20K-30K   |Megapiedra para Megaevolucionar a Beedrill  |
-|![Blastoisita](../images/iconos/megapiedras/BLASTOISINITE.png)   |Blastoisita   |100K-120K   |Megapiedra para Megaevolucionar a Blastoise  |
-|![BlaziKenita ](../images/iconos/megapiedras/BLAZIKENITE.png)   |Blazikenita   |120K-140K   |Megapiedra para Megaevolucionar a Blaziken  |
-|![Cameruptita ](../images/iconos/megapiedras/CAMERUPTITE.png)   |Cameruptita   |40K-50K   |Megapiedra para Megaevolucionar a Camerupt  |
-|![Charizardita X](../images/iconos/megapiedras/CHARIZARDITEX.png)   |Charizardita X   |190K-200K   |Megapiedra para Megaevolucionar a Charizard  |
-|![Charizardita Y](../images/iconos/megapiedras/CHARIZARDITEY.png)   |Charizardita Y   |200K-220K   |Megapiedra para Megaevolucionar a  Charizard |
-|![Diancita](../images/iconos/megapiedras/DIANCITE.png)   |Diancita   |140K-150K   |Megapiedra para Megaevolucionar a Diancie  |
-|![Galladita](../images/iconos/megapiedras/GALLADITE.png)   |Galladita   |70K-90K   |Megapiedra para Megaevolucionar a Gallade  |
-|![Garchompita ](../images/iconos/megapiedras/GARCHOMPITE.png)   |Garchompita   |110K-130K   |Megapiedra para Megaevolucionar a Garchomp  |
-|![Gardevoirita](../images/iconos/megapiedras/GARDEVOIRITE.png)   |Gardevoirita   |120K-140K   |Megapiedra para Megaevolucionar a Gardevoir  |
-|![Gengarita](../images/iconos/megapiedras/GENGARITE.png)   |Gengarita   |90K-100K   |Megapiedra para Megaevolucionar a Gengar   |
-|![Glalita](../images/iconos/megapiedras/GLALITITE.png)   |Glalita   |20K-30K   |Megapiedra para Megaevolucionar a Glalie   |
-|![Sharpedonita ](../images/iconos/megapiedras/SHARPEDONITE.png)   |Sharpedonita   |65K-80K   |Megapiedra para Megaevolucionar a Sharpedo   |
-|![Steelixita ](../images/iconos/megapiedras/STEELIXITE.png)   |Steelixita   |50K-60K   |Megapiedra para Megaevolucionar a Steelix   |
-|![Tyranitarita ](../images/iconos/megapiedras/TYRANITARITE.png)   |Tyranitarita   |115K-125K   |Megapiedra para Megaevolucionar a Tyranitar   |
-|![Gyaradosita](../images/iconos/megapiedras/GYARADOSITE.png)   |Gyaradosita   |100K-120K   |Megapiedra para Megaevolucionar a Gyarados   |
-|![Heracrossita](../images/iconos/megapiedras/HERACRONITE.png)   |Heracrossita   |20K-30K   |Megapiedra para Megaevolucionar a Heracross   |
-|![Houndoomita](../images/iconos/megapiedras/HOUNDOOMINITE.png)   |Houndoomita   |50K-60K   |Megapiedra para Megaevolucionar a Houndoom   |
-|![Kangaskhanita ](../images/iconos/megapiedras/KANGASKHANITE.png)   |Kangaskhanita   |90K-100K  |Megapiedra para Megaevolucionar a Kangaskhan   |
-|![Latiasita](../images/iconos/megapiedras/LATIASITE.png)   |Latiasita   |170K-200K   |Megapiedra para Megaevolucionar a Latias  |
-|![Latiosita](../images/iconos/megapiedras/LATIOSITE.png)   |Latiosita   |150-180K   |Megapiedra para Megaevolucionar a Latios  |
-|![Lopunnita](../images/iconos/megapiedras/LOPUNNITE.png)   |Lopunnita   |180K-200K   |Megapiedra para Megaevolucionar a Lopunny  |
-|![Lucarita ](../images/iconos/megapiedras/LUCARIONITE.png)   |Lucarita   |170K-180K   |Megapiedra para Megaevolucionar a Lucario  |
-|![Manectricita ](../images/iconos/megapiedras/MANECTITE.png)   |Manectricita   |30K-50K   |Megapiedra para Megaevolucionar a Manectric  |
-|![Mawilita ](../images/iconos/megapiedras/MAWILITE.png)   |Mawilita   |100K-110K   |Megapiedra para Megaevolucionar a Mawile  |
-|![Medichamita ](../images/iconos/megapiedras/MEDICHAMITE.png)   |Medichamita   |60K-70K   |Megapiedra para Megaevolucionar a Medicham  |
-|![Metagrossita](../images/iconos/megapiedras/METAGROSSITE.png)   |Metagrossita   |160K-170K   |Megapiedra para Megaevolucionar a Metagross   |
-|![Mewtwoita X](../images/iconos/megapiedras/MEWTWONITEX.png)   |Mewtwoita X   |220K-240K   |Megapiedra para Megaevolucionar a Mewtwo   |
-|![Mewtwoita Y](../images/iconos/megapiedras/MEWTWONITEY.png)   |Mewtwoita Y   |230K-250K   |Megapiedra para Megaevolucionar a Mewtwo   |
-|![Pidgeotita](../images/iconos/megapiedras/PIDGEOTITE.png)   |Pidgeotita   |30K-40K   |Megapiedra para Megaevolucionar a Pidgeot  |
-|![Pinsirita ](../images/iconos/megapiedras/PINSIRITE.png)   |Pinsirita   |40K-55K   | Megapiedra para Megaevolucionar a Pinsir |
-|![Sableynita](../images/iconos/megapiedras/SABLENITE.png)   |Sableynita   |30K-50K   |Megapiedra para Megaevolucionar a Sableye  |
-|![Salamencita ](../images/iconos/megapiedras/SALAMENCITE.png)   |Salamencita   |200K-210K   |Megapiedra para Megaevolucionar a Salamence  |
-|![Sceptilita](../images/iconos/megapiedras/SCEPTILITE.png)   |Sceptilita   |90K-100K   |Megapiedra para Megaevolucionar a Sceptile  |
-|![Scizorita](../images/iconos/megapiedras/SCIZORITE.png)   |Scizorita   |90K-100K   |Megapiedra para Megaevolucionar a Scizor  |
-|![Slowbronita ](../images/iconos/megapiedras/SLOWBRONITE.png)   |Slowbronita   |40K-55K   |Megapiedra para Megaevolucionar a Slowbro  |
-|![Swampertita](../images/iconos/megapiedras/SWAMPERTITE.png)   |Swampertita   |110K-130K   |Megapiedra para Megaevolucionar a Swampert  |
-|![Venusaurita](../images/iconos/megapiedras/VENUSAURITE.png)   |Venusaurita   |90K-100K   |Megapiedra para Megaevolucionar a Venusaur  |
+| Icono                                                  | Nombre                 | Precio |
+| ------------------------------------------------------ | ---------------------- | ------ |
+| ![Diamansfera](../.gitbook/assets/ADAMANTORB.png)      | Diamansfera            | 100K   |
+| ![Diamansfera](../.gitbook/assets/LUSTROUSORB.png)     | Lustresfera            | 100K   |
+| ![Diamansfera](../.gitbook/assets/GRISEOUSORB.png)     | Griseosfera            | 100K   |
+| ![Diamansfera](../.gitbook/assets/ADRENALINEORB.png)   | Nerviosfera            | 10     |
+| ![Diamansfera](../.gitbook/assets/ADAMANTCRYSTAL.png)  | Gran Diamansfera       | 100K   |
+| ![Diamansfera](../.gitbook/assets/LUSTROUSGLOBE.png)   | Gran Lustresfera       | 100K   |
+| ![Diamansfera](../.gitbook/assets/GRISEOUSCORE.png)    | Gran Griseosfera       | 100K   |
+| ![Diamansfera](../.gitbook/assets/ABSORBBULB.png)      | Tubérculo              | 10K    |
+| ![Diamansfera](../.gitbook/assets/AIRBALLOON.png)      | Globo Helio            | 20K    |
+| ![Diamansfera](../.gitbook/assets/ASSAULTVEST.png)     | Chaleco Asalto         | 25K    |
+| ![Diamansfera](../.gitbook/assets/BERRYJUICE.png)      | Zumo                   | 5K     |
+| ![Diamansfera](../.gitbook/assets/BIGROOT.png)         | Raíz Grande            | 10K    |
+| ![Diamansfera](../.gitbook/assets/BINDINGBAND.png)     | Banda Atadura          | 10K    |
+| ![Diamansfera](../.gitbook/assets/BLACKBELT.png)       | Cinturón Negro         | 15K    |
+| ![Diamansfera](../.gitbook/assets/BLACKGLASSES.png)    | Gafas de sol           | 15K    |
+| ![Diamansfera](../.gitbook/assets/BLACKSLUDGE.png)     | Lodo Negro             | 20K    |
+| ![Diamansfera](../.gitbook/assets/BRIGHTPOWDER.png)    | Polvo Brillo           | 5K     |
+| ![Diamansfera](../.gitbook/assets/CELLBATTERY.png)     | Pila                   | 10K    |
+| ![Diamansfera](../.gitbook/assets/CHARCOAL.png)        | Carbón                 | 10K    |
+| ![Diamansfera](../.gitbook/assets/DAMPROCK.png)        | Roca Lluvia            | 20K    |
+| ![Diamansfera](../.gitbook/assets/DRAGONFANG.png)      | Colmillo Dragón        | 15K    |
+| ![Diamansfera](../.gitbook/assets/EJECTBUTTON.png)     | Botón Escape           | 25K    |
+| ![Diamansfera](../.gitbook/assets/EVIOLITE.png)        | Mineral Evolutivo      | 30K    |
+| ![Diamansfera](../.gitbook/assets/GRASSYSEED.png)      | Semilla Hierba         | 15K    |
+| ![Diamansfera](../.gitbook/assets/ELECTRICSEED.png)    | Semilla Electro        | 15K    |
+| ![Diamansfera](../.gitbook/assets/PSYCHICSEED.png)     | Semilla Psique         | 15K    |
+| ![Diamansfera](../.gitbook/assets/MISTYSEED.png)       | Semilla Bruma          | 15K    |
+| ![Diamansfera](../.gitbook/assets/EXPERTBELT.png)      | Cinta Experto          | 20K    |
+| ![Diamansfera](../.gitbook/assets/FLAMEORB.png)        | Llamasfera             | 20K    |
+| ![Diamansfera](../.gitbook/assets/FLOATSTONE.png)      | Piedra Pómez           | 10K    |
+| ![Diamansfera](../.gitbook/assets/FOCUSSASH.png)       | Cinta Focus            | 20K    |
+| ![Diamansfera](../.gitbook/assets/FOCUSBAND.png)       | Banda Focus            | 10K    |
+| ![Diamansfera](../.gitbook/assets/GRIPCLAW.png)        | Garra Garfio           | 5K     |
+| ![Diamansfera](../.gitbook/assets/HARDSTONE.png)       | Piedra Dura            | 5K     |
+| ![Diamansfera](../.gitbook/assets/HEATROCK.png)        | Roca Calor             | 15K    |
+| ![Diamansfera](../.gitbook/assets/HEAVYDUTYBOOTS.png)  | Botas Gruesas          | 25K    |
+| ![Diamansfera](../.gitbook/assets/ICYROCK.png)         | Roca Hielo             | 10K    |
+| ![Diamansfera](../.gitbook/assets/IRONBALL.png)        | Bola Férrea            | 10K    |
+| ![Diamansfera](<../.gitbook/assets/KINGSROCK (1).png>) | Roca del Rey           | 15K    |
+| ![Diamansfera](../.gitbook/assets/LAGGINGTAIL.png)     | Cola Plúmbea           | 8K     |
+| ![Diamansfera](../.gitbook/assets/LEFTOVERS.png)       | Restos                 | 20K    |
+| ![Diamansfera](../.gitbook/assets/LIFEORB.png)         | Vidasfera              | 25K    |
+| ![Diamansfera](../.gitbook/assets/LIGHTBALL.png)       | Bola Luminosa          | 20K    |
+| ![Diamansfera](../.gitbook/assets/LIGHTCLAY.png)       | Refleluz               | 20K    |
+| ![Diamansfera](../.gitbook/assets/LUCKYEGG.png)        | Huevo Suerte           | 30K    |
+| ![Diamansfera](../.gitbook/assets/LUCKYPUNCH.png)      | Puño Suerte            | 5K     |
+| ![Diamansfera](../.gitbook/assets/LUMINOUSMOSS.png)    | Musgo Brillante        | 5K     |
+| ![Diamansfera](../.gitbook/assets/MACHOBRACE.png)      | Brazal Firme           | 5K     |
+| ![Diamansfera](../.gitbook/assets/MAGNET.png)          | Imán                   | 5K     |
+| ![Diamansfera](../.gitbook/assets/MENTALHERB.png)      | Hierba Mental          | 15K    |
+| ![Diamansfera](../.gitbook/assets/POWERHERB.png)       | Hierba Única           | 20K    |
+| ![Diamansfera](../.gitbook/assets/METALPOWDER.png)     | Polvo Metálico         | 5K     |
+| ![Diamansfera](../.gitbook/assets/MIRACLESEED.png)     | Semilla Milagro        | 5K     |
+| ![Diamansfera](../.gitbook/assets/METALCOAT.png)       | Revestimiento Metálico | 25K    |
+| ![Diamansfera](../.gitbook/assets/METRONOME.png)       | Metrónomo              | 10K    |
+| ![Diamansfera](../.gitbook/assets/MUSCLEBAND.png)      | Cinta Fuerte           | 20K    |
+| ![Diamansfera](../.gitbook/assets/MYSTICWATER.png)     | Agua Mística           | 10K    |
+| ![Diamansfera](../.gitbook/assets/NEVERMELTICE.png)    | Antiderretir           | 10K    |
+| ![Diamansfera](../.gitbook/assets/POISONBARB.png)      | Flecha Venenosa        | 5K     |
+| ![Diamansfera](../.gitbook/assets/QUICKCLAW.png)       | Garra Rápida           | 10K    |
+| ![Diamansfera](../.gitbook/assets/QUICKPOWDER.png)     | Polvo Veloz            | 5K     |
+| ![Diamansfera](../.gitbook/assets/RAZORCLAW.png)       | Garra Afilada          | 15K    |
+| ![Diamansfera](<../.gitbook/assets/RAZORFANG (1).png>) | Colmillo Agudo         | 15K    |
+| ![Diamansfera](../.gitbook/assets/REDCARD.png)         | Tarjeta Roja           | 10K    |
+| ![Diamansfera](../.gitbook/assets/RINGTARGET.png)      | Blanco                 | 5K     |
+| ![Diamansfera](../.gitbook/assets/ROCKYHELMET.png)     | Casco Dentado          | 25K    |
+| ![Diamansfera](../.gitbook/assets/SAFETYGOGGLES.png)   | Gafas Protectoras      | 15K    |
+| ![Diamansfera](../.gitbook/assets/SCOPELENS.png)       | Periscopio             | 15K    |
+| ![Diamansfera](../.gitbook/assets/SHARPBEAK.png)       | Pico Afilado           | 10K    |
+| ![Diamansfera](../.gitbook/assets/SHEDSHELL.png)       | Muda Concha            | 5K     |
+| ![Diamansfera](../.gitbook/assets/SHELLBELL.png)       | Campana Concha         | 15K    |
+| ![Diamansfera](../.gitbook/assets/SILKSCARF.png)       | Pañuelo Seda           | 15K    |
+| ![Diamansfera](../.gitbook/assets/SILVERPOWDER.png)    | Polvo Plata            | 5K     |
+| ![Diamansfera](../.gitbook/assets/SMOKEBALL.png)       | Bola Humo              | 5K     |
+| ![Diamansfera](../.gitbook/assets/SMOOTHROCK.png)      | Roca Suave             | 10K    |
+| ![Diamansfera](../.gitbook/assets/SNOWBALL.png)        | Bola de Nieve          | 5K     |
+| ![Diamansfera](../.gitbook/assets/SOFTSAND.png)        | Arena fina             | 5K     |
+| ![Diamansfera](../.gitbook/assets/SOOTHEBELL.png)      | Campana Alivio         | 2K     |
+| ![Diamansfera](../.gitbook/assets/SOULDEW.png)         | Rocío Bondad           | 20K    |
+| ![Diamansfera](../.gitbook/assets/SPELLTAG.png)        | Hechizo                | 15K    |
+| ![Diamansfera](../.gitbook/assets/STICK.png)           | Puerro                 | 15K    |
+| ![Diamansfera](../.gitbook/assets/STICKYBARB.png)      | Toxiestrella           | 5K     |
+| ![Diamansfera](../.gitbook/assets/THICKCLUB.png)       | Hueso Grueso           | 20K    |
+| ![Diamansfera](../.gitbook/assets/TOXICORB.png)        | Toxisfera              | 15K    |
+| ![Diamansfera](../.gitbook/assets/PROTECTIVEPADS.png)  | Paracontacto           | 15K    |
+| ![Diamansfera](../.gitbook/assets/TWISTEDSPOON.png)    | Cuchara Torcida        | 10K    |
+| ![Diamansfera](../.gitbook/assets/WEAKNESSPOLICY.png)  | Seguro Debilidad       | 15K    |
+| ![Diamansfera](../.gitbook/assets/WHITEHERB.png)       | Hierba Blanca          | 20K    |
+| ![Diamansfera](../.gitbook/assets/WIDELENS.png)        | Lupa                   | 15K    |
+| ![Diamansfera](../.gitbook/assets/WISEGLASSES.png)     | Gafas Especiales       | 10K    |
+| ![Diamansfera](../.gitbook/assets/ZOOMLENS.png)        | Telescopio             | 15K    |
+| ![Diamansfera](../.gitbook/assets/THROATSPRAY.png)     | Spray Bucal            | 15K    |
+| ![Diamansfera](../.gitbook/assets/ROOMSERVICE.png)     | Servicio Raro          | 10K    |
+| ![Diamansfera](../.gitbook/assets/CHOICEBAND.png)      | Cinta Elegida          | 20K    |
+| ![Diamansfera](../.gitbook/assets/CHOICESCARF.png)     | Pañuelo Elección       | 25K    |
+| ![Diamansfera](../.gitbook/assets/CHOICESPECS.png)     | Gafas Elección         | 20K    |
 
+## Otros (por unidad)
 
-# Objetos de Evolución
+| Icono                                                        | Nombre                          | Precio |
+| ------------------------------------------------------------ | ------------------------------- | ------ |
+| ![Carameloraro](../.gitbook/assets/RARECANDY.png)            | Carameloraro                    | 1,5K   |
+| ![Carameloraro](../.gitbook/assets/RARESODA.png)             | Refresco Raro                   | 5K     |
+| ![Carameloraro](../.gitbook/assets/ULTRARARESODA.png)        | Refresco Genial                 | 10K    |
+| ![Carameloraro](../.gitbook/assets/EXPCANDYXL.png)           | Caramelo EXP XL                 | 8K     |
+| ![Carameloraro](../.gitbook/assets/EXPCANDYL.png)            | Caramelo EXP L                  | 5K     |
+| ![Carameloraro](../.gitbook/assets/EXPCANDYM.png)            | Caramelo EXP M                  | 3K     |
+| ![Carameloraro](../.gitbook/assets/EXPCANDYS.png)            | Caramelo EXP S                  | 1K     |
+| ![Carameloraro](../.gitbook/assets/EXPCANDYXS.png)           | Caramelo EXP XS                 | 500    |
+|                                                              | Foto Pokémon                    | 1K     |
+| ![Carameloraro](../.gitbook/assets/machine_STEEL.png)        | MT                              | 25K    |
+| ![Carameloraro](../.gitbook/assets/machine_NORMAL.png)       | MO                              | 25K    |
+| ![Carameloraro](../.gitbook/assets/machine_tr_DARK.png)      | DT                              | 10K    |
+| ![Carameloraro](../.gitbook/assets/NETHERSTAR.gif)           | Estrella del Nether             | 150K   |
+| ![Carameloraro](../.gitbook/assets/BEACON.png)               | Faro                            | 50K    |
+| ![Carameloraro](../.gitbook/assets/MUSICDISC.png)            | Disco de Música                 | 2K     |
+| ![Carameloraro](../.gitbook/assets/HIROKUSSILVERLENS.png)    | Lente Plateada de Ras           | 10K    |
+| ![Carameloraro](../.gitbook/assets/HIROKUSGOLDENLENS.png)    | Lente Dorada de Ras             | 100K   |
+| ![Carameloraro](../.gitbook/assets/REINSOFUNITY.png)         | Riendas Unión                   | 100K   |
+| ![Carameloraro](../.gitbook/assets/SCROLLOFDARKNESS.png)     | Manuscrito de las Sombras       | 100K   |
+| ![Carameloraro](../.gitbook/assets/SCROLLOFWATERS.png)       | Manuscrito de las Aguas         | 100K   |
+| ![Carameloraro](../.gitbook/assets/RUSTEDSWORD.png)          | Espada Oxidada                  | 80K    |
+| ![Carameloraro](../.gitbook/assets/RUSTEDSHIELD.png)         | Escudo Oxidado                  | 80K    |
+| ![Carameloraro](../.gitbook/assets/ISISSILVERHOURGLASS.png)  | Reloj de Arena argénteo de Isis | 10K    |
+| ![Carameloraro](../.gitbook/assets/ISISGOLDHOURGLASS.png)    | Reloj de Arena aúrico de Isis   | 25K    |
+| ![Carameloraro](../.gitbook/assets/RAINBOWWING.png)          | Ala Arcoiris                    | 100K   |
+| ![Carameloraro](../.gitbook/assets/SUPERROD.png)             | Supercaña                       | 35K    |
+| ![Carameloraro](<../.gitbook/assets/BOTTLECAP (1).png>)      | Chapa Plateada                  | 20K    |
+| ![Carameloraro](<../.gitbook/assets/GOLDBOTTLECAP (1).png>)  | Chapa Dorada                    | 100K   |
+| ![Carameloraro](../.gitbook/assets/ALPHASHARD.png)           | Fragmento Azul                  | 25K    |
+| ![Carameloraro](../.gitbook/assets/OMEGASHARD.png)           | Fragmento Rojo                  | 25K    |
+| ![Carameloraro](../.gitbook/assets/BLUEORB.png)              | Orbe Azul                       | 100K   |
+| ![Carameloraro](../.gitbook/assets/REDORB.png)               | Orbe Rojo                       | 100K   |
+| ![Carameloraro](../.gitbook/assets/RUBY.png)                 | Rubí de la Emoción              | 100K   |
+| ![Carameloraro](../.gitbook/assets/RUBY.png)                 | Rubí del Conocimiento           | 100K   |
+| ![Carameloraro](../.gitbook/assets/RUBY.png)                 | Rubí de la Voluntad             | 100K   |
+| ![Carameloraro](../.gitbook/assets/REDCHAIN.png)             | Cadena Roja                     | 300K   |
+| ![Carameloraro](../.gitbook/assets/CLEARBELL.png)            | Campana Clara                   | 120K   |
+| ![Carameloraro](../.gitbook/assets/TIDALBELL.png)            | Campana Oleaje                  | 120K   |
+| ![Carameloraro](../.gitbook/assets/PRISONBOTTLE.png)         | Botella de Prisión              | 50K    |
+| ![Carameloraro](../.gitbook/assets/GRACIDEA.png)             | Gracídea                        | 20K    |
+| ![Carameloraro](../.gitbook/assets/METEORITE.png)            | Meteorito                       | 20K    |
+| ![Carameloraro](../.gitbook/assets/DNASPLICERS.png)          | Punta ADN                       | 50K    |
+| ![Carameloraro](../.gitbook/assets/EXPALL.png)               | Compartir Exp                   | 60K    |
+| ![Carameloraro](../.gitbook/assets/EXPSHARE.png)             | Repartir Exp                    | 35K    |
+| ![Carameloraro](../.gitbook/assets/NSOLARIZER.png)           | Necrosol                        | 150K   |
+| ![Carameloraro](../.gitbook/assets/NLUNARIZER.png)           | Necroluna                       | 150K   |
+| ![Carameloraro](../.gitbook/assets/ORB.png)                  | Orbe vacío                      | 50K    |
+| ![Carameloraro](../.gitbook/assets/ORBFULL.png)              | Orbe lleno                      | 100K   |
+| ![Carameloraro](../.gitbook/assets/REDAPRICORN.png)          | Bonguris (por stack)            | 5K     |
+| ![Carameloraro](../.gitbook/assets/ELYTRA.png)               | Elitras                         | 10K    |
+| ![Carameloraro](../.gitbook/assets/MAXSOUP.png)              | Maxisopa                        | 25K    |
+| ![Diamansfera](../.gitbook/assets/MAXMUSHROOM.png)           | Maxiseta                        | 8K     |
+| ![Diamansfera](../.gitbook/assets/WISHINGPIECE.png)          | Trozo Deseo                     | 15K    |
+| ![Diamansfera](../.gitbook/assets/WATERDUDEWISHINGPIECE.png) | Trozo Deseo Legendario          | 800K   |
 
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/ICESTONE.png)   |Piedra Hielo   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/DAWNSTONE.png)   |Piedra Alba   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/FIRESTONE.png)   |Piedra Fuego   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/LEAFSTONE.png)   |Piedra Hoja   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/MOONSTONE.png)   |Piedra Lunar   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/SHINYSTONE.png)   |Piedra Día   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/SUNSTONE.png)   |Piedra Solar   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/THUNDERSTONE.png)   |Piedra Trueno   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/DUSKSTONE.png)   |Piedra Noche   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/WATERSTONE.png)   |Piedra Agua   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/DEEPSEASCALE.png)    |Escama marina   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/DEEPSEATOOTH.png)    |Diente marino   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/DRAGONSCALE.png)    |Escamadragón   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/DUBIOUSDISC.png)    |Discoextraño   |25K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/ELECTIRIZER.png)    |Electrizador   |30K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/MAGMARIZER.png)    |Magmatizador   |30K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/OVALSTONE.png)    |Piedra Oval   |10K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/PRISMSCALE.png)    |Escama bella   |30K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/PROTECTOR.png)    |Protector   |30K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/REAPERCLOTH.png)    |Telaterrible   |20K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/SACHET.png)    |Saquito fragante   |15K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/UPGRADE.png)    |Mejora   |25K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/WHIPPEDDREAM.png)    |Dulce de nata   |15K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/GALARICACUFF.png)    |Brazal galanuez   |30K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/CRACKEDPOT.png)    |Tetera agrietada   |20K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/TARTAPPLE.png)   |Manzana ácida   |20K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/SWEETAPPLE.png)    |Manzana dulce   |20K    |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/KINGSROCK.png)    |Roca del Rey   |15K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/MALICIOUSARMOR.png)    |Armadura Maliciosa   |50K   |
-|![Piedra Hielo](../images/iconos/objetosevolutivos/RAZORFANG.png)    |Colmillo Agudo   |15K   |
+## Mentas
 
+| Icono                                  | Nombre | Precio | Descripción |
+| -------------------------------------- | ------ | ------ | ----------- |
+| ![Mentas](../.gitbook/assets/MINT.png) | Todas  | valen  | 25K         |
 
+## Encantamientos
 
-# Objetos Competitivos
+| Icono                                                                | Nombre                     | Precio |
+| -------------------------------------------------------------------- | -------------------------- | ------ |
+| ![Reparación](../.gitbook/assets/Libroencantado.gif)                 | Reparación                 | 50K    |
+| ![Irrompibilidad III](../.gitbook/assets/Libroencantado.gif)         | Irrompibilidad III         | 35K    |
+| ![El resto de encantamientos](../.gitbook/assets/Libroencantado.gif) | El resto de encantamientos | 30K    |
 
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ADAMANTORB.png)   |Diamansfera   |100K   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LUSTROUSORB.png)   |Lustresfera   |100K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/GRISEOUSORB.png)   |Griseosfera   |100K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ADRENALINEORB.png)   |Nerviosfera   |10   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ADAMANTCRYSTAL.png)   |Gran Diamansfera   |100K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LUSTROUSGLOBE.png)    |Gran Lustresfera   |100K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/GRISEOUSCORE.png)   |Gran Griseosfera   |100K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ABSORBBULB.png)   |Tubérculo   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/AIRBALLOON.png)   |Globo Helio   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ASSAULTVEST.png)   |Chaleco Asalto   |25K |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/BERRYJUICE.png)   |Zumo   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/BIGROOT.png)   |Raíz Grande   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/BINDINGBAND.png)   |Banda Atadura   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/BLACKBELT.png)   |Cinturón Negro   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/BLACKGLASSES.png)   |Gafas de sol   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/BLACKSLUDGE.png)   |Lodo Negro   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/BRIGHTPOWDER.png)   |Polvo Brillo   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/CELLBATTERY.png)   |Pila   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/CHARCOAL.png)   |Carbón  |10K  |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/DAMPROCK.png)   |Roca Lluvia   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/DRAGONFANG.png)   |Colmillo Dragón   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/EJECTBUTTON.png)   |Botón Escape   |25K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/EVIOLITE.png)   |Mineral Evolutivo   |30K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/GRASSYSEED.png)   |Semilla Hierba   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ELECTRICSEED.png)   |Semilla Electro    |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/PSYCHICSEED.png)   |Semilla Psique   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/MISTYSEED.png)   |Semilla Bruma    |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/EXPERTBELT.png)   |Cinta Experto   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/FLAMEORB.png)   |Llamasfera   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/FLOATSTONE.png)   |Piedra Pómez   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/FOCUSSASH.png)   |Cinta Focus   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/FOCUSBAND.png)   |Banda Focus   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/GRIPCLAW.png)   |Garra Garfio   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/HARDSTONE.png)   |Piedra Dura   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/HEATROCK.png)   |Roca Calor   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/HEAVYDUTYBOOTS.png)   |Botas Gruesas   |25K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ICYROCK.png)   |Roca Hielo   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/IRONBALL.png)   |Bola Férrea   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/KINGSROCK.png)   |Roca del Rey   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LAGGINGTAIL.png)   |Cola Plúmbea   |8K  |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LEFTOVERS.png)   |Restos   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LIFEORB.png)   |Vidasfera   |25K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LIGHTBALL.png)   |Bola Luminosa   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LIGHTCLAY.png)   |Refleluz   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LUCKYEGG.png)   |Huevo Suerte   |30K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LUCKYPUNCH.png)   |Puño Suerte   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/LUMINOUSMOSS.png)   |Musgo Brillante   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/MACHOBRACE.png)   |Brazal Firme   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/MAGNET.png)   |Imán   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/MENTALHERB.png)   |Hierba Mental   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/POWERHERB.png)   |Hierba Única   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/METALPOWDER.png)   |Polvo Metálico   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/MIRACLESEED.png)   |Semilla Milagro   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/METALCOAT.png)   |Revestimiento Metálico   |25K    |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/METRONOME.png)   |Metrónomo   |10K    |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/MUSCLEBAND.png)   |Cinta Fuerte   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/MYSTICWATER.png)   |Agua Mística   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/NEVERMELTICE.png)   |Antiderretir   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/POISONBARB.png)   |Flecha Venenosa   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/QUICKCLAW.png)   |Garra Rápida   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/QUICKPOWDER.png)   |Polvo Veloz   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/RAZORCLAW.png)   |Garra Afilada   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/RAZORFANG.png)   |Colmillo Agudo   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/REDCARD.png)   |Tarjeta Roja   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/RINGTARGET.png)   |Blanco   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ROCKYHELMET.png)   |Casco Dentado   |25K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SAFETYGOGGLES.png)   |Gafas Protectoras   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SCOPELENS.png)   |Periscopio   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SHARPBEAK.png)   |Pico Afilado   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SHEDSHELL.png)   |Muda Concha   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SHELLBELL.png)   |Campana Concha   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SILKSCARF.png)   |Pañuelo Seda   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SILVERPOWDER.png)   |Polvo Plata   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SMOKEBALL.png)   |Bola Humo   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SMOOTHROCK.png)   |Roca Suave   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SNOWBALL.png)   |Bola de Nieve   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SOFTSAND.png)   |Arena fina   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SOOTHEBELL.png)   |Campana Alivio   |2K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SOULDEW.png)   |Rocío Bondad   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/SPELLTAG.png)   |Hechizo   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/STICK.png)   |Puerro   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/STICKYBARB.png)   |Toxiestrella   |5K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/THICKCLUB.png)   |Hueso Grueso   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/TOXICORB.png)   |Toxisfera   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/PROTECTIVEPADS.png)   |Paracontacto   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/TWISTEDSPOON.png)   |Cuchara Torcida   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/WEAKNESSPOLICY.png)   |Seguro Debilidad   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/WHITEHERB.png)   |Hierba Blanca   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/WIDELENS.png)   |Lupa   | 15K  |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/WISEGLASSES.png)   |Gafas Especiales   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ZOOMLENS.png)   |Telescopio   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/THROATSPRAY.png)   |Spray Bucal   |15K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/ROOMSERVICE.png)   |Servicio Raro   |10K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/CHOICEBAND.png)   |Cinta Elegida   |20K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/CHOICESCARF.png)   |Pañuelo Elección   |25K   |   |
-|![Diamansfera](../images/iconos/objetoscompetitivos/CHOICESPECS.png)   |Gafas Elección   |20K   |   |
+## Bayas
 
+| Icono                                              | Nombre | Precio | Descripción |
+| -------------------------------------------------- | ------ | ------ | ----------- |
+| ![Venusaurita](../.gitbook/assets/CHESTOBERRY.png) | Todas  | valen  | 10K         |
 
+## Gemas
 
+| Icono                                             | Nombre         | Precio |
+| ------------------------------------------------- | -------------- | ------ |
+| ![Gema Bicho](../.gitbook/assets/BUGGEM.png)      | Gema Bicho     | 2K     |
+| ![Gema Bicho](../.gitbook/assets/DARKGEM.png)     | Gema Siniestro | 2K     |
+| ![Gema Bicho](../.gitbook/assets/DRAGONGEM.png)   | Gema Dragón    | 2K     |
+| ![Gema Bicho](../.gitbook/assets/ELECTRICGEM.png) | Gema Eléctrico | 2K     |
+| ![Gema Bicho](../.gitbook/assets/FAIRYGEM.png)    | Gema Hada      | 2K     |
+| ![Gema Bicho](../.gitbook/assets/FIGHTINGGEM.png) | Gema Lucha     | 2K     |
+| ![Gema Bicho](../.gitbook/assets/FIREGEM.png)     | Gema Fuego     | 2K     |
+| ![Gema Bicho](../.gitbook/assets/FLYINGGEM.png)   | Gema Volador   | 2K     |
+| ![Gema Bicho](../.gitbook/assets/GHOSTGEM.png)    | Gema Fantasma  | 2K     |
+| ![Gema Bicho](../.gitbook/assets/GRASSGEM.png)    | Gema Planta    | 2K     |
+| ![Gema Bicho](../.gitbook/assets/GROUNDGEM.png)   | Gema Tierra    | 2K     |
+| ![Gema Bicho](../.gitbook/assets/NORMALGEM.png)   | Gema Normal    | 2K     |
+| ![Gema Bicho](../.gitbook/assets/POISONGEM.png)   | Gema Veneno    | 2K     |
+| ![Gema Bicho](../.gitbook/assets/PSYCHICGEM.png)  | Gema Psíquico  | 2K     |
+| ![Gema Bicho](../.gitbook/assets/ROCKGEM.png)     | Gema Roca      | 2K     |
+| ![Gema Bicho](../.gitbook/assets/WATERGEM.png)    | Gema Agua      | 2K     |
 
+## Partes de Porygon (por unidad)
 
+| Icono                                                | Nombre             | Precio |
+| ---------------------------------------------------- | ------------------ | ------ |
+| ![Porygon](../.gitbook/assets/Porygon.png)           | Porygon (completo) | 10K    |
+| ![Porygon](../.gitbook/assets/Grid_Porygon_Body.png) | Cuerpo de Porygon  | 1K     |
+| ![Porygon](../.gitbook/assets/Grid_Porygon_Leg.png)  | Pierna de Porygon  | 1K     |
+| ![Porygon](../.gitbook/assets/Grid_Porygon_Tail.png) | Cola de Porygon    | 1K     |
+| ![Porygon](../.gitbook/assets/Grid_Porygon_Head.png) | Cabeza de Porygon  | 1K     |
 
-# Otros (por unidad)
+## Fósiles (por unidad)
 
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![Carameloraro](../images/iconos/otros/RARECANDY.png)   |Carameloraro   |1,5K   |
-|![Carameloraro](../images/iconos/otros/RARESODA.png)   |Refresco Raro   |5K   |
-|![Carameloraro](../images/iconos/otros/ULTRARARESODA.png)    |Refresco Genial   |10K   |
-|![Carameloraro](../images/iconos/otros/EXPCANDYXL.png)   |Caramelo EXP XL   |8K   |
-|![Carameloraro](../images/iconos/otros/EXPCANDYL.png)    |Caramelo EXP L   |5K   |
-|![Carameloraro](../images/iconos/otros/EXPCANDYM.png)    |Caramelo EXP M    |3K    |
-|![Carameloraro](../images/iconos/otros/EXPCANDYS.png)   |Caramelo EXP S   |1K    |
-|![Carameloraro](../images/iconos/otros/EXPCANDYXS.png)   |Caramelo EXP XS    |500    |
-|   |Foto Pokémon   |1K   |
-|![Carameloraro](../images/iconos/otros/machine_STEEL.png)   |MT  |25K   |
-|![Carameloraro](../images/iconos/otros/machine_NORMAL.png)   |MO  |25K   |
-|![Carameloraro](../images/iconos/otros/machine_tr_DARK.png)   |DT   |10K   |
-|![Carameloraro](../images/iconos/otros/NETHERSTAR.gif)    |Estrella del Nether   |150K   |
-|![Carameloraro](../images/iconos/otros/BEACON.png)    |Faro   | 50K  |
-|![Carameloraro](../images/iconos/otros/MUSICDISC.png)   |Disco de Música   |2K   |
-|![Carameloraro](../images/iconos/otros/HIROKUSSILVERLENS.png)   |Lente Plateada de Ras   |10K   |
-|![Carameloraro](../images/iconos/otros/HIROKUSGOLDENLENS.png)    |Lente Dorada de Ras   |100K   |
-|![Carameloraro](../images/iconos/otros/REINSOFUNITY.png)   |Riendas Unión   |100K   |
-|![Carameloraro](../images/iconos/otros/SCROLLOFDARKNESS.png)   |Manuscrito de las Sombras   |100K   |
-|![Carameloraro](../images/iconos/otros/SCROLLOFWATERS.png)   |Manuscrito de las Aguas   |100K   |
-|![Carameloraro](../images/iconos/otros/RUSTEDSWORD.png)    |Espada Oxidada   |80K   |
-|![Carameloraro](../images/iconos/otros/RUSTEDSHIELD.png)    |Escudo Oxidado   |80K    |
-|![Carameloraro](../images/iconos/otros/ISISSILVERHOURGLASS.png)    |Reloj de Arena argénteo de Isis   |10K   |
-|![Carameloraro](../images/iconos/otros/ISISGOLDHOURGLASS.png)    |Reloj de Arena aúrico de Isis   |25K   |
-|![Carameloraro](../images/iconos/otros/RAINBOWWING.png)    |Ala Arcoiris   |100K   |
-|![Carameloraro](../images/iconos/otros/SUPERROD.png)    |Supercaña   |35K   |
-|![Carameloraro](../images/iconos/otros/BOTTLECAP.png)    |Chapa Plateada   |20K   |
-|![Carameloraro](../images/iconos/otros/GOLDBOTTLECAP.png)    |Chapa Dorada   |100K   |
-|![Carameloraro](../images/iconos/otros/ALPHASHARD.png)    |Fragmento Azul   |25K   |
-|![Carameloraro](../images/iconos/otros/OMEGASHARD.png)    |Fragmento Rojo   |25K   |
-|![Carameloraro](../images/iconos/otros/BLUEORB.png)    |Orbe Azul   |100K   |
-|![Carameloraro](../images/iconos/otros/REDORB.png)    |Orbe Rojo   |100K    |
-|![Carameloraro](../images/iconos/otros/RUBY.png)   |Rubí de la Emoción   |100K   |
-|![Carameloraro](../images/iconos/otros/RUBY.png)   |Rubí del Conocimiento   |100K   |
-|![Carameloraro](../images/iconos/otros/RUBY.png)   |Rubí de la Voluntad   |100K   |
-|![Carameloraro](../images/iconos/otros/REDCHAIN.png)   |Cadena Roja   |300K   |
-|![Carameloraro](../images/iconos/otros/CLEARBELL.png)   |Campana Clara   | 120K  |
-|![Carameloraro](../images/iconos/otros/TIDALBELL.png)   |Campana Oleaje  | 120K  |
-|![Carameloraro](../images/iconos/otros/PRISONBOTTLE.png)    |Botella de Prisión   |50K   |
-|![Carameloraro](../images/iconos/otros/GRACIDEA.png)    |Gracídea  |20K   |
-|![Carameloraro](../images/iconos/otros/METEORITE.png)    |Meteorito   |20K   |
-|![Carameloraro](../images/iconos/otros/DNASPLICERS.png)    |Punta ADN   |50K   |
-|![Carameloraro](../images/iconos/otros/EXPALL.png)    |Compartir Exp  |60K   |
-|![Carameloraro](../images/iconos/otros/EXPSHARE.png)    |Repartir Exp  |35K   |
-|![Carameloraro](../images/iconos/otros/NSOLARIZER.png)    |Necrosol   |150K   |
-|![Carameloraro](../images/iconos/otros/NLUNARIZER.png)    |Necroluna   |150K  |
-|![Carameloraro](../images/iconos/otros/ORB.png)    |Orbe vacío   |50K   |
-|![Carameloraro](../images/iconos/otros/ORBFULL.png)    |Orbe lleno   |100K   |
-|![Carameloraro](../images/iconos/otros/REDAPRICORN.png)    |Bonguris (por stack)   |5K    |
-|![Carameloraro](../images/iconos/otros/ELYTRA.png)    |Elitras   |10K   |
-|![Carameloraro](../images/iconos/otros/MAXSOUP.png)    |Maxisopa   |25K   |
-|![Diamansfera](../images/iconos/otros/MAXMUSHROOM.png)   |Maxiseta  |8K  |   |
-|![Diamansfera](../images/iconos/otros/WISHINGPIECE.png)   |Trozo Deseo  |15K  |   |
-|![Diamansfera](../images/iconos/otros/WATERDUDEWISHINGPIECE.png)   |Trozo Deseo Legendario  |800K  |   |
+| Icono                                             | Nombre          | Precio | Resultado Fósil                                  |
+| ------------------------------------------------- | --------------- | ------ | ------------------------------------------------ |
+| ![Porygon](../.gitbook/assets/HELIXFOSSIL.png)    | Fósil Hélix     | 10K    | Omanyte                                          |
+| ![Porygon](../.gitbook/assets/DOMEFOSSIL.png)     | Fósil Domo      | 10K    | Kabuto                                           |
+| ![Porygon](../.gitbook/assets/OLDAMBER.png)       | Ámbar Viejo     | 10K    | Aerodactyl                                       |
+| ![Porygon](../.gitbook/assets/ROOTFOSSIL.png)     | Fósil Raíz      | 10K    | Lileep                                           |
+| ![Porygon](../.gitbook/assets/CLAWFOSSIL.png)     | Fósil Garra     | 10K    | Anorith                                          |
+| ![Porygon](../.gitbook/assets/SKULLFOSSIL.png)    | Fósil Cráneo    | 10K    | Cranidos                                         |
+| ![Porygon](../.gitbook/assets/ARMORFOSSIL.png)    | Fósil Coraza    | 10K    | Shieldon                                         |
+| ![Porygon](../.gitbook/assets/COVERFOSSIL.png)    | Fósil Tapa      | 10K    | Tirtouga                                         |
+| ![Porygon](../.gitbook/assets/PLUMEFOSSIL.png)    | Fósil Pluma     | 10K    | Archen                                           |
+| ![Porygon](../.gitbook/assets/JAWFOSSIL.png)      | Fósil Mandíbula | 10K    | Tyrunt                                           |
+| ![Porygon](../.gitbook/assets/SAILFOSSIL.png)     | Fósil Aleta     | 10K    | Amaura                                           |
+| ![Porygon](../.gitbook/assets/FOSSILIZEDBIRD.png) | Ornitofósil     | 20K    | Arctozolt (+Plesiofósil)/Dracozolt (+Dracofósil) |
+| ![Porygon](../.gitbook/assets/FOSSILIZEDFISH.png) | Iciofósil       | 20K    | Dracovish (+Dracofósil)/Actovish (+Plesiofósil)  |
+| ![Porygon](../.gitbook/assets/FOSSILIZEDDINO.png) | Dracofósil      | 20K    | Dracozolt (+Ornitofósil)/Dracovish (+Iciofósil)  |
+| ![Porygon](../.gitbook/assets/FOSSILIZEDDINO.png) | Plesiofósil     | 20K    | Arctozolt (+Ornitofósil)/Arctovish (+Iciofósil)  |
 
+## Cristales Z
 
-# Mentas
+| Icono                                                   | Nombre           | Precio | Tipo/Pokémon                                                                                                                                                                                 |
+| ------------------------------------------------------- | ---------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Metalostal Z](../.gitbook/assets/STEELIUMZ.png)       | Metalostal Z     | 10K    | ![Venusaurita](../.gitbook/assets/tipo_acero.png)                                                                                                                                            |
+| ![Metalostal Z](../.gitbook/assets/WATERIUMZ.png)       | Hidrostal Z      | 10K    | ![Venusaurita](../.gitbook/assets/tipo_agua.png)                                                                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/BUGINIUMZ.png)       | Insectostal Z    | 10K    | ![Venusaurita](../.gitbook/assets/tipo_bicho.png)                                                                                                                                            |
+| ![Metalostal Z](../.gitbook/assets/DRAGONIUMZ.png)      | Dracostal Z      | 10K    | ![Venusaurita](../.gitbook/assets/tipo_dragon.png)                                                                                                                                           |
+| ![Metalostal Z](../.gitbook/assets/ELECTRIUMZ.png)      | Electrostal Z    | 10K    | ![Venusaurita](../.gitbook/assets/tipo_electrico.png)                                                                                                                                        |
+| ![Metalostal Z](../.gitbook/assets/GHOSTIUMZ.png)       | Espectrostal Z   | 10K    | ![Venusaurita](../.gitbook/assets/tipo_fantasma.png)                                                                                                                                         |
+| ![Metalostal Z](../.gitbook/assets/FIRIUMZ.png)         | Pirostal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_fuego.png)                                                                                                                                            |
+| ![Metalostal Z](../.gitbook/assets/FAIRIUMZ.png)        | Feeristal Z      | 10K    | ![Venusaurita](../.gitbook/assets/tipo_hada.png)                                                                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/ICIUMZ.png)          | Criostal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_hielo.png)                                                                                                                                            |
+| ![Metalostal Z](../.gitbook/assets/FIGHTINIUMZ.png)     | Lizastal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_lucha.png)                                                                                                                                            |
+| ![Metalostal Z](../.gitbook/assets/NORMALIUMZ.png)      | Normalstal Z     | 10K    | ![Venusaurita](../.gitbook/assets/tipo_normal.png)                                                                                                                                           |
+| ![Metalostal Z](../.gitbook/assets/GRASSIUMZ.png)       | Fitostal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_planta.png)                                                                                                                                           |
+| ![Metalostal Z](../.gitbook/assets/PSYCHIUMZ.png)       | Psicostal Z      | 10K    | ![Venusaurita](../.gitbook/assets/tipo_psiquico.png)                                                                                                                                         |
+| ![Metalostal Z](../.gitbook/assets/ROCKIUMZ.png)        | Litostal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_roca.png)                                                                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/DARKINIUMZ.png)      | Nicostal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_siniestro.png)                                                                                                                                        |
+| ![Metalostal Z](../.gitbook/assets/GROUNDIUMZ.png)      | Geostal Z        | 10K    | ![Venusaurita](../.gitbook/assets/tipo_tierra.png)                                                                                                                                           |
+| ![Metalostal Z](../.gitbook/assets/POISONIUMZ.png)      | Toxistal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_veneno.png)                                                                                                                                           |
+| ![Metalostal Z](../.gitbook/assets/FLYINIUMZ.png)       | Aerostal Z       | 10K    | ![Venusaurita](../.gitbook/assets/tipo_volador.png)                                                                                                                                          |
+| ![Metalostal Z](../.gitbook/assets/PIKANIUMZ.png)       | Pikastal Z       | 50K    | ![Venusaurita](../.gitbook/assets/PIKACHU.png)                                                                                                                                               |
+| ![Metalostal Z](../.gitbook/assets/ALORAICHIUMZ.png)    | Alo-Raistal Z    | 50K    | ![Venusaurita](../.gitbook/assets/RAICHU_1.png)                                                                                                                                              |
+| ![Metalostal Z](../.gitbook/assets/EEVIUMZ.png)         | Eeveestal Z      | 50K    | ![Venusaurita](../.gitbook/assets/EEVEE.png)                                                                                                                                                 |
+| ![Metalostal Z](../.gitbook/assets/SNORLIUMZ.png)       | Snorlastal Z     | 50K    | ![Venusaurita](../.gitbook/assets/SNORLAX.png)                                                                                                                                               |
+| ![Metalostal Z](../.gitbook/assets/DECIDIUMZ.png)       | Dueyestal Z      | 50K    | ![Venusaurita](../.gitbook/assets/DECIDUEYE.png)                                                                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/INCINIUMZ.png)       | Incinostal Z     | 50K    | ![Venusaurita](../.gitbook/assets/INCINEROAR.png)                                                                                                                                            |
+| ![Metalostal Z](../.gitbook/assets/PRIMARIUMZ.png)      | Primastal Z      | 55K    | ![Venusaurita](../.gitbook/assets/PRIMARINA.png)                                                                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/TAPUNIUMZ.png)       | Tapistal Z       | 60K    | ![Venusaurita](../.gitbook/assets/TAPUKOKO.png)![Venusaurita](../.gitbook/assets/TAPULELE.png)![Venusaurita](../.gitbook/assets/TAPUBULU.png)![Venusaurita](../.gitbook/assets/TAPUFINI.png) |
+| ![Metalostal Z](../.gitbook/assets/MEWNIUMZ.png)        | Mewstal Z        | 50K    | ![Venusaurita](../.gitbook/assets/MEW.png)                                                                                                                                                   |
+| ![Metalostal Z](../.gitbook/assets/PIKASHUNIUMZ.png)    | Ash-Pikastal Z   | 50K    | ![Venusaurita](../.gitbook/assets/PIKACHU_8.png)                                                                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/MARSHADIUMZ.png)     | Marshastal Z     | 80K    | ![Venusaurita](../.gitbook/assets/MARSHADOW.png)                                                                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/KOMMONIUMZ.png)      | Kommostal Z      | 100K   | ![Venusaurita](../.gitbook/assets/KOMMOO.png)                                                                                                                                                |
+| ![Metalostal Z](../.gitbook/assets/LYCANIUMZ.png)       | Lycanrostal Z    | 80K    | ![Venusaurita](../.gitbook/assets/LYCANROC.png)![Venusaurita](../.gitbook/assets/LYCANROC_1.png)![Venusaurita](../.gitbook/assets/LYCANROC_2.png)                                            |
+| ![Metalostal Z](../.gitbook/assets/MIMIKIUMZ.png)       | Mimikyustal Z    | 80K    | ![Venusaurita](../.gitbook/assets/MIMIKYU.png)                                                                                                                                               |
+| ![Metalostal Z](../.gitbook/assets/SOLGANIUMZ.png)      | Solgaleostal Z   | 80K    | ![Venusaurita](../.gitbook/assets/SOLGALEO.png)![Venusaurita](../.gitbook/assets/NECROZMA_1.png)                                                                                             |
+| ![Metalostal Z](../.gitbook/assets/LUNALIUMZ.png)       | Lunalastal Z     | 80K    | ![Venusaurita](../.gitbook/assets/LUNALA.png)![Venusaurita](../.gitbook/assets/NECROZMA_2.png)                                                                                               |
+| ![Metalostal Z](../.gitbook/assets/ULTRANECROZIUMZ.png) | Ultranecrostal Z | 100K   | ![Venusaurita](../.gitbook/assets/NECROZMA_3.png)                                                                                                                                            |
 
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|![Mentas](../images/iconos/mentas/MINT.png)   |Todas   |valen   |25K   |
+## Discos de Silvally
 
+| Icono                                              | Nombre | Precio | Descripción |
+| -------------------------------------------------- | ------ | ------ | ----------- |
+| ![Metalostal Z](../.gitbook/assets/DARKMEMORY.png) | Todos  | valen  | 15k         |
 
+## ROMs de Genesect
 
+| Icono                                              | Nombre | Precio | Descripción |
+| -------------------------------------------------- | ------ | ------ | ----------- |
+| ![Metalostal Z](../.gitbook/assets/SHOCKDRIVE.png) | Todos  | valen  | 10k         |
 
-# Encantamientos
-
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![Reparación](../images/iconos/encantamientos/Libroencantado.gif)   |Reparación   |50K   |
-|![Irrompibilidad III ](../images/iconos/encantamientos/Libroencantado.gif)   |Irrompibilidad III   |35K   |
-|![El resto de encantamientos](../images/iconos/encantamientos/Libroencantado.gif)   |El resto de encantamientos   | 30K   |
-
-# Bayas
-
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|![Venusaurita](../images/iconos/bayas/CHESTOBERRY.png)   |Todas   |valen   |10K   |
-
-# Gemas
-
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![Gema Bicho](../images/iconos/gemas/BUGGEM.png)   |Gema Bicho   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/DARKGEM.png)   |Gema Siniestro   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/DRAGONGEM.png)   |Gema Dragón   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/ELECTRICGEM.png)   |Gema Eléctrico   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/FAIRYGEM.png)   |Gema Hada   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/FIGHTINGGEM.png)   |Gema Lucha   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/FIREGEM.png)   |Gema Fuego   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/FLYINGGEM.png)   |Gema Volador   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/GHOSTGEM.png)   |Gema Fantasma   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/GRASSGEM.png)   |Gema Planta   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/GROUNDGEM.png)  |Gema Tierra   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/NORMALGEM.png)   |Gema Normal   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/POISONGEM.png)   |Gema Veneno   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/PSYCHICGEM.png)   |Gema Psíquico   |2K   |   |
-|![Gema Bicho](../images/iconos/gemas/ROCKGEM.png)   |Gema Roca   |2K   |  |
-|![Gema Bicho](../images/iconos/gemas/WATERGEM.png)   |Gema Agua   |2K   |   |
-
-
-# Partes de Porygon (por unidad)
-
-|Icono   |Nombre  |Precio   |
-| - | - | - |
-|![Porygon](../images/iconos/porygon/Porygon.png)   |Porygon (completo)   |10K   |   |
-|![Porygon](../images/iconos/porygon/Grid_Porygon_Body.png)   |Cuerpo de Porygon   |1K   |   |   |
-|![Porygon](../images/iconos/porygon/Grid_Porygon_Leg.png)   |Pierna de Porygon    | 1K   |  |   |
-|![Porygon](../images/iconos/porygon/Grid_Porygon_Tail.png)   |Cola de Porygon   |1K   |   |   |
-|![Porygon](../images/iconos/porygon/Grid_Porygon_Head.png)   |Cabeza de Porygon   |1K    |  |   |
-
-# Fósiles (por unidad)
-
-|Icono   |Nombre  |Precio   |Resultado Fósil|
-| - | - | - | - |
-|![Porygon](../images/iconos/fosiles/HELIXFOSSIL.png)    |Fósil Hélix   |10K   |Omanyte   |
-|![Porygon](../images/iconos/fosiles/DOMEFOSSIL.png)    |Fósil Domo  |10K   |Kabuto   |
-|![Porygon](../images/iconos/fosiles/OLDAMBER.png)    |Ámbar Viejo   |10K   |Aerodactyl   |
-|![Porygon](../images/iconos/fosiles/ROOTFOSSIL.png)    |Fósil Raíz   |10K   |Lileep   |
-|![Porygon](../images/iconos/fosiles/CLAWFOSSIL.png)    |Fósil Garra  |10K   |Anorith   |
-|![Porygon](../images/iconos/fosiles/SKULLFOSSIL.png)    |Fósil Cráneo  |10K   |Cranidos   |
-|![Porygon](../images/iconos/fosiles/ARMORFOSSIL.png)    |Fósil Coraza  |10K   |Shieldon   |
-|![Porygon](../images/iconos/fosiles/COVERFOSSIL.png)    |Fósil Tapa  |10K   |Tirtouga   |
-|![Porygon](../images/iconos/fosiles/PLUMEFOSSIL.png)    |Fósil Pluma  |10K   |Archen   |
-|![Porygon](../images/iconos/fosiles/JAWFOSSIL.png)    |Fósil Mandíbula  |10K   |Tyrunt   |
-|![Porygon](../images/iconos/fosiles/SAILFOSSIL.png)    |Fósil Aleta  |10K   |Amaura   |
-|![Porygon](../images/iconos/fosiles/FOSSILIZEDBIRD.png)    |Ornitofósil   |20K   |Arctozolt (+Plesiofósil)/Dracozolt (+Dracofósil)   |
-|![Porygon](../images/iconos/fosiles/FOSSILIZEDFISH.png)    |Iciofósil  |20K   |Dracovish (+Dracofósil)/Actovish (+Plesiofósil)    |
-|![Porygon](../images/iconos/fosiles/FOSSILIZEDDINO.png)    |Dracofósil |20K    |Dracozolt (+Ornitofósil)/Dracovish (+Iciofósil)   |
-|![Porygon](../images/iconos/fosiles/FOSSILIZEDDINO.png)    |Plesiofósil   |20K    |Arctozolt (+Ornitofósil)/Arctovish (+Iciofósil)   |
-
-
-# Cristales Z
-
-|Icono   |Nombre  |Precio   |Tipo/Pokémon|
-| - | - | - | - |
-|![Metalostal Z](../images/iconos/cristalesz/STEELIUMZ.png)   |Metalostal Z  |10K   |![Venusaurita](../images/pokemon/tipos/tipo_acero.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/WATERIUMZ.png)   |Hidrostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_agua.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/BUGINIUMZ.png)   |Insectostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_bicho.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/DRAGONIUMZ.png)   |Dracostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_dragon.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/ELECTRIUMZ.png)   |Electrostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_electrico.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/GHOSTIUMZ.png)   |Espectrostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_fantasma.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/FIRIUMZ.png)   |Pirostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_fuego.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/FAIRIUMZ.png)   |Feeristal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_hada.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/ICIUMZ.png)   |Criostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_hielo.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/FIGHTINIUMZ.png)   |Lizastal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_lucha.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/NORMALIUMZ.png)   |Normalstal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_normal.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/GRASSIUMZ.png)   |Fitostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_planta.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/PSYCHIUMZ.png)   |Psicostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_psiquico.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/ROCKIUMZ.png)   |Litostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_roca.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/DARKINIUMZ.png)   |Nicostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_siniestro.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/GROUNDIUMZ.png)   |Geostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_tierra.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/POISONIUMZ.png)   |Toxistal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_veneno.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/FLYINIUMZ.png)   |Aerostal Z   |10K   |![Venusaurita](../images/pokemon/tipos/tipo_volador.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/PIKANIUMZ.png)   |Pikastal Z   |50K   |![Venusaurita](../images/iconos/cristalesz/PIKACHU.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/ALORAICHIUMZ.png)   |Alo-Raistal Z   |50K    |![Venusaurita](../images/iconos/cristalesz/RAICHU_1.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/EEVIUMZ.png)   |Eeveestal Z   |50K    |![Venusaurita](../images/iconos/cristalesz/EEVEE.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/SNORLIUMZ.png)   |Snorlastal Z   |50K    |![Venusaurita](../images/iconos/cristalesz/SNORLAX.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/DECIDIUMZ.png)   |Dueyestal Z   |50K    |![Venusaurita](../images/iconos/cristalesz/DECIDUEYE.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/INCINIUMZ.png)   |Incinostal Z   |50K    |![Venusaurita](../images/iconos/cristalesz/INCINEROAR.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/PRIMARIUMZ.png)   |Primastal Z   |55K    |![Venusaurita](../images/iconos/cristalesz/PRIMARINA.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/TAPUNIUMZ.png)   |Tapistal Z   |60K   |![Venusaurita](../images/iconos/cristalesz/TAPUKOKO.png)![Venusaurita](../images/iconos/cristalesz/TAPULELE.png)![Venusaurita](../images/iconos/cristalesz/TAPUBULU.png)![Venusaurita](../images/iconos/cristalesz/TAPUFINI.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/MEWNIUMZ.png)   |Mewstal Z   |50K    |![Venusaurita](../images/iconos/cristalesz/MEW.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/PIKASHUNIUMZ.png)   |Ash-Pikastal Z   |50K   |![Venusaurita](../images/iconos/cristalesz/PIKACHU_8.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/MARSHADIUMZ.png)   |Marshastal Z   |80K   |![Venusaurita](../images/iconos/cristalesz/MARSHADOW.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/KOMMONIUMZ.png)   |Kommostal Z   |100K   |![Venusaurita](../images/iconos/cristalesz/KOMMOO.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/LYCANIUMZ.png)   |Lycanrostal Z   |80K    |![Venusaurita](../images/iconos/cristalesz/LYCANROC.png)![Venusaurita](../images/iconos/cristalesz/LYCANROC_1.png)![Venusaurita](../images/iconos/cristalesz/LYCANROC_2.png)     |
-|![Metalostal Z](../images/iconos/cristalesz/MIMIKIUMZ.png)   |Mimikyustal Z   |80K    |![Venusaurita](../images/iconos/cristalesz/MIMIKYU.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/SOLGANIUMZ.png)   |Solgaleostal Z   |80K   |![Venusaurita](../images/iconos/cristalesz/SOLGALEO.png)![Venusaurita](../images/iconos/cristalesz/NECROZMA_1.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/LUNALIUMZ.png)   |Lunalastal Z   |80K   |![Venusaurita](../images/iconos/cristalesz/LUNALA.png)![Venusaurita](../images/iconos/cristalesz/NECROZMA_2.png)   |
-|![Metalostal Z](../images/iconos/cristalesz/ULTRANECROZIUMZ.png)   |Ultranecrostal Z   |100K |![Venusaurita](../images/iconos/cristalesz/NECROZMA_3.png)   |
-
-
-
-
-# Discos de Silvally
-
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|![Metalostal Z](../images/iconos/discossilvally/DARKMEMORY.png)   |Todos   | valen  | 15k  |
-
-
-
-# ROMs de Genesect
-
-|Icono   |Nombre  |Precio   |Descripción|
-| - | - | - | - |
-|![Metalostal Z](../images/iconos/romsgenesect/SHOCKDRIVE.png)   |Todos    |valen   |10k   |
-
-# Pokémon Legendarios y Singulares
+## Pokémon Legendarios y Singulares
 
 Si el Pokémon Legendario/Singular es **Shiny de forma natural**, se le suma 75K al precio.
 
-|Sprite   |Nombre  |Precio   |
-| - | - | - |
-|![Articuno](../images/iconos/pokemonlegendarios/ARTICUNO.png)   |Articuno   |150k   |- Miedosa<br>- Serena<br>- Modesta  |
-|![Articuno Galar](../images/iconos/pokemonlegendarios/ARTICUNO_1.png)   |Articuno Galar   |850K   |- Miedosa<br>- Serena<br>- Modesta   |
-|![Zapdos](../images/iconos/pokemonlegendarios/ZAPDOS.png)   |Zapdos   |200K   |- Miedosa<br>- Serena<br>- Osada<br>- Modesta   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/ZAPDOS_1.png)   |Zapdos Galar   |850K   |- Firme<br>- Alegre   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/MOLTRES.png)   |Moltres   |150K    |- Miedosa<br>- Osada<br>- Modesta   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/MOLTRES_1.png)   |Moltres Galar   |850K   |- Miedosa<br>- Osada<br>- Modesta    |
-|![Mew](../images/iconos/pokemonlegendarios/MEW.png)   |Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3   |1.5M<br>1M<br>700K<br>400K   |- Miedosa<br>- Alegre<br>- Firme<br>- Cauta<br>- Modesta<br>- Osada   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/MEWTWO.png)   |Mewtwo   |600K   |- Miedosa<br>- Alegre<br>- Firme<br>- Modesta<br>- Activa<br>- Ingenua<br>- Huraña   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/RAIKOU.png)   |Raikou   |150K   |- Miedosa<br>- Alocada   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/ENTEI.png)   |Entei   |120K   |- Firme<br>- Alegre   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/SUICUNE.png)   |Suicune   |150K   |- Osada<br>- Miedosa<br>- Serena<br>- Modesta   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/LUGIA.png)   |Lugia   |350K   |- Osada<br>- Serena<br>- Miedosa<br>- Modesta   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/HOOH.png)   |Ho-Oh   |350K   |- Alegre <br>- Agitada<br>- Osada<br>- Plácida<br>- Firme   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/CELEBI.png)   |Celebi   |650K   |- Miedosa<br>- Serena<br>- Modesta   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/REGIROCK.png)   |Regirock   |250K   |-Agitada<br>- Firme   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/REGICE.png)   |Regice   |250K   |- Modesta<br>- Miedosa<br>- Serena   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/REGISTEEL.png)   |Registel   |250K   |- Serena<br>- Cauta<br>- Osada<br>- Agitada   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/LATIAS.png)   |Latias   |500K   |- Miedosa<br>- Modesta   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/LATIOS.png)   |Latios   |500K   |- Miedosa<br>- Ingenua<br>- Activa   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/KYOGRE.png)   |Kyogre 0/1<br>Kyogre 0/1   |800K<br>650K   |- Modesta<br>- Firme<br>- Alegre<br>- Osada<br>- Activa<br>- Miedosa<br>- Grosera<br>- Plácida<br>- Afable<br>- Pícara   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/GROUDON.png)   |Groudon 0/1<br>Groudon 1/1   |800K<br>650K   |- Firme<br>- Plácida<br>- Agitada<br>- Cauta<br>- Afable<br>- Pícara<br>- Grosera   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/RAYQUAZA.png)   |Rayquaza   |900K   |- Firme<br>- Alegre<br>- Ingenua<br>- Pícara<br>- Huraña   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/JIRACHI.png)   |Jirachi   |1M   |- Alegre<br>- Cauta<br>- Ingenua<br>- Miedosa<br>- Firme   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/DEOXYS.png)   |Deoxys   |900K   |- Alegre<br>- Miedosa   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/REGIGIGAS.png)   |Regigigas   |800K   |- Firme<br>- Alegre   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/HEATRAN.png)   |Heatran   |650K   |- Serena<br>- Modesta<br>- Miedosa<br>- Osada   |
-|![Zapdos Galar](../images/iconos/pokemonlegendarios/CRESSELIA.png)   |Cresselia   |800K   |- Osada<br>- Plácida<br>- Grosera<br>- Modesta<br>- Mansa   |
-|![Uxie](../images/iconos/pokemonlegendarios/UXIE.png)   |Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3  |400K<br>392K<br>385K<br>370K  | - Miedosa<br>- Plácida  |
-|![Uxie](../images/iconos/pokemonlegendarios/AZELF.png)    |Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Alegre<br>- Ingenua   |
-|![Uxie](../images/iconos/pokemonlegendarios/MESPRIT.png)    |Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3  |400K<br>392K<br>385K<br>370K  |- Miedosa<br>- Osada<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/DIALGA.png)   |Dialga 0/1<br>Dialga 1/1   |800K<br>650K   |- Modesta<br>- Grosera<br>- Mansa   |
-|![Uxie](../images/iconos/pokemonlegendarios/PALKIA.png)   |Palkia 0/1<br>Palkia 1/1   |800K<br>650K   |- Activa<br>- Afable<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/GIRATINA.png)   |Giratina   |900K   |- Plácida<br>- Modesta<br>- Osada   |
-|![Uxie](../images/iconos/pokemonlegendarios/PHIONE.png)   |Phione   |50K   |- Plácida<br>- Miedosa   |
-|![Uxie](../images/iconos/pokemonlegendarios/MANAPHY.png)   |Manaphy   |200K   |-Modesta<br>- Miedosa   |
-|![Uxie](../images/iconos/pokemonlegendarios/SHAYMIN.png)   |Shaymin   |550K   |- Miedosa<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/DARKRAI.png)   |Darkrai   |1M   |- Miedosa<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/ARCEUS.png)   |Arceus   |650K   |- Firme<br>- Miedosa<br>- Osada<br>- Modesta<br>- Alegre   |
-|![Uxie](../images/iconos/pokemonlegendarios/VIRIZION.png)   |Virizion   |250K   |- Alegre<br>- Activa<br>- Miedosa   |
-|![Uxie](../images/iconos/pokemonlegendarios/COBALION.png)   |Cobalion   |300K   |- Alegre<br>- Miedosa   |
-|![Uxie](../images/iconos/pokemonlegendarios/TERRAKION.png)   |Terrakion   |300K   |- Alegre<br>- Firme   |
-|![Uxie](../images/iconos/pokemonlegendarios/TORNADUS.png)   |Tornadus   |600K   |- Miedosa<br>- Activa   |
-|![Uxie](../images/iconos/pokemonlegendarios/LANDORUS.png)   |Landorus   |900K   |- Miedosa<br>- Alegre<br>- Firme<br>- Agitada   |
-|![Uxie](../images/iconos/pokemonlegendarios/THUNDURUS.png)   |Thundurus   |550K   |- Miedosa<br>- Ingenua<br>- Osada<br>- Alegre<br>- Modesta   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZEKROM.png)   |Zekrom 0/1<br>Zekrom 1/1   |800K<br>600K   |- Agitada<br>- Alocada<br>- Alegre<br>- Firme   |
-|![Uxie](../images/iconos/pokemonlegendarios/RESHIRAM.png)   |Reshiram 0/1<br>Reshiram 1/1   |800K<br>600K    |- Modesta<br>- Miedosa   |
-|![Uxie](../images/iconos/pokemonlegendarios/KYUREM.png)   |Kyurem   |900K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/KYUREM_1.png)<br>![Uxie](../images/iconos/pokemonlegendarios/KYUREM_2.png)   |Kyurem Negro y Blanco |1.5M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/VICTINI.png)   |Victini   |320K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/KELDEO.png)   |Keldeo   |200K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/MELOETTA.png)   |Meloetta   |280K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/GENESECT.png)   |Genesect   |350K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/XERNEAS.png)   |Xerneas   |650K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/YVELTAL.png)   |Yveltal   |1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZYGARDE_1.png)   |Zygarde (10%)  |150K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZYGARDE.png)   |Zygarde (50%)  |550K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZYGARDE_2.png)   |Zygarde (100%)   |1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/DIANCIE.png)   |Diancie   |750K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/HOOPA.png)   |Hoopa   |400K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/HOOPA_1.png)   |Hoopa + Vasija   |500K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/VOLCANION.png)   |Volcanion   |800K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/COSMOG.png)   |Cosmog   |950K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/COSMOEM.png)   |Cosmoem   |900K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/SOLGALEO.png)   |Solgaleo   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/LUNALA.png)   |Lunala   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/NECROZMA.png)   |Necrozma   |950K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/NECROZMA_1.png)   |Necrozma Melena Crepuscular   |1.3M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/NECROZMA_2.png)   |Necrozma Alas del Alba   |1.3M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/TYPENULL.png)   |Código Cero   |400K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/SILVALLY.png)   |Silvally   |500K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/TAPUKOKO.png)   |Tapu Koko   |650K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/TAPULELE.png)   |Tapu Lele   |400K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/TAPUBULU.png)   |Tapu Bulu   |250K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/TAPUFINI.png)   |Tapu Fini   |500K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/MAGEARNA.png)   |Magearna   |750K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/MARSHADOW.png)   |Marshadow   |700K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZERAORA.png)   |Zeraora   |700K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/MELTAN.png)   |Meltan   |100K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/MELMETAL.png)   |Melmetal   |350K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZACIAN.png)   |Zacian (Sin espada)  |650K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZACIAN_1.png)   |Zacian (Con espada)  |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZAMAZENTA.png)   |Zamazenta (Sin escudo)   |650K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZAMAZENTA_1.png)   |Zamazenta (Con escudo)   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ETERNATUS.png)   |Eternatus   |950K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/KUBFU.png)   |Kubfu   |900K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/URSHIFU.png)   |Urshifu Brusco   |900K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/URSHIFU_1.png)   |Urshifu Fluido |950K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ZARUDE.png)   |Zarude   |400K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/GLASTRIER.png)   |Glastrier   |400K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/SPECTRIER.png)   |Spectrier   |400K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/CALYREX.png)   |Calyrex   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/REGIELEKI.png)   |Regieleki   |1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/REGIDRAGO.png)   |Regidrago   |1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ENAMORUS.png)   |Enamorus   |650K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/CHIENPAO.png)   |Chien-Pao   |700K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/CHIYU.png)   |Chi-Yu   |700K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/KORAIDON.png)   |Koraidon  |1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/MIRAIDON.png)   |Miraidon  |1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/TINGLU.png)   |Ting-Lu  |700K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/WOCHIEN.png)   |Wo-Chien  |700K   |   |
+| Sprite                                                                                                                  | Nombre                                                          | Precio                              |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------- |
+| ![Articuno](../.gitbook/assets/ARTICUNO.png)                                                                            | Articuno                                                        | 150k                                |
+| ![Articuno Galar](../.gitbook/assets/ARTICUNO_1.png)                                                                    | Articuno Galar                                                  | 850K                                |
+| ![Zapdos](../.gitbook/assets/ZAPDOS.png)                                                                                | Zapdos                                                          | 200K                                |
+| ![Zapdos Galar](../.gitbook/assets/ZAPDOS_1.png)                                                                        | Zapdos Galar                                                    | 850K                                |
+| ![Zapdos Galar](../.gitbook/assets/MOLTRES.png)                                                                         | Moltres                                                         | 150K                                |
+| ![Zapdos Galar](../.gitbook/assets/MOLTRES_1.png)                                                                       | Moltres Galar                                                   | 850K                                |
+| ![Mew](<../.gitbook/assets/MEW (1).png>)                                                                                | <p>Mew 0/3<br>Mew 1/3<br>Mew 2/3<br>Mew 3/3</p>                 | <p>1.5M<br>1M<br>700K<br>400K</p>   |
+| ![Zapdos Galar](../.gitbook/assets/MEWTWO.png)                                                                          | Mewtwo                                                          | 600K                                |
+| ![Zapdos Galar](../.gitbook/assets/RAIKOU.png)                                                                          | Raikou                                                          | 150K                                |
+| ![Zapdos Galar](../.gitbook/assets/ENTEI.png)                                                                           | Entei                                                           | 120K                                |
+| ![Zapdos Galar](../.gitbook/assets/SUICUNE.png)                                                                         | Suicune                                                         | 150K                                |
+| ![Zapdos Galar](../.gitbook/assets/LUGIA.png)                                                                           | Lugia                                                           | 350K                                |
+| ![Zapdos Galar](../.gitbook/assets/HOOH.png)                                                                            | Ho-Oh                                                           | 350K                                |
+| ![Zapdos Galar](../.gitbook/assets/CELEBI.png)                                                                          | Celebi                                                          | 650K                                |
+| ![Zapdos Galar](../.gitbook/assets/REGIROCK.png)                                                                        | Regirock                                                        | 250K                                |
+| ![Zapdos Galar](../.gitbook/assets/REGICE.png)                                                                          | Regice                                                          | 250K                                |
+| ![Zapdos Galar](../.gitbook/assets/REGISTEEL.png)                                                                       | Registel                                                        | 250K                                |
+| ![Zapdos Galar](../.gitbook/assets/LATIAS.png)                                                                          | Latias                                                          | 500K                                |
+| ![Zapdos Galar](../.gitbook/assets/LATIOS.png)                                                                          | Latios                                                          | 500K                                |
+| ![Zapdos Galar](../.gitbook/assets/KYOGRE.png)                                                                          | <p>Kyogre 0/1<br>Kyogre 0/1</p>                                 | <p>800K<br>650K</p>                 |
+| ![Zapdos Galar](../.gitbook/assets/GROUDON.png)                                                                         | <p>Groudon 0/1<br>Groudon 1/1</p>                               | <p>800K<br>650K</p>                 |
+| ![Zapdos Galar](../.gitbook/assets/RAYQUAZA.png)                                                                        | Rayquaza                                                        | 900K                                |
+| ![Zapdos Galar](../.gitbook/assets/JIRACHI.png)                                                                         | Jirachi                                                         | 1M                                  |
+| ![Zapdos Galar](../.gitbook/assets/DEOXYS.png)                                                                          | Deoxys                                                          | 900K                                |
+| ![Zapdos Galar](../.gitbook/assets/REGIGIGAS.png)                                                                       | Regigigas                                                       | 800K                                |
+| ![Zapdos Galar](../.gitbook/assets/HEATRAN.png)                                                                         | Heatran                                                         | 650K                                |
+| ![Zapdos Galar](../.gitbook/assets/CRESSELIA.png)                                                                       | Cresselia                                                       | 800K                                |
+| ![Uxie](../.gitbook/assets/UXIE.png)                                                                                    | <p>Uxie 0/3<br>Uxie 1/3<br>Uxie 2/3<br>Uxie 3/3</p>             | <p>400K<br>392K<br>385K<br>370K</p> |
+| ![Uxie](../.gitbook/assets/AZELF.png)                                                                                   | <p>Azelf 0/3<br>Azelf 1/3<br>Azelf 2/3<br>Azelf 3/3</p>         | <p>400K<br>392K<br>385K<br>370K</p> |
+| ![Uxie](../.gitbook/assets/MESPRIT.png)                                                                                 | <p>Mesprit 0/3<br>Mesprit 1/3<br>Mesprit 2/3<br>Mesprit 3/3</p> | <p>400K<br>392K<br>385K<br>370K</p> |
+| ![Uxie](../.gitbook/assets/DIALGA.png)                                                                                  | <p>Dialga 0/1<br>Dialga 1/1</p>                                 | <p>800K<br>650K</p>                 |
+| ![Uxie](../.gitbook/assets/PALKIA.png)                                                                                  | <p>Palkia 0/1<br>Palkia 1/1</p>                                 | <p>800K<br>650K</p>                 |
+| ![Uxie](../.gitbook/assets/GIRATINA.png)                                                                                | Giratina                                                        | 900K                                |
+| ![Uxie](../.gitbook/assets/PHIONE.png)                                                                                  | Phione                                                          | 50K                                 |
+| ![Uxie](../.gitbook/assets/MANAPHY.png)                                                                                 | Manaphy                                                         | 200K                                |
+| ![Uxie](../.gitbook/assets/SHAYMIN.png)                                                                                 | Shaymin                                                         | 550K                                |
+| ![Uxie](../.gitbook/assets/DARKRAI.png)                                                                                 | Darkrai                                                         | 1M                                  |
+| ![Uxie](../.gitbook/assets/ARCEUS.png)                                                                                  | Arceus                                                          | 650K                                |
+| ![Uxie](../.gitbook/assets/VIRIZION.png)                                                                                | Virizion                                                        | 250K                                |
+| ![Uxie](../.gitbook/assets/COBALION.png)                                                                                | Cobalion                                                        | 300K                                |
+| ![Uxie](../.gitbook/assets/TERRAKION.png)                                                                               | Terrakion                                                       | 300K                                |
+| ![Uxie](../.gitbook/assets/TORNADUS.png)                                                                                | Tornadus                                                        | 600K                                |
+| ![Uxie](../.gitbook/assets/LANDORUS.png)                                                                                | Landorus                                                        | 900K                                |
+| ![Uxie](../.gitbook/assets/THUNDURUS.png)                                                                               | Thundurus                                                       | 550K                                |
+| ![Uxie](../.gitbook/assets/ZEKROM.png)                                                                                  | <p>Zekrom 0/1<br>Zekrom 1/1</p>                                 | <p>800K<br>600K</p>                 |
+| ![Uxie](../.gitbook/assets/RESHIRAM.png)                                                                                | <p>Reshiram 0/1<br>Reshiram 1/1</p>                             | <p>800K<br>600K</p>                 |
+| ![Uxie](../.gitbook/assets/KYUREM.png)                                                                                  | Kyurem                                                          | 900K                                |
+| <p><img src="../.gitbook/assets/KYUREM_1.png" alt="Uxie"><br><img src="../.gitbook/assets/KYUREM_2.png" alt="Uxie"></p> | Kyurem Negro y Blanco                                           | 1.5M                                |
+| ![Uxie](../.gitbook/assets/VICTINI.png)                                                                                 | Victini                                                         | 320K                                |
+| ![Uxie](../.gitbook/assets/KELDEO.png)                                                                                  | Keldeo                                                          | 200K                                |
+| ![Uxie](../.gitbook/assets/MELOETTA.png)                                                                                | Meloetta                                                        | 280K                                |
+| ![Uxie](../.gitbook/assets/GENESECT.png)                                                                                | Genesect                                                        | 350K                                |
+| ![Uxie](../.gitbook/assets/XERNEAS.png)                                                                                 | Xerneas                                                         | 650K                                |
+| ![Uxie](../.gitbook/assets/YVELTAL.png)                                                                                 | Yveltal                                                         | 1M                                  |
+| ![Uxie](../.gitbook/assets/ZYGARDE_1.png)                                                                               | Zygarde (10%)                                                   | 150K                                |
+| ![Uxie](../.gitbook/assets/ZYGARDE.png)                                                                                 | Zygarde (50%)                                                   | 550K                                |
+| ![Uxie](../.gitbook/assets/ZYGARDE_2.png)                                                                               | Zygarde (100%)                                                  | 1M                                  |
+| ![Uxie](../.gitbook/assets/DIANCIE.png)                                                                                 | Diancie                                                         | 750K                                |
+| ![Uxie](../.gitbook/assets/HOOPA.png)                                                                                   | Hoopa                                                           | 400K                                |
+| ![Uxie](../.gitbook/assets/HOOPA_1.png)                                                                                 | Hoopa + Vasija                                                  | 500K                                |
+| ![Uxie](../.gitbook/assets/VOLCANION.png)                                                                               | Volcanion                                                       | 800K                                |
+| ![Uxie](../.gitbook/assets/COSMOG.png)                                                                                  | Cosmog                                                          | 950K                                |
+| ![Uxie](../.gitbook/assets/COSMOEM.png)                                                                                 | Cosmoem                                                         | 900K                                |
+| ![Uxie](<../.gitbook/assets/SOLGALEO (1).png>)                                                                          | Solgaleo                                                        | 850K                                |
+| ![Uxie](<../.gitbook/assets/LUNALA (1).png>)                                                                            | Lunala                                                          | 850K                                |
+| ![Uxie](../.gitbook/assets/NECROZMA.png)                                                                                | Necrozma                                                        | 950K                                |
+| ![Uxie](<../.gitbook/assets/NECROZMA_1 (1).png>)                                                                        | Necrozma Melena Crepuscular                                     | 1.3M                                |
+| ![Uxie](<../.gitbook/assets/NECROZMA_2 (1).png>)                                                                        | Necrozma Alas del Alba                                          | 1.3M                                |
+| ![Uxie](../.gitbook/assets/TYPENULL.png)                                                                                | Código Cero                                                     | 400K                                |
+| ![Uxie](../.gitbook/assets/SILVALLY.png)                                                                                | Silvally                                                        | 500K                                |
+| ![Uxie](<../.gitbook/assets/TAPUKOKO (1).png>)                                                                          | Tapu Koko                                                       | 650K                                |
+| ![Uxie](<../.gitbook/assets/TAPULELE (1).png>)                                                                          | Tapu Lele                                                       | 400K                                |
+| ![Uxie](<../.gitbook/assets/TAPUBULU (1).png>)                                                                          | Tapu Bulu                                                       | 250K                                |
+| ![Uxie](<../.gitbook/assets/TAPUFINI (1).png>)                                                                          | Tapu Fini                                                       | 500K                                |
+| ![Uxie](../.gitbook/assets/MAGEARNA.png)                                                                                | Magearna                                                        | 750K                                |
+| ![Uxie](<../.gitbook/assets/MARSHADOW (1).png>)                                                                         | Marshadow                                                       | 700K                                |
+| ![Uxie](../.gitbook/assets/ZERAORA.png)                                                                                 | Zeraora                                                         | 700K                                |
+| ![Uxie](../.gitbook/assets/MELTAN.png)                                                                                  | Meltan                                                          | 100K                                |
+| ![Uxie](../.gitbook/assets/MELMETAL.png)                                                                                | Melmetal                                                        | 350K                                |
+| ![Uxie](../.gitbook/assets/ZACIAN.png)                                                                                  | Zacian (Sin espada)                                             | 650K                                |
+| ![Uxie](../.gitbook/assets/ZACIAN_1.png)                                                                                | Zacian (Con espada)                                             | 850K                                |
+| ![Uxie](../.gitbook/assets/ZAMAZENTA.png)                                                                               | Zamazenta (Sin escudo)                                          | 650K                                |
+| ![Uxie](../.gitbook/assets/ZAMAZENTA_1.png)                                                                             | Zamazenta (Con escudo)                                          | 850K                                |
+| ![Uxie](../.gitbook/assets/ETERNATUS.png)                                                                               | Eternatus                                                       | 950K                                |
+| ![Uxie](../.gitbook/assets/KUBFU.png)                                                                                   | Kubfu                                                           | 900K                                |
+| ![Uxie](../.gitbook/assets/URSHIFU.png)                                                                                 | Urshifu Brusco                                                  | 900K                                |
+| ![Uxie](../.gitbook/assets/URSHIFU_1.png)                                                                               | Urshifu Fluido                                                  | 950K                                |
+| ![Uxie](../.gitbook/assets/ZARUDE.png)                                                                                  | Zarude                                                          | 400K                                |
+| ![Uxie](../.gitbook/assets/GLASTRIER.png)                                                                               | Glastrier                                                       | 400K                                |
+| ![Uxie](../.gitbook/assets/SPECTRIER.png)                                                                               | Spectrier                                                       | 400K                                |
+| ![Uxie](../.gitbook/assets/CALYREX.png)                                                                                 | Calyrex                                                         | 850K                                |
+| ![Uxie](../.gitbook/assets/REGIELEKI.png)                                                                               | Regieleki                                                       | 1M                                  |
+| ![Uxie](../.gitbook/assets/REGIDRAGO.png)                                                                               | Regidrago                                                       | 1M                                  |
+| ![Uxie](../.gitbook/assets/ENAMORUS.png)                                                                                | Enamorus                                                        | 650K                                |
+| ![Uxie](../.gitbook/assets/CHIENPAO.png)                                                                                | Chien-Pao                                                       | 700K                                |
+| ![Uxie](../.gitbook/assets/CHIYU.png)                                                                                   | Chi-Yu                                                          | 700K                                |
+| ![Uxie](../.gitbook/assets/KORAIDON.png)                                                                                | Koraidon                                                        | 1M                                  |
+| ![Uxie](../.gitbook/assets/MIRAIDON.png)                                                                                | Miraidon                                                        | 1M                                  |
+| ![Uxie](../.gitbook/assets/TINGLU.png)                                                                                  | Ting-Lu                                                         | 700K                                |
+| ![Uxie](../.gitbook/assets/WOCHIEN.png)                                                                                 | Wo-Chien                                                        | 700K                                |
 
-
-
-# Pokémon Paradojas
+## Pokémon Paradojas
 
 Si el Pokémon Paradoja es **Shiny de forma natural**, se le suma 75K al precio.
 
-|Sprite   |Nombre  |Precio   |
-| - | - | - |
-|![Uxie](../images/iconos/pokemonlegendarios/IRONLEAVES.png)    |Ferrohojas   |1.1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/IRONMOTH.png)    |Ferropolilla   |500K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/IRONTHORNS.png)    |Ferropúas   |500K    |   |
-|![Uxie](../images/iconos/pokemonlegendarios/WALKINGWAKE.png)    |Ondulagua   |1.1M   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/ROAMINGSUN.png)    |Bramaluna   |500K    |   |
-|![Uxie](../images/iconos/pokemonlegendarios/IRONVALIANT.png)    |Ferropaladín   |500K    |   |
+| Sprite                                      | Nombre       | Precio |
+| ------------------------------------------- | ------------ | ------ |
+| ![Uxie](../.gitbook/assets/IRONLEAVES.png)  | Ferrohojas   | 1.1M   |
+| ![Uxie](../.gitbook/assets/IRONMOTH.png)    | Ferropolilla | 500K   |
+| ![Uxie](../.gitbook/assets/IRONTHORNS.png)  | Ferropúas    | 500K   |
+| ![Uxie](../.gitbook/assets/WALKINGWAKE.png) | Ondulagua    | 1.1M   |
+| ![Uxie](../.gitbook/assets/ROAMINGSUN.png)  | Bramaluna    | 500K   |
+| ![Uxie](../.gitbook/assets/IRONVALIANT.png) | Ferropaladín | 500K   |
 
-
-
-# Pokémon Ultraentes
+## Pokémon Ultraentes
 
 Si el Pokémon Ultraente es **Shiny de forma natural**, se le suma 75K al precio.
 
-|Sprite  |Nombre  |Precio   |
-| - | - | - |
-|![Uxie](../images/iconos/pokemonlegendarios/NIHILEGO.png)    |Nihilego   |800K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/BUZZWOLE.png)    |Buzzwole   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/PHEROMOSA.png)    |Pheromosa   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/XURKITREE.png)    |Xurkitree   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/CELESTEELA.png)    |Celesteela   |900K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/KARTANA.png)    |Kartana   |900K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/GUZZLORD.png)    |Guzzlord   |800K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/POIPOLE.png)    |Poipole   |800K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/NAGANADEL.png)    |Naganadel   |850K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/STAKATAKA.png)    |Stakataka   |800K   |   |
-|![Uxie](../images/iconos/pokemonlegendarios/BLACEPHALON.png)    |Blacephalon   |850K   |   |
+| Sprite                                      | Nombre      | Precio |
+| ------------------------------------------- | ----------- | ------ |
+| ![Uxie](../.gitbook/assets/NIHILEGO.png)    | Nihilego    | 800K   |
+| ![Uxie](../.gitbook/assets/BUZZWOLE.png)    | Buzzwole    | 850K   |
+| ![Uxie](../.gitbook/assets/PHEROMOSA.png)   | Pheromosa   | 850K   |
+| ![Uxie](../.gitbook/assets/XURKITREE.png)   | Xurkitree   | 850K   |
+| ![Uxie](../.gitbook/assets/CELESTEELA.png)  | Celesteela  | 900K   |
+| ![Uxie](../.gitbook/assets/KARTANA.png)     | Kartana     | 900K   |
+| ![Uxie](../.gitbook/assets/GUZZLORD.png)    | Guzzlord    | 800K   |
+| ![Uxie](../.gitbook/assets/POIPOLE.png)     | Poipole     | 800K   |
+| ![Uxie](../.gitbook/assets/NAGANADEL.png)   | Naganadel   | 850K   |
+| ![Uxie](../.gitbook/assets/STAKATAKA.png)   | Stakataka   | 800K   |
+| ![Uxie](../.gitbook/assets/BLACEPHALON.png) | Blacephalon | 850K   |
 
-
-
-# Pokémon Especiales
+## Pokémon Especiales
 
 Si el Pokémon Especial es **Shiny de forma natural**, se le suma 75K al precio.
 
-|Sprite  |Nombre  |Precio   |
-| - | - | - |
-|![Uxie](../images/iconos/pokemonespeciales/GRENINJA_2.png)   |Greninja Ash   |1M   |   |
-|![Uxie](../images/iconos/pokemonespeciales/FLOETTE_5.png)   |Floette Flor Eterna   |800K   |   |
-|![Uxie](../images/iconos/pokemonespeciales/PICHUPICOREJA.png)   |Pichu Picoreja  |800K   |   |
-|![Uxie](../images/iconos/pokemonespeciales/METAGROUDON.png)   |Meta Groudon  |800K   |   |
+| Sprite                                        | Nombre              | Precio |
+| --------------------------------------------- | ------------------- | ------ |
+| ![Uxie](../.gitbook/assets/GRENINJA_2.png)    | Greninja Ash        | 1M     |
+| ![Uxie](../.gitbook/assets/FLOETTE_5.png)     | Floette Flor Eterna | 800K   |
+| ![Uxie](../.gitbook/assets/PICHUPICOREJA.png) | Pichu Picoreja      | 800K   |
+| ![Uxie](../.gitbook/assets/METAGROUDON.png)   | Meta Groudon        | 800K   |
 
+## Precios de Crianza
 
-# Precios de Crianza
 Los Pokémon **siempre se venden castrados**, El precio mínimo va aumentando según va obteniendo estas características:
 
-|Nombre|Precio  |
-| - | - |
-|1x31 IVs  | 15K  |
-|2x31 IVs  | 30K  |
-|3x31 IVs  | 45K  |
-|4x31 IVs  | 60K  |
-|5x31 IVs  | 75K  |
-|6x31 IVs  | 100K |
-|Naturaleza a elección   |+15K   |
-|Con Fallo de IV| +10K |
-|Con Habilidad Oculta| +30K |
-|Shiny (natural)| +75K|
-
+| Nombre                | Precio |
+| --------------------- | ------ |
+| 1x31 IVs              | 15K    |
+| 2x31 IVs              | 30K    |
+| 3x31 IVs              | 45K    |
+| 4x31 IVs              | 60K    |
+| 5x31 IVs              | 75K    |
+| 6x31 IVs              | 100K   |
+| Naturaleza a elección | +15K   |
+| Con Fallo de IV       | +10K   |
+| Con Habilidad Oculta  | +30K   |
+| Shiny (natural)       | +75K   |

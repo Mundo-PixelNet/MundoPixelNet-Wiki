@@ -5,6 +5,7 @@ Vincular tu cuenta de Minecraft con Universo PokéNet ofrece varios beneficios q
 ## ¿Qué beneficios ofrece?
 
 Vincular tu cuenta de Minecraft con Discord propocionará:
+
 * Una mejor conexión con la comunidad.
 * Ventajas.
 * Mejor acceso a funciones como los Perfiles.
@@ -15,13 +16,13 @@ Vincular tu cuenta de Minecraft con Discord propocionará:
 
 1- Manda un mensaje privado al bot @Universo PokéNet con el comando /vincular.
 
-<div style="text-align: center">
-<img src="../images/informacion/vincular/vincular1.png">
-</div>
+![](../.gitbook/assets/vincular1.png)
 
-2- Usar el comando **/vincular <tucodigo>**, el codigo son 6 numeros generados aleatoriamente y tienes 10 minutos para usarlo antes de que expire
+2- Usar el comando **/vincular** , el codigo son 6 numeros generados aleatoriamente y tienes 10 minutos para usarlo antes de que expire
 
-{% hint style="info" %} Podrás desvincular tu cuenta en todo momento con /desvincular desde el juego{% endhint %}
+{% hint style="info" %}
+Podrás desvincular tu cuenta en todo momento con /desvincular desde el juego
+{% endhint %}
 
 ### vídeotutorial:
 

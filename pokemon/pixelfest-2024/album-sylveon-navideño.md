@@ -4,16 +4,16 @@
 
 **Sylveon Navideño** es una Skin exclusiva del servidor introducida en [Pixelfest](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Sylveon Navideño](../../images/pokemon/pixelfest/sylveon_pixelfest_sprite.png)                                                          |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
-
+|            |                                                                                   |
+| ---------: | --------------------------------------------------------------------------------- |
+| **Sprite** | ![Sprite de Sylveon Navideño](../../.gitbook/assets/sylveon_pixelfest_sprite.png) |
+| Creado por | FuriadaNoite                                                                      |
 
 ### Comentario del desarrollador
+
 La creación de esta skin hace referencias a las coronas de navidad.
 
-![Vistazo en el juego a Sylveon Navideño](../../images/pokemon/pixelfest/sylveon-preview.png)
+![Vistazo en el juego a Sylveon Navideño](../../.gitbook/assets/sylveon-preview.png)
 
 ## Obtención
 

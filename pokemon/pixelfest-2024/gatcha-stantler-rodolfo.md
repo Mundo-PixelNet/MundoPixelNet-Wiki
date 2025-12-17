@@ -3,16 +3,17 @@
 ## Información
 
 **Stantler Rodolfo** es una Skin exclusiva del servidor introducida en [Pixelfest](./).
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Stantler Rodolfo](../../images/pokemon/pixelfest/stantler_rodolfo_sprite.png)                                           |                                                                                                             |
-|                      Creado por | RivalSilver97                                                                                                                 |
 
+|            |                                                                                  |
+| ---------: | -------------------------------------------------------------------------------- |
+| **Sprite** | ![Sprite de Stantler Rodolfo](../../.gitbook/assets/stantler_rodolfo_sprite.png) |
+| Creado por | RivalSilver97                                                                    |
 
 ### Comentario del desarrollador
+
 La creación de esta skin hace referencia a Rodolfo, uno de los Renos de Santa.
 
-![Vistazo en el juego a Stantler Año Rodolfo](../../images/pokemon/pixelfest/stantler-preview.png)
+![Vistazo en el juego a Stantler Año Rodolfo](../../.gitbook/assets/stantler-preview.png)
 
 ## Obtención
 

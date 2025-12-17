@@ -2,8 +2,6 @@
 
 * [👋 ¡Bienvenido a la Wiki!](README.md)
 * [✍️ Contribuir](contribuir.md)
-
-# INSTALACIÓN
 * [⚙️ Launcher Universo PokéNet](instalacion/launcher.md)
 * [🌍 Cobblemon 1.21.1](instalacion/cobblemon/README.md)
   * [CurseForge](instalacion/cobblemon/curseforge.md)
@@ -20,6 +18,7 @@
 * [🛠️ Staffs](informacion/staffs.md)
 
 ## COBBLEMON
+
 * [👾 Raids](cobblemon/raids/raids.md)
 * [🛡️ Sets de Equipamiento](cobblemon/equipamiento/equipamiento.md)
   * [Amatista](cobblemon/equipamiento/amethyst.md)
@@ -28,6 +27,7 @@
 * [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
 
 ## POKÉMON DE COBBLEMON
+
 * [🐛 Hollownest](pokemondecobblemon/hollownest.md)
 
 ## PIXELMON
@@ -41,8 +41,8 @@
 * [🪰 Caza Pokémon](funciones/caza-pokemon.md)
 * [✨ Gremios](funciones/gremios.md)
 * [🏵️ Gimnasios](desafiosdegimnasio/README.md)
-  * [![armoniamisticaicon](images/gimnasios/gym_1.png)Armonía Mística](desafiosdegimnasio/armoniamistica.md)
-  * [![corazondepiedraicon](images/gimnasios/gym_2.png)Corazón de Piedra](desafiosdegimnasio/corazondepiedra.md)
+  * [Armonía Mística](desafiosdegimnasio/armoniamistica.md)
+  * [Corazón de Piedra](desafiosdegimnasio/corazondepiedra.md)
 * [💘 Crianza](usuarios/Juniorcx/crianza.md)
 * [🏋️‍♂️ Entrenamiento](usuarios/Juniorcx/Entrenamiento.md)
 
@@ -70,8 +70,8 @@
   * [📕 Eevee Lost Silver](pokemon/pixelween-2024/mision-eevee-lostsilver.md)
   * [📕 Typhlosion Lost Silver](pokemon/pixelween-2024/mision-typhlosion-lostsilver.md)
   * [📕 Unown Lost Silver](pokemon/pixelween-2024/mision-unown-lostsilver.md)
-  * [🗝️ Mr. Mime Pennywise](pokemon/pixelween-2024/gatcha-mrmime-pennywise.md) 
-  * [🗝️ Hatterene Dimitrescu](pokemon/pixelween-2024/gatcha-hatterene-dimitrescu.md) 
+  * [🗝️ Mr. Mime Pennywise](pokemon/pixelween-2024/gatcha-mrmime-pennywise.md)
+  * [🗝️ Hatterene Dimitrescu](pokemon/pixelween-2024/gatcha-hatterene-dimitrescu.md)
   * [🗝️ Guzzlord Calabaza](pokemon/pixelween-2024/gatcha-guzzlord-calabaza.md)
   * [🗝️ Cacturne Pixelween](pokemon/pixelween-2024/gatcha-cacturne-pixelween.md)
   * [🗝️ Gardevoir Pixelween](pokemon/pixelween-2024/gatcha-gardevoir-pixelween.md)
@@ -91,6 +91,6 @@
 
 ## POR USUARIOS
 
-* **silver988766**:
+* [silver988766:](por-usuarios/silver988766/README.md)
   * [💥 Guía Competitiva de Pokémon - P1](usuarios/silver988766/competitivo.md)
-  * [💥 Guía Competitiva de Pokémon - P2](usuarios/silver988766/VGC%20REG%20H.md)
+  * [💥 Guía Competitiva de Pokémon - P2](<usuarios/silver988766/VGC REG H.md>)

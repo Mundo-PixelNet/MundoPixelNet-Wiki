@@ -7,13 +7,12 @@ Los claims se utilizan para proteger la tierra para que nadie pueda abrir cofres
 ## ¿Cómo puedo claimear mi casa?
 
 Para proteger tu casa necesitarás una pala dorada que puedes conseguir a través del kit de inicio o simplemente haciendo una. Con esta pala deberás pinchar en las esquinas opuestas de donde quieres proteger, siempre prestando atención a las siguientes limitaciones:
-- Debe tener la cantidad requerida de bloques de claim.
-- Respetar el límite mínimo de 25 bloques **(5x5)**.
-- Respetar las [normas](normas.md) del servidor, sin proteger un bioma completo por ejemplo, o que tu reclamo no esté hecho para bloquear el progreso de otros jugadores.
 
-<div style="text-align: center">
-<img src="../images/informacion/claims/claimejemplo.png">
-</div>
+* Debe tener la cantidad requerida de bloques de claim.
+* Respetar el límite mínimo de 25 bloques **(5x5)**.
+* Respetar las [normas](normas.md) del servidor, sin proteger un bioma completo por ejemplo, o que tu reclamo no esté hecho para bloquear el progreso de otros jugadores.
+
+![](../.gitbook/assets/claimejemplo.png)
 
 Para modificar un claim existente, debes hacer clic en una de las esquinas con la pala dorada y seleccionar la nueva ubicación de esa esquina.
 
@@ -25,22 +24,24 @@ Puedes comprar más bloques de claim en una de las tiendas /warp tiendas, tendr�
 
 | Cantidad de bloques | Precio |
 | :-----------------: | :----: |
-| 100 | 700 ₽ |
-| 500 | 3200 ₽ |
-| 1000 | 6200 ₽ |
+|         100         |  700 ₽ |
+|         500         | 3200 ₽ |
+|         1000        | 6200 ₽ |
 
 ## ¿Cómo puedo darle permisos a alguien sobre mi claim?
 
 De forma sencilla puedes dar permiso con **/trust usuario** y quitar permiso con **/untrust usuario** pero si quieres separar los permisos de forma compleja para que una persona tenga más permisos que otras **(útil para ciudades con múltiples usuarios)** puedes usar las siguientes opciones:
 
-| Comando | Descripción |
-| :-----: | :---------: |
-| /AT | Permiso para interactuar con objetos pero sin poder construir o abrir cofres. |
-| /CT | Permiso para construir e interactuar con objetos sin poder abrir cofres. |
-| /Trust | Permiso general pero sin derecho a gestionar el claim. |
-| /MT | Permiso general pero con derecho a gestionar el claim. |
+| Comando |                                  Descripción                                  |
+| :-----: | :---------------------------------------------------------------------------: |
+|   /AT   | Permiso para interactuar con objetos pero sin poder construir o abrir cofres. |
+|   /CT   |    Permiso para construir e interactuar con objetos sin poder abrir cofres.   |
+|  /Trust |             Permiso general pero sin derecho a gestionar el claim.            |
+|   /MT   |             Permiso general pero con derecho a gestionar el claim.            |
 
-{% hint style="info" %} Para ver quién tiene permiso y qué permisos tiene, utilice /trustlist.{% endhint %}
+{% hint style="info" %}
+Para ver quién tiene permiso y qué permisos tiene, utilice /trustlist.
+{% endhint %}
 
 ## Subdivisiones
 

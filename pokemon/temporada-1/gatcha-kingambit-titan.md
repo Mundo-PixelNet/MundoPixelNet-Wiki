@@ -1,18 +1,19 @@
 # 🗝️ Kingambit Titan
+
 ## Información
 
 **Kingambit Titan** es una skin exclusiva del servidor introducida en la [Temporada Mística (1)](./).
 
-|                     **Artwork** | ![Artwork de Kingambit Titan](../../images/pokemon/temporada-1/Titan.png)                                                                                    |
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                  **Sprite** | ![Sprite de Kingambit Titan](../../images/pokemon/temporada-1/titan-sprite.png)                                                        |                                                                                                             |
-|                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
-
+| **Artwork** | ![Artwork de Kingambit Titan](../../.gitbook/assets/Titan.png)       |
+| ----------: | -------------------------------------------------------------------- |
+|  **Sprite** | ![Sprite de Kingambit Titan](../../.gitbook/assets/titan-sprite.png) |
+|  Creado por | FuriadaNoite y BonMurci                                              |
 
 ### Comentario del desarrollador
+
 La creación de este skin está basado en titanes de la mitología griega y el skin SHAN HAI de Cho'Gath en League of Legends.
 
-![Formas de Kingambit Titan](../../images/pokemon/temporada-1/titan-formas.png)
+![Formas de Kingambit Titan](../../.gitbook/assets/titan-formas.png)
 
 ## Obtención
 
