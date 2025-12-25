@@ -18,6 +18,10 @@ description: Instalación del modpack de Cobblemon para el launcher Modrinth
 
 ## 📥 Descarga manual de CurseForge
 
+{% hint style="danger" %}
+Debido a problemas con la web de CurseForge, el modpack no se encuentra actualizado aún. Puedes descargar el `.zip` manualmente desde aquí → [Universo PokeNet Cobblemon 2.0.0.zip](https://universopokenet.com/files/Universo_PokeNet_Cobblemon-2.0.0.zip)
+{% endhint %}
+
 Si quieres descargar el archivo `.zip` directamente puedes hacerlo desde la [Web del Modpack en CurseForge](https://www.curseforge.com/minecraft/modpacks/servidor-universo-pokenet-cobblemon).
 
 ![](../../.gitbook/assets/curseforge1.png)
