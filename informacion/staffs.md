@@ -11,13 +11,13 @@ El rango Admin tiene la máxima autoridad sobre el servidor, pudiendo tomar deci
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
 | ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
 | ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png)|**RivalSilver97**|
+| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
 
 # ![Moderador](../images/Rangos/Mod/modarc.png) **Moderador**
 El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para mantener el correcto funcionamiento del servidor.
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
-| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
 | ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
 
