@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork Toxtricity](../../images/pokemon/pokenightmares/toxtricity_umbral.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork Toxtricity](../../images/pokemon/pokenightmares/Toxtricitys.png)                                                          |                                                                                                             |
 |                      Creado por | YamatoDust                                                                                                                 |
 
 
