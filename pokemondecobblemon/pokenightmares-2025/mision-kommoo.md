@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/noivern_umbral.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/kommo-o_umbral.png)                                                          |                                                                                                             |
 |                      Creado por | YamatoDust                                                                                                                 |
 
 
