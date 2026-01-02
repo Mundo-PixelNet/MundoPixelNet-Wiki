@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork tyranitar](../../images/pokemon/pokenightmares/tyranitar.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork tyranitar (../../images/pokemon/pokenightmares/tyranitar.png)                                                          |                                                                                                             |
 |                      Creado por | YamatoDust                                                                                                                 |
 
 
