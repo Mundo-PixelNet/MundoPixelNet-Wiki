@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/Buzzwole_warden.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/noivern_umbral.png)                                                          |                                                                                                             |
 |                      Creado por | YamatoDust                                                                                                                 |
 
 
