@@ -2,7 +2,7 @@
 
 ## Información
 
-**Noivern forma Warden x Grimm** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Jigglypuff y Wigglytuff Forma Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
