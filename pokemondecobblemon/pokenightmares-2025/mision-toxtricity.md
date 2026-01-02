@@ -1,4 +1,4 @@
-# 📕 Toxtricity NightmareChild
+# 📕 Toxtricity Nightmare
 
 ## Información
 
