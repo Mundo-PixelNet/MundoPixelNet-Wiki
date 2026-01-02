@@ -1,20 +1,19 @@
-# 📕 Tyranitar PokéFest 2025
+# 🔖 Tyranitar PokéFest 2025
 
 ## Información
 
-**Tyranitar forma PokéFest 2025** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéFest 2025](./).
-
+**Turanitar forma Pokéfest 2025** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork tyranitar (../../images/pokemon/pokefest2025/tyranitar.png)                                                          |                                                                                                             |
-|                      Creado por | YamatoDust                                                                                                                 |
+|                      **Sprite** | ![Sprite de Skibidi Wiglett](../../images/pokemon/pokefest2025/tyranitar.png)                                           |                                                                                                             |
+|                      Creado por | FuriadaNoite                                                                                                                 |
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft** pero con la paleta de colores de la skin *Grimm*. 
+La creación de esta skin está basada en la serie de YouTube "Skibidi Toilet" creada por [DafuqBoom](https://www.youtube.com/@DaFuqBoom).
 
-![Vistazo en el juego a noivern](../../images/pokemon/pokenightmares/ingame-Mision_PokéNightmares.png)
+![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pixelfest/wiglett-preview.png)
 
 ## Obtención
 
-Esta skin se consigue en el Mision temporal de **PokéNightmares 2025**.
+Este pokémon se obtiene en el dia **Dia 12** del Adviento de [Pixelfest 2024](./)
