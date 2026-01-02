@@ -12,10 +12,10 @@ Este Evento se introduce la skin especial **Grimm** **[Pokédex](../../pokemonde
 | 📕 Reino Pesadilla |
 | :---: |
 | [📕 Grimm](mision-grimm.md) 
-| [📕 Noivern Warden](mision-noivern.md) 
-| [📕 Jigglypuff Warden](mision-grimm.md) 
-| [📕 Kommo-o Warden](mision-grimm.md) 
-| [📕 Toxtricity Warden](mision-grimm.md) 
+| [📕 Noivern Nightmare](mision-noivern.md) 
+| [📕 Jigglypuff Nightmare](mision-jigglypuff.md) 
+| [📕 Kommo-o Nightmare](mision-kommoo.md) 
+| [📕 Toxtricity Nightmare](mision-toxtricity.md) 
 
 ### 🗝️ Skins del Gatcha
 
