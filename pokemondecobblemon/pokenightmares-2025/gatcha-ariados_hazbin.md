@@ -2,7 +2,7 @@
 
 ## Información
 
-**Ariados forma Hazbin** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Ariados Hazbin** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
