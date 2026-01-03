@@ -12,7 +12,7 @@
 ### Comentario del desarrollador
 La creación de esta skin está basada en la serie de YouTube "Skibidi Toilet" creada por [DafuqBoom](https://www.youtube.com/@DaFuqBoom).
 
-![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pixelfest/wiglett-preview.png)
+![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_tyranitar.png)
 
 ## Obtención
 
