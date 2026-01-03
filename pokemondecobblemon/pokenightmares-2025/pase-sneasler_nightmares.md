@@ -1,8 +1,8 @@
-# 🥇  Sneasler PokéNightmares
+# 🥇  Sneasler PokéNightmare
 
 ## Información
 
-**Sneasler Forma: PokéNightmares** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Sneasler forma PokéNightmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
