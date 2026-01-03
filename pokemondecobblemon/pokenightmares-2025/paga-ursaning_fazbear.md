@@ -2,7 +2,7 @@
 
 ## Información
 
-**Ursaning forma Freddy Fazbear** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Ursaning Freddy Fazbear** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
