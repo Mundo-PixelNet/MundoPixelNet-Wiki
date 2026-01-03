@@ -1,4 +1,4 @@
-# 🔖 Tyranitar PokéFest 2025
+# 🗝️ Tyranitar PokéFest 2025
 
 ## Información
 
