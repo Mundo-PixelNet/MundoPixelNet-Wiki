@@ -10,7 +10,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin está basada en el famoso **Reno de Papá Noel**. 
+La creación de esta skin está basada en el famoso Reno **Rudolph**. 
 
 ![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_snorlax.png)
 
