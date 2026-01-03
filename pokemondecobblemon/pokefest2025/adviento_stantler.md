@@ -6,7 +6,7 @@
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Sprite** | ![Sprite de Stantler](../../images/pokemon/pokefest2025/sssss.png)                                           |                                                                                                             |
-|                      Creado por | Mai_075                                                                                                                 |
+|                      Creado por | YamatoDust                                                                                                                 |
 
 
 ### Comentario del desarrollador
