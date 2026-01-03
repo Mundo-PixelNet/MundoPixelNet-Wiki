@@ -8,9 +8,9 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 
 | 🔖 Adviento |
 | :---: |
-| [🔖 Stantler PokéFest](adviento-meloetta-creacion.md) 
+| [🔖 Stantler Pokéfest](adviento-meloetta-creacion.md) 
 | [🔖 Skibidi Wiglett](adviento-wiglett-skibidi.md) ![Sprite de Skibidi Wiglett](../../images/pokemon/pixelfest/wiglett_skibidi_sprite.png)|
-| [🔖 Gholdengo Año Nuevo](adviento-gholdengo-añonuevo.md) ![Sprite de Gholdengo Año Nuevo](../../images/pokemon/pixelfest/gholdengofortuna_sprite.png)|
+| [🔖 Tyranitar Pokéfest](gatcha_tyranitar.md) 
 
 ### 🗝️ Skins del Gatcha
 
