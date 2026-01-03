@@ -8,7 +8,7 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 
 | 🔖 Adviento |
 | :---: |
-| [🔖 Stantler Pokéfest](adviento-meloetta-creacion.md) 
+| [🔖 Stantler Pokéfest](adviento_stantler.md) 
 | [🔖 Skibidi Wiglett](adviento-wiglett-skibidi.md) ![Sprite de Skibidi Wiglett](../../images/pokemon/pixelfest/wiglett_skibidi_sprite.png)|
 | [🔖 Tyranitar Pokéfest](gatcha_tyranitar.md) 
 
