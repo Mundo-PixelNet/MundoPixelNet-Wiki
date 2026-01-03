@@ -11,6 +11,7 @@
 
 ### Comentario del desarrollador
 La creación de esta skin está basada en un Tyranitar en forma de hielo 
+
 ![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_tyranitar.png)
 
 ## Obtención
