@@ -2,7 +2,7 @@
 
 ## Información
 
-**Yamask & Cofagrius forma PokéNightmares** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Yamask & Cofagrius PokéNightmares** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
