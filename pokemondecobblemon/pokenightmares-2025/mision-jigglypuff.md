@@ -2,7 +2,7 @@
 
 ## Información
 
-**Jigglypuff y Wigglytuff Forma Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Jigglypuff y Wigglytuff forma Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
