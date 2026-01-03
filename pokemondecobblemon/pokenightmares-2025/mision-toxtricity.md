@@ -2,7 +2,7 @@
 
 ## Información
 
-**Toxtricity Forma Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Toxtricity forma Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
