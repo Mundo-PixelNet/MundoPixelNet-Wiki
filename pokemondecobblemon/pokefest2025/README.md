@@ -17,7 +17,7 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 | 🗝️ Gatcha |
 | :---: |
 | [🗝️ Seviper Año Nuevo](gatcha-seviper-añonuevo.md) ![Sprite de Seviper Año Nuevo](../../images/pokemon/pixelfest/seviper_pixelfest_sprite.png)|
-| [🗝️ Stantler Rodolfo](gatcha-stantler-rodolfo.md) ![Sprite de Stantler Rodolfo](../../images/pokemon/pixelfest/stantler_rodolfo_sprite.png)|
+| [🗝️ Tyranitar Pokéfest 2025](gatcha_tyranitar.md) 
 | [🗝️ Sudowoodo Navideño](gatcha-sudowoodo-navideño.md) ![Sprite de Sudowoodo Navideño](../../images/pokemon/pixelfest/sudowoodo_pixelfest_sprite.png)|
 
 ### 💰 Skins de paga
