@@ -2,7 +2,7 @@
 
 ## Información
 
-**Buzzwole forma Warden** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Buzzwole Warden** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
