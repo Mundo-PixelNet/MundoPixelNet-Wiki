@@ -2,7 +2,7 @@
 
 ## Información
 
-**Kommo-o Forma Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
+**Kommo-o forma Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
