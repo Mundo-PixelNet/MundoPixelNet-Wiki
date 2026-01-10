@@ -5,7 +5,7 @@
 **Snorlax forma Pokéfest 2025** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de snorlax](../../images/pokemon/pokefest2025/snorlaxnavidad.png)                                           |                                                                                                             |
+|                      **Artwork** | ![Sprite de snorlax](../../images/pokemon/pokefest2025/snorlaxnavidad.png)                                           |                                                                                                             |
 |                      Creado por | Mai_075                                                                                                                 |
 
 
