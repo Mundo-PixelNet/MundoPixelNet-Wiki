@@ -5,7 +5,7 @@
 **Corviknight forma Pokéfest 2025** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de corviknight](../../images/pokemon/pokefest2025/corviknightnavidad.png)                                           |                                                                                                             |
+|                      **Artwork** | ![Sprite de corviknight](../../images/pokemon/pokefest2025/corviknightnavidad.png)                                           |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
