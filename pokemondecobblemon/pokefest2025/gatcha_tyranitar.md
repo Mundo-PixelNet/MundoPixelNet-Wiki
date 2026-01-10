@@ -5,7 +5,7 @@
 **Tyranitar forma Pokéfest 2025** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Skibidi Wiglett](../../images/pokemon/pokefest2025/tyranitar.png)                                           |                                                                                                             |
+|                      **Artwork** | ![Sprite de Skibidi Wiglett](../../images/pokemon/pokefest2025/tyranitar.png)                                           |                                                                                                             |
 |                      Creado por | FuriadaNoite                                                                                                                 |
 
 
