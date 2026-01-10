@@ -5,7 +5,7 @@
 **Stantler forma Rudolph** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Stantler](../../images/pokemon/pokefest2025/sssss.png)                                           |                                                                                                             |
+|                      **Artwork** | ![Sprite de Stantler](../../images/pokemon/pokefest2025/sssss.png)                                           |                                                                                                             |
 |                      Creado por | YamatoDust                                                                                                                 |
 
 
