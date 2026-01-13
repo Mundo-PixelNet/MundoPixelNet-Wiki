@@ -1,4 +1,4 @@
-# 🗝️ Tyranitar WinterFest 2025
+# 🗝️ Tyranitar WinterFest
 
 ## Información
 
