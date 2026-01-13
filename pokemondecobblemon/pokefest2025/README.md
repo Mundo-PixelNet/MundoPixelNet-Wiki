@@ -1,6 +1,6 @@
 # 🎄 WinterFest 2025
 
-El Evento Pokéfest _(2025)_ de Universo PokéNet trae el ambiente festivo de fin de año para el servidor.
+El Evento Winterfest _(2025)_ de Universo PokéNet trae el ambiente festivo de fin de año para el servidor.
 
 Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que varios Pokémon nuevos, un nuevo Gatchas, y más.
 
