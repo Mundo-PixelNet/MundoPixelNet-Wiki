@@ -1,4 +1,4 @@
-# 🗝️ Tyranitar PokéFest 2025
+# 🗝️ Tyranitar WinterFest 2025
 
 ## Información
 
@@ -16,4 +16,4 @@ La creación de esta skin está basada en un Tyranitar en forma de hielo
 
 ## Obtención
 
-Este pokémon se obtiene en el Gatcha del [Pokéfest 2025](./)
+Este pokémon se obtiene en el Gatcha del [Winterfest 2025](./)
