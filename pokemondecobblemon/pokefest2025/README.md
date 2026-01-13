@@ -1,4 +1,4 @@
-# 🎄 PokéFest 2025
+# 🎄 WinterFest 2025
 
 El Evento Pokéfest _(2025)_ de Universo PokéNet trae el ambiente festivo de fin de año para el servidor.
 
