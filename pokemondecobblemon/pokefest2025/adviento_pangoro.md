@@ -1,8 +1,8 @@
-# 🗝️ Pangoro Claus
+# 🗝️ Pangoro Navideño
 
 ## Información
 
-**Pangoro forma Santa Claus** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
+**Pangoro forma Navideño** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![Sprite de pangoro](../../images/pokemon/pokefest2025/pangoro_claus.png)                                           |                                                                                                             |
