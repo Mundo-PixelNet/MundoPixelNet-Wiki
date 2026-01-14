@@ -2,7 +2,7 @@
 
 ## Información
 
-**Teddiursa forma Jengibre** es una Skin exclusiva del servidor introducida en la [Pokéfest 2025](./).
+**Teddiursa Jengibre** es una Skin exclusiva del servidor introducida en la [Pokéfest 2025](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia a un teddiursa echo de galleta
+La creación de esta skin hace referencia a un teddiursa echo de **galleta**
 ![Vistazo en el juego a Umbreon Año Nuevo](../../images/pokemon/pokefest2025/ingame_teddiursa.png)
 
 ## Obtención
