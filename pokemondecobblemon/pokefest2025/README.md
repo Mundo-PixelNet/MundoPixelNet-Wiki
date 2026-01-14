@@ -17,12 +17,12 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 | 🗝️ Gatcha |
 | :---: |
 | [🗝️ Snorlax Navideño](gatcha_snorlax.md) 
-| [🗝️ Tyranitar Pokéfest](gatcha_tyranitar.md) 
+| [🗝️ Tyranitar Congelado](gatcha_tyranitar.md) 
 | [🗝️ Corviknight Navideño](gatcha_corviknight.md) 
 
 ### 💰 Skins de paga
 
 | 💰 Tienda |
 | :---: |
-| [💰 Teddyursa Pokéfest](paga-umbreon-añonuevo.md)
-| [💰 Jirachi Pokéfest](paga-umbreon-añonuevo.md)
+| [💰 Teddyursa Galleta](paga-umbreon-añonuevo.md)
+| [💰 Jirachi Navideño](paga-umbreon-añonuevo.md)
