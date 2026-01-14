@@ -31,18 +31,15 @@
 * [🎃 PokéNightmares 2025](pokemondecobblemon/pokenightmares-2025/README.md)
   * [📕 Grimm](pokemondecobblemon/pokenightmares-2025/README.md)
   * [📕 Noivern Nightmare](pokemondecobblemon/pokenightmares-2025/mision-noivern.md)
-  * [📕 Typhlosion Lost Silver](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [📕 Unown Lost Silver](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [🗝️ Mr. Mime Pennywise](pokemondecobblemon/pokenightmares-2025/README.md) 
-  * [🗝️ Hatterene Dimitrescu](pokemondecobblemon/pokenightmares-2025/README.md) 
-  * [🗝️ Guzzlord Calabaza](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [🗝️ Cacturne Pixelween](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [🗝️ Gardevoir Pixelween](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [🔖 Mimikyu Unveilia](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [💰 Celebi Lost Silver](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [💰 Gengar Oogie Boogie](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [💰 Primarina Pixelween](pokemondecobblemon/pokenightmares-2025/README.md)
-    
+  * [📕 Jigglypuff Nightmare](pokemondecobblemon/pokenightmares-2025/mision-jigglypuff.md)
+  * [📕 Kommo-o Nightmare](pokemondecobblemon/pokenightmares-2025/mision-kommoo.md)
+  * [📕 Toxtricity Nightmare](pokemondecobblemon/pokenightmares-2025/mision-toxtricity.md)
+  * [🗝️ Buzzwole Warden](pokemondecobblemon/pokenightmares-2025/gatcha-buzzwole_warden.md) 
+  * [🗝️ Ariados Hazbin](pokemondecobblemon/pokenightmares-2025/gatcha-ariados_hazbin.md)
+  * [🥈 Yamask & cofagrius PokéNightmares](pokemondecobblemon/pokenightmares-2025/ase-yamask_cofagrius_nightmares.md)
+  * [🥇 Sneasler PokéNightmares](pokemondecobblemon/pokenightmares-2025/pase-sneasler_nightmares.md) 
+  * [💰 Ursaning Fazbear](pokemondecobblemon/pokenightmares-2025/paga-ursaning_fazbear.md)
+ 
 ## PIXELMON
 
 * [🧬 Híbridos](funciones/hibridos.md)
