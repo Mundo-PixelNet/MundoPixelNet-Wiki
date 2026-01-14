@@ -2,7 +2,7 @@
 
 ## Información
 
-**Corviknight Navideño** es una Skin exclusiva del servidor introducida en [Pokéfest 2025](./).
+**Corviknight Pokéfest 2025** es una Skin exclusiva del servidor introducida en [Pokéfest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![Sprite de corviknight](../../images/pokemon/pokefest2025/corviknightnavidad.png)                                           |                                                                                                             |
