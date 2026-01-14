@@ -12,7 +12,7 @@
 ### Comentario del desarrollador
 La creación de esta skin está basada en una famosa criatura mítica llamada **hipogrifo**
 
-![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_tyranitar.png)
+![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_corviknight.png)
 
 ## Obtención
 
