@@ -2,7 +2,7 @@
 
 ## Información
 
-**Wiglett forma Skibidi** es una Skin exclusiva del servidor introducida en [Pokéfest 2025](./).
+**Wiglett Skibidi** es una Skin exclusiva del servidor introducida en [Pokéfest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![Sprite de Skibidi Wiglett](../../images/pokemon/pokefest2025/skibidiwiglett.png)                                           |                                                                                                             |
