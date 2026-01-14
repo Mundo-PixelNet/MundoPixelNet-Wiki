@@ -2,7 +2,7 @@
 
 ## Información
 
-**Jirachi forma Navideño** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
+**Jirachi forma Navideño** es una Skin exclusiva del servidor introducida en la [PokéFest 2025](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,4 +16,4 @@ La creación de esta skin hace referencia a un teddiursa echo de galleta
 
 ## Obtención
 
-¡Con la compra de cualquier **paquete con descuento de Pokéfest 2025** recibirás Teddiursa de Jengibre [Tienda Oficial del servidor](https://tienda.mundopixelnet.com/category/servidor-escarlata-1)!
+¡Con la compra de cualquier **paquete con descuento de Pokéfest 2025** recibirás Jirachi Navideño [Tienda Oficial del servidor](https://tienda.mundopixelnet.com/category/servidor-escarlata-1)!
