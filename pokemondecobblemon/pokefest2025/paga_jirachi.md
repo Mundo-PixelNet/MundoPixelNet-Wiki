@@ -2,7 +2,7 @@
 
 ## Información
 
-**Jirachi forma Navideño** es una Skin exclusiva del servidor introducida en la [Pokéfest 2025](./).
+**Jirachi Navideño** es una Skin exclusiva del servidor introducida en la [Pokéfest 2025](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
