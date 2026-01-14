@@ -16,4 +16,4 @@ La creación de esta skin está basada en el famoso personaje de navidad **Santa
 
 ## Obtención
 
-Este pokémon se obtiene en el Adviento del [Winterfest 2025](./)
+Este pokémon se obtiene en el Adviento del [Pokéfest 2025](./)
