@@ -10,7 +10,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin está basada en una famosa criatura mítica llamada **hipogrifo**
+La creación de esta skin está basada en una famosa criatura mítica **hipogrifo Navideño**
 
 ![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/Ingame_corviknight.png)
 
