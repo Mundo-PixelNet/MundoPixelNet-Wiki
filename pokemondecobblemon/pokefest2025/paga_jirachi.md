@@ -16,4 +16,4 @@ La creación de esta skin hace referencia a una estrella de un arbol navideño
 
 ## Obtención
 
-Esta skin se puede obtener en la raid legendario temporal, y en la [Tienda Oficial del servidor](https://tienda.universopokenet.com/category/pok%C3%A9mon-cobblemon)!
+Esta skin se puede obtener en la raid legendario temporal, o en la [Tienda Oficial del servidor](https://tienda.universopokenet.com/category/pok%C3%A9mon-cobblemon)!
