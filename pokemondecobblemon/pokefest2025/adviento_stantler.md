@@ -12,7 +12,7 @@
 ### Comentario del desarrollador
 La creación de esta skin está basada en el famoso Reno **Rudolph**. 
 
-![Vistazo en el juego a Skibidi Wiglett](images/pokemon/pokefest2025/ingame_stantlerxwyrdeer.png)
+![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_stantlerxwyrdeer.png)
 
 ## Obtención
 
