@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de teddiursa](../../images/pokemon/pokefest2025/teddiursanavidad.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![Sprite de teddiursa](../../images/pokemon/pokefest2025/teddiursanavidad.png)                                                          |                                                                                                             |
 |                      Creado por | Mai_075                                                                                                                 |
 
 
