@@ -6,7 +6,7 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Sprite** | ![Sprite de Umbreon Año Nuevo](../../images/pokemon/pixelfest/umbreon_pixelfest_sprite.png)                                                          |                                                                                                             |
+|                      **Sprite** | ![Sprite de teddiursa](../../images/pokemon/pokefest2025/teddiursanavidad.png)                                                          |                                                                                                             |
 |                      Creado por | Mai_075                                                                                                                 |
 
 
