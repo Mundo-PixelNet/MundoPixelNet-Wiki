@@ -10,7 +10,7 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 | :---: |
 | [🔖 Stantler y Wyrdeer Rudolph](adviento_stantler.md) 
 | [🔖 Skibidi Wiglett](adviento-wiglett-skibidi.md) 
-| [🔖 Tyranitar Pokéfest](gatcha_tyranitar.md) 
+| [🔖 Pangoro Winterfest](gatcha_tyranitar.md) 
 
 ### 🗝️ Skins del Gatcha
 
