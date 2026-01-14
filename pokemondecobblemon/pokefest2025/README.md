@@ -24,5 +24,5 @@ Este Evento introduce a una nueva skin de Jirachi y el Adviento. Al igual que va
 
 | 💰 Tienda |
 | :---: |
-| [💰 Teddiursa Jengibre](paga-umbreon-añonuevo.md)
-| [💰 Jirachi Navideño](paga-umbreon-añonuevo.md)
+| [💰 Teddiursa Jengibre](paga_teddiursa.md)
+| [💰 Jirachi Navideño](paga_jirachi.md)
