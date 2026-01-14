@@ -10,7 +10,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin está basada en un Tyranitar en forma de hielo 
+La creación de esta skin está basada en el famoso personaje de navidad **Santa Claus**
 
 ![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_pangoro.png)
 
