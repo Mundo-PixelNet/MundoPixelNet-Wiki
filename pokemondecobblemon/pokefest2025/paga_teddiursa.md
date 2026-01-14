@@ -2,7 +2,7 @@
 
 ## Información
 
-**Teddiursa forma Jengibre** es una Skin exclusiva del servidor introducida en la [Pixelween](./).
+**Teddiursa forma Jengibre** es una Skin exclusiva del servidor introducida en la [Pokéfest 2025](./).
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
