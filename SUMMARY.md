@@ -28,7 +28,7 @@
 
 ## POKÉMON DE COBBLEMON
 * [📲 Pokédex](pokemondecobblemon/README.md)
-  * [🐛Hollownest](pokemondecobblemon/hollownest.md)
+  * [🐛Hollownest](pokemondecobblemon/hollownest/README.md)
 
 ## PIXELMON
 
