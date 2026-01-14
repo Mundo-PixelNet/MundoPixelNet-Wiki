@@ -24,4 +24,5 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 
 | 💰 Tienda |
 | :---: |
-| [💰 Teddyursa](paga-umbreon-añonuevo.md) ![Sprite de Umbreon Año Nuevo](../../images/pokemon/pixelfest/umbreon_pixelfest_sprite.png)|
+| [💰 Teddyursa Winterfest](paga-umbreon-añonuevo.md)
+| [💰 Jirachi Winterfest](paga-umbreon-añonuevo.md)
