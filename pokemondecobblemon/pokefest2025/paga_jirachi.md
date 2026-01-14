@@ -6,13 +6,13 @@
 
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![Sprite de teddiursa](../../images/pokemon/pokefest2025/teddiursanavidad.png)                                                          |                                                                                                             |
+|                      **Artwork** | ![Sprite de teddiursa](../../images/pokemon/pokefest2025/jirachinavidad.png)                                                          |                                                                                                             |
 |                      Creado por | Mai_075                                                                                                                 |
 
 
 ### Comentario del desarrollador
 La creación de esta skin hace referencia a un teddiursa echo de galleta
-![Vistazo en el juego a Umbreon Año Nuevo](../../images/pokemon/pokefest2025/ingame_teddiursa.png)
+![Vistazo en el juego a Umbreon Año Nuevo](../../images/pokemon/pokefest2025/ingame_teddiurs.png)
 
 ## Obtención
 
