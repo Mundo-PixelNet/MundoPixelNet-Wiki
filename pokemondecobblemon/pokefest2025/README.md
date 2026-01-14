@@ -24,5 +24,5 @@ Este Evento introduce a una nueva forma de Meloetta y el Adviento. Al igual que 
 
 | 💰 Tienda |
 | :---: |
-| [💰 Teddyursa Galleta](paga-umbreon-añonuevo.md)
+| [💰 Teddiursa Jengibre](paga-umbreon-añonuevo.md)
 | [💰 Jirachi Navideño](paga-umbreon-añonuevo.md)
