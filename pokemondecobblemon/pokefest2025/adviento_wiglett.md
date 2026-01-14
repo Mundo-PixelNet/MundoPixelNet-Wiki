@@ -16,4 +16,4 @@ La creación de esta skin está basada en la famosa y rara serie de YouTube **Sk
 
 ## Obtención
 
-Este pokémon se obtiene en el Adviento del [Pokéfest 2025](./)
+Este pokémon se obtiene en el Adviento del [Pokéfest 2025](./).
