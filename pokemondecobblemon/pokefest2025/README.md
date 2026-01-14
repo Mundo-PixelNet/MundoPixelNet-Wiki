@@ -9,7 +9,7 @@ Este Evento introduce a una nueva skin de Jirachi y el Adviento. Al igual que va
 | 🔖 Adviento |
 | :---: |
 | [🔖 Stantler y Wyrdeer Rudolph](adviento_stantler.md) 
-| [🔖 Skibidi Wiglett](adviento-wiglett-skibidi.md) 
+| [🔖 Skibidi Wiglett](adviento_wiglett.md) 
 | [🔖 Pangoro Pokéfest](gatcha_tyranitar.md) 
 
 ### 🗝️ Skins del Gatcha
