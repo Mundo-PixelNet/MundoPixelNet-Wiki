@@ -28,8 +28,21 @@
 
 ## POKÉMON DE COBBLEMON
 * [📲 Pokédex](pokemondecobblemon/README.md)
-  * [🐛Hollownest](pokemondecobblemon/hollownest/README.md)
-
+* [🎃 PokéNightmares 2025](pokemondecobblemon/pokenightmares-2025/README.md)
+  * [📕 Pikachu Lost Silver](pokemon/pixelween-2024/mision-pikachu-lostsilver.md)
+  * [📕 Eevee Lost Silver](pokemon/pixelween-2024/mision-eevee-lostsilver.md)
+  * [📕 Typhlosion Lost Silver](pokemon/pixelween-2024/mision-typhlosion-lostsilver.md)
+  * [📕 Unown Lost Silver](pokemon/pixelween-2024/mision-unown-lostsilver.md)
+  * [🗝️ Mr. Mime Pennywise](pokemon/pixelween-2024/gatcha-mrmime-pennywise.md) 
+  * [🗝️ Hatterene Dimitrescu](pokemon/pixelween-2024/gatcha-hatterene-dimitrescu.md) 
+  * [🗝️ Guzzlord Calabaza](pokemon/pixelween-2024/gatcha-guzzlord-calabaza.md)
+  * [🗝️ Cacturne Pixelween](pokemon/pixelween-2024/gatcha-cacturne-pixelween.md)
+  * [🗝️ Gardevoir Pixelween](pokemon/pixelween-2024/gatcha-gardevoir-pixelween.md)
+  * [🔖 Mimikyu Unveilia](pokemon/pixelween-2024/album-mimikyu-unveilia.md)
+  * [💰 Celebi Lost Silver](pokemon/pixelween-2024/paga-celebi-lostsilver.md)
+  * [💰 Gengar Oogie Boogie](pokemon/pixelween-2024/paga-gengar-oogieboogie.md)
+  * [💰 Primarina Pixelween](pokemon/pixelween-2024/paga-primarina-pixelween.md)
+    
 ## PIXELMON
 
 * [🧬 Híbridos](funciones/hibridos.md)
