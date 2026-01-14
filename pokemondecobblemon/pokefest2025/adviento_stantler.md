@@ -2,7 +2,7 @@
 
 ## Información
 
-**Stantler forma Rudolph** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
+**Stantler y Wyrdeer Rudolph** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![Sprite de Stantler](../../images/pokemon/pokefest2025/sssss.png)                                           |                                                                                                             |
