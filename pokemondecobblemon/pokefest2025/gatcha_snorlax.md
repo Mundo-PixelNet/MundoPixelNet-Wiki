@@ -16,4 +16,4 @@ La creación de esta skin está basada en el famoso **Papá Noel**.
 
 ## Obtención
 
-¡Este pokémon se obtiene en el Gatcha del [Pokéfest 2025](./)!
+Este pokémon se obtiene en el Gatcha del [Pokéfest 2025](./)
