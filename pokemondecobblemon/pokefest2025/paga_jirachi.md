@@ -16,4 +16,4 @@ La creación de esta skin hace referencia a una estrella de un arbol navideño
 
 ## Obtención
 
-¡Con la compra de cualquier **paquete con descuento de Pokéfest 2025** recibirás Jirachi Navideño [Tienda Oficial del servidor](https://tienda.mundopixelnet.com/category/servidor-escarlata-1)!
+¡Con la compra de cualquier **paquete con descuento de Pokéfest 2025** recibirás Jirachi Navideño [Tienda Oficial del servidor](https://tienda.universopokenet.com/category/pok%C3%A9mon-cobblemon)!
