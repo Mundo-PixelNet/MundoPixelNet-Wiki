@@ -1,0 +1,28 @@
+# 🎄 PokéFest 2025
+
+El Evento Pokéfest _(2025)_ de Universo PokéNet trae el ambiente festivo de fin de año para el servidor.
+
+Este Evento introduce a una nueva skin de Jirachi y el Adviento. Al igual que varios Pokémon nuevos, un nuevo Gatchas, y más.
+
+### 🔖 Adviento
+
+| 🔖 Adviento |
+| :---: |
+| [🔖 Stantler y Wyrdeer Rudolph](adviento_stantler.md) 
+| [🔖 Skibidi Wiglett](adviento_wiglett.md) 
+| [🔖 Pangoro Navideño](adviento_pangoro.md) 
+
+### 🗝️ Skins del Gatcha
+
+| 🗝️ Gatcha |
+| :---: |
+| [🗝️ Snorlax Navideño](gatcha_snorlax.md) 
+| [🗝️ Tyranitar Congelado](gatcha_tyranitar.md) 
+| [🗝️ Corviknight Navideño](gatcha_corviknight.md) 
+
+### 💰 Skins de paga
+
+| 💰 Tienda |
+| :---: |
+| [💰 Teddiursa Jengibre](paga_teddiursa.md)
+| [💰 Jirachi Navideño](paga_jirachi.md)

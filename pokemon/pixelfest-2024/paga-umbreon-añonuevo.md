@@ -17,4 +17,4 @@ La creación de esta skin hace referencia al cielo luminoso del año nuevo, con 
 
 ## Obtención
 
-¡Con la compra de cualquier **paquete con descuento de Pixelfest 2024** recibirás Umbreon Año Nuevo en la [Tienda Oficial del servidor](https://tienda.mundopixelnet.com/category/servidor-escarlata-1)!
+¡Con la compra de cualquier **paquete con descuento de Pixelfest 2024** recibirás Umbreon Año Nuevo en la [Tienda Oficial del servidor](https://tienda.universopokenet.com/category/pok%C3%A9mon-y-dittos)!
