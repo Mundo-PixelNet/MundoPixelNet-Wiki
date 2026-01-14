@@ -11,8 +11,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al cielo luminoso del año nuevo, con fuegos artificiales
-
+La creación de esta skin hace referencia a un teddiursa echo de galleta
 ![Vistazo en el juego a Umbreon Año Nuevo](../../images/pokemon/pokefest2025/ingame_teddiursa.png)
 
 ## Obtención
