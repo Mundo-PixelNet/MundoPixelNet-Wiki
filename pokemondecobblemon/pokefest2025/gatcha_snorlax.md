@@ -2,7 +2,7 @@
 
 ## Información
 
-**Snorlax forma Winterfest 2025** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
+**Snorlax forma Navideño** es una Skin exclusiva del servidor introducida en [PokéFest 2025](./).
 |||
 | ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
 |                      **Artwork** | ![Sprite de snorlax](../../images/pokemon/pokefest2025/snorlaxnavidad.png)                                           |                                                                                                             |
