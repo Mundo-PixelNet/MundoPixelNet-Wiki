@@ -11,7 +11,7 @@
 | **Artwork** | ![Artwork de Glowmite](../../images/pokemon/hollownest/image.png) |
 | :---: | :--- |
 | **Tipo Primario** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| **Habilidades** | [Dust Shield](https://www.wikidex.net/wiki/Escudo_polvo)<br>[Unnerve](https://www.wikidex.net/wiki/Nerviosismo) |
+| **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Run Away](https://www.wikidex.net/wiki/Fuga) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) |
 | **Evoluciona a** | Chryseil (Nivel 12) |
@@ -26,12 +26,12 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 | Estadística | Valor |
 | :---: | :---: |
-| PS | 45 |
-| Ataque | 30 |
-| Defensa | 37 |
-| At. esp | 30 |
+| PS | 30 |
+| Ataque | 25 |
+| Defensa | 30 |
+| At. esp | 40 |
 | Def. esp | 15 |
-| Velocidad | 45 |
+| Velocidad | 25 |
 | **Total** | **202** |
 
 ### Movimientos
@@ -68,8 +68,8 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
 | :---: | :--- |
 | **Tipo Primario** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| **Habilidad** | [Shed Skin](https://www.wikidex.net/wiki/Mudar) |
-| **Hab. oculta** | [Rock Head](https://www.wikidex.net/wiki/Cabeza_roca) |
+| **Habilidad** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
+| **Hab. oculta** | [Steadfast](https://www.wikidex.net/wiki/Impasible) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
 | **Evoluciona a** | Veskorn (Macho, Nv 32) / Silkorn (Hembra, Nv 32) |
 | **Creado por** | FuriadaNoite |
@@ -81,12 +81,12 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 
 | Estadística | Valor |
 | :---: | :---: |
-| PS | 50 |
-| Ataque | 35 |
-| Defensa | 45 |
-| At. esp | 30 |
-| Def. esp | 20 |
-| Velocidad | 40 |
+| PS | 65 |
+| Ataque | 25 |
+| Defensa | 50 |
+| At. esp | 55 |
+| Def. esp | 60 |
+| Velocidad | 30 |
 | **Total** | **220** |
 
 ### Movimientos
@@ -122,7 +122,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 | **Artwork** | ![Artwork de Veskorn](../../images/pokemon/hollownest/4.png) |
 | :---: | :--- |
 | **Tipos** | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| **Habilidades** | [Pressure](https://www.wikidex.net/wiki/Presión)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
+| **Habilidades** | [Competitive](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Mold Breaker](https://www.wikidex.net/wiki/Rompemoldes) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
 | **Evoluciona de** | Chryseil (Nivel 32, Macho) |
@@ -135,12 +135,12 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 
 | Estadística | Valor |
 | :---: | :---: |
-| PS | 90 |
-| Ataque | 75 |
-| Defensa | 90 |
+| PS | 70 |
+| Ataque | 60 |
+| Defensa | 85 |
 | At. esp | 125 |
-| Def. esp | 70 |
-| Velocidad | 90 |
+| Def. esp | 85 |
+| Velocidad | 95 |
 | **Total** | **540** |
 
 ### Movimientos
@@ -184,8 +184,8 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 | **Artwork** | ![Artwork de Silkorn](../../images/pokemon/hollownest/3.png) |
 | :---: | :--- |
 | **Tipos** | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| **Habilidades** | [Sharpness](https://www.wikidex.net/wiki/Cortante)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
-| **Hab. oculta** | [Speed Boost](https://www.wikidex.net/wiki/Impulso) |
+| **Habilidades** | [Defiant](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
+| **Hab. oculta** | [Sharpness](https://www.wikidex.net/wiki/Cortante) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
 | **Evoluciona de** | Chryseil (Nivel 32, Hembra) |
 | **Creado por** | FuriadaNoite |
@@ -197,12 +197,12 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 
 | Estadística | Valor |
 | :---: | :---: |
-| PS | 80 |
+| PS | 70 |
 | Ataque | 125 |
-| Defensa | 80 |
-| At. esp | 90 |
-| Def. esp | 65 |
-| Velocidad | 101 |
+| Defensa | 60 |
+| At. esp | 80 |
+| Def. esp | 75 |
+| Velocidad | 110 |
 | **Total** | **541** |
 
 ### Movimientos
