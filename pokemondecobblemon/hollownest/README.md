@@ -67,7 +67,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 | **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
 | :---: | :--- |
-| **Tipo Primario** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 | **Habilidad** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Steadfast](https://www.wikidex.net/wiki/Impasible) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
