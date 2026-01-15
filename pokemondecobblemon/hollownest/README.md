@@ -6,7 +6,7 @@
 
 ### Información
 
-**Glowmite** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Inicial]. Es la fase larval de la línea evolutiva.
+**Glowmite** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[Siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la [Temporada Inicial]. Es la fase larval de la línea evolutiva.
 
 | **Artwork** | ![Artwork de Glowmite](../../images/pokemon/hollownest/image.png) |
 | :---: | :--- |
@@ -63,7 +63,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 ### Información
 
-**Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Inicial]. Es la fase crisálida y de transición.
+**Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[Siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la [Temporada Inicial]. Es la fase crisálida y de transición.
 
 | **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
 | :---: | :--- |
