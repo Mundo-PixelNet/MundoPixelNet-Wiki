@@ -36,7 +36,7 @@
   * [📕 Toxtricity Nightmare](pokemondecobblemon/pokenightmares-2025/mision-toxtricity.md)
   * [🗝️ Buzzwole Warden](pokemondecobblemon/pokenightmares-2025/gatcha-buzzwole_warden.md) 
   * [🗝️ Ariados Hazbin](pokemondecobblemon/pokenightmares-2025/gatcha-ariados_hazbin.md)
-  * [🥈 Yamask & cofagrius PokéNightmares](pokemondecobblemon/pokenightmares-2025/ase-yamask_cofagrius_nightmares.md)
+  * [🥈 Yamask & cofagrius PokéNightmares](pokemondecobblemon/pokenightmares-2025/pase-yamask_cofagrius_nightmares.md)
   * [🥇 Sneasler PokéNightmares](pokemondecobblemon/pokenightmares-2025/pase-sneasler_nightmares.md) 
   * [💰 Ursaning Fazbear](pokemondecobblemon/pokenightmares-2025/paga-ursaning_fazbear.md)
 * [🎄 Pokéfest 2025](pokemondecobblemon/pokefest2025/README.md)
