@@ -12,7 +12,7 @@
 | :---: | :--- |
 | **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
-| **Hab. oculta** | [Run Away](https://www.wikidex.net/wiki/Fuga) |
+| **Hab. oculta** | [Steadfast]([https://www.wikidex.net/wiki/Fuga](https://www.wikidex.net/wiki/Impasible) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) |
 | **Evoluciona a** | Chryseil (Nivel 12) |
 | **Creado por** | FuriadaNoite |
