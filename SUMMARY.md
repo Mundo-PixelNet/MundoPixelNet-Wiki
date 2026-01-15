@@ -29,7 +29,7 @@
 ## POKÉMON DE COBBLEMON
 * [📲 Pokédex](pokemondecobblemon/README.md)
 * [🎃 PokéNightmares 2025](pokemondecobblemon/pokenightmares-2025/README.md)
-  * [📕 Grimm](pokemondecobblemon/pokenightmares-2025/README.md)
+  * [📕 Grimm](pokemondecobblemon/pokenightmares-2025/mision-grimm.md)
   * [📕 Noivern Nightmare](pokemondecobblemon/pokenightmares-2025/mision-noivern.md)
   * [📕 Jigglypuff Nightmare](pokemondecobblemon/pokenightmares-2025/mision-jigglypuff.md)
   * [📕 Kommo-o Nightmare](pokemondecobblemon/pokenightmares-2025/mision-kommoo.md)
@@ -39,6 +39,15 @@
   * [🥈 Yamask & cofagrius PokéNightmares](pokemondecobblemon/pokenightmares-2025/ase-yamask_cofagrius_nightmares.md)
   * [🥇 Sneasler PokéNightmares](pokemondecobblemon/pokenightmares-2025/pase-sneasler_nightmares.md) 
   * [💰 Ursaning Fazbear](pokemondecobblemon/pokenightmares-2025/paga-ursaning_fazbear.md)
+* [🎄 Pokéfest 2025](pokemondecobblemon/pokefest2025/README.md)
+  * [🔖 Stantler y Wyrdeer Rudolph](pokemondecobblemon/pokefest2025/adviento_stantler.md)
+  * [🔖 Skibidi Wiglett](pokemondecobblemon/pokefest2025/adviento_wiglett.md)
+  * [🔖 Pangoro Navideño](pokemondecobblemon/pokefest2025/adviento_pangoro.md)
+  * [🗝️ Snorlax Navideño](pokemondecobblemon/pokefest2025/gatcha_snorlax.md)
+  * [🗝️ Tyranitar Congelado](pokemondecobblemon/pokefest2025/gatcha_tyranitar.md)
+  * [🗝️ Corviknight Navideño](pokemondecobblemon/pokefest2025/gatcha_corviknight.md)
+  * [💰 Teddiursa Jengibre](pokemondecobblemon/pokefest2025/paga_teddiursa.md)
+  * [💰 Jirachi Navideño](pokemondecobblemon/pokefest2025/paga_jirachi.md)
  
 ## PIXELMON
 
