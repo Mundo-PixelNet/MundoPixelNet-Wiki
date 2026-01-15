@@ -10,7 +10,7 @@
 
 | **Artwork** | ![Artwork de Glowmite](../../images/pokemon/hollownest/image.png) |
 | :---: | :--- |
-| **Tipo Primario** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Run Away](https://www.wikidex.net/wiki/Fuga) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) |
