@@ -117,7 +117,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 
 ### Información
 
-**Veskorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
+**Veskorn** es un Pokémon de tipo [Siniestro](../../images/pokemon/tipos/tipo_siniestro.png)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
 
 | **Artwork** | ![Artwork de Veskorn](../../images/pokemon/hollownest/4.png) |
 | :---: | :--- |
