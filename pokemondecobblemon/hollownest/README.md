@@ -30,8 +30,8 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | Ataque | 25 |
 | Defensa | 30 |
 | At. esp | 40 |
-| Def. esp | 15 |
-| Velocidad | 25 |
+| Def. esp | 25 |
+| Velocidad | 50 |
 | **Total** | **202** |
 
 ### Movimientos
