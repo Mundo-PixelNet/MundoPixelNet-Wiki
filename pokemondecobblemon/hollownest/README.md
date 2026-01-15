@@ -117,11 +117,11 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 
 ### Información
 
-**Veskorn** es un Pokémon de tipo [Siniestro](../../images/pokemon/tipos/tipo_siniestro.png)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
+**Veskorn** es un Pokémon de tipo [Siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
 
 | **Artwork** | ![Artwork de Veskorn](../../images/pokemon/hollownest/4.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
+| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
 | **Habilidades** | [Pressure](https://www.wikidex.net/wiki/Presión)<br>[Swarm](https://www.wikidex.net/wiki/Enjambre) |
 | **Hab. oculta** | [Mold Breaker](https://www.wikidex.net/wiki/Rompemoldes) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
