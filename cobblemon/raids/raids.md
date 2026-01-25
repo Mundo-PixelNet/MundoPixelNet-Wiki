@@ -73,9 +73,9 @@ Completar una Raid Semanal haciendo algo de daño al Jefe tiene varias recompens
 
 | Top Daño             | Recompensas                                                  |
 | -------------------- | ------------------------------------------------------------ |
-| 🥇 1º Puesto         | 650 XP de Pase, 6000₽, 3 Tokens de Gatcha Raid, 400 Esencias |
-| 🥈 2º y 🥉 3º Puesto | 500 XP de Pase, 4500₽, 2 Tokens de Gatcha Raid, 250 Esencias |
-| 🎖️ Participar       | 300 XP de Pase, 3200₽, 1 Token de Gatcha Raid, 120 Esencias  |
+| 🥇 1º Puesto         | 650 XP de Pase, 6000₽, 3 Tokens de Gatcha Raid, 400 Esencias, 2 Caramelos Exp. L, Manzana dorada encantada |
+| 🥈 2º y 🥉 3º Puesto | 500 XP de Pase, 4500₽, 2 Tokens de Gatcha Raid, 250 Esencias, 8 Caramelos Exp. M |
+| 🎖️ Participar       | 300 XP de Pase, 3200₽, 1 Token de Gatcha Raid, 120 Esencias, 15 Caramelos Exp. S |
 
 ***
 
