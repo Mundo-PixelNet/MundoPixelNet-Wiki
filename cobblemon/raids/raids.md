@@ -45,12 +45,12 @@ Las Raids tienen una hora de ejecución. Es decir, **hasta que no sea la hora in
 Cuando llega la hora de la Raid, **tendrás unos 5 minutos para entrar a la Raid** y ahí empezará el combate. Una vez empiece, no podrás entrar.
 
 {% hint style="info" %}
-Las horas indicadas están en formato **UTC+1**. Si haces clic en la hora, verás una conversión para tu país.
+Las horas indicadas están en formato **UTC+2**/**CEST**. Si haces clic en la hora, verás una conversión para tu país.
 {% endhint %}
 
 | Día | Horas | 
 | - | - |
-| Todos los días   | [00:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T2300) / [01:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T0000) / [02:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T0100) / [03:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T0200) / [04:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T0300) / [05:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T0400) / [18:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T1700) / [19:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T1800) / [20:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T1900) / [21:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T2000) / [22:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T2100) / [23:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20000101T2200) |
+| Todos los días   | [00:00](https://time.is/es/compare/2200_in_UTC) / [01:00](https://time.is/es/compare/2300_in_UTC) / [02:00](https://time.is/es/compare/0000_in_UTC) / [03:00](https://time.is/es/compare/0100_in_UTC) / [04:00](https://time.is/es/compare/0200_in_UTC) / [05:00](https://time.is/es/compare/0300_in_UTC) / [06:00](https://time.is/es/compare/0400_in_UTC) / [07:00](https://time.is/es/compare/0500_in_UTC) / [08:00](https://time.is/es/compare/0600_in_UTC) / [09:00](https://time.is/es/compare/0700_in_UTC) / [14:00](https://time.is/es/compare/1200_in_UTC) / [15:00](https://time.is/es/compare/1300_in_UTC) / [16:00](https://time.is/es/compare/1400_in_UTC) / [17:00](https://time.is/es/compare/1500_in_UTC) / [18:00](https://time.is/es/compare/1600_in_UTC) / [19:00](https://time.is/es/compare/1700_in_UTC) / [20:00](https://time.is/es/compare/1800_in_UTC) / [21:00](https://time.is/es/compare/1900_in_UTC) / [22:00](https://time.is/es/compare/2000_in_UTC) / [23:00](https://time.is/es/compare/2100_in_UTC) |
 
 ### 🐲 Pokémon de Raid Semanal
 
