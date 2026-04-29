@@ -20,6 +20,17 @@ Estas 4 Ladders tienen su propio sistema de puntuación independiente *(estilo P
 
 ![](../../images/cobblemon/ranked/ranked-menu.png)
 
+## 🔎 Buscar Partida
+Para buscar partida de una Ladder específica deberás primero seleccionarla en el menú de `/ranked`. Después, podrás hacer **clic en el botón verde de "Buscar partida"**.
+
+![](../../images/cobblemon/ranked/ranked-buscarPartida.png)
+
+Dependiendo del formato puede que no te una a la cola porque tu equipo no cumple los requisitos. Lee el mensaje de error para saber cuál es el problema.
+
+{% hint style="info" %}
+Para el formato Random no hace falta equipo, se asigna uno aleatorio. Por lo que podrás entrar sin problemas.
+{% endhint %}
+
 ## 💫 Formato Oficial: Champions VGC
 Champions VGC es el formato oficial que usa el servidor para los torneos y competiciones más importantes. Esto no significa que sea el único formato jugable. Siempre habrá Torneos de varios tipos.
 
