@@ -61,5 +61,66 @@ Esta Ladder es la única que contiene recompensas y rangos dependiendo de la pun
   </tbody>
 </table>
 
-### 🎁 Recompensas
-Existen 2 tipos de Recompensas que se pueden otorgar
+### 🎁 Rangos y Recompensas
+Dependiendo de la puntuación alcanzada, el jugador recibirá un Rango de las Rankeds. 
+
+{% hint style="warning" %}
+De momento, estos Rangos no se muestran fuera de las Rankeds. Pronto añadiremos una forma de visualizar tu Rango, como una Tag en tu nombre
+{% endhint %}
+
+Existen 2 tipos de Recompensas que se pueden otorgar durante una Temporada Competitiva. Además, puedes consultar las recompensas dentro de la Ladder de Champions VGC al hacer clic en la Master Ball.
+
+- **Recompensas por Hitos:** Se entregan al completar ciertos desafíos como número de victorias, puntuación alcanzada, etc. 
+- **Recompensas de Fin de Temporada:** Dependiendo del rango alcanzado, en el momento que acabe una Temporada Competitiva recibirás ciertas recompensas. Cada una mejor que la anterior.
+
+![](../../images/cobblemon/ranked/ranked-rangosRecompensas.png)
+
+## 🤼 Duelos entre jugadores
+Este sistema no sirve exclusivamente para buscar partidas competitivas, también puede usarse para **enfrentarte directamente contra otro jugador aplicando las reglas que queráis**. 
+
+Fuera de las Ladders existen otros formatos que se pueden jugar. Estos son:
+> - Little Cup
+> - Monotype
+> - Open
+> - Doubles (6v6)
+> - Standard
+> - VGC (Regulación F)
+> - VGC Sin Mecánicas (Regulación F)
+> - Random Battle
+> - Random Doubles
+> - Singles (6v6)
+> - Champions VGC
+
+**Usando el comando `/ranked challenge <jugador> <formato>` podrás enviar un Duelo a un jugador** con cualquiera de los formatos anteriores.
+
+![](../../images/cobblemon/ranked/ranked-comandoChallenge.png)
+
+Al enviar el Duelo, el oponente le aparecerá este **menú donde podrá aceptar o rechazar el Duelo** con las normas que hayas aplicado.
+
+![](../../images/cobblemon/ranked/ranked-dueloJugador.png)
+
+{% hint style="info" %}
+Puedes desactivar que los jugadores te envien Duelos usando `/ranked togglechallenges` o desde el menú de `/ranked`.
+{% endhint %}
+
+¿Te han enviado varios duelos o has cerrado el menú sin querer? Usa el comando `/ranked challenges` para ver la lista de Duelos.
+
+![](../../images/cobblemon/ranked/ranked-listaDuelos.png)
+
+## 📗 Formato Personalizado
+¿Ningún formato anterior es de tu gusto para el Duelo? **¡Crea tu propio formato!**
+
+**Usa el comando `/ranked myformats` para ver y crear tus Formatos Personalizados**.
+
+![](../../images/cobblemon/ranked/ranked-myformats.png)
+
+Al hacer clic en el **botón verde empezará la creación del Formato**. La creación de formatos es bastante intuitiva, y desde aquí podrás: banear Pokémon, banear mecánicas, activar o desactivar cláusulas, etc. 
+
+Échale un vistazo a todas las opciones pasando el ratón por encima. Aplica un nombre a tu Formato Personalizado, ¡y dale a Crear!
+
+![](../../images/cobblemon/ranked/ranked-myformats2.png)
+
+### ➡️ Enviar Duelo con Formato Personalizado
+**Usa el comando `/ranked challenge <jugador>`** para volver a abrir el menú anterior. Pero esta vez, solamente haz **Clic Izquierdo para enviar un Duelo con el Formato Personalizado**.
+
+![](../../images/cobblemon/ranked/ranked-myformats3.png)
