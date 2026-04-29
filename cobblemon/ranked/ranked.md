@@ -36,6 +36,11 @@ Para el formato Random no hace falta equipo, se asigna uno aleatorio. Por lo que
 
 Esta Ladder es la única que contiene recompensas y rangos dependiendo de la puntuación alcanzada.
 
+### ⏰ Temporadas
+| Temporada | Fechas |
+| - | - |
+| Temporada 0 *(Balance)* | 29/04/2025 - 07/05/2025 |
+
 ### 🐲 Regulación M-A
 <table data-view="cards">
   <thead>
@@ -48,22 +53,13 @@ Esta Ladder es la única que contiene recompensas y rangos dependiendo de la pun
   </thead>
   <tbody>
     <tr>
-      <td><strong>Example title 1</strong></td>
-      <td>Example description 1.</td>
-      <td><a href="https://example.com">https://example.com</a></td>
-      <td><a href="https://example.com/image1.svg">example_image1.svg</a></td>
-    </tr>
-    <tr>
-      <td><strong>Example title 2</strong></td>
-      <td>Example description 2.</td>
-      <td><a href="https://example.com">https://example.com</a></td>
-      <td><a href="https://example.com/image2.svg">example_image2.svg</a></td>
-    </tr>
-    <tr>
-      <td><strong>Example title 3</strong></td>
-      <td>Example description 3.</td>
-      <td><a href="https://example.com">https://example.com</a></td>
-      <td><a href="https://example.com/image3.svg">example_image3.svg</a></td>
+      <td><strong>Pokémon Permitidos</strong></td>
+      <td></td>
+      <td><a href="https://web-view.app.pokemonchampions.jp/battle/pages/events/rs177501629259kmzbny/es/pokemon.html">https://web-view.app.pokemonchampions.jp/battle/pages/events/rs177501629259kmzbny/es/pokemon.html</a></td>
+      <td><a href="https://news.pokemon-home.com/es/page/banner/7_1773200273_82971775450954.jpg">7_1773200273_82971775450954.jpg</a></td>
     </tr>
   </tbody>
 </table>
+
+### 🎁 Recompensas
+Existen 2 tipos de Recompensas que se pueden otorgar
