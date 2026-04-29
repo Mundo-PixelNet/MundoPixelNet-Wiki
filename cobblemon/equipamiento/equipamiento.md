@@ -8,8 +8,8 @@ En Cobblemon de Universo PokéNet **tienes la capacidad de construir armaduras y
 
 | Set                                                    | Entrada                                                                                        |
 | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| ![Sugilita](../../images/cobblemon/equipamientos/SetSugilita.png)     | ![Sugilita](../../images/cobblemon/equipamientos/sugilita/sugilita_upgrade.png) [Set de Sugilita](sugilita.md)         |
-| ![Wither](../../images/cobblemon/equipamientos/SetWither.png)     | ![Amatista](../../images/cobblemon/equipamientos/wither/wither_upgrade.png) [Set de Wither](wither.md)         |
+| ![Sugilita](../../.gitbook/assets/SetSugilita.png)     | ![Sugilita](../../.gitbook/assets/sugilita_upgrade.png) [Set de Sugilita](sugilita.md)         |
+| ![Wither](../../.gitbook/assets/SetWither.png)         | ![Amatista](../../.gitbook/assets/wither_upgrade.png) [Set de Wither](wither.md)               |
 | ![Amatista](../../.gitbook/assets/SetAmatista.png)     | ![Amatista](../../.gitbook/assets/amethyst_upgrade.png) [Set de Amatista](amethyst.md)         |
 | ![Esmeralda](../../.gitbook/assets/SetEsmeralda.png)   | ![Esmeralda](../../.gitbook/assets/emerald_upgrade.png) [Set de Esmeralda](emerald.md)         |
 | ![Prismarina](../../.gitbook/assets/SetPrismarina.png) | ![Prismarina](../../.gitbook/assets/prismarine_upgrade.png) [Set de Prismarina](prismarine.md) |

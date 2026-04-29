@@ -31,7 +31,7 @@
 
 ## POKÉMON DE COBBLEMON
 
-* [🐛 Hollownest](pokemondecobblemon/hollownest.md)
+* [🐛 Hollownest](pokemon-de-cobblemon/hollownest.md)
 
 ## PIXELMON
 

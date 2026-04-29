@@ -217,104 +217,104 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 
 ## Objetos Competitivos
 
-| Icono                                                  | Nombre                 | Precio |
-| ------------------------------------------------------ | ---------------------- | ------ |
-| ![Diamansfera](../.gitbook/assets/ADAMANTORB.png)      | Diamansfera            | 100K   |
-| ![Diamansfera](../.gitbook/assets/LUSTROUSORB.png)     | Lustresfera            | 100K   |
-| ![Diamansfera](../.gitbook/assets/GRISEOUSORB.png)     | Griseosfera            | 100K   |
-| ![Diamansfera](../.gitbook/assets/ADRENALINEORB.png)   | Nerviosfera            | 10     |
-| ![Diamansfera](../.gitbook/assets/ADAMANTCRYSTAL.png)  | Gran Diamansfera       | 100K   |
-| ![Diamansfera](../.gitbook/assets/LUSTROUSGLOBE.png)   | Gran Lustresfera       | 100K   |
-| ![Diamansfera](../.gitbook/assets/GRISEOUSCORE.png)    | Gran Griseosfera       | 100K   |
-| ![Diamansfera](../.gitbook/assets/ABSORBBULB.png)      | Tubérculo              | 10K    |
-| ![Diamansfera](../.gitbook/assets/AIRBALLOON.png)      | Globo Helio            | 20K    |
-| ![Diamansfera](../.gitbook/assets/ASSAULTVEST.png)     | Chaleco Asalto         | 25K    |
-| ![Diamansfera](../.gitbook/assets/BERRYJUICE.png)      | Zumo                   | 5K     |
-| ![Diamansfera](../.gitbook/assets/BIGROOT.png)         | Raíz Grande            | 10K    |
-| ![Diamansfera](../.gitbook/assets/BINDINGBAND.png)     | Banda Atadura          | 10K    |
-| ![Diamansfera](../.gitbook/assets/BLACKBELT.png)       | Cinturón Negro         | 15K    |
-| ![Diamansfera](../.gitbook/assets/BLACKGLASSES.png)    | Gafas de sol           | 15K    |
-| ![Diamansfera](../.gitbook/assets/BLACKSLUDGE.png)     | Lodo Negro             | 20K    |
-| ![Diamansfera](../.gitbook/assets/BRIGHTPOWDER.png)    | Polvo Brillo           | 5K     |
-| ![Diamansfera](../.gitbook/assets/CELLBATTERY.png)     | Pila                   | 10K    |
-| ![Diamansfera](../.gitbook/assets/CHARCOAL.png)        | Carbón                 | 10K    |
-| ![Diamansfera](../.gitbook/assets/DAMPROCK.png)        | Roca Lluvia            | 20K    |
-| ![Diamansfera](../.gitbook/assets/DRAGONFANG.png)      | Colmillo Dragón        | 15K    |
-| ![Diamansfera](../.gitbook/assets/EJECTBUTTON.png)     | Botón Escape           | 25K    |
-| ![Diamansfera](../.gitbook/assets/EVIOLITE.png)        | Mineral Evolutivo      | 30K    |
-| ![Diamansfera](../.gitbook/assets/GRASSYSEED.png)      | Semilla Hierba         | 15K    |
-| ![Diamansfera](../.gitbook/assets/ELECTRICSEED.png)    | Semilla Electro        | 15K    |
-| ![Diamansfera](../.gitbook/assets/PSYCHICSEED.png)     | Semilla Psique         | 15K    |
-| ![Diamansfera](../.gitbook/assets/MISTYSEED.png)       | Semilla Bruma          | 15K    |
-| ![Diamansfera](../.gitbook/assets/EXPERTBELT.png)      | Cinta Experto          | 20K    |
-| ![Diamansfera](../.gitbook/assets/FLAMEORB.png)        | Llamasfera             | 20K    |
-| ![Diamansfera](../.gitbook/assets/FLOATSTONE.png)      | Piedra Pómez           | 10K    |
-| ![Diamansfera](../.gitbook/assets/FOCUSSASH.png)       | Cinta Focus            | 20K    |
-| ![Diamansfera](../.gitbook/assets/FOCUSBAND.png)       | Banda Focus            | 10K    |
-| ![Diamansfera](../.gitbook/assets/GRIPCLAW.png)        | Garra Garfio           | 5K     |
-| ![Diamansfera](../.gitbook/assets/HARDSTONE.png)       | Piedra Dura            | 5K     |
-| ![Diamansfera](../.gitbook/assets/HEATROCK.png)        | Roca Calor             | 15K    |
-| ![Diamansfera](../.gitbook/assets/HEAVYDUTYBOOTS.png)  | Botas Gruesas          | 25K    |
-| ![Diamansfera](../.gitbook/assets/ICYROCK.png)         | Roca Hielo             | 10K    |
-| ![Diamansfera](../.gitbook/assets/IRONBALL.png)        | Bola Férrea            | 10K    |
-| ![Diamansfera](<../.gitbook/assets/KINGSROCK (1).png>) | Roca del Rey           | 15K    |
-| ![Diamansfera](../.gitbook/assets/LAGGINGTAIL.png)     | Cola Plúmbea           | 8K     |
-| ![Diamansfera](../.gitbook/assets/LEFTOVERS.png)       | Restos                 | 20K    |
-| ![Diamansfera](../.gitbook/assets/LIFEORB.png)         | Vidasfera              | 25K    |
-| ![Diamansfera](../.gitbook/assets/LIGHTBALL.png)       | Bola Luminosa          | 20K    |
-| ![Diamansfera](../.gitbook/assets/LIGHTCLAY.png)       | Refleluz               | 20K    |
-| ![Diamansfera](../.gitbook/assets/LUCKYEGG.png)        | Huevo Suerte           | 30K    |
-| ![Diamansfera](../.gitbook/assets/LUCKYPUNCH.png)      | Puño Suerte            | 5K     |
-| ![Diamansfera](../.gitbook/assets/LUMINOUSMOSS.png)    | Musgo Brillante        | 5K     |
-| ![Diamansfera](../.gitbook/assets/MACHOBRACE.png)      | Brazal Firme           | 5K     |
-| ![Diamansfera](../.gitbook/assets/MAGNET.png)          | Imán                   | 5K     |
-| ![Diamansfera](../.gitbook/assets/MENTALHERB.png)      | Hierba Mental          | 15K    |
-| ![Diamansfera](../.gitbook/assets/POWERHERB.png)       | Hierba Única           | 20K    |
-| ![Diamansfera](../.gitbook/assets/METALPOWDER.png)     | Polvo Metálico         | 5K     |
-| ![Diamansfera](../.gitbook/assets/MIRACLESEED.png)     | Semilla Milagro        | 5K     |
-| ![Diamansfera](../.gitbook/assets/METALCOAT.png)       | Revestimiento Metálico | 25K    |
-| ![Diamansfera](../.gitbook/assets/METRONOME.png)       | Metrónomo              | 10K    |
-| ![Diamansfera](../.gitbook/assets/MUSCLEBAND.png)      | Cinta Fuerte           | 20K    |
-| ![Diamansfera](../.gitbook/assets/MYSTICWATER.png)     | Agua Mística           | 10K    |
-| ![Diamansfera](../.gitbook/assets/NEVERMELTICE.png)    | Antiderretir           | 10K    |
-| ![Diamansfera](../.gitbook/assets/POISONBARB.png)      | Flecha Venenosa        | 5K     |
-| ![Diamansfera](../.gitbook/assets/QUICKCLAW.png)       | Garra Rápida           | 10K    |
-| ![Diamansfera](../.gitbook/assets/QUICKPOWDER.png)     | Polvo Veloz            | 5K     |
-| ![Diamansfera](../.gitbook/assets/RAZORCLAW.png)       | Garra Afilada          | 15K    |
-| ![Diamansfera](<../.gitbook/assets/RAZORFANG (1).png>) | Colmillo Agudo         | 15K    |
-| ![Diamansfera](../.gitbook/assets/REDCARD.png)         | Tarjeta Roja           | 10K    |
-| ![Diamansfera](../.gitbook/assets/RINGTARGET.png)      | Blanco                 | 5K     |
-| ![Diamansfera](../.gitbook/assets/ROCKYHELMET.png)     | Casco Dentado          | 25K    |
-| ![Diamansfera](../.gitbook/assets/SAFETYGOGGLES.png)   | Gafas Protectoras      | 15K    |
-| ![Diamansfera](../.gitbook/assets/SCOPELENS.png)       | Periscopio             | 15K    |
-| ![Diamansfera](../.gitbook/assets/SHARPBEAK.png)       | Pico Afilado           | 10K    |
-| ![Diamansfera](../.gitbook/assets/SHEDSHELL.png)       | Muda Concha            | 5K     |
-| ![Diamansfera](../.gitbook/assets/SHELLBELL.png)       | Campana Concha         | 15K    |
-| ![Diamansfera](../.gitbook/assets/SILKSCARF.png)       | Pañuelo Seda           | 15K    |
-| ![Diamansfera](../.gitbook/assets/SILVERPOWDER.png)    | Polvo Plata            | 5K     |
-| ![Diamansfera](../.gitbook/assets/SMOKEBALL.png)       | Bola Humo              | 5K     |
-| ![Diamansfera](../.gitbook/assets/SMOOTHROCK.png)      | Roca Suave             | 10K    |
-| ![Diamansfera](../.gitbook/assets/SNOWBALL.png)        | Bola de Nieve          | 5K     |
-| ![Diamansfera](../.gitbook/assets/SOFTSAND.png)        | Arena fina             | 5K     |
-| ![Diamansfera](../.gitbook/assets/SOOTHEBELL.png)      | Campana Alivio         | 2K     |
-| ![Diamansfera](../.gitbook/assets/SOULDEW.png)         | Rocío Bondad           | 20K    |
-| ![Diamansfera](../.gitbook/assets/SPELLTAG.png)        | Hechizo                | 15K    |
-| ![Diamansfera](../.gitbook/assets/STICK.png)           | Puerro                 | 15K    |
-| ![Diamansfera](../.gitbook/assets/STICKYBARB.png)      | Toxiestrella           | 5K     |
-| ![Diamansfera](../.gitbook/assets/THICKCLUB.png)       | Hueso Grueso           | 20K    |
-| ![Diamansfera](../.gitbook/assets/TOXICORB.png)        | Toxisfera              | 15K    |
-| ![Diamansfera](../.gitbook/assets/PROTECTIVEPADS.png)  | Paracontacto           | 15K    |
-| ![Diamansfera](../.gitbook/assets/TWISTEDSPOON.png)    | Cuchara Torcida        | 10K    |
-| ![Diamansfera](../.gitbook/assets/WEAKNESSPOLICY.png)  | Seguro Debilidad       | 15K    |
-| ![Diamansfera](../.gitbook/assets/WHITEHERB.png)       | Hierba Blanca          | 20K    |
-| ![Diamansfera](../.gitbook/assets/WIDELENS.png)        | Lupa                   | 15K    |
-| ![Diamansfera](../.gitbook/assets/WISEGLASSES.png)     | Gafas Especiales       | 10K    |
-| ![Diamansfera](../.gitbook/assets/ZOOMLENS.png)        | Telescopio             | 15K    |
-| ![Diamansfera](../.gitbook/assets/THROATSPRAY.png)     | Spray Bucal            | 15K    |
-| ![Diamansfera](../.gitbook/assets/ROOMSERVICE.png)     | Servicio Raro          | 10K    |
-| ![Diamansfera](../.gitbook/assets/CHOICEBAND.png)      | Cinta Elegida          | 20K    |
-| ![Diamansfera](../.gitbook/assets/CHOICESCARF.png)     | Pañuelo Elección       | 25K    |
-| ![Diamansfera](../.gitbook/assets/CHOICESPECS.png)     | Gafas Elección         | 20K    |
+| Icono                                                 | Nombre                 | Precio |
+| ----------------------------------------------------- | ---------------------- | ------ |
+| ![Diamansfera](../.gitbook/assets/ADAMANTORB.png)     | Diamansfera            | 100K   |
+| ![Diamansfera](../.gitbook/assets/LUSTROUSORB.png)    | Lustresfera            | 100K   |
+| ![Diamansfera](../.gitbook/assets/GRISEOUSORB.png)    | Griseosfera            | 100K   |
+| ![Diamansfera](../.gitbook/assets/ADRENALINEORB.png)  | Nerviosfera            | 10     |
+| ![Diamansfera](../.gitbook/assets/ADAMANTCRYSTAL.png) | Gran Diamansfera       | 100K   |
+| ![Diamansfera](../.gitbook/assets/LUSTROUSGLOBE.png)  | Gran Lustresfera       | 100K   |
+| ![Diamansfera](../.gitbook/assets/GRISEOUSCORE.png)   | Gran Griseosfera       | 100K   |
+| ![Diamansfera](../.gitbook/assets/ABSORBBULB.png)     | Tubérculo              | 10K    |
+| ![Diamansfera](../.gitbook/assets/AIRBALLOON.png)     | Globo Helio            | 20K    |
+| ![Diamansfera](../.gitbook/assets/ASSAULTVEST.png)    | Chaleco Asalto         | 25K    |
+| ![Diamansfera](../.gitbook/assets/BERRYJUICE.png)     | Zumo                   | 5K     |
+| ![Diamansfera](../.gitbook/assets/BIGROOT.png)        | Raíz Grande            | 10K    |
+| ![Diamansfera](../.gitbook/assets/BINDINGBAND.png)    | Banda Atadura          | 10K    |
+| ![Diamansfera](../.gitbook/assets/BLACKBELT.png)      | Cinturón Negro         | 15K    |
+| ![Diamansfera](../.gitbook/assets/BLACKGLASSES.png)   | Gafas de sol           | 15K    |
+| ![Diamansfera](../.gitbook/assets/BLACKSLUDGE.png)    | Lodo Negro             | 20K    |
+| ![Diamansfera](../.gitbook/assets/BRIGHTPOWDER.png)   | Polvo Brillo           | 5K     |
+| ![Diamansfera](../.gitbook/assets/CELLBATTERY.png)    | Pila                   | 10K    |
+| ![Diamansfera](../.gitbook/assets/CHARCOAL.png)       | Carbón                 | 10K    |
+| ![Diamansfera](../.gitbook/assets/DAMPROCK.png)       | Roca Lluvia            | 20K    |
+| ![Diamansfera](../.gitbook/assets/DRAGONFANG.png)     | Colmillo Dragón        | 15K    |
+| ![Diamansfera](../.gitbook/assets/EJECTBUTTON.png)    | Botón Escape           | 25K    |
+| ![Diamansfera](../.gitbook/assets/EVIOLITE.png)       | Mineral Evolutivo      | 30K    |
+| ![Diamansfera](../.gitbook/assets/GRASSYSEED.png)     | Semilla Hierba         | 15K    |
+| ![Diamansfera](../.gitbook/assets/ELECTRICSEED.png)   | Semilla Electro        | 15K    |
+| ![Diamansfera](../.gitbook/assets/PSYCHICSEED.png)    | Semilla Psique         | 15K    |
+| ![Diamansfera](../.gitbook/assets/MISTYSEED.png)      | Semilla Bruma          | 15K    |
+| ![Diamansfera](../.gitbook/assets/EXPERTBELT.png)     | Cinta Experto          | 20K    |
+| ![Diamansfera](../.gitbook/assets/FLAMEORB.png)       | Llamasfera             | 20K    |
+| ![Diamansfera](../.gitbook/assets/FLOATSTONE.png)     | Piedra Pómez           | 10K    |
+| ![Diamansfera](../.gitbook/assets/FOCUSSASH.png)      | Cinta Focus            | 20K    |
+| ![Diamansfera](../.gitbook/assets/FOCUSBAND.png)      | Banda Focus            | 10K    |
+| ![Diamansfera](../.gitbook/assets/GRIPCLAW.png)       | Garra Garfio           | 5K     |
+| ![Diamansfera](../.gitbook/assets/HARDSTONE.png)      | Piedra Dura            | 5K     |
+| ![Diamansfera](../.gitbook/assets/HEATROCK.png)       | Roca Calor             | 15K    |
+| ![Diamansfera](../.gitbook/assets/HEAVYDUTYBOOTS.png) | Botas Gruesas          | 25K    |
+| ![Diamansfera](../.gitbook/assets/ICYROCK.png)        | Roca Hielo             | 10K    |
+| ![Diamansfera](../.gitbook/assets/IRONBALL.png)       | Bola Férrea            | 10K    |
+| ![Diamansfera](../.gitbook/assets/KINGSROCK.png)      | Roca del Rey           | 15K    |
+| ![Diamansfera](../.gitbook/assets/LAGGINGTAIL.png)    | Cola Plúmbea           | 8K     |
+| ![Diamansfera](../.gitbook/assets/LEFTOVERS.png)      | Restos                 | 20K    |
+| ![Diamansfera](../.gitbook/assets/LIFEORB.png)        | Vidasfera              | 25K    |
+| ![Diamansfera](../.gitbook/assets/LIGHTBALL.png)      | Bola Luminosa          | 20K    |
+| ![Diamansfera](../.gitbook/assets/LIGHTCLAY.png)      | Refleluz               | 20K    |
+| ![Diamansfera](../.gitbook/assets/LUCKYEGG.png)       | Huevo Suerte           | 30K    |
+| ![Diamansfera](../.gitbook/assets/LUCKYPUNCH.png)     | Puño Suerte            | 5K     |
+| ![Diamansfera](../.gitbook/assets/LUMINOUSMOSS.png)   | Musgo Brillante        | 5K     |
+| ![Diamansfera](../.gitbook/assets/MACHOBRACE.png)     | Brazal Firme           | 5K     |
+| ![Diamansfera](../.gitbook/assets/MAGNET.png)         | Imán                   | 5K     |
+| ![Diamansfera](../.gitbook/assets/MENTALHERB.png)     | Hierba Mental          | 15K    |
+| ![Diamansfera](../.gitbook/assets/POWERHERB.png)      | Hierba Única           | 20K    |
+| ![Diamansfera](../.gitbook/assets/METALPOWDER.png)    | Polvo Metálico         | 5K     |
+| ![Diamansfera](../.gitbook/assets/MIRACLESEED.png)    | Semilla Milagro        | 5K     |
+| ![Diamansfera](../.gitbook/assets/METALCOAT.png)      | Revestimiento Metálico | 25K    |
+| ![Diamansfera](../.gitbook/assets/METRONOME.png)      | Metrónomo              | 10K    |
+| ![Diamansfera](../.gitbook/assets/MUSCLEBAND.png)     | Cinta Fuerte           | 20K    |
+| ![Diamansfera](../.gitbook/assets/MYSTICWATER.png)    | Agua Mística           | 10K    |
+| ![Diamansfera](../.gitbook/assets/NEVERMELTICE.png)   | Antiderretir           | 10K    |
+| ![Diamansfera](../.gitbook/assets/POISONBARB.png)     | Flecha Venenosa        | 5K     |
+| ![Diamansfera](../.gitbook/assets/QUICKCLAW.png)      | Garra Rápida           | 10K    |
+| ![Diamansfera](../.gitbook/assets/QUICKPOWDER.png)    | Polvo Veloz            | 5K     |
+| ![Diamansfera](../.gitbook/assets/RAZORCLAW.png)      | Garra Afilada          | 15K    |
+| ![Diamansfera](../.gitbook/assets/RAZORFANG.png)      | Colmillo Agudo         | 15K    |
+| ![Diamansfera](../.gitbook/assets/REDCARD.png)        | Tarjeta Roja           | 10K    |
+| ![Diamansfera](../.gitbook/assets/RINGTARGET.png)     | Blanco                 | 5K     |
+| ![Diamansfera](../.gitbook/assets/ROCKYHELMET.png)    | Casco Dentado          | 25K    |
+| ![Diamansfera](../.gitbook/assets/SAFETYGOGGLES.png)  | Gafas Protectoras      | 15K    |
+| ![Diamansfera](../.gitbook/assets/SCOPELENS.png)      | Periscopio             | 15K    |
+| ![Diamansfera](../.gitbook/assets/SHARPBEAK.png)      | Pico Afilado           | 10K    |
+| ![Diamansfera](../.gitbook/assets/SHEDSHELL.png)      | Muda Concha            | 5K     |
+| ![Diamansfera](../.gitbook/assets/SHELLBELL.png)      | Campana Concha         | 15K    |
+| ![Diamansfera](../.gitbook/assets/SILKSCARF.png)      | Pañuelo Seda           | 15K    |
+| ![Diamansfera](../.gitbook/assets/SILVERPOWDER.png)   | Polvo Plata            | 5K     |
+| ![Diamansfera](../.gitbook/assets/SMOKEBALL.png)      | Bola Humo              | 5K     |
+| ![Diamansfera](../.gitbook/assets/SMOOTHROCK.png)     | Roca Suave             | 10K    |
+| ![Diamansfera](../.gitbook/assets/SNOWBALL.png)       | Bola de Nieve          | 5K     |
+| ![Diamansfera](../.gitbook/assets/SOFTSAND.png)       | Arena fina             | 5K     |
+| ![Diamansfera](../.gitbook/assets/SOOTHEBELL.png)     | Campana Alivio         | 2K     |
+| ![Diamansfera](../.gitbook/assets/SOULDEW.png)        | Rocío Bondad           | 20K    |
+| ![Diamansfera](../.gitbook/assets/SPELLTAG.png)       | Hechizo                | 15K    |
+| ![Diamansfera](../.gitbook/assets/STICK.png)          | Puerro                 | 15K    |
+| ![Diamansfera](../.gitbook/assets/STICKYBARB.png)     | Toxiestrella           | 5K     |
+| ![Diamansfera](../.gitbook/assets/THICKCLUB.png)      | Hueso Grueso           | 20K    |
+| ![Diamansfera](../.gitbook/assets/TOXICORB.png)       | Toxisfera              | 15K    |
+| ![Diamansfera](../.gitbook/assets/PROTECTIVEPADS.png) | Paracontacto           | 15K    |
+| ![Diamansfera](../.gitbook/assets/TWISTEDSPOON.png)   | Cuchara Torcida        | 10K    |
+| ![Diamansfera](../.gitbook/assets/WEAKNESSPOLICY.png) | Seguro Debilidad       | 15K    |
+| ![Diamansfera](../.gitbook/assets/WHITEHERB.png)      | Hierba Blanca          | 20K    |
+| ![Diamansfera](../.gitbook/assets/WIDELENS.png)       | Lupa                   | 15K    |
+| ![Diamansfera](../.gitbook/assets/WISEGLASSES.png)    | Gafas Especiales       | 10K    |
+| ![Diamansfera](../.gitbook/assets/ZOOMLENS.png)       | Telescopio             | 15K    |
+| ![Diamansfera](../.gitbook/assets/THROATSPRAY.png)    | Spray Bucal            | 15K    |
+| ![Diamansfera](../.gitbook/assets/ROOMSERVICE.png)    | Servicio Raro          | 10K    |
+| ![Diamansfera](../.gitbook/assets/CHOICEBAND.png)     | Cinta Elegida          | 20K    |
+| ![Diamansfera](../.gitbook/assets/CHOICESCARF.png)    | Pañuelo Elección       | 25K    |
+| ![Diamansfera](../.gitbook/assets/CHOICESPECS.png)    | Gafas Elección         | 20K    |
 
 ## Otros (por unidad)
 
@@ -346,8 +346,8 @@ Si tenéis alguna sugerencia sobre los precios y/o nos ha faltado algo, ¡no dud
 | ![Carameloraro](../.gitbook/assets/ISISGOLDHOURGLASS.png)    | Reloj de Arena aúrico de Isis   | 25K    |
 | ![Carameloraro](../.gitbook/assets/RAINBOWWING.png)          | Ala Arcoiris                    | 100K   |
 | ![Carameloraro](../.gitbook/assets/SUPERROD.png)             | Supercaña                       | 35K    |
-| ![Carameloraro](<../.gitbook/assets/BOTTLECAP (1).png>)      | Chapa Plateada                  | 20K    |
-| ![Carameloraro](<../.gitbook/assets/GOLDBOTTLECAP (1).png>)  | Chapa Dorada                    | 100K   |
+| ![Carameloraro](../.gitbook/assets/BOTTLECAP.png)            | Chapa Plateada                  | 20K    |
+| ![Carameloraro](../.gitbook/assets/GOLDBOTTLECAP.png)        | Chapa Dorada                    | 100K   |
 | ![Carameloraro](../.gitbook/assets/ALPHASHARD.png)           | Fragmento Azul                  | 25K    |
 | ![Carameloraro](../.gitbook/assets/OMEGASHARD.png)           | Fragmento Rojo                  | 25K    |
 | ![Carameloraro](../.gitbook/assets/BLUEORB.png)              | Orbe Azul                       | 100K   |

@@ -28,8 +28,6 @@ Esta skin puede cambiar de estilo usando el comando /estilos.
 |  **96** | Primordial Esmeralda | ![Sprite de Milotic Primordial Esmeralda](../../.gitbook/assets/Primordial5-sprite.png) |
 | **115** |  Primordial Supremo  |         ![Sprite de Milotic Supremo](../../.gitbook/assets/supremo1-sprite.png)         |
 
-![Formas de Milotic Primordial](../../images/pokemon/temporada-1/Primordial-formasv3.png)
-
 ## Obtención
 
 Esta skin se puede obtener en el nivel 1 del pase gratuito de la temporada 1 y sus otros estilos se obtiene en otros niveles del pase como se muestra arriba.
