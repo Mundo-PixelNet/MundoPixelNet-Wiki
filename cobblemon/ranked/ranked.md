@@ -107,7 +107,7 @@ Puedes desactivar que los jugadores te envien Duelos usando `/ranked togglechall
 
 ![](../../images/cobblemon/ranked/ranked-listaDuelos.png)
 
-## 📗 Formato Personalizado
+### 📗 Formato Personalizado
 ¿Ningún formato anterior es de tu gusto para el Duelo? **¡Crea tu propio formato!**
 
 **Usa el comando `/ranked myformats` para ver y crear tus Formatos Personalizados**.
