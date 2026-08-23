@@ -1,5 +1,11 @@
 # 👾 Raids
 
+{% hint style="danger" %}
+**ENTRADA OBSOLETA**
+Este contenido pertenece a una versión anterior del servidor y puede estar obsoleta. Avisaremos cuando estas
+funciones vuelvan a funcionar y actualizaremos esta entrada.
+{% endhint %}
+
 El servidor de Cobblemon ofrece una experiencia de Raids disponible para todos los usuarios. **Enfréntate a un Pokémon Jefe junto con todos los usuarios del servidor y así conseguir muchas recompensas útiles.**
 
 **Existen varios tipos de Raids**, aquí te explicaremos todo lo que conlleva cada una: tiempos, Pokémon, recompensas, etc.

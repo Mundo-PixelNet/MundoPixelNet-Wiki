@@ -2,22 +2,21 @@
 
 * [👋 ¡Bienvenido a la Wiki!](README.md)
 * [✍️ Contribuir](contribuir.md)
+
+# JUGAR AL SERVIDOR
 * [⚙️ Launcher Universo PokéNet](instalacion/launcher.md)
-* [🌍 Cobblemon 1.21.1](instalacion/cobblemon/README.md)
-  * [CurseForge](instalacion/cobblemon/curseforge.md)
-  * [Modrinth](instalacion/cobblemon/modrinth.md)
-* [🍊 Pixelmon 1.16.5](instalacion/pixelmon-16.md)
+* [📁 Modrinth](instalacion/cobblemon/modrinth.md)
+* [📁 CurseForge](instalacion/cobblemon/curseforge.md)
 
 ## INFORMACIÓN
 
 * [🎮 Normas](informacion/normas.md)
 * [📩 Tickets](informacion/tickets.md)
 * [📥 Sugerencias](informacion/sugerencias.md)
-* [🔒 Claims](informacion/claims.md)
 * [🔗 Vincular](informacion/vincular.md)
 * [🛠️ Staffs](informacion/staffs.md)
 
-## COBBLEMON
+## FUNCIONES
 
 * [👾 Raids](cobblemon/raids/raids.md)
 * [⚔️ Ranked](cobblemon/ranked/ranked.md)
@@ -29,11 +28,11 @@
   * [Prismarina](cobblemon/equipamiento/prismarine.md)
 * [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
 
-## POKÉMON DE COBBLEMON
+## POKÉMON
 
 * [🐛 Hollownest](pokemon-de-cobblemon/hollownest.md)
 
-## PIXELMON
+<!-- ## PIXELMON
 
 * [🧬 Híbridos](funciones/hibridos.md)
 * [⭐ Álbum](funciones/Album.md)
@@ -90,7 +89,7 @@
   * [🗝️ Stantler Rodolfo](pokemon/pixelfest-2024/gatcha-stantler-rodolfo.md)
   * [🗝️ Sudowoodo Navideño](pokemon/pixelfest-2024/gatcha-sudowoodo-navideño.md)
   * [🔖 Sylveon Navideño](pokemon/pixelfest-2024/album-sylveon-navideño.md)
-  * [💰 Umbreon Año Nuevo](pokemon/pixelfest-2024/paga-umbreon-añonuevo.md)
+  * [💰 Umbreon Año Nuevo](pokemon/pixelfest-2024/paga-umbreon-añonuevo.md) -->
 
 ## POR USUARIOS
 
