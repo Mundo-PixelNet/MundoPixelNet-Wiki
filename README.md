@@ -6,7 +6,7 @@ description: >-
 
 # 👋 ¡Bienvenido a la Wiki!
 
-![](.gitbook/assets/UPN-fullLogo.png)
+![](/images/logos/UPN-fullLogo.png)
 
 **¡Bienvenido a la Wiki de Universo PokéNet!** Esta wiki exclusiva del servidor recopilará información como funciones, Pokémon únicos, tutoriales, explicaciones y más del servidor. En el menú de la izquierda podrás ver todo el contenido.
 

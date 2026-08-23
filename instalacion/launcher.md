@@ -8,11 +8,11 @@ description: >-
 
 ## ⚙️ Launcher Universo PokéNet
 
-Con el Launcher de Universo PokéNet tendrás una experiencia de usuario mucho más cómoda **tanto para Cobblemon como Pixelmon**. Y las **actualizaciones del modpack se descargarán automáticamente** sin que tengas que hacer nada más. ¡Totalmente **recomendado usar nuestro Launcher**!
+Con el Launcher de Universo PokéNet tendrás una experiencia de usuario mucho más cómoda. Las **actualizaciones del modpack se descargarán automáticamente** sin que tengas que hacer nada más. ¡Totalmente **recomendado usar nuestro Launcher**!
 
-![](../.gitbook/assets/launcher1.png)
+![](/images/instalaciones/launcher/launcher1.png)
 
-Con nuestro Launcher podrás **iniciar sesión con tu cuenta de Microsoft** _(premium)_ o con un nick _(no-premium)_. Pero recomendamos encarecidamente usar una cuenta con Minecraft comprado.
+Con nuestro Launcher podrás **iniciar sesión con tu cuenta de Microsoft** _(premium)_ o con un nick _(no-premium)_. **Pero recomendamos encarecidamente usar una cuenta con Minecraft comprado.**
 
 **Usar este Launcher es totalmente seguro**. Incluso el código está [disponible en nuestro GitHub](https://github.com/Universo-PokeNet/UPN-Launcher) por si quieres echarle un vistazo.
 
@@ -26,11 +26,11 @@ Si lo deseas, tenemos el modpack también disponible para los launchers de [Curs
 
 ## 📝 Instalación
 
-La instalación del Launcher es bastante sencilla, y con instalarlo ya todos los modpacks se descargarán al iniciar el juego.
+La instalación del Launcher es bastante sencilla, sigue los siguientes pasos:
 
-1. Dirígete a la [Web de Universo PokéNet](https://universopokenet.com/) y haz clic en el botón de **Launcher** para descargar la última versión _(en el GitHub anterior también tienes todas las descargas)_.
+1. Dirígete a la [Web de Universo PokéNet](https://universopokenet.com/) y haz clic en el botón de **JUGAR**. Después, haz clic en el botón "Descargar Launcher" para descargar la última versión _(en el GitHub anterior también tienes todas las descargas)_.
 
-![](../.gitbook/assets/launcher2.png)
+![](/images/instalaciones/launcher/launcher2.png)
 
 2. Una vez se descargue el ejecutable, haz **doble clic en el .exe para empezar la instalación**. Es muy probable que te salga un aviso de "Windows protegió tu PC". Esto es completamente normal, pues no somos una empresa reconocida y el ejecutable no lo reconoce Windows aún. **Haz clic en "Más información" > "Ejecutar de todas formas" y se ejecutará.**
 
@@ -46,13 +46,11 @@ La instalación del Launcher es bastante sencilla, y con instalarlo ya todos los
 
 ## 🎮 Seleccionar Modpack
 
-Para acabar tendrás que **seleccionar** que experiencia de Pokémon en Minecraft jugar: **Cobblemon** o **Pixelmon**.
-
 En la pantalla principal del Launcher haz click en "Usando: \[...]". Ahí podrás **seleccionar el modpack a usar**.
 
-![](../.gitbook/assets/launcher6.png)
+![](/images/instalaciones/launcher/launcher6.png)
 
-![](../.gitbook/assets/launcher7.png)
+![](/images/instalaciones/launcher/launcher7.png)
 
 Con el modpack seleccionado también puedes ir a **Ajustes > Mods** y comprobar todos los mods disponibles. **En la sección de "Mods opcionales" puedes desactivar mods** si lo ves necesario.
 
