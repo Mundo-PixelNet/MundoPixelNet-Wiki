@@ -3,7 +3,7 @@
 En [Universo PokéNet](../README.md) tenemos algunos rangos específicos para cada tarea, en la lista a continuación tendremos qué hace cada uno y quién ocupa actualmente ese rango.
 
 # ![Dueño](../images/Rangos/Dios/diosarc.png) **Dueño**
-El rango dueño tiene toda la autoridad del servidor y la cabeza princpial en todas las deciciones finales.
+El rango dueño tiene la autoridad absoluta del servidor y la cabeza princpial en todas las deciciones finales.
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png)|**PokeSantiTW**|
