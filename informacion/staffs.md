@@ -9,7 +9,7 @@ El rango dueño tiene la autoridad absoluta del servidor y la cabeza princpial e
 | ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png)|**PokeSantiTW**|
 
 # ![Admin](../images/Rangos/Admin/adminArc.png) **Administrador**
-El rango Admin tiene la máxima autoridad sobre el servidor, pudiendo tomar decisiones importantes.
+El rango Administrador tiene la máxima autoridad sobre el servidor, pudiendo tomar decisiones importantes.
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
@@ -54,3 +54,11 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
 | ![Skin de Mai_075](../images/Rangos/Builder/Mai_075.png)|**Mai_075**|
 | ![Skin de Arii](../images/Rangos/Builder/ari.png)|**Arii**|
+
+# 🖌️**Equipo Creativo**
+El rango Equipo Creativo tiene la función creativa de crear skins, modelos, armaduras, dibujos etc... del servidor, ya sea para una temporada o cualquier contenido nuevo.
+| Skin | Usuario |
+| :--: | :-----: |
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
+| ![Skin de Mai_075](../images/Rangos/Builder/Mai_075.png)|**Mai_075**|
+| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
