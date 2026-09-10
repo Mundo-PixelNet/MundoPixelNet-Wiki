@@ -54,7 +54,7 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
 | ![Skin de Mai_075](../images/Rangos/Staff/mai.png)|**Mai_075**|
 | ![Skin de Arii](../images/Rangos/Builder/ari.png)|**Arii**|
-
+| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png)|**yThmks_**|
 
 # 🖌️**Equipo Creativo**
 El rango Equipo Creativo tiene la función creativa de crear skins, modelos, armaduras, dibujos etc... del servidor, ya sea para una temporada o cualquier contenido nuevo.
