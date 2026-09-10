@@ -41,7 +41,7 @@ El rango Developer tiene la función de programar los complementos y bots del se
 | :--: | :-----: |
 | ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
 | ![Skin de Cheminsky](../images/Rangos/Dev/Steve.png)|**Cheminsky**|
-| ![Skin de MiNombreEsVaro](../images/Rangos/Dev/Varo.png)|**MiNombreEsVaro**|
+| ![Skin de MiNombreEsVaro](../images/Rangos/Staff/Varo.png)|**MiNombreEsVaro**|
 | ![Skin de raptor654](../images/Rangos/Staff/raptor.png)|**raptor654**|
 
 # 🧱 **Builder**
