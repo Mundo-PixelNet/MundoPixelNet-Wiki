@@ -15,7 +15,7 @@ El rango Administrador tiene la máxima autoridad sobre el servidor, pudiendo to
 | ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
 | ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
-| ![Skin de Mai_075](../images/Rangos/Builder/Mai_075.png)|**Mai_075**|
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png)|**Mai_075**|
 | ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
 
 # ![Moderador](../images/Rangos/Mod/modarc.png) **Moderador**
@@ -42,7 +42,7 @@ El rango Developer tiene la función de programar los complementos y bots del se
 | ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
 | ![Skin de Cheminsky](../images/Rangos/Dev/Steve.png)|**Cheminsky**|
 | ![Skin de MiNombreEsVaro](../images/Rangos/Dev/Varo.png)|**MiNombreEsVaro**|
-
+| ![Skin de raptor654](../images/Rangos/Staff/raptor.png)|**raptor654**|
 
 # 🧱 **Builder**
 El rango Builder tiene la función de construir los mapas del servidor, ya sea para una misión o cualquier cosa nueva que implique construcción
@@ -55,10 +55,14 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | ![Skin de Mai_075](../images/Rangos/Builder/Mai_075.png)|**Mai_075**|
 | ![Skin de Arii](../images/Rangos/Builder/ari.png)|**Arii**|
 
+
 # 🖌️**Equipo Creativo**
 El rango Equipo Creativo tiene la función creativa de crear skins, modelos, armaduras, dibujos etc... del servidor, ya sea para una temporada o cualquier contenido nuevo.
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
-| ![Skin de Mai_075](../images/Rangos/Builder/Mai_075.png)|**Mai_075**|
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png)|**Mai_075**|
 | ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
+| ![Skin de EnzuoGa](../images/Rangos/Staff/enzo.png)|**EnzuoGa**|
+| ![Skin de rowlex](../images/Rangos/Staff/rowlexad.png)|**rowlex**|
+| ![Skin de raptor654](../images/Rangos/Staff/raptor.png)|**raptor654**|
