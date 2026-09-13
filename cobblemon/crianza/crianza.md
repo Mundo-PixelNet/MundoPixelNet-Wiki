@@ -6,11 +6,11 @@ description: >-
 # 💘 Crianza
 
 ## 💻 Interfaz de Crianza
-![interfaz](../../images/cobblemon/crianza/crianzaapp.png)
+![Aplicación de Crianza](../../images/cobblemon/crianza/crianzaapp.png)
 
 El sistema de Crianza de Universo PokéNet se realiza a través de la **Aplicación Crianza de la Poké-Tablet**. También puedes usar el comando `/crianza` para abrir la Aplicación.
 
-![interfaz](../../images/cobblemon/crianza/crianza1.png)
+![Guarderías](../../images/cobblemon/crianza/crianza1.png)
 
 Desde esta interfaz podrás manejar tus Guarderías, comprar otras guarderías e incluso **leer una guía resumida de como funciona el sistema.**
 
@@ -38,7 +38,7 @@ En la Aplicación de Crianza tendrás disponible las Guarderías donde criar a t
 
 **Dentro de la Guardería tendrás que seleccionar al Pokémon macho y hembra que se usarán para criar**. En caso de usar Ditto, da igual donde lo pongas mientras que el padre/madre esté en el lugar correcto.
 
-![interfaz](../../images/cobblemon/crianza/crianza2.png)
+![Interfaz donde colocar los Pokémon para criar](../../images/cobblemon/crianza/crianza2.png)
 
 {% hint style="info" %}
 ## Valores actuales de Crianza
@@ -48,7 +48,7 @@ En la Aplicación de Crianza tendrás disponible las Guarderías donde criar a t
 
 Usando los valores anteriores existe la posibilidad de que aparezca un Huevo en medio. Si tienes suerte, **te llegará una notificación y podrás recoger tu Huevo.**
 
-![interfaz](../../images/cobblemon/crianza/crianza3.png)
+![Así aparece la interfaz cuando el Huevo se ha generado](../../images/cobblemon/crianza/crianza3.png)
 
 **También existe la Cesta de Huevos:** En la Guardería por defecto se pueden acumular hasta 2 Huevos, a medida que cries más esta cesta aumentará de tamaño hasta 5 Huevos.
 
@@ -56,15 +56,17 @@ Usando los valores anteriores existe la posibilidad de que aparezca un Huevo en 
 
 Cuando reclamas un Huevo de la Guardería te aparecerá en tu equipo Pokémon. Aunque no puedes usarlo en combate.
 
-![interfaz](../../images/cobblemon/crianza/crianza4.png)
+![Huevos en tu equipo](../../images/cobblemon/crianza/crianza4.png)
 
 **Al lado de "Huevo" aparece en gris el número de pasos que tienes que hacer para eclosionar el huevo.**
 
 Puedes abrir las estadísticas del Huevo y ver con que IVs saldrá la cría, esto te puede ayudar a decidir si descartar o no el Huevo.
 
-![interfaz](../../images/cobblemon/crianza/crianza5.png)
+![Puedes ver las estadísticas del Huevo antes de eclosionar](../../images/cobblemon/crianza/crianza5.png)
 
-> Puedes acelerar este proceso de eclosión si tienes en tu equipo un Pokémon con la habilidad **Cuerpo Llama**, **Escudo Magma** o **Combustible**.
+{% hint style="success" %}
+Puedes acelerar este proceso de eclosión si tienes en tu equipo un Pokémon con la habilidad **Cuerpo Llama**, **Escudo Magma** o **Combustible**.
+{% endhint %}
 
 ## 💎 Comandos de pago
 Los [Rangos Supremo, Astral y Titán de la Tienda Web](https://tienda.universopokenet.com/) tienen comandos útiles para la Crianza. No suponen una ventaja increíble debido al cooldown que estos comandos tienen, pero es una ayuda.
