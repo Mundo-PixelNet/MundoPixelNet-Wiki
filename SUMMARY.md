@@ -18,15 +18,15 @@
 
 ## FUNCIONES
 
-* [👾 Raids](cobblemon/raids/raids.md)
-* [⚔️ Ranked](cobblemon/ranked/ranked.md)
-* [🛡️ Sets de Equipamiento](cobblemon/equipamiento/equipamiento.md)
+<!-- * [👾 Raids](cobblemon/raids/raids.md) -->
+<!-- * [⚔️ Ranked](cobblemon/ranked/ranked.md) -->
+<!-- * [🛡️ Sets de Equipamiento](cobblemon/equipamiento/equipamiento.md)
   * [Sugilita](cobblemon/equipamiento/sugilita.md)
   * [Wither](cobblemon/equipamiento/wither.md)
   * [Amatista](cobblemon/equipamiento/amethyst.md)
   * [Esmeralda](cobblemon/equipamiento/emerald.md)
-  * [Prismarina](cobblemon/equipamiento/prismarine.md)
-* [💘 Crianza](usuarios/Juniorcx/crianza-cobblemon.md)
+  * [Prismarina](cobblemon/equipamiento/prismarine.md) -->
+* [💘 Crianza](cobblemon/crianza/crianza.md)
 
 ## POKÉMON
 
