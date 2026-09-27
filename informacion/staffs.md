@@ -19,9 +19,9 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
 | ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png) | [**YamatoDust**](https://discord.com/users/602295799279517696) | `Admin Líder` |
-| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | [**xFuriadaNoitex**](https://link_de_red_social.com) | `Admin Líder` |
-| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | [**Mai_075**](https://link_de_red_social.com) | `Directora Creativa` |
-| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | [**Gamertito**](https://link_de_red_social.com) | `Admin` |
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | [**xFuriadaNoitex**](https://discord.com/users/754513258693656697) | `Admin Líder` |
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | [**Mai_075**](https://discord.com/users/323833550568685570) | `Directora Creativa` |
+| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | [**Gamertito**](https://discord.com/users/1043510532977721394) | `Admin` |
 
 ---
 
@@ -31,10 +31,9 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
-| ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png) | [**Juniorcx**](https://link_de_red_social.com) | `Moderador` |
-| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | [**ITSFrankoGG**](https://link_de_red_social.com) | `Moderador` |
-| ![Skin de teyu_31](../images/Rangos/Helper/Teyu.png) | [**Teyu_31**](https://link_de_red_social.com) | `Moderador` |
-| ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png) | [**RivalSilver97**](https://link_de_red_social.com) | `Moderador` |
+| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | [**ITSFrankoGG**](https://discord.com/users/1000166441837932725) | `Moderador` |
+| ![Skin de teyu_31](../images/Rangos/Helper/Teyu.png) | [**Teyu_31**](https://discord.com/users/570326732704579587) | `Moderador` |
+| ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png) | [**RivalSilver97**](https://discord.com/users/271007580547973121) | `Moderador` |
 
 ---
 
@@ -44,12 +43,14 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
-| ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | [**Trolendo**](https://link_de_red_social.com) | `Helper` |
-| ![Skin de Ikaros_YT](../images/Rangos/Dev/Steve.png) | [**Ikaros_YT**](https://link_de_red_social.com) | `Helper` |
-| ![Skin de IMarioCrack](../images/Rangos/Dev/Steve.png) | [**IMarioCrack**](https://link_de_red_social.com) | `Helper` |
-| ![Skin de Morcant_](../images/Rangos/Dev/Steve.png) | [**Morcant_**](https://link_de_red_social.com) | `Helper` |
-| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png) | [**yThmks_**](https://link_de_red_social.com) | `Helper` |
-| ![Skin de TRANSLATOR](../images/Rangos/Dev/Steve.png) | [**TRANSLATOR**](https://link_de_red_social.com) | `Helper` |
+| ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | [**Trolendo**](https://discord.com/users/392483301232869376) | `Helper` |
+| ![Skin de Ikaros_YT](../images/Rangos/Dev/Steve.png) | [**Ikaros_YT**](https://discord.com/users/1175172885875269657) | `Helper` |
+| ![Skin de IMarioCrack](../images/Rangos/Dev/Steve.png) | [**IMarioCrack**](https://discord.com/users/518773473229799425) | `Helper` |
+| ![Skin de Morcant_](../images/Rangos/Dev/Steve.png) | [**Morcant_**](https://discord.com/users/1132724487230586992) | `Helper` |
+| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png) | [**yThmks_**](https://discord.com/users/1326392966281035776) | `Helper` |
+| ![Skin de TRANSLATOR](../images/Rangos/Dev/Steve.png) | [**TRANSLATOR**](https://discord.com/users/981285988825464902) | `Helper` |
+| ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png) | [**Juniorcx**](https://discord.com/users/1135341528865321062) | `Helper` |
+| ![Skin de MrBlat](../images/Rangos/Dev/Steve.png) | [**MrBlat**](https://discord.com/users/346261116667822080) | `Helper` |
 
 ---
 
@@ -59,10 +60,10 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
-| ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png) | [**Marukuz**](https://link_de_red_social.com) | `Developer Líder` |
-| ![Skin de Cheminsky](../images/Rangos/Dev/Steve.png) | [**Cheminsky**](https://link_de_red_social.com) | `Developer` |
-| ![Skin de MiNombreEsVaro](../images/Rangos/Staff/varo.png) | [**MiNombreEsVaro**](https://link_de_red_social.com) | `Developer` |
-| ![Skin de raptor654](../images/Rangos/Staff/raptor.png) | [**raptor654**](https://link_de_red_social.com) | `Developer` |
+| ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png) | [**Marukuz**](https://discord.com/users/219036433380278272) | `Developer Líder` |
+| ![Skin de Cheminsky](../images/Rangos/Dev/Steve.png) | [**Cheminsky**](https://discord.com/users/409782467218636800) | `Developer` |
+| ![Skin de MiNombreEsVaro](../images/Rangos/Staff/varo.png) | [**MiNombreEsVaro**]([https://link_de_red_social.com](https://discord.com/users/518773473229799425)) | `Developer` |
+| ![Skin de raptor654](../images/Rangos/Staff/raptor.png) | [**raptor654**](https://discord.com/users/688501679821553882) | `Developer` |
 
 ---
 
@@ -72,13 +73,13 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
-| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | [**ITSFrankoGG**](https://link_de_red_social.com) | `Builder Líder` |
-| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | [**xFuriadaNoitex**](https://link_de_red_social.com) | `Builder` |
-| ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | [**Trolendo**](https://link_de_red_social.com) | `Builder` |
-| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | [**Gamertito**](https://link_de_red_social.com) | `Builder` |
-| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | [**Mai_075**](https://link_de_red_social.com) | `Builder` |
-| ![Skin de Arii](../images/Rangos/Builder/ari.png) | [**Arii**](https://link_de_red_social.com) | `Builder` |
-| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png) | [**yThmks_**](https://link_de_red_social.com) | `Builder` |
+| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | [**ITSFrankoGG**](https://discord.com/users/1000166441837932725) | `Builder Líder` |
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | [**xFuriadaNoitex**](https://discord.com/users/754513258693656697) | `Builder` |
+| ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | [**Trolendo**](https://discord.com/users/392483301232869376) | `Builder` |
+| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | [**Gamertito**](https://discord.com/users/1043510532977721394) | `Builder` |
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | [**Mai_075**](https://discord.com/users/323833550568685570) | `Builder` |
+| ![Skin de Arii](../images/Rangos/Builder/ari.png) | [**Arii**]((https://discord.com/users/920039408818876446)) | `Builder` |
+| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png) | [**yThmks_**](https://discord.com/users/1326392966281035776) | `Builder` |
 
 ---
 
@@ -88,9 +89,10 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
-| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | [**Mai_075**](https://link_de_red_social.com) | `Diseñadora 3D` |
-| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | [**xFuriadaNoitex**](https://link_de_red_social.com) | `Diseñador 3D` |
-| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png) | [**YamatoDust**](https://link_de_red_social.com) | `Diseñador 3D` |
-| ![Skin de EnzuoGa](../images/Rangos/Staff/enzo.png) | [**EnzuoGa**](https://link_de_red_social.com) | `Diseñador 3D` |
-| ![Skin de rowlex](../images/Rangos/Staff/rowlexad.png) | [**rowlex**](https://link_de_red_social.com) | `Diseñador 2D` |
-| ![Skin de raptor654](../images/Rangos/Staff/raptor.png) | [**raptor654**](https://link_de_red_social.com) | `Diseñador 3D` |
+| ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | [**Mai_075**](https://discord.com/users/323833550568685570) | `Diseñadora 3D` |
+| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | [**xFuriadaNoitex**](https://discord.com/users/754513258693656697) | `Diseñador 3D` |
+| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png) | [**YamatoDust**](https://discord.com/users/602295799279517696) | `Diseñador 3D` |
+| ![Skin de EnzuoGa](../images/Rangos/Staff/enzo.png) | [**EnzuoGa**](https://discord.com/users/481080133349015554) | `Diseñador 3D` |
+| ![Skin de rowlex](../images/Rangos/Staff/rowlexad.png) | [**rowlex**](https://discord.com/users/882708690732449883) | `Diseñador 2D` |
+| ![Skin de raptor654](../images/Rangos/Staff/raptor.png) | [**raptor654**](https://discord.com/users/688501679821553882) | `Diseñador 3D` |
+| ![Skin de Ivan_GC](../images/Rangos/Staff/Steve.png) | [**Ivan_GC**](https://discord.com/users/688501679821553882) | `Diseñador 3D` |
