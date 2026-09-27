@@ -1,4 +1,4 @@
-<img width="441" height="590" alt="imagen" src="https://github.com/user-attachments/assets/2f77f7bf-cc0f-4c64-9a75-980d0568522d" /># 🛠️ Equipo de Staff — Universo PokéNet
+# 🛠️ Equipo de Staff — Universo PokéNet
 
 En **[Universo PokéNet](../README.md)** contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y rangos. Haz clic en su nombre para visitar sus redes sociales.
 
