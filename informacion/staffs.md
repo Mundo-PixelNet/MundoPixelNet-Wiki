@@ -8,7 +8,7 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
-| ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) | [**PokeSantiTW**](https://link_de_red_social.com) | `Dueño` |
+| ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) | [**PokeSantiTW**](https://discord.com/users/255649456119218188) | `Dueño` |
 
 ---
 
