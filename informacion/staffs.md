@@ -1,4 +1,4 @@
-# 🛠️ Equipo de Staff — Universo PokéNet
+<img width="441" height="590" alt="imagen" src="https://github.com/user-attachments/assets/2f77f7bf-cc0f-4c64-9a75-980d0568522d" /># 🛠️ Equipo de Staff — Universo PokéNet
 
 En **[Universo PokéNet](../README.md)** contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y rangos. Haz clic en su nombre para visitar sus redes sociales.
 
@@ -18,7 +18,7 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
-| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png) | [**YamatoDust**](https://link_de_red_social.com) | `Admin Líder` |
+| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png) | [**YamatoDust**](https://discord.com/users/602295799279517696) | `Admin Líder` |
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | [**xFuriadaNoitex**](https://link_de_red_social.com) | `Admin Líder` |
 | ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | [**Mai_075**](https://link_de_red_social.com) | `Directora Creativa` |
 | ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | [**Gamertito**](https://link_de_red_social.com) | `Admin` |
