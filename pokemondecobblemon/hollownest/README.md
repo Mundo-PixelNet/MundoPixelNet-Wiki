@@ -6,7 +6,7 @@
 
 ### Información
 
-**Glowmite** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la [Temporada Inicial]. Es la fase larval de la línea evolutiva.
+**Glowmite** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la **[Temporada Inicial]**. Es la fase larval de la línea evolutiva.
 
 | **Artwork** | ![Artwork de Glowmite](../../images/pokemon/hollownest/image.png) |
 | :---: | :--- |
@@ -14,17 +14,17 @@
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Steadfast](https://www.wikidex.net/wiki/Impasible) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
-| **Evoluciona a** | Chryseil (Nivel 12) |
+| **Evoluciona a** | Chryseil  |
 | **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
-Glowmite: La primera y más elemental de estas manifestaciones, se cree que es una fase larval o una forma rudimentaria del Vacío. Su brillo tenue en la oscuridad, lejos de ser una guía, parece ser una pulsación de su propia esencia, una llamada silenciosa desde las profundidades.
+**Glowmite:** La primera y más elemental de estas manifestaciones, se cree que es una fase larval o una forma rudimentaria del Vacío. Su brillo tenue en la oscuridad, lejos de ser una guía, parece ser una pulsación de su propia esencia, una llamada silenciosa desde las profundidades.
 
 ### Características base
 
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Glowmite son las siguientes:
 
-| Estadística | Valor y Distribución |
+| Estadística | Distribución |
 | :--- | :---: |
 | **PS** | **30** `███░░░░░░░` |
 | **Ataque** | **25** `██░░░░░░░░` |
@@ -63,7 +63,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 ### Información
 
-**Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la [Temporada Inicial]. Es la fase crisálida y de transición.
+**Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la **[Temporada Inicial]**. Es la fase crisálida y de transición.
 
 | **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
 | :---: | :--- |
@@ -71,17 +71,17 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Steadfast](https://www.wikidex.net/wiki/Impasible) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
-| **Evoluciona a** | Veskorn (Macho, Nv 32) / Silkorn (Hembra, Nv 32) |
+| **Evoluciona a** | Veskorn  |
 | **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
-Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa, un capullo donde ocurre un proceso imposible: la criatura fusiona la seda primigenia recolectada de la oscuridad con la esencia pura del Vacío del Abismo. El resultado es una armadura natural, una 'Seda-Quitina' forjada de hebra y nada, que sirve como protección perfecta mientras evoluciona.
+**Chryseil:** Esta forma no es una solidificación pasiva. Es una crisálida activa, un capullo donde ocurre un proceso imposible: la criatura fusiona la seda primigenia recolectada de la oscuridad con la esencia pura del Vacío del Abismo. El resultado es una armadura natural, una 'Seda-Quitina' forjada de hebra y nada, que sirve como protección perfecta mientras evoluciona.
 
 ### Características base
 
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Chryseil son las siguientes:
 
-| Estadística | Valor y Distribución |
+| Estadística | Distribución |
 | :--- | :---: |
 | **PS** | **65** `██████░░░░` |
 | **Ataque** | **25** `██░░░░░░░░` |
@@ -119,7 +119,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 ### Información
 
-**Veskorn** es un Pokémon de tipo [siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
+**Veskorn** es un Pokémon de tipo [siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la **[Temporada Inicial]**. Es la bifurcación masculina, especializada en Ataque Especial.
 
 | **Artwork** | ![Artwork de Veskorn](../../images/pokemon/hollownest/4.png) |
 | :---: | :--- |
@@ -127,17 +127,31 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Habilidades** | [Competitive](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Mold Breaker](https://www.wikidex.net/wiki/Rompemoldes) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
-| **Evoluciona de** | Chryseil (Nivel 32, Macho) |
+| **Evoluciona de** | Chryseil  |
 | **Creado por** | FuriadaNoite |
 
+<details>
+<summary><strong>Ver Aspecto Alternativo: Forma Grimm</strong></summary>
+
+<br>
+
+### Forma Grimm
+![Forma Grimm de Veskorn](../../images/pokemon/hollownest/4_grimm.png)
+
+*Aspecto especial alternativo inspirado en la Forma Grimm.*
+
+</details>
+
+<br>
+
 ### Descripción (Lore)
-Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que sacrifica su tamaño por un poder espectral. Su armadura de Seda-Quitina se oscurece, volviéndose quebradiza pero ligera. Armado con un 'aguijón' afilado—una extensión de su propia voluntad solidificada—, Veskorn es un cazador implacable que encarna la tenacidad y el silencio del Abismo. Se mueve sin sonido, un guardián de secretos oscuros.
+**Veskorn:** Este ser es un receptáculo de pura sombra, un cascarón silencioso que sacrifica su tamaño por un poder espectral. Su armadura de Seda-Quitina se oscurece, volviéndose quebradiza pero ligera. Armado con un 'aguijón' afilado—una extensión de su propia voluntad solidificada—, Veskorn es un cazador implacable que encarna la tenacidad y el silencio del Abismo. Se mueve sin sonido, un guardián de secretos oscuros.
 
 ### Características base
 
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Veskorn son las siguientes:
 
-| Estadística | Valor y Distribución |
+| Estadística | Distribución |
 | :--- | :---: |
 | **PS** | **70** `██████░░░░` |
 | **Ataque** | **60** `█████░░░░░` |
@@ -183,7 +197,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 ### Información
 
-**Silkorn** es un Pokémon de tipo [siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Inicial]. Es la bifurcación femenina, especializada en Ataque Físico.
+**Silkorn** es un Pokémon de tipo [siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la **[Temporada Inicial]**. Es la bifurcación femenina, especializada en Ataque Físico.
 
 | **Artwork** | ![Artwork de Silkorn](../../images/pokemon/hollownest/3.png) |
 | :---: | :--- |
@@ -191,8 +205,9 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Habilidades** | [Defiant](https://www.wikidex.net/wiki/Tenacidad)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Sharpness](https://www.wikidex.net/wiki/Cortante) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
-| **Evoluciona de** | Chryseil (Nivel 32, Hembra) |
+| **Evoluciona de** | Chryseil  |
 | **Creado por** | FuriadaNoite |
+
 
 ### Descripción (Lore)
 Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más alta y esbelta, Silkorn ha refinado la fusión, utilizando el Vacío solo como núcleo de poder mientras teje la Seda en una armadura ligera y flexible que permite una agilidad acrobática. Armada con una 'aguja' quitinosa, Silkorn no solo usa la seda; la comanda, lanzando hilos para moverse y atacar. No es un espectro silencioso, sino una bailarina orgullosa, una protectora de su territorio que danza en la oscuridad.
@@ -201,7 +216,7 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Silkorn son las siguientes:
 
-| Estadística | Valor y Distribución |
+| Estadística | Distribución |
 | :--- | :---: |
 | **PS** | **70** `██████░░░░` |
 | **Ataque** | **125** `███████████` |
