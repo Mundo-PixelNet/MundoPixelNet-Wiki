@@ -136,7 +136,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 <br>
 
 ### Forma Grimm
-![Forma Grimm de Veskorn](../../images/pokemon/pokenightmares/grimm-ingame.png)
+![Forma Grimm de Veskorn](../../images/pokemon/pokenightmares/Grimm.png)
 
 *Aspecto especial alternativo inspirado en la Forma Grimm.*
 
