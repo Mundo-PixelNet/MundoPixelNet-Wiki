@@ -32,7 +32,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **At. Esp** | **40** `████░░░░░░` |
 | **Def. Esp** | **25** `██░░░░░░░░` |
 | **Velocidad** | **50** `█████░░░░░` |
-| **TOTAL** | **202 puntos** |
+| **TOTAL** | **202** |
 
 ### Movimientos
 
@@ -89,7 +89,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **At. Esp** | **55** `█████░░░░░` |
 | **Def. Esp** | **60** `██████░░░░` |
 | **Velocidad** | **30** `███░░░░░░░` |
-| **TOTAL** | **220 puntos** |
+| **TOTAL** | **220** |
 
 ### Movimientos
 
@@ -145,7 +145,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **At. Esp** | **125** `███████████` |
 | **Def. Esp** | **85** `███████░░░` |
 | **Velocidad** | **95** `████████░░` |
-| **TOTAL** | **540 puntos** |
+| **TOTAL** | **540** |
 
 ### Movimientos
 
@@ -209,7 +209,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **At. Esp** | **80** `██████░░░░` |
 | **Def. Esp** | **75** `██████░░░░` |
 | **Velocidad** | **110** `██████████` |
-| **TOTAL** | **541 puntos** |
+| **TOTAL** | **541** |
 
 ### Movimientos
 
