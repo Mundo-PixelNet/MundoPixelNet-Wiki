@@ -12,8 +12,8 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
 
 | 📲 Pokémon |
 | :------: |
-| [Abyssect](abyssect.md) |
-| [Rotom GameBoy](hibrido-gardewile.md) |
+| [📲 Abyssect](abyssect.md) |
+| [📲 Rotom GameBoy](hibrido-gardewile.md) |
 
 ### 🥇 Skins del Pase
 
