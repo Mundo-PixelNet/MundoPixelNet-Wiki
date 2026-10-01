@@ -44,8 +44,8 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
 | ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | <details><summary><b>Trolendo</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/392483301232869376)</details> | `Helper` |
-| ![Skin de Ikaros_YT](../images/Rangos/staff/ikaros.png) | <details><summary><b>Ikaros_YT</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1175172885875269657)</details> | `Helper` |
-| ![Skin de IMarioCrack](../images/Rangos/staff/mario.png) | <details><summary><b>IMarioCrack</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/388022318066302978)</details> | `Helper` |
+| ![Skin de Ikaros_YT](../images/Rangos/Staff/ikaros.png) | <details><summary><b>Ikaros_YT</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1175172885875269657)</details> | `Helper` |
+| ![Skin de IMarioCrack](../images/Rangos/Staff/mario.png) | <details><summary><b>IMarioCrack</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/388022318066302978)</details> | `Helper` |
 | ![Skin de Morcant_](../images/Rangos/Staff/morcant.png) | <details><summary><b>Morcant_</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1132724487230586992)<br>• **Bio:** [e-z.bio/harr599](https://e-z.bio/harr599)</details> | `Helper` |
 | ![Skin de yThmks_](../images/Rangos/Staff/ythm.png) | <details><summary><b>yThmks_</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1326392966281035776)</details> | `Helper` |
 | ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png) | <details><summary><b>Juniorcx</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1135341528865321062)</details> | `Helper` |
