@@ -136,7 +136,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 <br>
 
 ### Forma Grimm
-![Forma Grimm de Veskorn](../../images/pokemon/hollownest/4_grimm.png)
+![Forma Grimm de Veskorn](../../images/pokemon/hollownest)
 
 *Aspecto especial alternativo inspirado en la Forma Grimm.*
 
