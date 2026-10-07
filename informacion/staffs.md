@@ -2,9 +2,11 @@
 
 En **[Universo PokéNet](../README.md)** contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y rangos. Haz clic en el nombre de cada miembro para desplegar sus redes sociales e información.
 
-**Ir a:** [Dueño](#dueño) · [Administrador](#administrador) · [Moderador](#moderador) · [Helper](#helper) · [Developer](#developer) · [Builder](#builder) · [Equipo Creativo](#equipo-creativo)
+**Ir a:** [Dueño](#dueno) · [Administrador](#administrador) · [Moderador](#moderador) · [Helper](#helper) · [Developer](#developer) · [Builder](#builder) · [Equipo Creativo](#equipo-creativo)
 
 ---
+
+<a id="dueno"></a>
 
 # ![Dueño](../images/Rangos/Dios/diosarc.png) Dueño
 
@@ -15,6 +17,8 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) | <details><summary><b>PokeSantiTW</b></summary><br><b>ℹ️ Información del Staff:</b><br>• <b>Discord:</b> <a href="https://discord.com/users/255649456119218188">Perfil</a><br>• <b>Twitter/X:</b> <a href="https://x.com/PokeSantiTW">@PokeSantiTW</a></details> | `Dueño` |
 
 ---
+
+<a id="administrador"></a>
 
 # ![Admin](../images/Rangos/Admin/adminArc.png) Administrador
 
@@ -29,6 +33,8 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 ---
 
+<a id="moderador"></a>
+
 # ![Moderador](../images/Rangos/Mod/modarc.png) Moderador
 
 > **Encargados de mantener el orden, aplicar sanciones y asegurar la armonía en la comunidad.**
@@ -40,6 +46,8 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png) | <details><summary><b>RivalSilver97</b></summary><br><b>ℹ️ Información del Staff:</b><br>• <b>Discord:</b> <a href="https://discord.com/users/271007580547973121">Perfil</a><br>• <b>Fangame:</b> <a href="https://pokemongrandorder.blogspot.com/">Pokémon Grand Order</a></details> | `Moderador` |
 
 ---
+
+<a id="helper"></a>
 
 # ![Helper](../images/Rangos/Helper/helperarc.png) Helper
 
@@ -58,6 +66,8 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 ---
 
+<a id="developer"></a>
+
 # ![Dev](../images/Rangos/Dev/devarc.png) Developer
 
 > **Ingenieros del servidor: programación de plugins, bots e integración de nuevas mecánicas.**
@@ -70,6 +80,8 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | ![Skin de raptor654](../images/Rangos/Staff/raptor.png) | <details><summary><b>raptor654</b></summary><br><b>ℹ️ Información del Staff:</b><br>• <b>Discord:</b> <a href="https://discord.com/users/688501679821553882">Perfil</a><br>• <b>GitHub:</b> <a href="https://github.com/diego-febles-seoane">diego-febles-seoane</a></details> | `Developer` |
 
 ---
+
+<a id="builder"></a>
 
 # 🧱 Builder
 
@@ -88,6 +100,8 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | ![Skin de HiroIkimisha](../images/Rangos/Staff/HIRO.png) | <details><summary><b>HiroIkimisha</b></summary><br><b>ℹ️ Información del Staff:</b><br>• <b>Discord:</b> <a href="https://discord.com/users/684171967036915751">Perfil</a></details> | `Builder` |
 
 ---
+
+<a id="equipo-creativo"></a>
 
 # 🖌️ Equipo Creativo
 
