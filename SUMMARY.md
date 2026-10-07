@@ -18,7 +18,7 @@
 
 ## FUNCIONES
 
-<!-- * [👾 Raids](cobblemon/raids/raids.md) -->
+* [💥 Raids](cobblemon/raids/raids.md)
 <!-- * [⚔️ Ranked](cobblemon/ranked/ranked.md) -->
 <!-- * [🛡️ Sets de Equipamiento](cobblemon/equipamiento/equipamiento.md)
   * [Sugilita](cobblemon/equipamiento/sugilita.md)
