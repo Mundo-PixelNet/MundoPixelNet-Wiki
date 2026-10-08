@@ -30,6 +30,7 @@
 
 ### Forma Shiny
 ![Forma shiny](../../images/pokemon/abyssect/abyssect_shiny.png)
+</details>
 
 ### Descripción (Lore)
 **Abyssect:** Una manifestación de poder antiguo que combina la ferocidad de los dragones con la adaptabilidad de los insectos. Su núcleo abisal pulsa con una energía oscura que le permite ejecutar movimientos rápidos y letales, siendo una de las criaturas más temidas de su hábitat.
@@ -101,7 +102,8 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 <br>
 
 ### Forma Mega Shiny
-![Forma shiny](../../images/pokemon/abyssect/mega_abyssect_shiny.png)
+![Forma shiny](../../images/pokemon/abyssect/mega_abbysect_shiny.png)
+</details>
 
 ### Descripción (Lore)
 **Mega-Abyssect:** La energía de la megaevolución ha sobrecargado su núcleo abisal, otorgándole una fuerza física capaz de desgarrar dimensiones. Su armadura de quitina se refuerza y sus alas vibran a una frecuencia que intimida a cualquier oponente, convirtiéndolo en el máximo exponente de su línea evolutiva. Su naturaleza bicho se vuelve más errática y agresiva.
