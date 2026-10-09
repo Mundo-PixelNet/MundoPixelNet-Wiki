@@ -2,11 +2,7 @@
 
 En **[Universo PokéNet](../README.md)** contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y rangos. Haz clic en el nombre de cada miembro para desplegar sus redes sociales e información.
 
-**Ir a:** [Dueño](#dueno) · [Administrador](#administrador) · [Moderador](#moderador) · [Helper](#helper) · [Developer](#developer) · [Builder](#builder) · [Equipo Creativo](#equipo-creativo)
-
 ---
-
-<a id="dueno"></a>
 
 # ![Dueño](../images/Rangos/Dios/diosarc.png) Dueño
 
@@ -17,8 +13,6 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) | <details><summary><b>PokeSantiTW</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/255649456119218188)<br>• **Twitter/X:** [@PokeSantiTW](https://x.com/PokeSantiTW)</details> | `Dueño` |
 
 ---
-
-<a id="administrador"></a>
 
 # ![Admin](../images/Rangos/Admin/adminArc.png) Administrador
 
@@ -33,8 +27,6 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 ---
 
-<a id="moderador"></a>
-
 # ![Moderador](../images/Rangos/Mod/modarc.png) Moderador
 
 > **Encargados de mantener el orden, aplicar sanciones y asegurar la armonía en la comunidad.**
@@ -42,12 +34,10 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | <details><summary><b>ITSFrankoGG</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1000166441837932725)</details> | `Moderador` |
-| ![Skin de Teyu_31](../images/Rangos/Helper/Teyu.png) | <details><summary><b>Teyu_31</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/570326732704579587)</details> | `Moderador` |
+| ![Skin de Teyu_31](../images/Rangos/Helper/Teyu_31.png) | <details><summary><b>Teyu_31</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/570326732704579587)</details> | `Moderador` |
 | ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png) | <details><summary><b>RivalSilver97</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/271007580547973121)<br>• **Fangame:** [Pokémon Grand Order](https://pokemongrandorder.blogspot.com/)</details> | `Moderador` |
 
 ---
-
-<a id="helper"></a>
 
 # ![Helper](../images/Rangos/Helper/helperarc.png) Helper
 
@@ -66,8 +56,6 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 ---
 
-<a id="developer"></a>
-
 # ![Dev](../images/Rangos/Dev/devarc.png) Developer
 
 > **Ingenieros del servidor: programación de plugins, bots e integración de nuevas mecánicas.**
@@ -81,8 +69,6 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 ---
 
-<a id="builder"></a>
-
 # 🧱 Builder
 
 > **Arquitectos de PokéNet: construcción de mapas, spawns, zonas de misiones y eventos.**
@@ -94,14 +80,12 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 | ![Skin de Trolendo](../images/Rangos/Dev/Steve.png) | <details><summary><b>Trolendo</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/392483301232869376)</details> | `Builder` |
 | ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png) | <details><summary><b>Gamertito</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1043510532977721394)</details> | `Builder` |
 | ![Skin de Mai_075](../images/Rangos/Staff/mai.png) | <details><summary><b>Mai_075</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/323833550568685570)</details> | `Builder` |
-| ![Skin de Arii](../images/Rangos/Builder/ari.png) | <details><summary><b>Arii</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/920039408818876446)</details> | `Builder` |
+| ![Skin de Arii](../images/Rangos/Builder/arii.png) | <details><summary><b>Arii</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/920039408818876446)</details> | `Builder` |
 | ![Skin de yThmks_](../images/Rangos/Staff/ythm.png) | <details><summary><b>yThmks_</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/1326392966281035776)</details> | `Builder` |
 | ![Skin de JaviPuerto31](../images/Rangos/Staff/javipuerto.png) | <details><summary><b>JaviPuerto31</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/447798264557994004)</details> | `Builder` |
 | ![Skin de HiroIkimisha](../images/Rangos/Staff/HIRO.png) | <details><summary><b>HiroIkimisha</b></summary><br><b>ℹ️ Información del Staff:</b><br>• **Discord:** [Perfil](https://discord.com/users/684171967036915751)</details> | `Builder` |
 
 ---
-
-<a id="equipo-creativo"></a>
 
 # 🖌️ Equipo Creativo
 
