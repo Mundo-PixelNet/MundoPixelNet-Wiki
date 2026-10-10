@@ -1,9 +1,27 @@
 # 💥 Raids
 
 ## 📃 Lista de Pokémon
+*Créditos a WikiDex*
+
 {% tabs %}
 {% tab title="1 🔸" %}
-![Imagen Tier 1](../../images/raids/tier1.png)
+![Lista de Pokémon en Tier 1](../../images/raids/tier1.png)
+{% endtab %}
+{% tab title="2 🔸🔸" %}
+![Lista de Pokémon en Tier 2](../../images/raids/tier2.png)
+{% endtab %}
+{% tab title="3 🔸🔸🔸" %}
+![Lista de Pokémon en Tier 3](../../images/raids/tier3.png)
+{% endtab %}
+{% tab title="4 🔸🔸🔸🔸" %}
+![Lista de Pokémon en Tier 4](../../images/raids/tier4.png)
+{% endtab %}
+{% tab title="5 🔸🔸🔸🔸🔸" %}
+![Lista de Pokémon en Tier 5](../../images/raids/tier5.png)
+{% endtab %}
+{% tab title="6 🔸🔸🔸🔸🔸🔸" %}
+![Lista de Pokémon en Tier 6](../../images/raids/tier6.png)
+*Los Pokémon en rojo son Pokémon destacados temporalmente*
 {% endtab %}
 {% endtabs %}
 
