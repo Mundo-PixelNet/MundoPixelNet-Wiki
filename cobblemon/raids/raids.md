@@ -32,6 +32,18 @@ Completar una Raid haciendo daño al Jefe tiene recompensas, que varían mucho d
 
 ***
 
+**🍬 IVs perfectos:** Cuanto mayor es la dificultad de la Raid, mayores son sus IVs perfectos. Dependiendo tanto de la 🔸 Tier como de **tu puesto en daño recibirás un Pokémon con cierto número de IVs perfectos:**
+| Tier | 🥇 Primero | 🥈 Segundo | 🥉 Tercero | Restante |
+| - | - | - | - | - |
+| 🔸 | 1 | 0 | 0 | 0 |
+| 🔸🔸 | 2 | 1 | 1 | 0 |
+| 🔸🔸🔸 | 3 | 2 | 1 | 1 |
+| 🔸🔸🔸🔸 | 4 | 3 | 2 | 1 |
+| 🔸🔸🔸🔸🔸 | 5 | 4 | 3 | 2 |
+| 🔸🔸🔸🔸🔸🔸 | 6 | 5 | 4 | 3 |
+
+***
+
 **🔥 Objetos de Tipo:** Dependiendo de qué tipo elemental sea el Jefe **puedes obtener distintas recompensas.**
 
 {% hint style="warning" %}
