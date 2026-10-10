@@ -206,7 +206,7 @@ Y además, dependiendo del Tipo del Pokémon recibirás alguno de estos objetos,
 | - | - |
 | 3 🔸🔸🔸 | 1 |
 | 4 🔸🔸🔸🔸 | 2 |
-| 5 🔸🔸🔸🔸🔸 | 3 |
+| 5 🔸🔸🔸🔸🔸 | 2 |
 | 6 🔸🔸🔸🔸🔸🔸 | 4 |
 
 {% tabs %}
