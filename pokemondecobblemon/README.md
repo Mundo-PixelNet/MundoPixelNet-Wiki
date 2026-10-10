@@ -10,8 +10,8 @@ Estos Pokémon se obtienen mediante distintos métodos: **spawns salvajes en el 
 ## 🔍 Registros
 | Nº | Pokémon | Enlace |
 | :---: | :--- | :---: |
-| **#2001 - #2004** | **Veskorn y Silkorn** | [Ver Ficha ➔](../pokemondecobblemon/hollownest/hollownest.md) |
-| **#2005** | **Abyssect** | [Ver Ficha ➔](../pokemondecobblemon/abyssect/abyssect.md) |
+| **#2001 - #2004** | **Veskorn y Silkorn** | [Ver Ficha ➔](hollownest/hollownest.md) |
+| **#2005** | **Abyssect** | [Ver Ficha ➔](abyssect/abyssect.md) |
 ---
 
 ## ❓ Preguntas Frecuentes (FAQ)

@@ -30,6 +30,8 @@
 
 ## POKÉMON
 * [📲 Pokédex](pokemondecobblemon/README.md)
+  * [👾 Abyssect](pokemondecobblemon/abyssect/abyssect.md)
+  * [🐛 Hollownet](pokemondecobblemon/hollownest/hollownest.md)
 * [🎃 PokéNightmares 2025](pokemondecobblemon/pokenightmares-2025/README.md)
   * [📕 Grimm](pokemondecobblemon/pokenightmares-2025/mision-grimm.md)
   * [📕 Noivern Nightmare](pokemondecobblemon/pokenightmares-2025/mision-noivern.md)
