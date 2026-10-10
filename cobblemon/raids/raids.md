@@ -21,6 +21,7 @@
 {% endtab %}
 {% tab title="6 🔸🔸🔸🔸🔸🔸" %}
 ![Lista de Pokémon en Tier 6](../../images/raids/tier6.png)
+
 *Los Pokémon en rojo son Pokémon destacados temporalmente*
 {% endtab %}
 {% endtabs %}
@@ -69,21 +70,142 @@ Completar una Raid haciendo daño al Jefe tiene recompensas, que varían mucho d
 
 ***
 
-**🔥 Objetos de Tipo:** Dependiendo de qué tipo elemental sea el Jefe **puedes obtener distintas recompensas.**
+**🪣 Objetos:** Para acabar, recibirás una serie de objetos al ganar una Raid.
 
-{% hint style="warning" %}
-Estas recompensas solo se aplican en Raids de Tier 🔸🔸🔸 en adelante
-{% endhint %}
-
-{% hint style="info" %}
-**Si el Pokémon fuera de doble tipo, puedes obtener recompensas de los 2 Tipos.** Por ejemplo, si el Jefe fuera un Corviknight puedes conseguir las recompensas de Volador y Acero a la vez.
-{% endhint %}
-
-La cantidad de objetos que recibirás de cada lista dependerá de la Tier de la Raid. El porcentaje no cambia.
-| Tier | Cantidad de objetos |
+{% tabs %}
+{% tab title="1 🔸" %}
+De la siguiente tabla, recibirás 1-2 objetos diferentes.
+| Objeto | Cantidad |
 | - | - |
-| 3 🔸🔸🔸 | 2 |
-| 4 🔸🔸🔸🔸 | 3 |
+| **Lingote de hierro** | 4-8 |
+| **Lingote de cobre** | 4-8 |
+| **Lingote de oro** | 4-8 |
+| **Caramelo Exp. XS** | 2-4 |
+| **Caramelo Exp. S** | 2-3 |
+{% endtab %}
+{% tab title="2 🔸🔸" %}
+De la siguiente tabla, recibirás 2-3 objetos diferentes.
+| Objeto | Cantidad |
+| - | - |
+| **Lingote de hierro** | 4-8 |
+| **Lingote de cobre** | 4-8 |
+| **Lingote de oro** | 4-8 |
+| **Caramelo Exp. XS** | 4-6 |
+| **Caramelo Exp. S** | 3-6 |
+| **Caramelo Exp. M** | 2-3 |
+{% endtab %}
+{% tab title="3 🔸🔸🔸" %}
+De la siguiente tabla, recibirás 3-6 objetos diferentes.
+| Objeto | Cantidad |
+| - | - |
+| **Lingote de hierro** | 4-8 |
+| **Lingote de cobre** | 4-8 |
+| **Lingote de oro** | 4-8 |
+| **Diamante** | 4-6 |
+| **Caramelo Exp. S** | 4-10 |
+| **Caramelo Exp. M** | 3-6 |
+| **Caramelo Exp. L** | 2-3 |
+| **Mochi vigor** | 3-6 |
+| **Mochi músculo** | 3-6 |
+| **Mochi aguante** | 3-6 |
+| **Semillas de menta roja** | 2-4 |
+| **Semillas de menta azul** | 2-4 |
+| **Semillas de menta cian** | 2-4 |
+{% endtab %}
+{% tab title="4 🔸🔸🔸🔸" %}
+De la siguiente tabla, recibirás 4-10 objetos diferentes.
+| Objeto | Cantidad |
+| - | - |
+| **Lingote de hierro** | 8-12 |
+| **Lingote de cobre** | 8-12 |
+| **Lingote de oro** | 8-12 |
+| **Diamante** | 8-10 |
+| **Fragmentos de netherita** | 1-2 |
+| **Caramelo Exp. M** | 6-10 |
+| **Caramelo Exp. L** | 5-7 |
+| **Mochi vigor** | 3-6 |
+| **Mochi músculo** | 3-6 |
+| **Mochi aguante** | 3-6 |
+| **Mochi intelecto** | 3-6 |
+| **Mochi ímpetu** | 3-6 |
+| **Mochi mente** | 3-6 |
+| **Semillas de menta roja** | 2-4 |
+| **Semillas de menta azul** | 2-4 |
+| **Semillas de menta cian** | 2-4 |
+| **Semillas de menta rosa** | 2-4 |
+| **Semillas de menta verde** | 2-4 |
+| **Semillas de menta blanca** | 2-4 |
+| **Cápsula habilidad** | 1 |
+{% endtab %}
+{% tab title="5 🔸🔸🔸🔸🔸" %}
+De la siguiente tabla, recibirás 6-10 objetos diferentes.
+| Objeto | Cantidad |
+| - | - |
+| **Lingote de hierro** | 8-12 |
+| **Lingote de cobre** | 8-12 |
+| **Lingote de oro** | 8-12 |
+| **Diamante** | 8-10 |
+| **Fragmentos de netherita** | 1-2 |
+| **Caramelo Exp. M** | 6-10 |
+| **Caramelo Exp. L** | 6-10 |
+| **Mochi vigor** | 3-6 |
+| **Mochi músculo** | 3-6 |
+| **Mochi aguante** | 3-6 |
+| **Mochi intelecto** | 3-6 |
+| **Mochi ímpetu** | 3-6 |
+| **Mochi mente** | 3-6 |
+| **Semillas de menta roja** | 2-4 |
+| **Semillas de menta azul** | 2-4 |
+| **Semillas de menta cian** | 2-4 |
+| **Semillas de menta rosa** | 2-4 |
+| **Semillas de menta verde** | 2-4 |
+| **Semillas de menta blanca** | 2-4 |
+| **Cápsula habilidad** | 1-2 |
+| **Parche habilidad** | 1 |
+| **Caramelo IV PS** | 4-6 |
+| **Caramelo IV Ataque** | 4-6 |
+| **Caramelo IV Defensa** | 4-6 |
+{% endtab %}
+{% tab title="6 🔸🔸🔸🔸🔸🔸" %}
+De la siguiente tabla, recibirás 8-12 objetos diferentes.
+| Objeto | Cantidad |
+| - | - |
+| **Lingote de hierro** | 15-25 |
+| **Lingote de cobre** | 15-25 |
+| **Lingote de oro** | 15-25 |
+| **Diamante** | 15-20 |
+| **Fragmentos de netherita** | 3-4 |
+| **Caramelo Exp. L** | 6-10 |
+| **Caramelo Exp. XL** | 2-6 |
+| **Mochi vigor** | 3-6 |
+| **Mochi músculo** | 3-6 |
+| **Mochi aguante** | 3-6 |
+| **Mochi intelecto** | 3-6 |
+| **Mochi ímpetu** | 3-6 |
+| **Mochi mente** | 3-6 |
+| **Semillas de menta roja** | 2-4 |
+| **Semillas de menta azul** | 2-4 |
+| **Semillas de menta cian** | 2-4 |
+| **Semillas de menta rosa** | 2-4 |
+| **Semillas de menta verde** | 2-4 |
+| **Semillas de menta blanca** | 2-4 |
+| **Cápsula habilidad** | 2-3 |
+| **Parche habilidad** | 1 |
+| **Caramelo IV PS** | 4-6 |
+| **Caramelo IV Ataque** | 4-6 |
+| **Caramelo IV Defensa** | 4-6 |
+| **Caramelo IV Ataque Esp.** | 4-6 |
+| **Caramelo IV Defensa Esp.** | 4-6 |
+| **Caramelo IV Velocidad** | 4-6 |
+{% endtab %}
+{% endtabs %}
+
+Y además, dependiendo del Tipo del Pokémon recibirás alguno de estos objetos, pero solo se aplica a partir de la Tier 3 🔸🔸🔸. Dependiendo del nivel, recibirás cierta cantidad de objetos diferentes de la lista.
+
+| Tier | Cantidad |
+| - | - |
+| 3 🔸🔸🔸 | 1 |
+| 4 🔸🔸🔸🔸 | 2 |
 | 5 🔸🔸🔸🔸🔸 | 3 |
 | 6 🔸🔸🔸🔸🔸🔸 | 4 |
 
