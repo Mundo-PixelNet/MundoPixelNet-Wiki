@@ -108,9 +108,9 @@ De la siguiente tabla, recibirás 3-6 objetos diferentes.
 | **Mochi vigor** | 3-6 |
 | **Mochi músculo** | 3-6 |
 | **Mochi aguante** | 3-6 |
-| **Semillas de menta roja** | 2-4 |
-| **Semillas de menta azul** | 2-4 |
-| **Semillas de menta cian** | 2-4 |
+| **Semillas de menta roja** | 1-2 |
+| **Semillas de menta azul** | 1-2 |
+| **Semillas de menta cian** | 1-2 |
 {% endtab %}
 {% tab title="4 🔸🔸🔸🔸" %}
 De la siguiente tabla, recibirás 4-10 objetos diferentes.
@@ -122,7 +122,7 @@ De la siguiente tabla, recibirás 4-10 objetos diferentes.
 | **Diamante** | 8-10 |
 | **Fragmentos de netherita** | 1-2 |
 | **Caramelo Exp. M** | 6-10 |
-| **Caramelo Exp. L** | 5-7 |
+| **Caramelo Exp. L** | 2-4 |
 | **Mochi vigor** | 3-6 |
 | **Mochi músculo** | 3-6 |
 | **Mochi aguante** | 3-6 |
@@ -176,7 +176,7 @@ De la siguiente tabla, recibirás 8-12 objetos diferentes.
 | **Diamante** | 15-20 |
 | **Fragmentos de netherita** | 3-4 |
 | **Caramelo Exp. L** | 6-10 |
-| **Caramelo Exp. XL** | 2-6 |
+| **Caramelo Exp. XL** | 1-3 |
 | **Mochi vigor** | 3-6 |
 | **Mochi músculo** | 3-6 |
 | **Mochi aguante** | 3-6 |
