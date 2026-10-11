@@ -8,9 +8,9 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 > **La máxima autoridad de PokéNet: gestión general, visión estratégica y decisiones finales.**
 
-| Nick | Cargo | Redes |
+| Avar | Nick | Redes |
 | - | - | - |
-| ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) PokeSantiTW | `Dueño` | [<i class="fa-twitter">:twitter:</i>](https://x.com/PokeSantiTW) [<i class="fa-discord">:discord:</i>](https://discord.com/users/255649456119218188) |
+| ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) | PokeSantiTW | <i class="fa-twitter">[:twitter:](https://x.com/PokeSantiTW)</i> <i class="fa-discord">[:discord:](https://discord.com/users/255649456119218188)</i> |
 
 ---
 
