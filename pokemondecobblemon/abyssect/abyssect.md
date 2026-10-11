@@ -20,7 +20,6 @@
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Intimidate](https://www.wikidex.net/wiki/Intimidaci%C3%B3n) |
 | **Hab. oculta** | **Abyssalcore** (Custom) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Dragón](https://www.wikidex.net/wiki/Grupo_drag%C3%B3n) |
-| **Evoluciona a** | [Mega-Abyssect](#mega-abyssect) (Megaevolución) |
 | **Creado por** | xFuriadaNoitex |
 
 <details>
@@ -93,7 +92,6 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Tipos** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidad** | **Abyssalcore** (Custom) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Dragón](https://www.wikidex.net/wiki/Grupo_drag%C3%B3n) |
-| **Megaevoluciona de** | [Abyssect](#abyssect) |
 | **Creado por** | xFuriadaNoitex |
 
 <details>
