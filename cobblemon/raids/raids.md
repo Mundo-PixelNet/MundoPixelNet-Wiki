@@ -105,9 +105,9 @@ De la siguiente tabla, recibirás 3-6 objetos diferentes.
 | **Caramelo Exp. S** | 4-10 |
 | **Caramelo Exp. M** | 3-6 |
 | **Caramelo Exp. L** | 2-3 |
-| **Mochi vigor** | 3-6 |
-| **Mochi músculo** | 3-6 |
-| **Mochi aguante** | 3-6 |
+| **Más PS** | 1-3 |
+| **Proteina** | 1-3 |
+| **Hierro** | 1-3 |
 | **Semillas de menta roja** | 1-2 |
 | **Semillas de menta azul** | 1-2 |
 | **Semillas de menta cian** | 1-2 |
@@ -123,12 +123,12 @@ De la siguiente tabla, recibirás 4-10 objetos diferentes.
 | **Fragmentos de netherita** | 1-2 |
 | **Caramelo Exp. M** | 6-10 |
 | **Caramelo Exp. L** | 2-4 |
-| **Mochi vigor** | 3-6 |
-| **Mochi músculo** | 3-6 |
-| **Mochi aguante** | 3-6 |
-| **Mochi intelecto** | 3-6 |
-| **Mochi ímpetu** | 3-6 |
-| **Mochi mente** | 3-6 |
+| **Más PS** | 1-3 |
+| **Proteina** | 1-3 |
+| **Hierro** | 1-3 |
+| **Calcio** | 1-3 |
+| **Zinc** | 1-3 |
+| **Carburante** | 1-3 |
 | **Semillas de menta roja** | 2-4 |
 | **Semillas de menta azul** | 2-4 |
 | **Semillas de menta cian** | 2-4 |
@@ -148,12 +148,13 @@ De la siguiente tabla, recibirás 6-10 objetos diferentes.
 | **Fragmentos de netherita** | 1-2 |
 | **Caramelo Exp. M** | 6-10 |
 | **Caramelo Exp. L** | 6-10 |
-| **Mochi vigor** | 3-6 |
-| **Mochi músculo** | 3-6 |
-| **Mochi aguante** | 3-6 |
-| **Mochi intelecto** | 3-6 |
-| **Mochi ímpetu** | 3-6 |
-| **Mochi mente** | 3-6 |
+| **Más PS** | 1-3 |
+| **Proteina** | 1-3 |
+| **Hierro** | 1-3 |
+| **Calcio** | 1-3 |
+| **Zinc** | 1-3 |
+| **Carburante** | 1-3 |
+| **Más PP** | 1-3 |
 | **Semillas de menta roja** | 2-4 |
 | **Semillas de menta azul** | 2-4 |
 | **Semillas de menta cian** | 2-4 |
@@ -177,12 +178,13 @@ De la siguiente tabla, recibirás 8-12 objetos diferentes.
 | **Fragmentos de netherita** | 3-4 |
 | **Caramelo Exp. L** | 6-10 |
 | **Caramelo Exp. XL** | 1-3 |
-| **Mochi vigor** | 3-6 |
-| **Mochi músculo** | 3-6 |
-| **Mochi aguante** | 3-6 |
-| **Mochi intelecto** | 3-6 |
-| **Mochi ímpetu** | 3-6 |
-| **Mochi mente** | 3-6 |
+| **Más PS** | 3-5 |
+| **Proteina** | 3-5 |
+| **Hierro** | 3-5 |
+| **Calcio** | 3-5 |
+| **Zinc** | 3-5 |
+| **Carburante** | 3-5 |
+| **Más PP** | 3-5 |
 | **Semillas de menta roja** | 2-4 |
 | **Semillas de menta azul** | 2-4 |
 | **Semillas de menta cian** | 2-4 |
