@@ -2,7 +2,7 @@
 
 En el Safari podrás encontrar una **gran variedad de zonas con sus respectivos spawn** de Pokémon. Además, **¡podrás disfrutar de las Raids!** Estas Raids solo aparecen en el Safari, por lo que es el lugar ideal para ir con amigos a luchar contra Jefes formidables.
 
-{% content-ref url="raids.md" %}
+{% content-ref url="../raids/raids.md" %}
 [raids.md](../raids/raids.md)
 {% endcontent-ref %}
 
