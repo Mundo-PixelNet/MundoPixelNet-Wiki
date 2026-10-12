@@ -2,7 +2,7 @@
 description: Instalación del modpack de Cobblemon para el launcher Modrinth
 ---
 
-# CurseForge
+# 📁 CurseForge
 
 ## ⚙️ Launcher Universo PokéNet
 

@@ -1,19 +1,19 @@
-# 📕 GRIMM
+# 📕 Grimm
 
 ## Información
 
 **Grimm** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork grimm](../../images/pokemon/pokenightmares/Grimm.png)                                                          |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
-
+|             |                                                   |
+| ----------: | ------------------------------------------------- |
+| **Artwork** | ![artwork grimm](../../.gitbook/assets/Grimm.png) |
+|  Creado por | FuriadaNoite                                      |
 
 ### Comentario del desarrollador
-La creación de esta skin hace referencia al famoso personaje *Grimm* del videojuegos DLC **Hollow Knight**.
 
-![Vistazo en el juego a Grimm](../../images/pokemon/pokenightmares/grimm-ingame.png)
+La creación de esta skin hace referencia al famoso personaje _Grimm_ del videojuegos DLC **Hollow Knight**.
+
+![Vistazo en el juego a Grimm](../../.gitbook/assets/grimm-ingame.png)
 
 ## Obtención
 

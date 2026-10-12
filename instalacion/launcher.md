@@ -10,7 +10,7 @@ description: >-
 
 Con el Launcher de Universo PokéNet tendrás una experiencia de usuario mucho más cómoda. Las **actualizaciones del modpack se descargarán automáticamente** sin que tengas que hacer nada más. ¡Totalmente **recomendado usar nuestro Launcher**!
 
-![](/images/instalaciones/launcher/launcher1.png)
+![](<../.gitbook/assets/launcher1 (1).png>)
 
 Con nuestro Launcher podrás **iniciar sesión con tu cuenta de Microsoft** _(premium)_ o con un nick _(no-premium)_. **Pero recomendamos encarecidamente usar una cuenta con Minecraft comprado.**
 
@@ -30,7 +30,7 @@ La instalación del Launcher es bastante sencilla, sigue los siguientes pasos:
 
 1. Dirígete a la [Web de Universo PokéNet](https://universopokenet.com/) y haz clic en el botón de **JUGAR**. Después, haz clic en el botón "Descargar Launcher" para descargar la última versión _(en el GitHub anterior también tienes todas las descargas)_.
 
-![](/images/instalaciones/launcher/launcher2.png)
+![](<../.gitbook/assets/launcher2 (1).png>)
 
 2. Una vez se descargue el ejecutable, haz **doble clic en el .exe para empezar la instalación**. Es muy probable que te salga un aviso de "Windows protegió tu PC". Esto es completamente normal, pues no somos una empresa reconocida y el ejecutable no lo reconoce Windows aún. **Haz clic en "Más información" > "Ejecutar de todas formas" y se ejecutará.**
 
@@ -48,9 +48,9 @@ La instalación del Launcher es bastante sencilla, sigue los siguientes pasos:
 
 En la pantalla principal del Launcher haz click en "Usando: \[...]". Ahí podrás **seleccionar el modpack a usar**.
 
-![](/images/instalaciones/launcher/launcher6.png)
+![](<../.gitbook/assets/launcher6 (1).png>)
 
-![](/images/instalaciones/launcher/launcher7.png)
+![](<../.gitbook/assets/launcher7 (1).png>)
 
 Con el modpack seleccionado también puedes ir a **Ajustes > Mods** y comprobar todos los mods disponibles. **En la sección de "Mods opcionales" puedes desactivar mods** si lo ves necesario.
 

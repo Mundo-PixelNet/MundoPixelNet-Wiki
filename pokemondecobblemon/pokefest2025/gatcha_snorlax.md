@@ -3,16 +3,17 @@
 ## Información
 
 **Snorlax Navideño** es una Skin exclusiva del servidor introducida en [Pokéfest 2025](./).
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![Sprite de snorlax](../../images/pokemon/pokefest2025/snorlaxnavidad.png)                                           |                                                                                                             |
-|                      Creado por | Mai_075                                                                                                                 |
 
+|             |                                                                |
+| ----------: | -------------------------------------------------------------- |
+| **Artwork** | ![Sprite de snorlax](../../.gitbook/assets/snorlaxnavidad.png) |
+|  Creado por | Mai\_075                                                       |
 
 ### Comentario del desarrollador
-La creación de esta skin está basada en el famoso **Papá Noel**. 
 
-![Vistazo en el juego a Skibidi Wiglett](../../images/pokemon/pokefest2025/ingame_snorlax.png)
+La creación de esta skin está basada en el famoso **Papá Noel**.
+
+![Vistazo en el juego a Skibidi Wiglett](../../.gitbook/assets/ingame_snorlax.png)
 
 ## Obtención
 

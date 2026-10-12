@@ -1,16 +1,16 @@
 ---
-description: >-
-  Guía, consejos y recopilación sobre la crianza
+description: Guía, consejos y recopilación sobre la crianza
 ---
 
 # 💘 Crianza
 
 ## 💻 Interfaz de Crianza
-![Aplicación de Crianza](../../images/cobblemon/crianza/crianzaapp.png)
+
+![Aplicación de Crianza](../../.gitbook/assets/crianzaapp.png)
 
 El sistema de Crianza de Universo PokéNet se realiza a través de la **Aplicación Crianza de la Poké-Tablet**. También puedes usar el comando `/crianza` para abrir la Aplicación.
 
-![Guarderías](../../images/cobblemon/crianza/crianza1.png)
+![Guarderías](../../.gitbook/assets/crianza1.png)
 
 Desde esta interfaz podrás manejar tus Guarderías, comprar otras guarderías e incluso **leer una guía resumida de como funciona el sistema.**
 
@@ -19,14 +19,16 @@ En esta entrada de la Wiki explicaremos una Guía más extensa, pero la que se e
 ## 🛍 Requisitos
 
 Para empezar, vas a necesitar:
-- Dos Pokémon de sexos opuestos ![male](../../.gitbook/assets/male.png) ![female](../../.gitbook/assets/female.png).
-- Esos dos Pokémon deben pertenecer al mismo [Grupo Huevo](https://bulbapedia.bulbagarden.net/wiki/Egg_Group)
-- Una Guardería libre en `/crianza`.
+
+* Dos Pokémon de sexos opuestos ![male](../../.gitbook/assets/male.png) ![female](../../.gitbook/assets/female.png).
+* Esos dos Pokémon deben pertenecer al mismo [Grupo Huevo](https://bulbapedia.bulbagarden.net/wiki/Egg_Group)
+* Una Guardería libre en `/crianza`.
 
 Existe también la posibilidad que uno de los dos Pokémon sea un Ditto ![ditto](../../.gitbook/assets/ditto.png). En ese caso, solo necesitarás:
-- Ditto ![ditto](../../.gitbook/assets/ditto.png)
-- Pokémon que pueda criar, da igual que sexo.
-- Una Guardería libre en `/crianza`.
+
+* Ditto ![ditto](../../.gitbook/assets/ditto.png)
+* Pokémon que pueda criar, da igual que sexo.
+* Una Guardería libre en `/crianza`.
 
 {% hint style="danger" %}
 Si uno de los Pokémon está castrado, no podrá ser usado para criar. Al intentar añadirlo a la Guardería se mostrará como "castrado"
@@ -38,17 +40,18 @@ En la Aplicación de Crianza tendrás disponible las Guarderías donde criar a t
 
 **Dentro de la Guardería tendrás que seleccionar al Pokémon macho y hembra que se usarán para criar**. En caso de usar Ditto, da igual donde lo pongas mientras que el padre/madre esté en el lugar correcto.
 
-![Interfaz donde colocar los Pokémon para criar](../../images/cobblemon/crianza/crianza2.png)
+![Interfaz donde colocar los Pokémon para criar](../../.gitbook/assets/crianza2.png)
 
 {% hint style="info" %}
 ## Valores actuales de Crianza
-- Tiempo entre cada intento de huevo: `10 minutos`
-- Porcentaje de que aparezca un Huevo: `40%`
+
+* Tiempo entre cada intento de huevo: `10 minutos`
+* Porcentaje de que aparezca un Huevo: `40%`
 {% endhint %}
 
 Usando los valores anteriores existe la posibilidad de que aparezca un Huevo en medio. Si tienes suerte, **te llegará una notificación y podrás recoger tu Huevo.**
 
-![Así aparece la interfaz cuando el Huevo se ha generado](../../images/cobblemon/crianza/crianza3.png)
+![Así aparece la interfaz cuando el Huevo se ha generado](../../.gitbook/assets/crianza3.png)
 
 **También existe la Cesta de Huevos:** En la Guardería por defecto se pueden acumular hasta 2 Huevos, a medida que cries más esta cesta aumentará de tamaño hasta 5 Huevos.
 
@@ -56,25 +59,26 @@ Usando los valores anteriores existe la posibilidad de que aparezca un Huevo en 
 
 Cuando reclamas un Huevo de la Guardería te aparecerá en tu equipo Pokémon. Aunque no puedes usarlo en combate.
 
-![Huevos en tu equipo](../../images/cobblemon/crianza/crianza4.png)
+![Huevos en tu equipo](../../.gitbook/assets/crianza4.png)
 
 **Al lado de "Huevo" aparece en gris el número de pasos que tienes que hacer para eclosionar el huevo.**
 
 Puedes abrir las estadísticas del Huevo y ver con que IVs saldrá la cría, esto te puede ayudar a decidir si descartar o no el Huevo.
 
-![Puedes ver las estadísticas del Huevo antes de eclosionar](../../images/cobblemon/crianza/crianza5.png)
+![Puedes ver las estadísticas del Huevo antes de eclosionar](../../.gitbook/assets/crianza5.png)
 
 {% hint style="success" %}
 Puedes acelerar este proceso de eclosión si tienes en tu equipo un Pokémon con la habilidad **Cuerpo Llama**, **Escudo Magma** o **Combustible**.
 {% endhint %}
 
 ## 💎 Comandos de pago
+
 Los [Rangos Supremo, Astral y Titán de la Tienda Web](https://tienda.universopokenet.com/) tienen comandos útiles para la Crianza. No suponen una ventaja increíble debido al cooldown que estos comandos tienen, pero es una ayuda.
 
-- `/hatch <slot>`:
-  - Usa este comando para eclosionar de golpe un Huevo de tu equipo. En `<slot>` debes escribir el número del hueco del equipo donde está el Huevo.
-- `/breed <slot padre> <slot madre>`:
-  - Usa este comando para crear de golpe un Huevo. Deberás indicar en que huecos del equipo donde están el padre y la madre.
+* `/hatch <slot>`:
+  * Usa este comando para eclosionar de golpe un Huevo de tu equipo. En `<slot>` debes escribir el número del hueco del equipo donde está el Huevo.
+* `/breed <slot padre> <slot madre>`:
+  * Usa este comando para crear de golpe un Huevo. Deberás indicar en que huecos del equipo donde están el padre y la madre.
 
 ## 🎭 Herencia
 
@@ -170,7 +174,7 @@ Esto es un poco más fácil, basta con tener un macho ![macho](../../.gitbook/as
 * Solo aplica a Pokémon que compartan un [**Grupo de Huevos**](https://bulbapedia.bulbagarden.net/wiki/Egg_Group).
 * Los Grupos Huevo **Ditto** y **Undiscovered** no pueden criar por este método.
 
-En este método no es necesario tener una hembra 3x31 o más *(es más rápido sí, pero no es estrictamente necesario)*. Basta con tener una hembra del Pokémon que quieras criar y un macho 6x31 con un grupo huevo en común.
+En este método no es necesario tener una hembra 3x31 o más _(es más rápido sí, pero no es estrictamente necesario)_. Basta con tener una hembra del Pokémon que quieras criar y un macho 6x31 con un grupo huevo en común.
 
 * Equipar a la hembra el **Lazo Destino** para que la cría herede 5 IVs y al macho le equipamos un **Objeto Recio** de la estadística que te interese heredar a la cría o una **Piedra Eterna** si quieres pasar la naturaleza.
 * El punto aquí es ir obteniendo crías hembras con más IVs perfectos y cruzarlas con el macho perfecto hasta obtener crías 5x31 o 6x31.
