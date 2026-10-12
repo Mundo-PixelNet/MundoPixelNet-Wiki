@@ -10,3 +10,4 @@ En el Safari podrás encontrar una **gran variedad de zonas con sus respectivos 
 Puedes encontrar la lista actual en el siguiente Excel. Se actualizará a medida que cambien los spawns.
 
 {% embed url="https://docs.google.com/spreadsheets/d/16F08ielmckmdr1Nwy3jEzAaMh7-M2ykWiCufvYOVlhg/edit?usp=sharing" %}
+> *¡Gracias a JaviPuerto31 por recopilar la lista!*
