@@ -17,6 +17,7 @@
 ## FUNCIONES
 
 * [💥 Raids](cobblemon/raids/raids.md)
+* [☘️ Safari](cobblemon/safari/safari.md)
 * [💘 Crianza](cobblemon/crianza/crianza.md)
 
 ## POKÉMON
