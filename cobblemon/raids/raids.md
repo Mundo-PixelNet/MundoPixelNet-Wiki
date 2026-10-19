@@ -9,28 +9,37 @@ _Créditos a WikiDex_
 ![Lista de Pokémon en Tier 1](../../.gitbook/assets/tier1.png)
 {% endtab %}
 
-{% tab title="2 🔸🔸" %}
+{% tab title="2 🔸" %}
 ![Lista de Pokémon en Tier 2](../../.gitbook/assets/tier2.png)
 {% endtab %}
 
-{% tab title="3 🔸🔸🔸" %}
+{% tab title="3 🔸" %}
 ![Lista de Pokémon en Tier 3](../../.gitbook/assets/tier3.png)
 {% endtab %}
 
-{% tab title="4 🔸🔸🔸🔸" %}
+{% tab title="4 🔸" %}
 ![Lista de Pokémon en Tier 4](../../.gitbook/assets/tier4.png)
 {% endtab %}
 
-{% tab title="5 🔸🔸🔸🔸🔸" %}
-![Lista de Pokémon en Tier 5](../../.gitbook/assets/tier5.png)
+{% tab title="5 🔸" %}
+![Lista de Pokémon en Tier 5](../../images/raids/tier5_19102026.png)
 {% endtab %}
 
-{% tab title="6 🔸🔸🔸🔸🔸🔸" %}
-![Lista de Pokémon en Tier 6](../../.gitbook/assets/tier6.png)
+{% tab title="6 🔸" %}
+![Lista de Pokémon en Tier 6](../../images/raids/tier6_19102026.png)
 
 _Los Pokémon en rojo son Pokémon destacados temporalmente_
 {% endtab %}
 {% endtabs %}
+
+En esta sección se recopilan los cambios hechos a la lista de Pokémon en el tiempo.
+<details open>
+<summary>Cambios: 19/10/2026</summary>
+```diff
++ Hola
+- Hola
+```
+</details>
 
 ## 🎁 Recompensas
 
@@ -43,11 +52,11 @@ Completar una Raid haciendo daño al Jefe tiene recompensas, que varían mucho d
 | Tier           | Recompensas                                                        |
 | -------------- | ------------------------------------------------------------------ |
 | 1 🔸           | 200 XP de Pase • 2000₽ • 1 Token de Gatcha Raid • 200 Esencias     |
-| 2 🔸🔸         | 400 XP de Pase • 3500₽ • 1 Token de Gatcha Raid • 350 Esencias     |
-| 3 🔸🔸🔸       | 600 XP de Pase • 5000₽ • 2 Token de Gatcha Raid • 500 Esencias     |
-| 4 🔸🔸🔸🔸     | 800 XP de Pase • 7500₽ • 2 Token de Gatcha Raid • 750 Esencias     |
-| 5 🔸🔸🔸🔸🔸   | 1000 XP de Pase • 10.000₽ • 3 Token de Gatcha Raid • 900 Esencias  |
-| 6 🔸🔸🔸🔸🔸🔸 | 2000 XP de Pase • 15.000₽ • 5 Token de Gatcha Raid • 1000 Esencias |
+| 2 🔸         | 400 XP de Pase • 3500₽ • 1 Token de Gatcha Raid • 350 Esencias     |
+| 3 🔸       | 600 XP de Pase • 5000₽ • 2 Token de Gatcha Raid • 500 Esencias     |
+| 4 🔸     | 800 XP de Pase • 7500₽ • 2 Token de Gatcha Raid • 750 Esencias     |
+| 5 🔸   | 1000 XP de Pase • 10.000₽ • 3 Token de Gatcha Raid • 900 Esencias  |
+| 6 🔸 | 2000 XP de Pase • 15.000₽ • 5 Token de Gatcha Raid • 1000 Esencias |
 
 ***
 
@@ -56,11 +65,11 @@ Completar una Raid haciendo daño al Jefe tiene recompensas, que varían mucho d
 | Tier           | ![Gema](<../../.gitbook/assets/normal_gem (1).png>) Cantidad Gemas | ![Teralito](<../../.gitbook/assets/normal_tera_shard (1).png>) Cantidad Teralitos |
 | -------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
 | 1 🔸           | 1-2                                                                | 1-3                                                                               |
-| 2 🔸🔸         | 1-3                                                                | 1-5                                                                               |
-| 3 🔸🔸🔸       | 2-5                                                                | 3-6                                                                               |
-| 4 🔸🔸🔸🔸     | 2-8                                                                | 3-8                                                                               |
-| 5 🔸🔸🔸🔸🔸   | 5-10                                                               | 5-15                                                                              |
-| 6 🔸🔸🔸🔸🔸🔸 | 20                                                                 | 20                                                                                |
+| 2 🔸         | 1-3                                                                | 1-5                                                                               |
+| 3 🔸       | 2-5                                                                | 3-6                                                                               |
+| 4 🔸     | 2-8                                                                | 3-8                                                                               |
+| 5 🔸  | 5-10                                                               | 5-15                                                                              |
+| 6 🔸 | 20                                                                 | 20                                                                                |
 
 ***
 
@@ -69,11 +78,11 @@ Completar una Raid haciendo daño al Jefe tiene recompensas, que varían mucho d
 | Tier           | 🥇 Primero | 🥈 Segundo | 🥉 Tercero | Restante |
 | -------------- | ---------- | ---------- | ---------- | -------- |
 | 1 🔸           | 1          | 0          | 0          | 0        |
-| 2 🔸🔸         | 2          | 1          | 1          | 0        |
-| 3 🔸🔸🔸       | 3          | 2          | 1          | 1        |
-| 4 🔸🔸🔸🔸     | 4          | 3          | 2          | 1        |
-| 5 🔸🔸🔸🔸🔸   | 5          | 4          | 3          | 2        |
-| 6 🔸🔸🔸🔸🔸🔸 | 6          | 5          | 4          | 3        |
+| 2 🔸         | 2          | 1          | 1          | 0        |
+| 3 🔸       | 3          | 2          | 1          | 1        |
+| 4 🔸     | 4          | 3          | 2          | 1        |
+| 5 🔸   | 5          | 4          | 3          | 2        |
+| 6 🔸 | 6          | 5          | 4          | 3        |
 
 ***
 
@@ -92,7 +101,7 @@ De la siguiente tabla, recibirás 1-2 objetos diferentes.
 | **Caramelo Exp. S**   | 2-3      |
 {% endtab %}
 
-{% tab title="2 🔸🔸" %}
+{% tab title="2 🔸" %}
 De la siguiente tabla, recibirás 2-3 objetos diferentes.
 
 | Objeto                | Cantidad |
@@ -105,7 +114,7 @@ De la siguiente tabla, recibirás 2-3 objetos diferentes.
 | **Caramelo Exp. M**   | 2-3      |
 {% endtab %}
 
-{% tab title="3 🔸🔸🔸" %}
+{% tab title="3 🔸" %}
 De la siguiente tabla, recibirás 3-6 objetos diferentes.
 
 | Objeto                     | Cantidad |
@@ -125,7 +134,7 @@ De la siguiente tabla, recibirás 3-6 objetos diferentes.
 | **Semillas de menta cian** | 1-2      |
 {% endtab %}
 
-{% tab title="4 🔸🔸🔸🔸" %}
+{% tab title="4 🔸" %}
 De la siguiente tabla, recibirás 4-10 objetos diferentes.
 
 | Objeto                       | Cantidad |
@@ -152,7 +161,7 @@ De la siguiente tabla, recibirás 4-10 objetos diferentes.
 | **Cápsula habilidad**        | 1        |
 {% endtab %}
 
-{% tab title="5 🔸🔸🔸🔸🔸" %}
+{% tab title="5 🔸" %}
 De la siguiente tabla, recibirás 6-10 objetos diferentes.
 
 | Objeto                       | Cantidad |
@@ -184,7 +193,7 @@ De la siguiente tabla, recibirás 6-10 objetos diferentes.
 | **Caramelo IV Defensa**      | 4-6      |
 {% endtab %}
 
-{% tab title="6 🔸🔸🔸🔸🔸🔸" %}
+{% tab title="6 🔸" %}
 De la siguiente tabla, recibirás 8-12 objetos diferentes.
 
 | Objeto                       | Cantidad |
@@ -220,13 +229,13 @@ De la siguiente tabla, recibirás 8-12 objetos diferentes.
 {% endtab %}
 {% endtabs %}
 
-Y además, dependiendo del Tipo del Pokémon recibirás alguno de estos objetos, pero solo se aplica a partir de la Tier 3 🔸🔸🔸. Dependiendo del nivel, recibirás cierta cantidad de objetos diferentes de la lista.
+Y además, dependiendo del Tipo del Pokémon recibirás alguno de estos objetos, pero solo se aplica a partir de la Tier 4 🔸. Dependiendo del nivel, recibirás cierta cantidad de objetos diferentes de la lista.
 
 | Tier           | Cantidad |
 | -------------- | -------- |
-| 4 🔸🔸🔸🔸     | 1        |
-| 5 🔸🔸🔸🔸🔸   | 2        |
-| 6 🔸🔸🔸🔸🔸🔸 | 4        |
+| 4 🔸     | 1        |
+| 5 🔸   | 2        |
+| 6 🔸 | 4        |
 
 {% tabs %}
 {% tab title="Eléctrico" %}
