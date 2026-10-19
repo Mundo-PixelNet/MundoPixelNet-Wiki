@@ -121,6 +121,12 @@ En esta sección se recopilarán todos los cambios que se hagan a la lista de Po
 - Alcremie
 ```
 
+### Tier 4 🔸
+
+```diff
+- Ditto
+```
+
 </details>
 
 ## 🎁 Recompensas
