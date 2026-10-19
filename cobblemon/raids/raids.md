@@ -2,7 +2,7 @@
 
 ## 📃 Lista de Pokémon
 
-_Créditos a WikiDex_
+Dependiendo de la Tier, la lista de Pokémon que aparecen cambia. Todos tienen la misma probabilidad de salir, excepto los **Pokémon destacados**, que será algo menor.
 
 {% tabs %}
 {% tab title="1 🔸" %}
@@ -32,7 +32,7 @@ _Créditos a WikiDex_
 {% endtab %}
 {% endtabs %}
 
-En esta sección se recopilan los cambios hechos a la lista de Pokémon en el tiempo.
+En esta sección se recopilarán todos los cambios que se hagan a la lista de Pokémon.
 
 <details>
 
