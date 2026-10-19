@@ -33,12 +33,51 @@ _Los Pokémon en rojo son Pokémon destacados temporalmente_
 {% endtabs %}
 
 En esta sección se recopilan los cambios hechos a la lista de Pokémon en el tiempo.
-<details open>
+<details close>
 <summary>Cambios: 19/10/2026</summary>
-```diff
-+ Hola
-- Hola
-```
+## Tier 5 🔸
+> 🟢 **Añadidos**
+- Omastar
+- Kabutops
+- Cradily
+- Armaldo
+- Carracosta
+- Pangoro
+- Gourgeist
+- Kangaskhan
+- Miltank
+- Exploud
+- Sigilyph
+- Boltund
+- Ferrothorn
+- Scolipede
+- Beheeyem
+- Druddigon
+- Turtonator
+- Drampa
+- Runerigus
+- Heliolisk
+- Octillery
+- Lopunny
+- Darmanitan
+- Manectric
+- Garbodor
+- Xatu
+- Absol
+> 🔴 **Eliminados**
+- Delibird
+- Pinchurchin
+- Arboliva
+- Bombirdier
+- Brambleghast
+- Ninetales
+- Ambipom
+- Probopass
+- Yanmega
+- Porygon2
+- Porygon-Z
+- Minior
+- Alcremie
 </details>
 
 ## 🎁 Recompensas
