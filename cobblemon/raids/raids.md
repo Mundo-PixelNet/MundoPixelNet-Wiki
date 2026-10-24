@@ -36,6 +36,31 @@ En esta sección se recopilarán todos los cambios que se hagan a la lista de Po
 
 <details>
 
+<summary>Cambios: 24/10/2026</summary>
+
+### Tier 6 🔸
+
+```diff
+- Lickylicky
+- Alakazam
+- Blissey
+- Clawitzer
+- Dusknoir
+- Exeggutor Alola
+- Hippowdon
+- Kilowattrel
+- Ludicolo
+- Maushold
+- Overqwil
+- Probopass
+- Roserade
+- Starmie
+```
+
+</details>
+
+<details>
+
 <summary>Cambios: 19/10/2026</summary>
 
 ### Tier 6 🔸
