@@ -26,7 +26,7 @@ Dependiendo de la Tier, la lista de Pokémon que aparecen cambia. Todos tienen l
 {% endtab %}
 
 {% tab title="6 🔸" %}
-![Lista de Pokémon en Tier 6](../../.gitbook/assets/tier6_19102026.png)
+![Lista de Pokémon en Tier 6](../../images/raids/tier6_24102026.png)
 
 > _Los Pokémon <mark style="color:$danger;">en rojo</mark> son Pokémon destacados temporalmente. Su probabilidad es algo más baja al ser más especiales._
 {% endtab %}
